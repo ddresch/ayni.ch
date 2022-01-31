@@ -1,0 +1,13 @@
+h1.headline {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: normal;
+  font-size: 3em;
+  margin-left: -42px;
+}
+
+h1.headline span {
+  font-size: 0.85em;
+  font-style: italic;
+  display: block;
+  margin-left: 6%;
+}

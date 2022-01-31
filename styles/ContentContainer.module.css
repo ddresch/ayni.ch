@@ -1,0 +1,29 @@
+div.contentContainer {
+  position: relative;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+div.contentContainer p {
+  line-height: 25px;
+}
+
+div.quads1 {
+  width: 800px;
+  height: 915px;
+  padding: 70px 180px 20px 180px;
+  margin-top: 100px;
+}
+
+div.quads2 {
+  width: 785px;
+  height: 720px;
+  padding: 110px 150px 120px 180px;
+}
+
+div.quads3 {
+  width: 790px;
+  height: 725px;
+  padding: 50px 140px 70px 180px;
+  background-size: 100% !important;
+}

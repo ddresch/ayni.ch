@@ -1,0 +1,13 @@
+blockquote.quote {
+  background-image: url('./quote.svg');
+  font-size: 35px;
+  font-family: Georgia;
+  padding: 20px 30px;
+  margin: 0;
+  margin-left: 0px;
+  margin-left: 0px;
+  margin-left: -34px;
+  background-repeat: no-repeat;
+  background-size: 10%;
+  font-style: italic;
+}
