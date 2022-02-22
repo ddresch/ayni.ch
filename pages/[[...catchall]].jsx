@@ -1,15 +1,13 @@
 import Head from 'next/head'
 import * as React from 'react'
-import { PlasmicComponent, ComponentRenderData, PlasmicRootProvider } from '@plasmicapp/loader-nextjs'
-import { GetStaticPaths, GetStaticProps } from 'next'
+import { PlasmicComponent, PlasmicRootProvider } from '@plasmicapp/loader-nextjs'
 import Error from 'next/error'
 import { PLASMIC } from '../plasmic-init'
 import { useParallax } from 'react-scroll-parallax'
 import { Shape } from '../components/Shape'
 import { Header } from '../components/Header'
 import { Footer } from '../components/Footer'
-// import useMediaQuery from '../hooks/useMediaQuery'
-import useBreakpoints from '../hooks/useBreakpoints'
+
 /**
  * Use fetchPages() to fetch list of pages that have been created in Plasmic
  */
