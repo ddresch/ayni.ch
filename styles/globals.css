@@ -15,3 +15,34 @@ a {
 * {
   box-sizing: border-box;
 }
+
+@media screen and (max-width: 640px) {
+  .left-decor,
+  .right-decor {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1024px) {
+  .left-decor {
+    position: absolute;
+    margin-left: -80%;
+  }
+  .right-decor {
+    position: fixed;
+    right: -700px;
+    top: -50%;
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  .left-decor {
+    position: absolute;
+    margin-left: -20%;
+  }
+  .right-decor {
+    position: fixed;
+    right: -500px;
+    top: -90%;
+  }
+}

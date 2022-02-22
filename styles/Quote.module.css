@@ -3,11 +3,17 @@ blockquote.quote {
   font-size: 35px;
   font-family: Georgia;
   padding: 20px 30px;
-  margin: 0;
-  margin-left: 0px;
-  margin-left: 0px;
-  margin-left: -34px;
+  margin: 20px 0 0 -34px;
   background-repeat: no-repeat;
   background-size: 10%;
   font-style: italic;
+}
+
+@media screen and (max-width: 428px) {
+  blockquote.quote {
+    font-size: 25px;
+    padding: 20px 20px 0;
+    margin: 20px;
+    margin-left: 10px;
+  }
 }

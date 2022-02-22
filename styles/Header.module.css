@@ -23,6 +23,14 @@
   margin: 10px 0;
 }
 
+.navList li:hover {
+  cursor: pointer;
+}
+
+.navList li a:hover {
+  text-decoration: underline;
+}
+
 .navList li ul {
   padding: 0;
   margin: 0;
@@ -31,6 +39,14 @@
   display: none;
 }
 
+.navList li ul li {
+  font-size: 16px;
+}
+
 .navList li.selected ul {
   display: block;
+}
+
+a.selected {
+  font-weight: bold;
 }

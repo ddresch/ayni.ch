@@ -27,3 +27,21 @@ div.quads3 {
   padding: 50px 140px 70px 180px;
   background-size: 100% !important;
 }
+
+@media screen and (max-width: 375px) {
+  div.quads1 {
+    padding: 70px 230px 20px 230px;
+  }
+  div.quads2 {
+    padding: 120px 220px 120px 220px;
+  }
+}
+
+@media screen and (min-width: 376px) and (max-width: 640px) {
+  div.quads1 {
+    padding: 70px 225px 20px 230px;
+  }
+  div.quads2 {
+    padding: 110px 220px 120px 220px;
+  }
+}

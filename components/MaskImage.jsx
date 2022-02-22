@@ -44,7 +44,7 @@ export const MaskImage = ({ url, shapeType, maskPos, rightPos, topPos, width, ..
   }
   
   MaskImage.defaultProps = {
-    shapeType: 'quads',
+    shapeType: 'quads1',
     maskPos: '100%',
     rightPos: '-330px',
     topPos: '-200px',

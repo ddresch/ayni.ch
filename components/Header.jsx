@@ -1,5 +1,7 @@
 import React, {useState} from 'react';
 import PropTypes from 'prop-types';
+import Link from 'next/link'
+import { useRouter } from 'next/router'
 
 import styles from '../styles/Header.module.css'
 import { Squash as Hamburger } from 'hamburger-react'
@@ -8,8 +10,28 @@ import { Shape, getDataUri } from './Shape';
 
 export const Header = ({}) => {
   const [isOpen, setOpen] = useState(false)
+  const [selectedSubtree, setSubtree] = useState(null)
+  const router = useRouter()
 
   const navClass = isOpen ? styles.navOpen : styles.navClosed
+  
+  const isSlug = (slug) => {
+    console.log(router.query)
+    if(router.query && router.query.catchall) {
+      return router.query.catchall.join('/') === slug
+    }
+    return false
+  }
+
+  const NavLink = ({url, label}) => {
+    return (
+      <Link href={'/' + url} scroll={false}>
+        <a className={`${(isSlug(url)) ? styles.selected : ''}`} onClick={() => setOpen(!isOpen)}>
+          {label}
+        </a>
+      </Link>
+    )
+  }
 
   return (
     <header>        
@@ -26,22 +48,46 @@ export const Header = ({}) => {
           </div>
           {isOpen &&         
             <ul className={styles.navList}>
-              <li className={styles.selected}>Angebot
+              <li className={(selectedSubtree === 'Angebot') ? styles.selected : ''}
+                  onClick={() => setSubtree('Angebot')}>
+                Angebot
                 <ul className={styles.navList}>
-                  <li>ayni - wellbeing</li>
-                  <li>ayni - balance</li>
-                  <li>ayni - leadership</li>
-                  <li>ayni - corporate</li>
-                  <li>ayni - beratung</li>
+                  <li>
+                    <Link href="/angebot/wellbeing"><a>ayni - wellbeing</a></Link>
+                  </li>
+                  <li>
+                    <Link href="/angebot/balance"><a>ayni - balance</a></Link>
+                  </li>
+                  <li>
+                    <Link href="/angebot/leadership"><a>ayni - leadership</a></Link>
+                  </li>
+                  <li>
+                    <Link href="/angebot/corporate"><a>ayni - corporate</a></Link>
+                  </li>
+                  <li>
+                    <Link href="/angebot/beratung"><a>ayni - beratung</a></Link>
+                  </li>
                 </ul>
               </li>
-              <li>Informationen
+              <li className={(selectedSubtree === 'Informationen') ? styles.selected : ''}
+                  onClick={() => setSubtree('Informationen')}>
+                Informationen
                 <ul className={styles.navList}>
-                  <li>Ayurveda</li>
-                  <li>Leadership Circle Profile</li>
-                  <li>Coaching und psychologische Beratung</li>
-                  <li>Resilienz-, und Mentaltraining</li>
-                  <li>Testimonials</li>
+                  <li>
+                    <NavLink url="informationen/ayurveda" label="Ayurveda" />
+                  </li>
+                  <li>
+                    <NavLink url="informationen/leadership-circle-profile" label="Leadership Circle Profile" />
+                  </li>
+                  <li>
+                    <NavLink url="informationen/coaching-psychologische-beratung" label="Coaching und psychologische Beratung"/>
+                  </li>
+                  <li>
+                    <NavLink url="informationen/resilienz-mentaltraining" label="Resilienz-, und Mentaltraining"/>
+                  </li>
+                  <li>
+                    <NavLink url="informationen/testimonials" label="Testimonials"/>
+                  </li>
                 </ul>
               </li>
               <li>Ayni Prinzip

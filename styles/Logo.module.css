@@ -1,0 +1,16 @@
+div.logo {
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 35px;
+  width: 50%;
+  z-index: 20;
+  height: 150px;
+}
+
+@media screen and (max-width: 428px) {
+  div.logo {
+    height: 115px;
+    top: -10px;
+  }
+}
