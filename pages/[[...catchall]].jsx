@@ -1,12 +1,8 @@
-import Head from 'next/head'
 import * as React from 'react'
 import { PlasmicComponent, PlasmicRootProvider } from '@plasmicapp/loader-nextjs'
 import Error from 'next/error'
 import { PLASMIC } from '../plasmic-init'
-import { useParallax } from 'react-scroll-parallax'
-import { Shape } from '../components/Shape'
-import { Header } from '../components/Header'
-import { Footer } from '../components/Footer'
+import Layout from '../components/Layout'
 
 /**
  * Use fetchPages() to fetch list of pages that have been created in Plasmic
@@ -54,31 +50,13 @@ export default function CatchallPage(props) {
   }
   
   const pageMeta = plasmicData.entryCompMetas[0] 
-  const para1 = useParallax({ speed: -50 })
-  const para2 = useParallax({ speed: -60 })
 
   return (
     <PlasmicRootProvider loader={PLASMIC} prefetchedData={plasmicData}>
-        <Head>
-            <title>ayni.ch</title>
-            <meta name="description" content="Ayni Coaching" />
-            <link rel="icon" href="/favicon.ico" />
-        </Head>
-
-        <Header />
-        
-        <div className='left-decor' ref={para1.ref}>
-          <Shape shapeType={'quads2'} shiftedOutline={false} primaryColor={'#65A882'} secondaryColor={'#E6F1EB'} />
-        </div>
-
-        <div className='right-decor' ref={para2.ref}>
-          <Shape shapeType={'quads1'} shiftedOutline={false} primaryColor={'#65A882'} secondaryColor={'#E6F1EB'} />
-        </div>
-
         {/* Pass in the pageMeta as a prop */}
-        <PlasmicComponent component={pageMeta.name} />
-
-        <Footer />
+        <Layout>
+          <PlasmicComponent component={pageMeta.name} />
+        </Layout>
     </PlasmicRootProvider>
   );
 }

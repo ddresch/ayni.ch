@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import PropTypes from 'prop-types';
+import { AnimateSharedLayout, motion } from 'framer-motion'
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 
@@ -46,56 +46,60 @@ export const Header = ({}) => {
           <div style={{position: 'absolute', right: '40px', top: '25px'}}>
             <Hamburger duration={0.8} toggled={isOpen} toggle={setOpen} />
           </div>
-          {isOpen &&         
-            <ul className={styles.navList}>
-              <li className={(selectedSubtree === 'Angebot') ? styles.selected : ''}
-                  onClick={() => setSubtree('Angebot')}>
-                Angebot
-                <ul className={styles.navList}>
-                  <li>
-                    <Link href="/angebot/wellbeing"><a>ayni - wellbeing</a></Link>
-                  </li>
-                  <li>
-                    <Link href="/angebot/balance"><a>ayni - balance</a></Link>
-                  </li>
-                  <li>
-                    <Link href="/angebot/leadership"><a>ayni - leadership</a></Link>
-                  </li>
-                  <li>
-                    <Link href="/angebot/corporate"><a>ayni - corporate</a></Link>
-                  </li>
-                  <li>
-                    <Link href="/angebot/beratung"><a>ayni - beratung</a></Link>
-                  </li>
-                </ul>
-              </li>
-              <li className={(selectedSubtree === 'Informationen') ? styles.selected : ''}
-                  onClick={() => setSubtree('Informationen')}>
-                Informationen
-                <ul className={styles.navList}>
-                  <li>
-                    <NavLink url="informationen/ayurveda" label="Ayurveda" />
-                  </li>
-                  <li>
-                    <NavLink url="informationen/leadership-circle-profile" label="Leadership Circle Profile" />
-                  </li>
-                  <li>
-                    <NavLink url="informationen/coaching-psychologische-beratung" label="Coaching und psychologische Beratung"/>
-                  </li>
-                  <li>
-                    <NavLink url="informationen/resilienz-mentaltraining" label="Resilienz-, und Mentaltraining"/>
-                  </li>
-                  <li>
-                    <NavLink url="informationen/testimonials" label="Testimonials"/>
-                  </li>
-                </ul>
-              </li>
-              <li>Ayni Prinzip
+          {isOpen &&    
+            <AnimateSharedLayout>
+              <ul className={styles.navList}>
+                <li className={(selectedSubtree === 'Angebot') ? styles.selected : ''}
+                    onClick={() => setSubtree('Angebot')}>
+                  Angebot
+                  <ul className={styles.navList}>
+                    <li>
+                      <Link href="/angebot/wellbeing"><a>ayni - wellbeing</a></Link>
+                    </li>
+                    <li>
+                      <Link href="/angebot/balance"><a>ayni - balance</a></Link>
+                    </li>
+                    <li>
+                      <Link href="/angebot/leadership"><a>ayni - leadership</a></Link>
+                    </li>
+                    <li>
+                      <Link href="/angebot/corporate"><a>ayni - corporate</a></Link>
+                    </li>
+                    <li>
+                      <Link href="/angebot/beratung"><a>ayni - beratung</a></Link>
+                    </li>
+                  </ul>
+                </li>
+                <li className={(selectedSubtree === 'Informationen') ? styles.selected : ''}
+                    onClick={() => setSubtree('Informationen')}>
+                  Informationen
+                  <ul className={styles.navList}>
+                    <li>
+                      <NavLink url="informationen/ayurveda" label="Ayurveda" />
+                    </li>
+                    <li>
+                      <NavLink url="informationen/leadership-circle-profile" label="Leadership Circle Profile" />
+                    </li>
+                    <li>
+                      <NavLink url="informationen/coaching-psychologische-beratung" label="Coaching und psychologische Beratung"/>
+                    </li>
+                    <li>
+                      <NavLink url="informationen/resilienz-mentaltraining" label="Resilienz-, und Mentaltraining"/>
+                    </li>
+                    <li>
+                      <NavLink url="informationen/testimonials" label="Testimonials"/>
+                    </li>
+                  </ul>
+                </li>
+                <li>Ayni Prinzip
 
-              </li>
-              <li>Aktuelles</li>
-              <li>Kontakt</li>
-            </ul>
+                </li>
+                <li>Aktuelles</li>
+                <li>
+                  <NavLink url="contact" label="Kontakt" />
+                </li>
+              </ul>
+            </AnimateSharedLayout>
           }
         </div>
     </header>
