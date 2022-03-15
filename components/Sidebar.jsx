@@ -1,0 +1,117 @@
+import React, { useState, useEffect } from "react"
+import Link from 'next/link'
+import { useRouter } from 'next/router'
+import { AnimatePresence, motion } from "framer-motion"
+import { Squash as Hamburger } from 'hamburger-react'
+
+import { Shape, getDataUri } from './Shape';
+import styles from '../styles/Header.module.css'
+
+export const Sidebar = ({ sideBar = false, toggleSidebar = () => {} }) => {
+    const router = useRouter()
+    const [selectedSubtree, setSubtree] = useState(false)
+
+    const toggleSubtree = (subtree) => {
+        if (subtree === selectedSubtree) {
+            setSubtree(null)
+        } else {
+            setSubtree(subtree)
+        }
+    }
+
+    useEffect(() => {        
+        if(router.query && router.query.catchall) {            
+            if(router.query.catchall.length > 1) {
+                setSubtree(router.query.catchall[0])
+            }
+        }
+    }, [])
+
+    const NavLink = ({url, label}) => {
+        return (
+            <li>
+                <Link href={'/' + url} scroll={false}>
+                    <a  className={`${(isSlug(url)) ? styles.selected : ''}`} 
+                        onClick={() => {
+                            const parts = url.split('/')
+                            if(parts.length > 1) {
+                                console.log("parts",parts[0])
+                                setSubtree(parts[0])
+                            }                            
+                            toggleSidebar()
+                        }}>
+                        {label}
+                    </a>
+                </Link>
+            </li>
+        )
+    }
+
+    const SubNav = ({label, children}) => {
+        console.log('selectedSubtree', selectedSubtree)
+        return (
+            <li className={`${(selectedSubtree === label.toLowerCase()) ? styles.selected : ''}`}
+                onClick={() => toggleSubtree(label.toLowerCase())}>{label}    
+                <ul className={styles.navList}>
+                    {children}
+                </ul>
+            </li>
+        )
+    }
+
+    const isSlug = (slug) => {
+        if(router.query && router.query.catchall) {
+          return router.query.catchall.join('/') === slug
+        }
+        return false
+    }
+
+    return (
+        <>
+            <div style={{position: 'fixed', right: '40px', top: '25px', zIndex: 20}}>
+                <Hamburger duration={0.8} toggled={sideBar} toggle={toggleSidebar} />
+            </div>
+            <AnimatePresence>        
+                {sideBar && (
+                <>
+                    <motion.div
+                        initial={{ x: "100%" }}
+                        animate={{ x: 0 }}
+                        exit={{ x: "100%" }}
+                        transition={{ type: "spring", bounce: 0, duration: 0.4 }}
+                        style={{
+                            position: 'fixed', top: 0, right: 0, zIndex: 10,
+                            backgroundImage: getDataUri(<Shape shapeType="burger" shiftedOutline={false} primaryColor="white" secondaryColor="white" />),
+                            backgroundSize: 'contain',
+                            backgroundRepeat: 'no-repeat',
+                            filter: 'drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.4))',
+                            width: '410px',
+                            height: '555px',
+                        }}
+                    >                    
+                        <ul className={styles.navList}>
+                            <SubNav label="Angebot">
+                                <NavLink url="angebot/wellbeing" label="ayni - wellbeing" />
+                                <NavLink url="angebot/balance" label="ayni - balance" />
+                                <NavLink url="angebot/leadership" label="ayni - leadership" />
+                                <NavLink url="angebot/corporate" label="ayni - corporate" />
+                                <NavLink url="angebot/beratung" label="ayni - beratung" />
+                            </SubNav> 
+                            <SubNav label="Informationen">
+                                <NavLink url="informationen/ayurveda" label="Ayurveda" />
+                                <NavLink url="informationen/leadership-circle-profile" label="Leadership Circle Profile" />
+                                <NavLink url="informationen/coaching-psychologische-beratung" label="Coaching und psychologische Beratung"/>
+                                <NavLink url="informationen/resilienz-mentaltraining" label="Resilienz-, und Mentaltraining"/>
+                                <NavLink url="informationen/testimonials" label="Testimonials"/>
+                            </SubNav>                            
+                            <li>Ayni Prinzip</li>
+                            <li>Aktuelles</li>
+                            <NavLink url="contact" label="Kontakt" />
+                        </ul>
+                    </motion.div>                    
+                </>
+                )}
+            </AnimatePresence>
+        </>      
+    )
+  }

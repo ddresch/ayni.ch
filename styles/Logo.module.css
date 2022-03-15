@@ -8,6 +8,10 @@ div.logo {
   height: 150px;
 }
 
+div.logo:hover {
+  cursor: pointer;
+}
+
 @media screen and (max-width: 428px) {
   div.logo {
     height: 115px;
