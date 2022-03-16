@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react"
+import React, { useState, useEffect, useRef } from "react"
 import Link from 'next/link'
 import { useRouter } from 'next/router'
 import { AnimatePresence, motion } from "framer-motion"
@@ -7,9 +7,14 @@ import { Squash as Hamburger } from 'hamburger-react'
 import { Shape, getDataUri } from './Shape';
 import styles from '../styles/Header.module.css'
 
-export const Sidebar = ({ sideBar = false, toggleSidebar = () => {} }) => {
+export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
     const router = useRouter()
     const [selectedSubtree, setSubtree] = useState(false)
+    const sidebarRef = useRef(null)
+    
+    // Close the sidebar if the user clicks outside of it
+    const sideBarStateRef = useRef()
+    sideBarStateRef.current = sideBar
 
     const toggleSubtree = (subtree) => {
         if (subtree === selectedSubtree) {
@@ -26,6 +31,21 @@ export const Sidebar = ({ sideBar = false, toggleSidebar = () => {} }) => {
             }
         }
     }, [])
+
+    useEffect(() => {
+        const handleClickOutside = (event) => {
+            if (sidebarRef.current && !sidebarRef.current.contains(event.target)) {
+                if(sideBarStateRef.current) {
+                    console.log('clicked outside', sideBarStateRef.current)
+                    toggleSidebar()
+                }
+            }
+        }
+        document.addEventListener("mousedown", handleClickOutside);
+        return () => {
+          document.removeEventListener("mousedown", handleClickOutside);
+        }
+    }, [sidebarRef])
 
     const NavLink = ({url, label}) => {
         return (
@@ -67,13 +87,12 @@ export const Sidebar = ({ sideBar = false, toggleSidebar = () => {} }) => {
     }
 
     return (
-        <>
+        <div ref={sidebarRef}>
             <div style={{position: 'fixed', right: '40px', top: '25px', zIndex: 20}}>
                 <Hamburger duration={0.8} toggled={sideBar} toggle={toggleSidebar} />
             </div>
-            <AnimatePresence>        
+            <AnimatePresence>
                 {sideBar && (
-                <>
                     <motion.div
                         initial={{ x: "100%" }}
                         animate={{ x: 0 }}
@@ -88,7 +107,7 @@ export const Sidebar = ({ sideBar = false, toggleSidebar = () => {} }) => {
                             width: '410px',
                             height: '555px',
                         }}
-                    >                    
+                    >
                         <ul className={styles.navList}>
                             <SubNav label="Angebot">
                                 <NavLink url="angebot/wellbeing" label="ayni - wellbeing" />
@@ -96,22 +115,21 @@ export const Sidebar = ({ sideBar = false, toggleSidebar = () => {} }) => {
                                 <NavLink url="angebot/leadership" label="ayni - leadership" />
                                 <NavLink url="angebot/corporate" label="ayni - corporate" />
                                 <NavLink url="angebot/beratung" label="ayni - beratung" />
-                            </SubNav> 
+                            </SubNav>
                             <SubNav label="Informationen">
                                 <NavLink url="informationen/ayurveda" label="Ayurveda" />
                                 <NavLink url="informationen/leadership-circle-profile" label="Leadership Circle Profile" />
                                 <NavLink url="informationen/coaching-psychologische-beratung" label="Coaching und psychologische Beratung"/>
                                 <NavLink url="informationen/resilienz-mentaltraining" label="Resilienz-, und Mentaltraining"/>
                                 <NavLink url="informationen/testimonials" label="Testimonials"/>
-                            </SubNav>                            
+                            </SubNav>
                             <li>Ayni Prinzip</li>
                             <li>Aktuelles</li>
                             <NavLink url="contact" label="Kontakt" />
                         </ul>
-                    </motion.div>                    
-                </>
+                    </motion.div>
                 )}
             </AnimatePresence>
-        </>      
+        </div>      
     )
   }
