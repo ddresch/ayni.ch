@@ -78,27 +78,15 @@ img.content-img-right {
 }  
 
 .address-map-link {
-  display: flex;
+  border-left: 3px solid #ccd5ae;
   padding: 2%;
-  border: 1px solid #ccd5ae;
-  border-radius: 14px;
-  max-height: 150px;
+  display: block;
+  line-height: 1.5em;
+  font-size: 1.1em;
 }
 
-.address-map-link p {
-  width: 50%;
-}
-
-.address-map-link a {
-  border-left: 1px solid #ccd5ae;
-  padding: 5%;
-  display: flex;
-  justify-content: flex-end;
-  width: 50%;
-}
-
-.address-map-link img {
-  width: 100%;
+.address-map-link:hover {
+  text-decoration: underline;
 }
 
 @media screen and (min-width: 375px) {
