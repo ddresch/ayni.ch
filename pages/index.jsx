@@ -16,11 +16,11 @@ export default function LandingPage(props) {
             </p>
             <p>
                 <img src="portrait-wall.png" className='content-img-right' alt="Portrait Silvia Ferlito" />
-                Das Wort ayni kommt aus den Anden und bedeutet auf Quechua Schenken. Damit wird die gegenseitige Hilfe der Mitglieder einer Gemeinschaft beschrieben. Ayni bezeichnet somit die Gegenseitigkeit und Wechselbeziehung zwischen dem Innen und den Aussen, dem Nehmen und Geben.
+                Das Wort ayni kommt aus den Anden und bedeutet auf Quechua Schenken. Damit wird die gegenseitige Hilfe der Mitglieder einer Gemeinschaft beschrieben. Ayni bezeichnet somit die Gegenseitigkeit und Wechselbeziehung zwischen dem Innen und Aussen, dem Nehmen und Geben.
             </p>
             <Quote text="Gib Dir zurück damit Du anderen geben kannst."/>
             <p>                
-                Durch dieses universelle Gesetz von Gleichgewicht im Universum, dem ständigen Austausch zwischen Mensch, Natur und Universum auch auf energetischer Ebene ist das eine im anderen vorhanden. 
+                Durch dieses universelle Gesetz von Gleichgewicht im Universum, dem ständigen Austausch zwischen Mensch, Natur und Universum auch auf energetischer Ebene ist das eine im Anderen vorhanden. 
             </p>
             <p>
                 So verhält sich es auch im Ayurveda. Das Universum als Makrokosmos und der Mensch als Mikrokosmos widerspiegeln sich in einem direkten Zusammenhang und stehen in Wechselbeziehung zu sich. 
