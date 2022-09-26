@@ -5,7 +5,7 @@ import { ContentContainer } from '../components/ContentContainer'
 import { Headline } from '../components/Headline'
 import Layout from '../components/Layout'
 
-export default function LandingPage(props) {
+export default function ContactPage(props) {
   return (
     <Layout>
         <div className='main-container'>
