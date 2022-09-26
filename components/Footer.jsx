@@ -10,14 +10,16 @@ export const Footer = ({ ...props }) => {
             style={{background: getDataUri(<Shape shapeType='footer' shiftedOutline={false} primaryColor='#ffffff' secondaryColor='#ffffff' />)}}>
         <ul className={styles.footerNav}>
           <li>
+            <Link href="ueber-mich">
+              <a className={[styles.link, styles.linkMetis].join(' ')}>&Uuml;ber mich</a>
+            </Link>
+          </li>
+          <li>
             <Link href="kontakt">
               <a className={[styles.link, styles.linkMetis].join(' ')}>Kontakt</a>              
             </Link>
-          </li>
+          </li>          
           {/* <li>
-            <a href="#" className={[styles.link, styles.linkMetis].join(' ')}>AGB</a>
-          </li>
-          <li>
             <a href="" className={[styles.link, styles.linkMetis].join(' ')}>Datenschutz</a>
           </li> */}
         </ul>

@@ -126,6 +126,7 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
                             <li>Ayni Prinzip</li>
                             <li>Aktuelles</li> */}
                             <NavLink url="/" label="Start" />
+                            <NavLink url="ueber-mich" label="Über mich" />
                             <NavLink url="kontakt" label="Kontakt" />
                         </ul>
                     </motion.div>
