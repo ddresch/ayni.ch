@@ -23,11 +23,11 @@ function AppLayout({ Component, pageProps, router }) {
       <Header />
       
       <div className='left-decor' ref={para1.ref}>
-        <Shape shapeType={'quads2'} shiftedOutline={false} primaryColor={'#65A882'} secondaryColor={'#E6F1EB'} />
+        <Shape shapeType={'quads2'} shiftedOutline={false} primaryColor={'#ccd5ae'} secondaryColor={'#ccd5ae'} />
       </div>
 
       <div className='right-decor' ref={para2.ref}>
-        <Shape shapeType={'quads1'} shiftedOutline={false} primaryColor={'#65A882'} secondaryColor={'#E6F1EB'} />
+        <Shape shapeType={'quads1'} shiftedOutline={false} primaryColor={'#ccd5ae'} secondaryColor={'#ccd5ae'} />
       </div>
 
       <AnimatePresence
