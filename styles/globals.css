@@ -77,6 +77,30 @@ img.content-img-right {
   top: -50%;  
 }  
 
+.address-map-link {
+  display: flex;
+  padding: 2%;
+  border: 1px solid #ccd5ae;
+  border-radius: 14px;
+  max-height: 150px;
+}
+
+.address-map-link p {
+  width: 50%;
+}
+
+.address-map-link a {
+  border-left: 1px solid #ccd5ae;
+  padding: 5%;
+  display: flex;
+  justify-content: flex-end;
+  width: 50%;
+}
+
+.address-map-link img {
+  width: 100%;
+}
+
 @media screen and (min-width: 375px) {
   .left-decor {
     margin-left: -170%;
