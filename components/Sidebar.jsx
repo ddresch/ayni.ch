@@ -109,7 +109,7 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
                         }}
                     >
                         <ul className={styles.navList}>
-                            <SubNav label="Angebot">
+                            {/* <SubNav label="Angebot">
                                 <NavLink url="angebot/wellbeing" label="ayni - wellbeing" />
                                 <NavLink url="angebot/balance" label="ayni - balance" />
                                 <NavLink url="angebot/leadership" label="ayni - leadership" />
@@ -124,8 +124,9 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
                                 <NavLink url="informationen/testimonials" label="Testimonials"/>
                             </SubNav>
                             <li>Ayni Prinzip</li>
-                            <li>Aktuelles</li>
-                            <NavLink url="contact" label="Kontakt" />
+                            <li>Aktuelles</li> */}
+                            <NavLink url="/" label="Start" />
+                            <NavLink url="kontakt" label="Kontakt" />
                         </ul>
                     </motion.div>
                 )}
