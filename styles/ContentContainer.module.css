@@ -1,7 +1,7 @@
 div.contentContainer {
   position: relative;
-  background-size: contain;
-  background-repeat: no-repeat;
+  background-size: cover !important;
+  background-position: center !important;
 }
 
 div.contentContainer p {
@@ -9,10 +9,8 @@ div.contentContainer p {
 }
 
 div.quads1 {
-  width: 800px;
-  height: 915px;
-  padding: 70px 180px 20px 180px;
-  margin-top: 100px;
+  width: 100%;
+  padding: 15% 10% 25% 5%;  
 }
 
 div.quads2 {
@@ -28,20 +26,20 @@ div.quads3 {
   background-size: 100% !important;
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (min-width: 768px) {
   div.quads1 {
-    padding: 70px 230px 20px 230px;
-  }
-  div.quads2 {
-    padding: 120px 220px 120px 220px;
+    padding: 15% 25% 25% 25%;
   }
 }
 
-@media screen and (min-width: 376px) and (max-width: 640px) {
+@media screen and (min-width: 1024px) {
   div.quads1 {
-    padding: 70px 225px 20px 230px;
+    margin: auto;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
   }
-  div.quads2 {
-    padding: 110px 220px 120px 220px;
-  }
+}
+
+@media screen and (min-width: 1440px) {
+  
 }
