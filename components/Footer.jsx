@@ -1,6 +1,7 @@
 import React from 'react'
 import { Shape, getDataUri } from './Shape'
 import styles from '../styles/Footer.module.css'
+import Link from 'next/link'
 
 export const Footer = ({ ...props }) => {
   return (
@@ -9,7 +10,9 @@ export const Footer = ({ ...props }) => {
             style={{background: getDataUri(<Shape shapeType='footer' shiftedOutline={false} primaryColor='#ffffff' secondaryColor='#ffffff' />)}}>
         <ul className={styles.footerNav}>
           <li>
-            <a href="/kontakt" className={[styles.link, styles.linkMetis].join(' ')}>Kontakt</a>              
+            <Link href="kontakt">
+              <a className={[styles.link, styles.linkMetis].join(' ')}>Kontakt</a>              
+            </Link>
           </li>
           {/* <li>
             <a href="#" className={[styles.link, styles.linkMetis].join(' ')}>AGB</a>
