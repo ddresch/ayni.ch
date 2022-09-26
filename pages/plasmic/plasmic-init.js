@@ -1,8 +1,8 @@
 import { initPlasmicLoader } from "@plasmicapp/loader-nextjs";
-import { ContentContainer } from './components/ContentContainer';
-import { Headline } from './components/Headline';
-import { Quote } from './components/Quote';
-import { MaskImage } from './components/MaskImage';
+import { ContentContainer } from '../../components/ContentContainer';
+import { Headline } from '../../components/Headline';
+import { Quote } from '../../components/Quote';
+import { MaskImage } from '../../components/MaskImage';
 
 export const PLASMIC = initPlasmicLoader({
   projects: [

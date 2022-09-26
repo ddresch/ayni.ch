@@ -6,7 +6,7 @@ import {
     PlasmicComponent,
     ComponentRenderData
   } from '@plasmicapp/loader-nextjs';
-  import { PLASMIC } from '../plasmic-init';
+  import { PLASMIC } from './plasmic-init';
   
   // Statically fetch the data needed to render Plasmic pages or components.
   export const getStaticProps = async () => {
