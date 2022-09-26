@@ -35,6 +35,16 @@ input:focus, textarea:focus, select:focus {
   box-shadow: 1px 1px 16px rgb(0 0 0 / 15%);
 }
 
+ul {
+  list-style-image: url('bullet.svg');
+  padding: 13px;
+}
+
+ul li {
+  margin: 0;
+  padding: 1%;
+}
+
 option {
   color: black;
 }
@@ -58,9 +68,10 @@ label {
   padding-top: 30%;
 }
 
-img.content-img-right {
+img.content-img-right, img.content-img-left {
   width: 100%;
   float: none;
+  shape-margin: 20px;  
 }
 
 .left-decor, .right-decor {
@@ -133,6 +144,11 @@ img.content-img-right {
     width: 60%;
     float: right;
   }
+  img.content-img-left {
+    width: 60%;
+    float: left;
+    margin-left: 20px;
+  }
 }
 
 @media screen and (min-width: 1440px) {
@@ -143,8 +159,5 @@ img.content-img-right {
   .right-decor {
     right: -40%;
     top: -250px;
-  }
-  img.content-img-right {
-    width: 60%;
   }
 }

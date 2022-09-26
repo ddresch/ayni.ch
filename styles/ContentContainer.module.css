@@ -14,9 +14,8 @@ div.quads1 {
 }
 
 div.quads2 {
-  width: 785px;
-  height: 720px;
-  padding: 110px 150px 120px 180px;
+  width: 100%;
+  padding: 8% 5% 35% 5%; 
 }
 
 div.quads3 {
@@ -30,13 +29,19 @@ div.quads3 {
   div.quads1 {
     padding: 15% 25% 25% 25%;
   }
+  div.quads2 {
+    padding: 11% 25% 15% 25%; 
+  }
 }
 
 @media screen and (min-width: 1024px) {
-  div.quads1 {
+  div.quads1, div.quads2, div.quads3 {
     margin: auto;
     background-size: contain !important;
     background-repeat: no-repeat !important;
+  }
+  div.quads2 {
+    background-position: 25% !important;
   }
 }
 
