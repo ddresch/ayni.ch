@@ -40,7 +40,7 @@ export default function ContactForm() {
             <input type={'text'} placeholder={'E-Mail'} {...register("mail", {required: true, pattern: /^\S+@\S+$/i})}  />
             <label>Anliegen</label>
             <select {...register("request", {required: true})} >
-                <option value="k.a.">Bitte ausw&auml;hlen</option>
+                <option value="">Bitte ausw&auml;hlen</option>
                 <option value="Ayurveda Ernaehrungsberatung">Ayurveda Ern&auml;hrungsberatung</option>
                 <option value="Ayurveda Massage">Ayurveda Massage</option>
                 <option value="Psychologische Beratung">Psychologische Beratung</option>
@@ -52,7 +52,7 @@ export default function ContactForm() {
             {isValid && 
                 <input className='form-submit'
                     type='submit'
-                    value='Absenden'
+                    value='absenden'
                 />
             }
 
