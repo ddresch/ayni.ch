@@ -18,9 +18,17 @@ export default function ContactPage(props) {
                     Nonnenweg 51<br />
                     4055 Basel<br />
                     <img src="pin.svg" alt="Location Pin Icon" style={{
-                        width: '1.1em', float: 'left', display: 'inline-block', paddingTop: '0.3em', marginRight: '0.2em'
+                        width: '1.5em', float: 'left', display: 'inline-block', paddingTop: '0.1em', marginRight: '0.2em'
                     }}/>
                     mit google maps aufrufen
+                </a>
+            </Link>
+            <Link href="tel:+41794500000" className="address-map-link" style={{marginTop: '3px'}}>
+                <a target="_blank" rel="noreferrer" className="address-map-link">
+                    <img src="phone.svg" alt="Phone Icon" style={{
+                        width: '1.5em', float: 'left', display: 'inline-block', marginRight: '0.2em'
+                    }}/>
+                    +41 79 618 47 14
                 </a>
             </Link>        
         </div>
