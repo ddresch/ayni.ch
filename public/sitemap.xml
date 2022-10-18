@@ -1,0 +1,14 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://ayni.ch</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/kontakt</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/ueber-mich</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+</urlset>
