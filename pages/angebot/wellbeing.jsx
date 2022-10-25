@@ -40,14 +40,14 @@ export default function Page(props) {
         </ContentContainer>   
         <div className='main-container'>
             <h2>Ablauf</h2>
-            <p>In einem ersten Gespräch wird eine umfassende Befunderhebung durchgeführt. Basierend auf der individuellen Situation und Themen auf körperlicher, mentaler und emotionaler wird der Therapieplan erstellt. Im Laufe des Behandlungszyklus wirken die positiven Änderungen im Innen wie im Aussen und verankern sich so in der Routine im Alltag.</p>
+            <p>In einem ersten Gespräch wird eine umfassende Befunderhebung durchgeführt. Basierend auf der individuellen Situation und Themen auf körperlicher, mentaler und emotionaler Ebene wird der Therapieplan erstellt. Im Laufe des Behandlungszyklus wirken die positiven Änderungen im Innen wie im Aussen und verankern sich so in der Routine im Alltag.</p>
             <div className='spacer-md'></div>
             <h2>Dauer &amp; Kosten</h2>
             <ul>
                 <li>Erstgespräch Befunderhebung 90 Minuten</li>
                 <li>Therapieplan und Debrief 60 bis 75 Minuten</li>
                 <li>Therapiesitzung je nach Behandlung und Bedarf 45 bis 90 Minuten</li>
-                <li>Vor jeder Therapiesitzung geht ein kurzer Check-In voran.</li>
+                <li>Jeder Therapiesitzung geht ein kurzer Check-In voran</li>
                 <li>Stundensatz <i>150 CHF</i> bis <i>180 CHF</i> je nach Behandlungsform / Materialeinsatz</li>
             </ul>
         </div>

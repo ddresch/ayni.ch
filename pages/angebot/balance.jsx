@@ -46,7 +46,7 @@ export default function Page(props) {
             <ul>
                 <li>Erstgespräch Thema Zieldefinition / Befunderhebung 90 Minuten</li>
                 <li>Coaching / Beratungssitzung je nach Thema / Bereich und Bedarf 60 bis 120 Minuten</li>
-                <li>Vor jeder Therapiesitzung geht ein kurzer Check-in voran</li>
+                <li>Jeder Therapiesitzung geht ein kurzer Check-in voran</li>
                 <li>Stundensatz <i>150 CHF</i> bis <i>180 CHF</i> je nach Behandlungsform / Materialeinsatz</li>
             </ul>
         </div>

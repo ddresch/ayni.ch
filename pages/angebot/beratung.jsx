@@ -28,7 +28,7 @@ export default function Page(props) {
             <ul>
                 <li>Ressourcen, Coaching, Trauerarbeit und -Begleitung</li>
                 <li>Achtsamkeitstraining, Eigenwahrnehmung</li>
-                <li>Geistiges Gleichgewicht (Tri-Vargas Coaching: Auflösung der 3-er Matrix von Handlungen/Purpose, Wohlstand und Wünschen)</li>
+                <li>Geistiges Gleichgewicht (Tri-Vargas Coaching)</li>
                 <li>Identifikation von Hinderungsfaktoren, Verankerung hilfreicher<br/>Verhaltens- und Glaubensmuster</li>
                 <li>Arbeit mit dem inneren Kritiker<br/> und Aufstellungsarbeit</li>
             </ul>            
@@ -41,7 +41,6 @@ export default function Page(props) {
             <ul>
                 <li>Erstgespräch Thema Zieldefinition 90 Minuten</li>
                 <li>Coaching / Beratungssitzung je nach Thema / Bereich und Bedarf 60 bis 120 Minuten</li>
-                <li>Vor jeder Therapiesitzung geht ein kurzer Check-in voran</li>
                 <li>Stundensatz <i>150 CHF</i> bis <i>180 CHF</i> je nach Behandlungsform / Materialeinsatz</li>
             </ul>
         </div>
