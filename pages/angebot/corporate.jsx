@@ -19,7 +19,7 @@ export default function Page(props) {
             <p><i>ayni corporate</i> ist für dich, wenn</p>
             <ul>
                 <li>du Organisationsänderungen aktiv und positiv für alle Beteiligten in Angriff nehmen willst</li>
-                <li>du einen Kulturwandel und Geistesveränderung erreichen willst</li>
+                <li>du einen Kulturwandel und Mindshift erreichen willst</li>
                 <li>du Resilienz, Gesundheit und Freude als Ziel für Deine Mitarbeiter und Organisation siehst</li>
             </ul>            
         </div>
