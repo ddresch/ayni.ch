@@ -1,3 +1,4 @@
+import Link from 'next/link'
 import * as React from 'react'
 import ContactForm from '../components/ContactForm'
 import { ContentContainer } from '../components/ContentContainer'
@@ -31,7 +32,48 @@ export default function LandingPage(props) {
             <p>
                 Mit meiner Arbeit verbinde ich generelle Lebensthemen, persönliches Wachstum, Leadership Entwicklung, Ernährung, Lifestyle und Wellbeing und biete eine gezielte individuelle Begleitung an.
             </p>
+
+            <div className='spacer-md'></div>
+            <Headline line1="Mein Angebot umfasst" line2="" />            
+            <ul>
+                <li>
+                    <b>ayni wellbeing:</b>&nbsp;
+                    Individuelle Ayurveda Ernährungs-, Gesundheitsberatung und Massagetherapie für ein gesundes und energievolles Leben
+                    <Link href="angebot/wellbeing">
+                        <a className='more-link'>mehr erfahren</a>
+                    </Link>
+                </li>
+                <li>
+                    <b>ayni balance:</b>&nbsp; 
+                    Ganzheitliche Lösungswege für stressbedingte Beschwerden, Burnout, Resilienz und Mentaltraining
+                    <Link href="angebot/balance">
+                        <a className='more-link'>mehr erfahren</a>
+                    </Link>
+                </li>
+                <li>
+                    <b>ayni beratung:</b>&nbsp; 
+                    Coaching, Mentaltraining und Psychologische Beratung des Ayurveda lebendig, praxisnah und alltagsgerecht
+                    <Link href="angebot/beratung">
+                        <a className='more-link'>mehr erfahren</a>
+                    </Link>
+                </li>
+                <li>
+                    <b>ayni leadership:</b>&nbsp; 
+                    Unterstützung bei Persönlichkeits-, Karriereentwicklung mit der LCP 360 Grad Bewertung und bei der Bewältgung von Lebenskrisen
+                    <Link href="angebot/leadership">
+                        <a className='more-link'>mehr erfahren</a>
+                    </Link>
+                </li>
+                <li>
+                    <b>ayni corporate:</b>&nbsp; 
+                    Ganzheitliche Lösungswege für ein Nachhaltiges Corporate &amp; Employee Wellbeing
+                    <Link href="angebot/corporate">
+                        <a className='more-link'>mehr erfahren</a>
+                    </Link>
+                </li>
+            </ul>            
         </div>
+
         <ContentContainer primaryColor={'#faedcd'}>
             <Headline line1="Termin anfragen" line2="zeit f&uuml;r dich" />
             <p>Du m&ouml;chtest einen Termin anfragen? Einfach das untere Formular ausf&uuml;llen und ich melde mich direkt bei Dir!</p>            

@@ -8,7 +8,51 @@
     <changefreq>hourly</changefreq>
   </url>
   <url>
+    <loc>https://ayni.ch/testimonials</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
     <loc>https://ayni.ch/ueber-mich</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/balance</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/beratung</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/corporate</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/leadership</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/wellbeing</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/ayurveda-massagen</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/ayurveda</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/coaching-psychologische-beratung</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/leadership-circle-profile</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/resilienz-mentaltraining</loc>
     <changefreq>hourly</changefreq>
   </url>
 </urlset>

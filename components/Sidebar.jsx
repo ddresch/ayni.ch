@@ -104,29 +104,28 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
                             backgroundSize: 'contain',
                             backgroundRepeat: 'no-repeat',
                             filter: 'drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.4))',
-                            width: '410px',
-                            height: '555px',
+                            width: '530px',
+                            height: '720px',
                         }}
                     >
                         <ul className={styles.navList}>
-                            {/* <SubNav label="Angebot">
+                            <NavLink url="/" label="Willkommen" />
+                            <NavLink url="ueber-mich" label="Über mich" />
+                            <SubNav label="Angebot">
                                 <NavLink url="angebot/wellbeing" label="ayni - wellbeing" />
                                 <NavLink url="angebot/balance" label="ayni - balance" />
-                                <NavLink url="angebot/leadership" label="ayni - leadership" />
-                                <NavLink url="angebot/corporate" label="ayni - corporate" />
                                 <NavLink url="angebot/beratung" label="ayni - beratung" />
+                                <NavLink url="angebot/leadership" label="ayni - leadership" />
+                                <NavLink url="angebot/corporate" label="ayni - corporate" />                                
                             </SubNav>
                             <SubNav label="Informationen">
                                 <NavLink url="informationen/ayurveda" label="Ayurveda" />
                                 <NavLink url="informationen/leadership-circle-profile" label="Leadership Circle Profile" />
                                 <NavLink url="informationen/coaching-psychologische-beratung" label="Coaching und psychologische Beratung"/>
                                 <NavLink url="informationen/resilienz-mentaltraining" label="Resilienz-, und Mentaltraining"/>
-                                <NavLink url="informationen/testimonials" label="Testimonials"/>
+                                {/* <NavLink url="informationen/corporate-wellbeing" label="Corporate Wellbeing"/> */}
                             </SubNav>
-                            <li>Ayni Prinzip</li>
-                            <li>Aktuelles</li> */}
-                            <NavLink url="/" label="Start" />
-                            <NavLink url="ueber-mich" label="Über mich" />
+                            <NavLink url="testimonials" label="Testimonials" />
                             <NavLink url="kontakt" label="Kontakt" />
                         </ul>
                     </motion.div>

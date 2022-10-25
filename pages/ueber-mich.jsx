@@ -24,21 +24,19 @@ export default function LandingPage(props) {
         </div>
         <ContentContainer shapeType={'quads2'} primaryColor={'#faedcd'}>
             <Headline line1="Meine Ausbildungen" line2="im leben lernt man nie aus" />
-            <p>
-                <ul>
-                    <li>Ayurveda Kompementärtherapeutin i.A.</li>
-                    <li>Diplom Ayurveda Ernährungs- und Massage Therapeutin </li>
-                    <li>Zert. Ayurveda Ernährungs und Gesundheitberaterin </li>
-                    <li>Zert. Psychologische Ayurveda Beraterin</li>
-                    <li>SVEB 1 Erwachsenenbildnerin</li>
-                    <li>CAS Dipl. Stress-, Resilienz-, Mental Coach </li>
-                    <li>CAS Dipl. Mental Trainerin</li>
-                    <li>CAS Intergal Coach</li>
-                    <li>CAS General Management </li>
-                    <li>CAS Strategisches Leadership</li>
-                    <li>Dipl. Betriebswirtin (Bachelor of Arts)</li>
-                </ul>
-            </p>
+            <ul>
+                <li>Ayurveda Kompementärtherapeutin i.A.</li>
+                <li>Diplom Ayurveda Ernährungs- und Massage Therapeutin </li>
+                <li>Zert. Ayurveda Ernährungs und Gesundheitberaterin </li>
+                <li>Zert. Psychologische Ayurveda Beraterin</li>
+                <li>SVEB 1 Erwachsenenbildnerin</li>
+                <li>CAS Dipl. Stress-, Resilienz-, Mental Coach </li>
+                <li>CAS Dipl. Mental Trainerin</li>
+                <li>CAS Intergal Coach</li>
+                <li>CAS General Management </li>
+                <li>CAS Strategisches Leadership</li>
+                <li>Dipl. Betriebswirtin (Bachelor of Arts)</li>
+            </ul>
         </ContentContainer>   
         <div className='spacer-top'></div>
     </Layout>
