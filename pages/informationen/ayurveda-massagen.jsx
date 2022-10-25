@@ -37,10 +37,6 @@ export default function Page(props) {
             <li><b>Basti</b><br/>die lokalen Ölanwendung auf Gelenken und Rücken sorgen für Nährung und Entspannung</li>
             <li><b>Upanasveda</b><br/>diese Tiefengewebe-Marmamassage auf dem Rücken wirkt besonders lösend durch spezifische Öle, Kräuter und Wärme Anwendung</li>
         </ul>
-        <div className='spacer-md'></div>
-        <Link href='/kontakt'>
-          <a className=''>Massage Buchen</a>
-        </Link>
       </div>
       <div className='spacer-top'></div>
     </Layout>
