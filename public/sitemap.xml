@@ -48,6 +48,10 @@
     <changefreq>hourly</changefreq>
   </url>
   <url>
+    <loc>https://ayni.ch/informationen/corporate-wellbeing</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
     <loc>https://ayni.ch/informationen/leadership-circle-profile</loc>
     <changefreq>hourly</changefreq>
   </url>

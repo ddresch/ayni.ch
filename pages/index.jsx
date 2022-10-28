@@ -39,39 +39,29 @@ export default function LandingPage(props) {
                 <li>
                     <b>ayni wellbeing:</b>&nbsp;
                     Individuelle Ayurveda Ernährungs-, Gesundheitsberatung und Massagetherapie für ein gesundes und energievolles Leben
-                    <Link href="angebot/wellbeing">
-                        <a className='more-link'>mehr erfahren</a>
-                    </Link>
+                    <Link href="angebot/wellbeing" className='more-link'>mehr erfahren</Link>
                 </li>
                 <li>
                     <b>ayni balance:</b>&nbsp; 
                     Ganzheitliche Lösungswege für stressbedingte Beschwerden, Burnout, Resilienz und Mentaltraining
-                    <Link href="angebot/balance">
-                        <a className='more-link'>mehr erfahren</a>
-                    </Link>
+                    <Link href="angebot/balance" className='more-link'>mehr erfahren</Link>
                 </li>
                 <li>
                     <b>ayni beratung:</b>&nbsp; 
                     Coaching, Mentaltraining und Psychologische Beratung des Ayurveda lebendig, praxisnah und alltagsgerecht
-                    <Link href="angebot/beratung">
-                        <a className='more-link'>mehr erfahren</a>
-                    </Link>
+                    <Link href="angebot/beratung" className='more-link'>mehr erfahren</Link>
                 </li>
                 <li>
                     <b>ayni leadership:</b>&nbsp; 
                     Unterstützung bei Persönlichkeits-, Karriereentwicklung mit der LCP 360 Grad Bewertung und bei der Bewältgung von Lebenskrisen
-                    <Link href="angebot/leadership">
-                        <a className='more-link'>mehr erfahren</a>
-                    </Link>
+                    <Link href="angebot/leadership" className='more-link'>mehr erfahren</Link>
                 </li>
                 <li>
                     <b>ayni corporate:</b>&nbsp; 
                     Ganzheitliche Lösungswege für ein Nachhaltiges Corporate &amp; Employee Wellbeing
-                    <Link href="angebot/corporate">
-                        <a className='more-link'>mehr erfahren</a>
-                    </Link>
+                    <Link href="angebot/corporate" className='more-link'>mehr erfahren</Link>
                 </li>
-            </ul>            
+            </ul>
         </div>
 
         <ContentContainer primaryColor={'#faedcd'}>

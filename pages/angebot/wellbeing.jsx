@@ -32,9 +32,7 @@ export default function Page(props) {
                 <li>Ayurveda Kochkurse und Seminare</li>
                 <li>
                     Ayurvedische Massagen
-                    <Link href="/informationen/ayurveda-massagen">
-                        <a className='more-link'>mehr erfahren</a>
-                    </Link>
+                    <Link href="/informationen/ayurveda-massagen" className='more-link'>mehr erfahren</Link>
                 </li>
             </ul>            
         </ContentContainer>   

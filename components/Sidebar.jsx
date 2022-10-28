@@ -50,8 +50,8 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
     const NavLink = ({url, label}) => {
         return (
             <li>
-                <Link href={'/' + url} scroll={false}>
-                    <a  className={`${(isSlug(url)) ? styles.selected : ''}`} 
+                <Link   href={'/' + url} scroll={false}
+                        className={`${(isSlug(url)) ? styles.selected : ''}`} 
                         onClick={() => {
                             const parts = url.split('/')
                             if(parts.length > 1) {
@@ -60,8 +60,7 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
                             }                            
                             toggleSidebar()
                         }}>
-                        {label}
-                    </a>
+                        {label}                    
                 </Link>
             </li>
         )

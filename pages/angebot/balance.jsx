@@ -32,9 +32,7 @@ export default function Page(props) {
                 <li>Progressive Muskelrelaxation (PMR) nach<br/> Edmond Jacobson und Atemtechniken aus dem Yoga</li>
                 <li>
                     Ayurvedische Massagen
-                    <Link href="/information/ayurveda-massagen">
-                        <a className='more-link'>mehr erfahren</a>
-                    </Link>
+                    <Link href="/information/ayurveda-massagen" className='more-link'>mehr erfahren</Link>
                 </li>
             </ul>            
         </ContentContainer>   

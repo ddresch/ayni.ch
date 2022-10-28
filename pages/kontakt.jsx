@@ -12,25 +12,23 @@ export default function ContactPage(props) {
             <div className='spacer-top'></div>
             <Headline line1="Kontakt" line2="dein weg zu ayni" />            
             <p>Die Praxis findest Du in Basel an der folgenden Adresse:</p>            
-            <Link href="https://www.google.com/maps/place/Nonnenweg+51,+4055+Basel/@47.558846,7.5731862,17z/data=!4m5!3m4!1s0x4791b906b86db93b:0xa63dca16b6657fce!8m2!3d47.5588424!4d7.5753749">
-                <a target="_blank" rel="noreferrer" className="address-map-link">
-                    <strong>Praxis ayni - Silvia Ferlito</strong><br />
-                    Nonnenweg 51<br />
-                    4055 Basel<br />
-                    <img src="pin.svg" alt="Location Pin Icon" style={{
-                        width: '1.5em', float: 'left', display: 'inline-block', paddingTop: '0.1em', marginRight: '0.2em'
-                    }}/>
-                    mit google maps aufrufen
-                </a>
+            <Link   href="https://www.google.com/maps/place/Nonnenweg+51,+4055+Basel/@47.558846,7.5731862,17z/data=!4m5!3m4!1s0x4791b906b86db93b:0xa63dca16b6657fce!8m2!3d47.5588424!4d7.5753749" 
+                    target="_blank" rel="noreferrer" className="address-map-link">
+                <strong>Praxis ayni - Silvia Ferlito</strong><br />
+                Nonnenweg 51<br />
+                4055 Basel<br />
+                <img src="pin.svg" alt="Location Pin Icon" style={{
+                    width: '1.5em', float: 'left', display: 'inline-block', paddingTop: '0.1em', marginRight: '0.2em'
+                }}/>
+                mit google maps aufrufen                
             </Link>
-            <Link href="tel:+41794500000" className="address-map-link" style={{marginTop: '3px'}}>
-                <a target="_blank" rel="noreferrer" className="address-map-link">
-                    <img src="phone.svg" alt="Phone Icon" style={{
-                        width: '1.5em', float: 'left', display: 'inline-block', marginRight: '0.2em'
-                    }}/>
-                    +41 79 618 47 14
-                </a>
-            </Link>        
+            <Link   href="tel:+41794500000" className="address-map-link" style={{marginTop: '3px'}}
+                    target="_blank" rel="noreferrer">
+                <img src="phone.svg" alt="Phone Icon" style={{
+                    width: '1.5em', float: 'left', display: 'inline-block', marginRight: '0.2em'
+                }}/>
+                +41 79 618 47 14
+            </Link>
         </div>
         <ContentContainer primaryColor={'#faedcd'}>
             <Headline line1="Kontaktformular" line2="der raum f&uuml;r deine anfragen" />

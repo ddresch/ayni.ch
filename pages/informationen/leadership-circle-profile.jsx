@@ -23,7 +23,7 @@ export default function Page(props) {
             <p>Das LCP integriert die Analyse reaktiver Führungsstile, kreativer Führungskompetenzen und schaut in die zugrundeliegenden Verhaltensmuster und Annahmen, die im aktuellen Kontext hervorkommen.</p>
             <p>Angesichts dessen ist das LCP eine aussagekräftige Beurteilung und Basis für die Weiterentwicklung der eigenen Stärken und der Führungseffektivität. Gleichzeitig werden die zugrunde liegenden Muster bewusst, die die Führungseffektivität verringern können. All dies wird unter Berücksichtigung der jeweiligen Entwicklungsstufe der Führungskräfte durchgeführt.</p>
             <img src="/lcp-example.png" alt="Leadership Circle Profile Beispiel" className='content-img-center' />
-            <span style={{fontSize: '12px', textAlign: 'center', display: 'block'}}>copyright Leadership Circle®, all rights reserved. <Link href="https://www.leadershipcircle.com"><a>www.leadershipcircle.com</a></Link></span>
+            <span style={{fontSize: '12px', textAlign: 'center', display: 'block'}}>copyright Leadership Circle®, all rights reserved. <Link href="https://www.leadershipcircle.com">www.leadershipcircle.com</Link></span>
             <p>Abgesehen davon hat das LCP noch eine weitere Relevanz: Es verfügt über eine solide Datengrundlage, die sich auf Basis der Entwicklungsstufen von Erwachsenen, sowie auf psychologische und spirituelle Quellen stützt. Das macht das hiermit zu einem wirklich holistischen und umfassenden menschlichen Ansatz!</p>
         </div>
         <div className='spacer-top'></div>
