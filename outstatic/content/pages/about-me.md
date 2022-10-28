@@ -20,11 +20,7 @@ asdflkjsadf
 
 sdlfkjasdf
 
-![](/images/btn-pxls-flaneur-pattern-c5Nz.png)
+![](/images/btn-pxls-flaneur-pattern-gxOD.png)
 
 
-
-
-
-const go = "hello" const do = () => { console.log(go) return go + " world" }
 
