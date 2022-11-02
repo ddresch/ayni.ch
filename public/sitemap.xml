@@ -1,62 +1,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://ayni.ch</loc>
+    <loc>http://localhost:3000</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/kontakt</loc>
+    <loc>http://localhost:3000/kontakt</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/testimonials</loc>
+    <loc>http://localhost:3000/testimonials</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/ueber-mich</loc>
+    <loc>http://localhost:3000/ueber-mich</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/angebot/balance</loc>
+    <loc>http://localhost:3000/angebot/balance</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/angebot/beratung</loc>
+    <loc>http://localhost:3000/angebot/beratung</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/angebot/corporate</loc>
+    <loc>http://localhost:3000/angebot/corporate</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/angebot/leadership</loc>
+    <loc>http://localhost:3000/angebot/leadership</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/angebot/wellbeing</loc>
+    <loc>http://localhost:3000/angebot/wellbeing</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/informationen/ayurveda-massagen</loc>
+    <loc>http://localhost:3000/informationen/ayurveda-massagen</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/informationen/ayurveda</loc>
+    <loc>http://localhost:3000/informationen/ayurveda</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/informationen/coaching-psychologische-beratung</loc>
+    <loc>http://localhost:3000/informationen/coaching-psychologische-beratung</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/informationen/corporate-wellbeing</loc>
+    <loc>http://localhost:3000/informationen/corporate-wellbeing</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/informationen/leadership-circle-profile</loc>
+    <loc>http://localhost:3000/informationen/leadership-circle-profile</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/informationen/resilienz-mentaltraining</loc>
+    <loc>http://localhost:3000/informationen/resilienz-mentaltraining</loc>
     <changefreq>hourly</changefreq>
   </url>
 </urlset>
