@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import Link from 'next/link'
 import * as React from 'react'
 import ContactForm from '../components/ContactForm'
@@ -22,12 +23,16 @@ export default function ContactPage(props) {
                 }}/>
                 mit google maps aufrufen                
             </Link>
-            <Link   href="tel:+41794500000" className="address-map-link" style={{marginTop: '3px'}}
+            <Link   href="tel:+41794500000" className="address-map-link"
                     target="_blank" rel="noreferrer">
                 <img src="phone.svg" alt="Phone Icon" style={{
                     width: '1.5em', float: 'left', display: 'inline-block', marginRight: '0.2em'
                 }}/>
                 +41 79 618 47 14
+            </Link>
+            <Link href="https://emr.ch/therapeut/silvia.ferlito" target={'_blank'} className="address-map-link">
+                <img src="/emr-logo-color.svg" style={{width: '30%'}} /><br />
+                <p>EMR (Erfahrungsmedizinisches Register) / ZSR-Nr. F459364</p>
             </Link>
         </div>
         <ContentContainer primaryColor={'#faedcd'}>

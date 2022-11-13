@@ -47,7 +47,15 @@ export default function Page(props) {
                 <li>Therapiesitzung je nach Behandlung und Bedarf 45 bis 90 Minuten</li>
                 <li>Jeder Therapiesitzung geht ein kurzer Check-In voran</li>
                 <li>Stundensatz <i>150 CHF</i> bis <i>180 CHF</i> je nach Behandlungsform / Materialeinsatz</li>
-            </ul>
+                <li>
+                    Die meisten Krankenkassen übernehmen über die Zusatzversicherung einen Teil der Behandlungskosten. 
+                    Ich bin beim EMR (<Link href="https://emr.ch/therapeut/silvia.ferlito/" target={'_blank'}>Erfahrungsmedizinisches Register</Link>) mit der Methode <i>Nr. 57 - Ayurveda-Ernährung und -Massage</i> registriert.<br/>
+                    Meine ZSR-Nr. lautet <i>F459364</i>.<br/>
+                    <Link href="https://emr.ch/therapeut/silvia.ferlito" target={'_blank'}>
+                        <img src="/emr-logo-color.svg" style={{width: '30%', display: 'inline-block', marginTop: '10px'}} />
+                    </Link>
+                </li>
+            </ul>            
         </div>
         <div className='spacer-top'></div>
     </Layout>
