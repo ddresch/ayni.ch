@@ -12,7 +12,7 @@ export default function Page(props) {
             <div className='spacer-top'></div>
             <Headline line1="ayni wellbeing" line2="individuell, entspannend &amp; gesund" />
             <p>
-            Individuelle Ernährungs-, und Gesundheitsberatung und Massage-Therapie für ein gesundes und energievolles Leben.
+            Individuelle Ernährungs-, Gesundheitsberatung und Massage-Therapie für ein gesundes und energievolles Leben.
             </p>
             <Quote text="Du bist was Du isst und verdaust" />
             <p>Esse zu deiner Konstitution passend, aktivere die Intelligenz des Körpers und verfeinere dein Körpergefühl als den wichtigsten Ratgeber.</p>
@@ -28,7 +28,7 @@ export default function Page(props) {
             <ul>
                 <li>Befunderhebung und Konstitutionsbestimmung<br/> der 3 Doshas Prakriti (Urzustand) / Vikriti (Ungleichgewicht)</li>
                 <li>Ayurvedische Grundregeln der Ernährung und im Leben</li>
-                <li>Individuelle Ayurvedische Ernährungsberatung,<br/> Begleitung, Rezepte und Rituale</li>
+                <li>Individuelle ayurvedische Ernährungsberatung,<br/> Begleitung, Rezepte und Rituale</li>
                 <li>Ayurveda Kochkurse und Seminare</li>
                 <li>
                     Ayurvedische Massagen

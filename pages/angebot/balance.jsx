@@ -32,13 +32,13 @@ export default function Page(props) {
                 <li>Progressive Muskelrelaxation (PMR) nach<br/> Edmond Jacobson und Atemtechniken aus dem Yoga</li>
                 <li>
                     Ayurvedische Massagen
-                    <Link href="/information/ayurveda-massagen" className='more-link'>mehr erfahren</Link>
+                    <Link href="/informationen/ayurveda-massagen" className='more-link'>mehr erfahren</Link>
                 </li>
             </ul>            
         </ContentContainer>   
         <div className='main-container'>
             <h2>Ablauf</h2>
-            <p>In einem ersten Gespräch wird eine umfassende Befunderhebung durchgeführt. Basierend auf der individuellen Situation und Themen auf körperlicher, mentaler und emotionaler Ebene wird der Therapieplan erstellt. Im Laufe des Behandlungszyklus wirken die positiven Änderungen im Innen wie im Aussen und verankern sich so in der Routine im Alltag.</p>
+            <p>In einem ersten Gespräch wird eine umfassende Befunderhebung durchgeführt. Basierend auf der individuellen Situation und Themen auf körperlicher, mentaler und emotionaler Ebene wird die Zielvereinbarung / der Therapieplan erstellt. Im Laufe des Behandlungszyklus wirken die positiven Änderungen im Innen wie im Aussen und verankern sich so in der Routine im Alltag.</p>
             <div className='spacer-md'></div>
             <h2>Dauer &amp; Kosten</h2>
             <ul>

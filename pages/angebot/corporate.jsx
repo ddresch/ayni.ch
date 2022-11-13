@@ -29,7 +29,7 @@ export default function Page(props) {
                 <li>Einzelsitzungen z.B. Geistiges Gleichgewicht (Tri-Vargas Coaching)</li>
                 <li>Seminare zum Thema mentale Gesundheit aus ayurvedischer Sicht</li>
                 <li>Resilienz- und Achtsamkeitstraining</li>
-                <li>Seminare zu Kommunikation und Teamdynamik basiert auf Typenkonstitution</li>
+                <li>Seminare zu Kommunikation und Teamdynamik<br/> basiert auf Typenkonstitution</li>
                 <li>Seminare zum Thema Ernährung und Wellbeing</li>
             </ul>            
         </ContentContainer>   

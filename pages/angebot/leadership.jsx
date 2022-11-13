@@ -15,10 +15,10 @@ export default function Page(props) {
             Unterstützung bei Persönlichkeits-, Karriereentwicklung und bei der Bewältigung von Lebenskrisen.
             </p>
             <Quote text="Wer sein Ziel kennt, findet den Weg" />
-            <p>Entdecke neue Perspektiven, Entwicklungsmöglichkeiten und Dein Potenzial für Deine berufliche und persönliche Entfaltung.</p>
+            <p>Entdecke neue Perspektiven, Entwicklungsmöglichkeiten und dein Potenzial für deine berufliche und persönliche Entfaltung.</p>
             <p><i>ayni leadership</i> ist für dich, wenn</p>
             <ul>
-                <li>du einen neuen beruflichen Weg einschlagen möchtest und Dein volles Potenzial leben willst</li>
+                <li>du einen neuen beruflichen Weg einschlagen möchtest und dein volles Potenzial leben willst</li>
                 <li>du dich nach mehr persönlicher Entfaltung sehnst</li>
                 <li>deine Leadership Kompetenzen ausgebaut werden und wachsen wollen</li>
             </ul>            
@@ -35,7 +35,7 @@ export default function Page(props) {
         </ContentContainer>   
         <div className='main-container'>
             <h2>Ablauf</h2>
-            <p>In einem ersten Gespräch beleuchten wir das Thema/die Themen, definieren gemeinsam das Ziel für die Zeit der Zusammenarbeit. Beim LCP speziell vereinbaren wir eine Reihe von Terminen für Vorbereitung, Debrief und Follow-up Coaching Sessions.</p>
+            <p>In einem ersten Gespräch beleuchten wir das Thema/die Themen und definieren gemeinsam das Ziel für die Zeit der Zusammenarbeit. Beim LCP speziell vereinbaren wir eine Reihe von Terminen für Vorbereitung, Debrief und Follow-up Coaching Sessions.</p>
             <div className='spacer-md'></div>
             <h2>Dauer &amp; Kosten</h2>
             <ul>

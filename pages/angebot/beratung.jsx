@@ -12,7 +12,7 @@ export default function Page(props) {
             <div className='spacer-top'></div>
             <Headline line1="ayni beratung" line2="lebendig, praxisnah &amp; alltagsgerecht" />
             <p>
-            Mentaltraining und Psychologische Beratung des Ayurveda lebendig, praxisnah und alltagsgerecht.
+            Mentaltraining und psychologische Beratung des Ayurveda lebendig, praxisnah und alltagsgerecht.
             </p>
             <Quote text="Erfolg entsteht im Kopf" />
             <p>Nutze Deine verborgenen Ressourcen. Aktiviere neue Energien, um erfolgreicher zu sein und eine bessere Lebensbalance zu erreichen.</p>
