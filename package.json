@@ -17,7 +17,7 @@
     "framer-motion": "^6.2.7",
     "hamburger-react": "^2.4.1",
     "next": "^13.0.0",
-    "outstatic": "^0.0.32-rc",
+    "outstatic": "^0.0.33-rc",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-hook-form": "^7.36.1",

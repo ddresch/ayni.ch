@@ -13,7 +13,7 @@ specifiers:
   framer-motion: ^6.2.7
   hamburger-react: ^2.4.1
   next: ^13.0.0
-  outstatic: ^0.0.32-rc
+  outstatic: ^0.0.33-rc
   react: ^18.0.0
   react-dom: ^18.0.0
   react-hook-form: ^7.36.1
@@ -32,7 +32,7 @@ dependencies:
   framer-motion: 6.5.1_react-dom@18.2.0+react@18.2.0
   hamburger-react: 2.5.0_react@18.2.0
   next: 13.0.0_44770a0842f23dabfa0df2527c252826
-  outstatic: 0.0.32-rc_3591a07f5f6bd7e95d5c3230e32ada50
+  outstatic: 0.0.33-rc_3591a07f5f6bd7e95d5c3230e32ada50
   react: 18.2.0
   react-dom: 18.2.0_react@18.2.0
   react-hook-form: 7.36.1_react@18.2.0
@@ -3528,8 +3528,8 @@ packages:
     resolution: {integrity: sha512-/pIFexOm6S70EPdznemIz3BQZoJ4VTFrhqzu0ACBqBgeLsLxq8e6Jim63ImIfwW/zAD1AlXpRMlOv3aghmo4dA==}
     dev: false
 
-  /outstatic/0.0.32-rc_3591a07f5f6bd7e95d5c3230e32ada50:
-    resolution: {integrity: sha512-6NwBYFTQZr1iQNZ0mC2hNEQOqHR2pONqEfuVtMzoZ8XdqidA8DzT3PKRzV23NmPX0znRfl+PfDNT4msI5PPL+A==}
+  /outstatic/0.0.33-rc_3591a07f5f6bd7e95d5c3230e32ada50:
+    resolution: {integrity: sha512-Bu6OA8AdlQ8+UblD0t4l3LoKZtsxcwtYXRnWtBa2YaEO+pA18/CFpG/8oqHLBntzkRhUmD23/rVFz9yTWHmO4Q==}
     dependencies:
       '@apollo/client': 3.7.1_30c50e0ebe73d138eec12db09601b888
       '@hapi/iron': 7.0.0
