@@ -1,6 +1,6 @@
 ---
 title: 'ayni wellbeing'
-status: 'draft'
+status: 'published'
 author:
   name: 'Dirk Dresch'
   picture: 'https://avatars.githubusercontent.com/u/986306?v=4'

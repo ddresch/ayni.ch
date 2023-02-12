@@ -1,4 +1,8 @@
 module.exports = {
+  i18n: {
+    locales: ['de'],
+    defaultLocale: 'de',
+  },
   reactStrictMode: true,
   webpack: (config, { isServer }) => {
     // config.resolve.fallback = {

@@ -1,17 +1,10 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
-// import Header from '../../components/Header'
 import Layout from '../../components/Layout'
 import Head from 'next/head'
 import markdownToHtml from '../../lib/markdownToHtml'
-import { Document } from '../../interfaces/document'
 import { getDocumentPaths, getDocumentBySlug } from 'outstatic/server'
-// import DateFormatter from '../../components/DateFormatter'
 import Image from 'next/image'
-
-// type Props = {
-//   post: Document
-// }
 
 export default function Post({ post }) {
   const router = useRouter()
@@ -63,15 +56,9 @@ export default function Post({ post }) {
   )
 }
 
-// type Params = {
-//   params: {
-//     slug: string
-//   }
-// }
-
 export async function getStaticProps({ params }) {
   console.log(params)
-  const post = getDocumentBySlug('angebots', params.slug, [
+  const post = getDocumentBySlug('angebot', params.slug, [
     'title',
     'publishedAt',
     'slug',
@@ -92,9 +79,8 @@ export async function getStaticProps({ params }) {
 }
 
 export async function getStaticPaths() {
-  console.log(getDocumentPaths('angebots'))
   return {
-    paths: getDocumentPaths('angebots'),
+    paths: getDocumentPaths('angebot'),
     fallback: false
   }
 }
