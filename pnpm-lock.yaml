@@ -4,6 +4,7 @@ specifiers:
   '@babel/core': ^7.16.7
   '@sendgrid/mail': ^7.7.0
   '@tiptap/extension-code-block': ^2.0.0-beta.217
+  '@tiptap/pm': ^2.0.0-beta.217
   '@types/react': ^18.0.24
   babel-loader: ^8.2.3
   dropcursor: link:@tiptap/pm/dropcursor
@@ -32,6 +33,7 @@ specifiers:
 dependencies:
   '@sendgrid/mail': 7.7.0
   '@tiptap/extension-code-block': 2.0.0-beta.217_98211ec0f93c3e48288d738c69d5e60a
+  '@tiptap/pm': 2.0.0-beta.217_@tiptap+core@2.0.0-beta.217
   '@types/react': 18.0.28
   dropcursor: link:@tiptap/pm/dropcursor
   framer-motion: 6.5.1_react-dom@18.2.0+react@18.2.0
