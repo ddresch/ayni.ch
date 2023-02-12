@@ -3,13 +3,17 @@ lockfileVersion: 5.3
 specifiers:
   '@babel/core': ^7.16.7
   '@sendgrid/mail': ^7.7.0
+  '@tiptap/extension-code-block': ^2.0.0-beta.217
   '@types/react': ^18.0.24
   babel-loader: ^8.2.3
+  dropcursor: link:@tiptap/pm/dropcursor
   eslint: 8.6.0
   eslint-config-next: 12.0.7
   eslint-plugin-storybook: ^0.5.5
   framer-motion: ^6.2.7
+  gapcursor: link:@tiptap/pm/gapcursor
   hamburger-react: ^2.4.1
+  history: link:@tiptap/pm/history
   next: ^13.0.0
   outstatic: ^0.0.36-canary.1
   prosemirror-dropcursor: ^1.6.1
@@ -27,9 +31,13 @@ specifiers:
 
 dependencies:
   '@sendgrid/mail': 7.7.0
+  '@tiptap/extension-code-block': 2.0.0-beta.217_98211ec0f93c3e48288d738c69d5e60a
   '@types/react': 18.0.28
+  dropcursor: link:@tiptap/pm/dropcursor
   framer-motion: 6.5.1_react-dom@18.2.0+react@18.2.0
+  gapcursor: link:@tiptap/pm/gapcursor
   hamburger-react: 2.5.0_react@18.2.0
+  history: link:@tiptap/pm/history
   next: 13.1.6_7a6ce7c903601ca00e748dc002e0c97f
   outstatic: 0.0.36-canary.1_9a32126434e73dbf517e7a096cb9b3f3
   prosemirror-dropcursor: 1.7.0
