@@ -12,9 +12,9 @@ publishedAt: '2023-02-13T20:21:10.257Z'
 
 Stressabbau, Kraft tanken, Ballast abwerfen und dann mit Leichtigkeit in den Frühling.
 
-Zum vierten Mal schon biete ich eine Upvaas Kurwoche an.<br>
+![Frau sitzt am See und entspannt zu Ayurveda](/images/upvaas-image-M4Nj.webp)
 
-<br>
+Zum vierten Mal schon biete ich eine Upvaas Kurwoche an.
 
 Mit diesem Info Event gebe ich dir einen Überblick, wie eine solche Kur abläuft und gebe dir ein paar Grundlagen über Ayurveda mit.
 
