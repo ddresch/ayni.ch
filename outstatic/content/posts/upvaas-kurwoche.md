@@ -10,23 +10,19 @@ coverImage: ''
 publishedAt: '2023-02-13T20:21:10.257Z'
 ---
 
-Stressabbau, Kraft tanken, Ballast abwerfen und dann mit Leichtigkeit in den Frühling.<br>
-
-<br>
+Stressabbau, Kraft tanken, Ballast abwerfen und dann mit Leichtigkeit in den Frühling.
 
 Gönn Dir Deine individuelle Wohlfühlkur!
 
 > Gib Dir zurück, damit Du anderen geben kannst
 
-Interesse? Dann nimm an meinem kostenfreien Info Event teil und lass dich von Ayurveda inspirieren.<br>
+Interesse? Dann nimm an meinem kostenfreien Info Event teil und lass dich von Ayurveda inspirieren.
 
-<br>
+Wir beleuchten folgende Themen:
 
-Wir beleuchten folgende Themen:<br>
+\- Was ist Ayurveda?
 
-\- Was ist Ayurveda?<br>
-
-\- Wie kann ich Ayurveda im Alltag umsetzen?<br>
+\- Wie kann ich Ayurveda im Alltag umsetzen?
 
 \- Warum eine Kurwoche generell gut tut?
 
