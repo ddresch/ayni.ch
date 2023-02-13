@@ -34,13 +34,14 @@ export default function Post({ post }) {
 }
 
 export async function getStaticProps({ params }) {
-  const post = getDocumentBySlug('angebot', params.slug, [
+  const post = getDocumentBySlug('posts', params.slug, [
     'title',
     'publishedAt',
     'slug',
     'author',
     'content',
-    'coverImage'
+    'coverImage',
+    'description'
   ])
   const content = await markdownToHtml(post.content || '')
 
@@ -56,7 +57,7 @@ export async function getStaticProps({ params }) {
 
 export async function getStaticPaths() {
   return {
-    paths: getDocumentPaths('angebot'),
+    paths: getDocumentPaths('posts'),
     fallback: false
   }
 }
