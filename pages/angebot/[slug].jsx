@@ -1,6 +1,7 @@
 import { useRouter } from 'next/router'
 import ErrorPage from 'next/error'
 import Layout from '../../components/Layout'
+import { Headline } from '../../components/Headline'
 import Head from 'next/head'
 import markdownToHtml from '../../lib/markdownToHtml'
 import { getDocumentPaths, getDocumentBySlug } from 'outstatic/server'
@@ -13,42 +14,18 @@ export default function Post({ post }) {
   }
   return (
     <Layout>
-      <div className="max-w-6xl mx-auto px-5">
-        {/* <Header /> */}
+      <div className='main-container'>
         {router.isFallback ? (
-          <h1 className="font-primary text-2xl font-bold md:text-4xl mb-2">
-            Loading…
-          </h1>
+          <h1>Loading…</h1>
         ) : (
           <>
-            <article className="mb-32">
-              <Head>
-                <title>{`${post.title} | Next.js + Outstatic`}</title>
-                <meta property="og:image" content={post.coverImage} />
-              </Head>
-              <div className="relative mb-2 md:mb-4 sm:mx-0 w-full h-52 md:h-96">
-                <Image
-                  alt={post.title}
-                  src={post.coverImage}
-                  fill
-                  className="object-cover object-center"
-                />
-              </div>
-              <h1 className="font-primary text-2xl font-bold md:text-4xl mb-2">
-                {post.title}
-              </h1>
-              <div className="hidden md:block md:mb-12 text-slate-600">
-                {/* Written on <DateFormatter dateString={post.publishedAt} /> by{' '} */}
-                {post.author.name}.
-              </div>
-              <hr className="border-neutral-200 mt-10 mb-10" />
-              <div className="max-w-2xl mx-auto">
-                <div
-                  className="prose lg:prose-xl"
-                  dangerouslySetInnerHTML={{ __html: post.content }}
-                />
-              </div>
-            </article>
+            <Head>
+              <title>{`${post.title} | Ayni - Ayurveda Basel`}</title>
+              <meta property="og:image" content={post.coverImage} />
+            </Head>
+            <div className='spacer-top'></div>
+            <Headline line1={`${post.title}`} line2={`${post.description}`} />
+            <div dangerouslySetInnerHTML={{ __html: post.content }} />
           </>
         )}
       </div>
@@ -57,7 +34,6 @@ export default function Post({ post }) {
 }
 
 export async function getStaticProps({ params }) {
-  console.log(params)
   const post = getDocumentBySlug('angebot', params.slug, [
     'title',
     'publishedAt',
