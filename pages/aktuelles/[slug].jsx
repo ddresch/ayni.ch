@@ -25,7 +25,7 @@ export default function Post({ post }) {
             </Head>
             <div className='spacer-top'></div>
             <Headline line1={`${post.title}`} line2={`${post.description}`} />
-            <div dangerouslySetInnerHTML={{ __html: post.content }} />
+            <div class='dynamic-content' dangerouslySetInnerHTML={{ __html: post.content }} />
           </>
         )}
       </div>

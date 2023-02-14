@@ -25,6 +25,12 @@ blockquote p {
   font-style: italic;
 }
 
+div.dynamic-content img {
+  width: 60%;
+  float: right;
+  shape-margin: 20px;
+}
+
 @media screen and (max-width: 428px) {
   blockquote {
     padding: 20px 20px 0;
