@@ -6,7 +6,7 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/986306?v=4'
 slug: 'upvaas-kurwoche-info-event'
 description: '10 Tage Zeit für Leichtigkeit und Wohlbefinden'
-coverImage: ''
+coverImage: '/images/upvaas-image-cover-ExNj.webp'
 publishedAt: '2023-02-13T20:21:10.257Z'
 ---
 
