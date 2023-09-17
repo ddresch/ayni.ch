@@ -11,6 +11,7 @@ export default function Page(props) {
         <Head>
             <title>ayni.ch - psychologische Beratung und Ayurveda in Basel</title>
             <meta name="description" content="Willkommen bei ayni beratung in Basel, Ihrem Partner für lebendiges, praxisnahes und alltagsgerechtes Mentaltraining und psychologische Ayurveda-Beratung. Wir bieten individuelle Coaching-Sitzungen, Achtsamkeitstraining und Arbeit mit dem inneren Kritiker. Erstgespräch ab 150 CHF. Krankenkassen-akzeptiert. Aktivieren Sie Ihre verborgenen Ressourcen heute." />
+            <meta name="keywords" content="ayni beratung, Mentaltraining, psychologische Beratung, Ayurveda, Selbstentwicklung, Coaching, Trauerarbeit" />
         </Head>
         <Layout>
             <div className='main-container'>

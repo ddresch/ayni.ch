@@ -9,6 +9,7 @@ export default function Page(props) {
       <Head>
         <title>ayni.ch - Ayurveda Praxis in Basel</title>
         <meta name="description" content="Erfahren Sie mehr über Ayurveda, das Wissen vom Leben, bei ayni in Basel. Entdecken Sie die Grundlagen der 3 Doshas - Vata, Pitta, Kapha - und die Gunas für mentale Balance. Ziel des Ayurveda ist Svastha, das Verweilen im Selbst, durch die richtige Balance von Körper, Geist und Seele." />
+        <meta name="keywords" content="Ayurveda, Doshas, Vata, Pitta, Kapha, Gunas, Tamas, Rajas, Sattva, Lebensphilosophie, Gesundheit" />
       </Head>
       <Layout>
           <div className='main-container'>

@@ -10,6 +10,7 @@ export default function Page(props) {
       <Head>
           <title>ayni.ch - Leadership Circle Profile&trade; in Basel</title>
           <meta name="description" content="Entdecken Sie das Leadership Circle Profile™ (LCP) bei ayni in Basel, die führende 360 Grad Führungsstil Analyse. Das LCP bietet eine umfassende Beurteilung Ihrer Führungskompetenzen und inneren Überzeugungen. Es integriert reaktive und kreative Führungsstile und bietet tiefe Einblicke in Ihre Verhaltensmuster. Ideal für die Weiterentwicklung Ihrer Führungseffektivität." />
+          <meta name="keywords" content="Leadership Circle Profile, LCP, 360 Grad Führungsstil Analyse, Führungskompetenzen, Führungseffektivität" />
       </Head>
       <Layout>
           <div className='main-container'>

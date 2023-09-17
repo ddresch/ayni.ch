@@ -9,6 +9,7 @@ export default function Page(props) {
       <Head>
         <title>ayni.ch - Resilienz und Mentaltraining in Basel</title>
         <meta name="description" content="Stärken Sie Ihre innere und äußere Widerstandskraft mit Resilienz- und Mentaltraining bei ayni. Erfahren Sie, wie Ihr Unterbewusstsein Ihr tägliches Handeln beeinflusst und wie Sie durch gezieltes Mentaltraining und Resilienzübungen Stress bewältigen, alte Glaubenssätze aufbrechen und ein erfülltes Leben führen können. Mit einem gesunden Geist hat Burnout keine Chance!" />
+        <meta name="keywords" content="Resilienz, Mentaltraining, Unterbewusstsein, Stressbewältigung, Achtsamkeit, Meditation, Atemübungen, Burnout" />
       </Head>
       <Layout>
           <div className='main-container'>

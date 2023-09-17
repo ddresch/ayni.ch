@@ -11,6 +11,7 @@ export default function Page(props) {
         <Head>
             <title>ayni.ch - Leadership Circle Profile</title>
             <meta name="description" content="Willkommen bei ayni leadership in Basel, Ihrer Anlaufstelle für gezielte, aufbauende und nachhaltige Unterstützung in Persönlichkeits- und Karriereentwicklung sowie Lebenskrisen. Wir bieten 360 Grad Bewertungen, Purpose & Value Coaching und Begleitung bei Neuorientierung. Individuelle Sitzungen und flexible Abrechnung. Entfalten Sie Ihr volles Potenzial heute." />
+            <meta name="keywords" content="ayni leadership, Persönlichkeitsentwicklung, Karriereentwicklung, Leadership, 360 Grad Bewertung, Führungskompetenzen" />
         </Head>
         <Layout>
             <div className='main-container'>

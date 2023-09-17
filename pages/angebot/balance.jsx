@@ -11,6 +11,7 @@ export default function Page(props) {
         <Head>
             <title>ayni.ch - Balance mit Ayurveda in Basel</title>
             <meta name="description" content="Entdecken Sie ayni balance für ganzheitliche Lösungen bei stressbedingten Beschwerden und Burnout in Basel. Wir bieten individuelle Therapiepläne, Stressbewältigungsstrategien, Achtsamkeitstraining und Ayurvedische Massagen. Erstgespräch ab 150 CHF. Krankenkassen-akzeptiert. Finden Sie Ihre innere Balance heute." />
+            <meta name="keywords" content="ayni balance, Stressbewältigung, Burnout, Resilienz, Achtsamkeit, Mentaltraining, Stressmanagement" />
         </Head>
         <Layout>
             <div className='main-container'>
