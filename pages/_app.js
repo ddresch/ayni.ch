@@ -18,6 +18,7 @@ function AppLayout({ Component, pageProps, router }) {
           <title>ayni.ch - Deine Praxis f&uuml;r Ayurveda Ern&auml;hrungs- und Massagetherapie in Basel</title>          
           
           <meta name="description" content="Willkommen bei ayni, Ihrer Praxis für Ayurveda Ernährungs- und Massagetherapie, Beratung und Coaching. Wir bieten individuelle Lösungen für ein gesundes und energievolles Leben, Stressbewältigung, persönliches Wachstum und Corporate Wellbeing. Unser Leitsatz: 'Gib Dir zurück, damit Du anderen geben kannst.'" />
+          <meta name="keywords" content="Ayurveda, Wellness, Gesundheit, Ernährung, Mentaltraining, Resilienz, Coaching, Beratung, Leadership, Balance, Wellbeing" />
           <meta name="msapplication-TileColor" content="#ffffff" />
           <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
           <meta name="theme-color" content="#ffffff" />
