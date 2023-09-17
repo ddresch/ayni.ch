@@ -1,8 +1,6 @@
 import { useEffect, useState } from 'react'
-import { useRouter } from 'next/router'
 
-const CanonicalLink = () => {
-  const router = useRouter()
+const CanonicalLink = ({router}) => {
   const [canonicalHost, setCanonicalHost] = useState('ayni.ch')
 
   useEffect(() => {
