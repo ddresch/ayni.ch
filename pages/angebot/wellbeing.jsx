@@ -9,7 +9,7 @@ import Head from 'next/head'
 export default function Page(props) {
   return (<>
         <Head>
-            <title>ayni.ch - mehr Wohlbefinden mit Ayurveda in Basel</title>
+            <title>mehr Wohlbefinden mit Ayurveda in Basel</title>
             <meta name="description" content="Entdecken Sie ayni wellbeing für individuelle Ayurveda Ernährungs-, Gesundheitsberatung und Massage-Therapie in Basel. Wir bieten maßgeschneiderte Therapiepläne für Magenbrennen, Reflux, Blähungen und mehr. Erstgespräch und Therapiepläne ab 150 CHF. Krankenkassen-akzeptiert. Verbessern Sie Ihr Wohlbefinden heute." />
             <meta name="keywords" content="ayni wellbeing, Ernährungsberatung, Gesundheitsberatung, Massage-Therapie, Doshas, Ayurveda, Lebensstil, Ernährung" />
         </Head>

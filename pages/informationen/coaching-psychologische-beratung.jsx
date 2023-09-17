@@ -7,7 +7,7 @@ import Head from 'next/head'
 export default function Page(props) {
   return (<>
       <Head>
-        <title>ayni.ch - Coaching und Psychologische Beratung in Basel</title>
+        <title>Coaching und Psychologische Beratung in Basel</title>
         <meta name="description" content="Entdecken Sie den integralen Coaching Ansatz bei ayni in Basel. Wir fokussieren uns auf Lösungen und nutzen einen ressourcenorientierten Ansatz, um Sie in allen Ebenen des menschlichen Seins zu unterstützen: Körper, Geist, Seele und Emotionen. Unsere Methodik ist modern und zeitgemäß, kombiniert psychologische Beratung mit ayurvedischer Philosophie und ist auf die Gegenwart und Zukunft ausgerichtet." />
         <meta name="keywords" content="Coaching, Beratung, integrales Coaching, Prozessbegleitung, Perspektiverweiterung, Ayurveda, Lösungsorientierung" />
       </Head>

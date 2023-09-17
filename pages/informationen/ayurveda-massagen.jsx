@@ -6,7 +6,7 @@ import Head from 'next/head'
 export default function Page(props) {
   return (<>
       <Head>
-        <title>ayni.ch - Ayurveda Massagen im &Uuml;berblick</title>
+        <title>Ayurveda Massagen im &Uuml;berblick</title>
       </Head>
       <Layout>
         <div className='main-container'>

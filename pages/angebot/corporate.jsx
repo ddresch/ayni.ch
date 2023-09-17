@@ -8,7 +8,7 @@ import Head from 'next/head'
 export default function Page(props) {
   return (<>
         <Head>
-            <title>ayni.ch - Corporate Wellbeing und Ayurveda in Basel</title>
+            <title>Corporate Wellbeing und Ayurveda in Basel</title>
             <meta name="description" content="Willkommen bei ayni corporate in Basel, Ihrem Partner für umfassende, pragmatische und nachhaltige Lösungen im Bereich Corporate & Employee Wellbeing. Wir bieten Einzelsitzungen, Seminare und Trainings zu Themen wie Resilienz, Achtsamkeit und Teamdynamik. Flexible Dauer und Kosten. Gestalten Sie einen gesunden und resilienten Arbeitsplatz heute." />
             <meta name="keywords" content="ayni corporate, Corporate Wellbeing, Employee Wellbeing, Organisationsentwicklung, Kulturwandel, Resilienz, Teamdynamik" />
         </Head>
