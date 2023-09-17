@@ -32,6 +32,9 @@ export default function LandingPage(props) {
             <p>
                 Mit meiner Arbeit verbinde ich generelle Lebensthemen, persönliches Wachstum, Leadership Entwicklung, Ernährung, Lifestyle und Wellbeing und biete eine gezielte individuelle Begleitung an.
             </p>
+            <p>
+                Deine Silvia Ferlito
+            </p>
 
             <div className='spacer-md'></div>
             <Headline line1="Mein Angebot umfasst" line2="" />            
