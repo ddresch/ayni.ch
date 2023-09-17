@@ -1,13 +1,21 @@
-const CanonicalLink = ({router}) => {  
-  const asPath = router.asPath
-  const host = router.isReady ? new URL(window.location.href).host : ''
+import { useEffect, useState } from 'react'
+import { useRouter } from 'next/router'
 
-  // Überprüfen, ob "www" in der Host-URL vorhanden ist
-  const canonicalHost = host.startsWith('www.') ? host : `www.${host}`
+const CanonicalLink = () => {
+  const router = useRouter()
+  const [canonicalHost, setCanonicalHost] = useState('ayni.ch')
+
+  useEffect(() => {
+    // This code will only run on the client side
+    const host = window.location.host
+
+    // Check if "www" is present in the host URL
+    setCanonicalHost(host.startsWith('www.') ? host : `www.${host}`)
+  }, [])
 
   return (
     <head>
-      <link rel="canonical" href={`https://${canonicalHost}${asPath}`} />
+      {canonicalHost && <link rel="canonical" href={`https://${canonicalHost}${router.asPath}`} />}
     </head>
   )
 }
