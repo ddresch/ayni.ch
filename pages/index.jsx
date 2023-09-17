@@ -13,7 +13,7 @@ export default function LandingPage(props) {
             <div className='spacer-top'></div>
             <Headline line1="Silvia Ferlito" line2="ayurveda, beratung &amp; coaching" />
             <p>
-                Willkommen bei ayni - Praxis für Ayurveda Ernährungs- und Massagetherapie, Beratung und Coaching.
+                Willkommen bei ayni - Praxis für Ayurveda Ernährungs- und Massagetherapie, Beratung und Coaching in Basel.
             </p>
             <p>
                 <img src="portrait-wall.png" className='content-img-right' alt="Portrait Silvia Ferlito" />
