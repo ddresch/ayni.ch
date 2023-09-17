@@ -11,7 +11,7 @@ export default function Page(props) {
       <Layout>
         <div className='main-container'>
           <div className='spacer-top'></div>
-          <Headline line1="Ayurveda Massagen" line2="übersicht behandlungen" />
+          <Headline line1="Ayurveda Massagen" line2="übersicht behandlungen" sublevel={false} />
           <h2>Allgemeine Informationen</h2>
           <p>Die Ayurveda-Massagen werden mit speziellen Kräuter-Ölen durchgeführt, die in den meisten Fällen auch nach der Behandlung auf der Haut verbleiben können. Bitte ältere, gut waschbare und bequeme Kleidung mitbringen oder anziehen. Bei einigen Behandlungen werden auch die Haare eingeölt, bitte eine Kopfbedeckung wie Mütze oder einen Schal mitbringen, um den Kopf vor Wind und Kälte zu schützen.</p>
           <p>Einige Ayurveda-Massagen sind während der Schwangerschaft oder bei den Mens kontraindiziert. In diesem Fall den Termin bitte bis 48 Stunden vorher verschieben oder ich passe die Art der Massage / Behandlung an.</p>

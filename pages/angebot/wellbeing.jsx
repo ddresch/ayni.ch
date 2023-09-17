@@ -16,7 +16,7 @@ export default function Page(props) {
         <Layout>
             <div className='main-container'>
                 <div className='spacer-top'></div>
-                <Headline line1="ayni wellbeing" line2="individuell, entspannend &amp; gesund" />
+                <Headline line1="ayni wellbeing" line2="individuell, entspannend &amp; gesund" sublevel={false} />
                 <p>
                 Individuelle Ernährungs-, Gesundheitsberatung und Massage-Therapie für ein gesundes und energievolles Leben.
                 </p>

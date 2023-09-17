@@ -16,7 +16,7 @@ export default function Page(props) {
         <Layout>
             <div className='main-container'>
                 <div className='spacer-top'></div>
-                <Headline line1="ayni leadership" line2="gezielt, aufbauend &amp; nachhaltig" />
+                <Headline line1="ayni leadership" line2="gezielt, aufbauend &amp; nachhaltig" sublevel={false} />
                 <p>
                 Unterstützung bei Persönlichkeits-, Karriereentwicklung und bei der Bewältigung von Lebenskrisen.
                 </p>

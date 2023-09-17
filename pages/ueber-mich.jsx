@@ -15,7 +15,7 @@ export default function LandingPage(props) {
       <Layout>
           <div className='main-container'>
               <div className='spacer-top'></div>
-              <Headline line1="&Uuml;ber mich" line2="und meine lebensreise" />
+              <Headline line1="&Uuml;ber mich" line2="und meine lebensreise" sublevel={false} />
               <p>Seit jeher hat gesunde und frische Ernährung, die Natur, Bewegung, Kreativität und Genuss einen grossen Stellenwert in meinem Leben. Da ich in zwei Kulturkreisen aufgewachsen bin, gilt meine Faszination auch anderen fremden und alten Kulturen. Dank betriebswirtschaftlicher Ausbildung und 20 Jahren Berufstätigkeit in der pharmazeutischen Industrie sind mir auch Management Themen und Zahlen nicht fremd.</p>
               <p>Man kann also sagen, dass ich von Natur aus sehr neugierig auf alles bin. Eine zielstrebige Macherin bin ich ebenfalls, die aber auch von weit entfernten Orten träumen, sich in Kreativität verlieren und viel lachen kann!</p>
               <Quote text={"Wenn man es träumen kann, dann kann man es auch machen."} />

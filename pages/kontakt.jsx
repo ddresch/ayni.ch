@@ -11,7 +11,7 @@ export default function ContactPage(props) {
     <Layout>
         <div className='main-container'>
             <div className='spacer-top'></div>
-            <Headline line1="Kontakt" line2="dein weg zu ayni" />            
+            <Headline line1="Kontakt" line2="dein weg zu ayni" sublevel={false} />            
             <p>Die Praxis findest Du in Basel an der folgenden Adresse:</p>            
             <Link   href="https://www.google.com/maps/place/Nonnenweg+51,+4055+Basel/@47.558846,7.5731862,17z/data=!4m5!3m4!1s0x4791b906b86db93b:0xa63dca16b6657fce!8m2!3d47.5588424!4d7.5753749" 
                     target="_blank" rel="noreferrer" className="address-map-link">

@@ -15,7 +15,7 @@ export default function Page(props) {
         <Layout>
             <div className='main-container'>
                 <div className='spacer-top'></div>
-                <Headline line1="ayni corporate" line2="umfassend, pragmatisch &amp; nachhaltig" />
+                <Headline line1="ayni corporate" line2="umfassend, pragmatisch &amp; nachhaltig" sublevel={false} />
                 <p>
                 Ganzheitliche Lösungswege für ein nachhaltiges Corporate &amp; Employee Wellbeing.
                 </p>

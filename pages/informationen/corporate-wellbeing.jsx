@@ -11,7 +11,7 @@ export default function Page(props) {
     <Layout>
         <div className='main-container'>
             <div className='spacer-top'></div>
-            <Headline line1="corporate wellbeing" line2="den bedürfnissen der mitarbeiter rechnung tragen" />
+            <Headline line1="corporate wellbeing" line2="den bedürfnissen der mitarbeiter rechnung tragen" sublevel={false} />
             <p>2020 war für alle ein Jahr des Umdenkens und das Umdenken hält uns noch immer auf Trab. COVID-19 hat alle gezwungen, von heute auf morgen die gesamte Arbeitsweise zu überdenken und umzustrukturieren. Homeoffice statt Büro, Videocalls statt Besprechungen vor Ort, Küche statt Kantine.</p>
             <Quote text={"Das 'New Normal' hat jedoch enorme Auswirkungen auf Unternehmen sowie Mitarbeiter gehabt"} />
             <p>Durch die Coronakrise hat sich plötzlich mehr denn je alles um Digitalisierung gedreht. Das &apos;New Normal&apos; hat jedoch enorme Auswirkungen auf Unternehmen sowie Mitarbeiter gehabt.</p>

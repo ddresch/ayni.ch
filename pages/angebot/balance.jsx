@@ -16,7 +16,7 @@ export default function Page(props) {
         <Layout>
             <div className='main-container'>
                 <div className='spacer-top'></div>
-                <Headline line1="ayni balance" line2="ausgleichend, stärkend &amp; zielführend" />
+                <Headline line1="ayni balance" line2="ausgleichend, stärkend &amp; zielführend" sublevel={false} />
                 <p>
                 Ganzheitliche Lösungswege für stressbedingte Beschwerden und Burnout.
                 </p>

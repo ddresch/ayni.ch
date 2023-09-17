@@ -14,7 +14,7 @@ export default function Page(props) {
       <Layout>
           <div className='main-container'>
               <div className='spacer-top'></div>
-              <Headline line1="coaching und beratung" line2="die eigenen ressource aktivieren" />
+              <Headline line1="coaching und beratung" line2="die eigenen ressource aktivieren" sublevel={false} />
               <p>Der integrale Coaching Ansatz vereinheitlicht eine ganzheitliche Sichtweise der Prozessbegleitung und Perspektiverweiterung. Der Klient wird zu seinem Ziel hin begleitet. Dabei wird das Erkennen, Verstehen, Verändern und Integrieren mit dem Potenzial sämtlicher Ebenen des menschlichen Seins sowie die Beziehungen zur Umwelt verbunden:</p>
               <ul>
                   <li>Körper – Embodiment</li>

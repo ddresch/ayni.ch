@@ -14,7 +14,7 @@ export default function Page(props) {
       <Layout>
           <div className='main-container'>
               <div className='spacer-top'></div>
-              <Headline line1="Ayurveda" line2="das wissen vom leben" />
+              <Headline line1="Ayurveda" line2="das wissen vom leben" sublevel={false} />
               <p>Das Wort Ayurveda aus dem Sanskrit bedeutet übersetzt <i>“das Wissen vom Leben”</i>.</p>
               <p>So umfasst Ayurveda die Wechselbeziehung aller Dinge untereinander und beschreibt die Einbettung der menschlichen Natur in die Gesetze des Universums.</p>
               <p>Caraka, der berühmte Ayurveda-Arzt und Philosoph (ca. 400 v. Chr.) beschrieb die Beziehung zwischen dem Menschen und dem Universum folgendermassen:</p>

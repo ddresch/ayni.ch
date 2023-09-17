@@ -9,7 +9,7 @@ export default function Page(props) {
     <Layout>
         <div className='main-container'>
             <div className='spacer-top'></div>
-            <Headline line1="Testimonials" line2="ayni ganz ehrlich" />
+            <Headline line1="Testimonials" line2="ayni ganz ehrlich" sublevel={false} />
             <h2>May, 45, The Netherlands</h2>
             <p>Silvia is an excellent health and wellbeing coach, tuned to both, to the wide range of resources of traditional Ayurvedic medicine, as well as to the very modern conditions in which we find ourselves. She has excellent attention to detail as well as genuine warmth, compassion and many other admirable human qualities.</p>
             <p>Thanks to Silvia&apos;s thorough and thoughtful consultation, she was able to recommend to me a range of measures to change my diet, daily routine, and daily practices, for enormously positive results. Changes in diet, eating habits and daily routines—along with the integration of a number of Ayurvedic daily health practices—have significantly improved/increased my energy, balance, outlook on life, and physical, mental and spiritual well-being.</p>

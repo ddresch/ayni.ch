@@ -15,7 +15,7 @@ export default function Page(props) {
       <Layout>
           <div className='main-container'>
               <div className='spacer-top'></div>
-              <Headline line1="leadership circle profile&trade;" line2="eine 360° sicht auf sich" />
+              <Headline line1="leadership circle profile&trade;" line2="eine 360° sicht auf sich" sublevel={false} />
               <p>              
                 Leadership Circle Profile&trade; - LCP ist die führende 360 Grad Führungsstil Analyse. Das LCP ist ein Stärken basiertes 360-Modell und weist den Führungsstil in einer komplexen Mischung von Führungskompetenzen und inneren Überzeugungen aus. Dies unterstützt beim Auf- und Ausbau von Führungskompetenzen, -qualität und -effizienz. Jede der Ebenen enthält eine beachtliche Menge an Informationen und geht auch über die reinen Führungskompetenzen hinaus.
               </p>

@@ -16,7 +16,7 @@ export default function Page(props) {
         <Layout>
             <div className='main-container'>
                 <div className='spacer-top'></div>
-                <Headline line1="ayni beratung" line2="lebendig, praxisnah &amp; alltagsgerecht" />
+                <Headline line1="ayni beratung" line2="lebendig, praxisnah &amp; alltagsgerecht" sublevel={false} />
                 <p>
                 Mentaltraining und psychologische Beratung des Ayurveda lebendig, praxisnah und alltagsgerecht.
                 </p>

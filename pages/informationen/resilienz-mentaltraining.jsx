@@ -14,7 +14,7 @@ export default function Page(props) {
       <Layout>
           <div className='main-container'>
               <div className='spacer-top'></div>
-              <Headline line1="resilienz und mentaltraining" line2="stark im innen und aussen" />
+              <Headline line1="resilienz und mentaltraining" line2="stark im innen und aussen" sublevel={false} />
               <p>Jeder Mensch besitzt ein Bewusstsein und ein Unterbewusstsein (psychologisch als Unbewusstes bezeichnet). Unser tägliches Handeln wird zu ca. 90 % von unserem Unterbewussten gesteuert.</p>
               <p>Das Unterbewusstsein ist unser Datenchip, der alle Informationen über uns, Programme, Glaubenssätze, Erinnerungen und Gefühle beherbergt, welche über Jahre in der Kindheit oder schon vor der Geburt aufgenommen und gespeichert hat.</p>
               <p>Was also, wenn ein Glaubenssatz wie <i>“das bekommst du ja ohnehin nicht hin”</i> uns hindert Neues zu probieren und Herausforderungen anzunehmen?</p>
