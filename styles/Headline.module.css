@@ -1,12 +1,10 @@
-h1.headline {
+h1.headline, h2.headline {
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-weight: normal;
-  /* font-size: 3em;
-  margin-left: -42px; */
   font-size: 1.9em;
 }
 
-h1.headline span {
+h1.headline span, h2.headline span {
   /* font-size: 0.85em; */
   font-size: 0.6em;
   font-style: italic;
@@ -15,16 +13,16 @@ h1.headline span {
 }
 
 @media screen and (min-width: 425px) {
-  h1.headline {
+  h1.headline, h2.headline {
     font-size: 2.1em;
   }
-  h1.headline span {
+  h1.headline span, h2.headline span {
     font-size: 0.6em;
   }
 }
 
 @media screen and (min-width: 1024px) {
-  h1.headline {
+  h1.headline, h2.headline {
     font-size: 3em;
   } 
 }

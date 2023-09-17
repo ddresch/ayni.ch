@@ -11,7 +11,7 @@ export default function LandingPage(props) {
     <Layout>
         <div className='main-container'>
             <div className='spacer-top'></div>
-            <Headline line1="Silvia Ferlito" line2="ayurveda, beratung &amp; coaching" />
+            <Headline line1="Silvia Ferlito" line2="ayurveda, beratung &amp; coaching" sublevel={false} />
             <p>
                 Willkommen bei ayni - Praxis für Ayurveda Ernährungs- und Massagetherapie, Beratung und Coaching in Basel.
             </p>
@@ -37,7 +37,7 @@ export default function LandingPage(props) {
             </p>
 
             <div className='spacer-md'></div>
-            <Headline line1="Mein Angebot umfasst" line2="" />            
+            <Headline line1="Mein Angebot umfasst" line2="" />
             <ul>
                 <li>
                     <b>ayni wellbeing:</b>&nbsp;
