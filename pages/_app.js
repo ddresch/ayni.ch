@@ -15,8 +15,9 @@ function AppLayout({ Component, pageProps, router }) {
   return (
     <>
       <Head>
-          <title>ayni.ch</title>
-          <meta name="description" content="ayni - Praxis für Ayurveda Ernährungs- und Massagetherapie, Beratung und Coaching." />
+          <title>ayni.ch - Deine Praxis f&uuml;r Ayurveda Ern&auml;hrungs- und Massagetherapie in Basel</title>          
+          <meta name="description" content="Willkommen bei ayni, Ihrer Praxis für Ayurveda Ernährungs- und Massagetherapie, Beratung und Coaching. Wir bieten individuelle Lösungen für ein gesundes und energievolles Leben, Stressbewältigung, persönliches Wachstum und Corporate Wellbeing. Unser Leitsatz: 'Gib Dir zurück, damit Du anderen geben kannst.'" />
+
           <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
           <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png" />
           <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png" />
