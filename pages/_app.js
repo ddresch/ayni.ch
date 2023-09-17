@@ -6,6 +6,7 @@ import { Shape } from '../components/Shape'
 import { Header } from '../components/Header'
 import { Footer } from '../components/Footer'
 import '../styles/globals.css'
+import CanonicalLink from '../components/CanonicalLink'
 
 function AppLayout({ Component, pageProps, router }) {
 
@@ -15,15 +16,15 @@ function AppLayout({ Component, pageProps, router }) {
   return (
     <>
       <Head>
-          <title>Deine Praxis f&uuml;r Ayurveda Ern&auml;hrungs- und Massagetherapie in Basel</title>          
+          <title>Praxis für Ayurveda Ernährungs- und Massagetherapie in Basel</title>          
           
-          <meta name="description" content="Willkommen bei ayni, Ihrer Praxis in Basel für Ayurveda Ernährungs- und Massagetherapie, Beratung und Coaching. Ich biete individuelle Lösungen für ein gesundes und energievolles Leben, Stressbewältigung, persönliches Wachstum und Corporate Wellbeing. Mein Leitsatz: 'Gib Dir zurück, damit Du anderen geben kannst.'" />
+          <meta name="description" content="Praxis für Ayurveda Ernährungs- und Massagetherapie, Beratung und Coaching. Ich biete individuelle Lösungen für ein gesundes und energievolles Leben." />
           <meta name="keywords" content="Ayurveda, Basel, Region Basel, Wellness, Gesundheit, Ernährung, Mentaltraining, Resilienz, Coaching, Beratung, Leadership, Balance, Wellbeing" />
           <meta name="msapplication-TileColor" content="#ffffff" />
           <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
           <meta name="theme-color" content="#ffffff" />
 
-          <link rel="canonical" href={`https://ayni.ch${router.asPath}`} />
+          <CanonicalLink router={router} />
           <link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png" />
           <link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png" />
           <link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png" />

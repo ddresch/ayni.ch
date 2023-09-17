@@ -8,7 +8,7 @@ import Head from 'next/head'
 export default function LandingPage(props) {
   return (<>
       <Head>
-        <title>ayni.ch - Was mich und Ayurveda verbindet</title>
+        <title>Was mich und Ayurveda verbindet</title>
         <meta name="description" content="Erfahren Sie mehr über Silvia Ferlito, Ihre Expertin für Ayurveda, Beratung und Coaching bei ayni in Basel. Mit einer Mischung aus betriebswirtschaftlicher Erfahrung und tiefem Verständnis für Ayurveda bietet Silvia individuelle Lösungen für Ihr Wohlbefinden. Ihr Motto: 'Wenn man es träumen kann, dann kann man es auch machen.'" />
         <meta name="keywords" content="Lebensreise, Ernährung, Natur, Bewegung, Kreativität, Genuss, Kultur, Management, Ayurveda, Beratung" />
       </Head>
