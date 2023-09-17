@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 
 const CanonicalLink = ({router}) => {
-  const [canonicalHost, setCanonicalHost] = useState('ayni.ch')
+  const [canonicalHost, setCanonicalHost] = useState('www.ayni.ch')
 
   useEffect(() => {
     // This code will only run on the client side
@@ -12,9 +12,9 @@ const CanonicalLink = ({router}) => {
   }, [])
 
   return (
-    <head>
-      {canonicalHost && <link rel="canonical" href={`https://${canonicalHost}${router.asPath}`} />}
-    </head>
+      <>
+        {canonicalHost && <link rel="canonical" href={`https://${canonicalHost}${router.asPath}`} />}
+      </>
   )
 }
 
