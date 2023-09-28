@@ -7,6 +7,19 @@ import Layout from '../components/Layout'
 import { Quote } from '../components/Quote'
 
 export default function LandingPage(props) {
+    React.useEffect(() => {
+        // This will run only once when the app component is mounted
+        if (window.netlifyIdentity) {
+            window.netlifyIdentity.on("init", user => {
+                if (!user) {
+                    window.netlifyIdentity.on("login", () => {
+                    document.location.href = "/admin/";
+                    });
+                }
+            })
+        }
+    }, [])
+
   return (
     <Layout>
         <div className='main-container'>
@@ -72,18 +85,7 @@ export default function LandingPage(props) {
             <p>Du m&ouml;chtest einen Termin anfragen? Einfach das untere Formular ausf&uuml;llen und ich melde mich direkt bei Dir!</p>            
             <ContactForm />
         </ContentContainer>       
-        <div className='spacer-top'></div> 
-        <script>
-        if (window.netlifyIdentity) {
-            window.netlifyIdentity.on("init", user => {
-            if (!user) {
-                window.netlifyIdentity.on("login", () => {
-                document.location.href = "/admin/";
-                });
-            }
-            })
-        }
-        </script>
+        <div className='spacer-top'></div>         
     </Layout>
   )
 }
