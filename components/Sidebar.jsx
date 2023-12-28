@@ -103,8 +103,8 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
                             backgroundSize: 'contain',
                             backgroundRepeat: 'no-repeat',
                             filter: 'drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.4))',
-                            width: '530px',
-                            height: '720px',
+                            width: '580px',
+                            height: '780px',
                         }}
                     >
                         <ul className={styles.navList}>
@@ -117,6 +117,7 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
                                 <NavLink url="angebot/leadership" label="ayni - leadership" />
                                 <NavLink url="angebot/corporate" label="ayni - corporate" />                                
                             </SubNav>
+                            <NavLink url="aktuelles" label="Aktuelles" />
                             <SubNav label="Informationen">
                                 <NavLink url="informationen/ayurveda" label="Ayurveda" />
                                 <NavLink url="informationen/leadership-circle-profile" label="Leadership Circle Profile" />

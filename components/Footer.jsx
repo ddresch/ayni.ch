@@ -16,11 +16,17 @@ export const Footer = ({ ...props }) => {
             </Link>
           </li>
           <li>
+            <Link href="/aktuelles"
+                  className={[styles.link, styles.linkMetis].join(' ')}>
+              Aktuelles
+            </Link>
+          </li>
+          <li>
             <Link href="/kontakt"
                   className={[styles.link, styles.linkMetis].join(' ')}>
               Kontakt
             </Link>
-          </li>          
+          </li>  
           {/* <li>
             <a href="" className={[styles.link, styles.linkMetis].join(' ')}>Datenschutz</a>
           </li> */}

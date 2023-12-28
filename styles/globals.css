@@ -160,6 +160,16 @@ img.content-img-center {
   text-decoration: underline;
 }
 
+.markdown-body img {
+  width: 100%;
+  float: none;
+  shape-margin: 20px;
+}
+
+.markdown-body a {
+  color: #cf4d6f;
+}
+
 @media screen and (min-width: 375px) {
   .left-decor {
     margin-left: -170%;

@@ -1,0 +1,68 @@
+import Link from 'next/link'
+import fs from 'fs'
+import * as React from 'react'
+import matter from 'gray-matter'
+// Custom components
+import { ContentContainer } from '../../components/ContentContainer'
+import { Headline } from '../../components/Headline'
+import Layout from '../../components/Layout'
+import Head from 'next/head'
+import ContactForm from '../../components/ContactForm'
+
+export default function Page({blogs}) {
+
+  const DateFormatter = ({ dateString }) => {
+    const date = new Date(dateString)
+    const formattedDate = date.toLocaleDateString('de-DE', { day: '2-digit', month: '2-digit', year: 'numeric'})
+    return <span>{formattedDate}</span>
+  }
+
+  return (<>
+        <Head>
+            <title>Aktuelles</title>
+            <meta name="description" content="Entdecken Sie ayni balance für ganzheitliche Lösungen bei stressbedingten Beschwerden und Burnout in Basel. Wir bieten individuelle Therapiepläne, Stressbewältigungsstrategien, Achtsamkeitstraining und Ayurvedische Massagen. Erstgespräch ab 150 CHF. Krankenkassen-akzeptiert. Finden Sie Ihre innere Balance heute." />
+            <meta name="keywords" content="ayni balance, Stressbewältigung, Burnout, Resilienz, Achtsamkeit, Mentaltraining, Stressmanagement" />
+        </Head>
+        <Layout>
+            <div className='main-container'>
+                <div className='spacer-top'></div>
+                <Headline line1="Aktuelles" line2="frisches aus der welt des ayurveda" sublevel={false} />                
+                <ul>
+                {blogs.map(blog => (
+                    <li key={blog.slug}>
+                    <Link href={`/aktuelles/${blog.slug}`}>
+                      <DateFormatter dateString={blog.publishedAt} />: {blog.title}
+                    </Link>
+                    </li>
+                ))}
+                </ul>
+            </div>
+            <ContentContainer primaryColor={'#faedcd'}>
+              <Headline line1="F&uuml;r weitere Informationen" line2="schreib mir einfach" />
+              <p>Du hast eine Frage oder ein Anliegen das Du gern besprechen möchtest? Einfach das untere Formular ausf&uuml;llen und ich melde mich direkt bei Dir!</p>            
+              <ContactForm />
+            </ContentContainer>
+        </Layout>
+    </>
+  )
+}
+
+export async function getStaticProps() {
+    // List of files in blgos folder
+    const filesInBlogs = fs.readdirSync('./content/posts')
+  
+    // Get the front matter and slug (the filename without .md) of all files
+    const blogs = filesInBlogs.map(filename => {
+      const file = fs.readFileSync(`./content/posts/${filename}`, 'utf8')
+      const matterData = matter(file)
+  
+      return {
+        ...matterData.data, // matterData.data contains front matter
+        slug: filename.slice(0, filename.indexOf('.'))
+      }
+    })
+  
+    return {
+      props: { blogs }
+    }
+}
