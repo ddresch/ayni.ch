@@ -2,6 +2,7 @@ import Link from 'next/link'
 import fs from 'fs'
 import * as React from 'react'
 import matter from 'gray-matter'
+import yaml from 'js-yaml'
 // Custom components
 import { ContentContainer } from '../../components/ContentContainer'
 import { Headline } from '../../components/Headline'
@@ -54,14 +55,18 @@ export async function getStaticProps() {
     // Get the front matter and slug (the filename without .md) of all files
     const blogs = filesInBlogs.map(filename => {
       const file = fs.readFileSync(`./content/posts/${filename}`, 'utf8')
-      const matterData = matter(file)
-  
+      const matterData = matter(file, {
+        engines: {
+          yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }),
+        },
+      })
+
       return {
         ...matterData.data, // matterData.data contains front matter
         slug: filename.slice(0, filename.indexOf('.'))
       }
     })
-  
+
     return {
       props: { blogs }
     }

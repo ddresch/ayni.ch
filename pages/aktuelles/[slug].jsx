@@ -1,6 +1,7 @@
 import fs from 'fs'
 import * as React from 'react'
 import matter from 'gray-matter'
+import yaml from 'js-yaml'
 import { Headline } from '../../components/Headline'
 import Layout from '../../components/Layout'
 import Head from 'next/head'
@@ -36,7 +37,9 @@ export default function Post({ frontmatter, markdown}) {
 }
 
 export async function getStaticProps({ params: { slug } }) {
-    const fileContent = matter(fs.readFileSync(`./content/posts/${slug}.md`, 'utf8'))
+    const fileContent = matter(fs.readFileSync(`./content/posts/${slug}.md`, 'utf8'), {
+      engines: {yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA })}
+    })
     let frontmatter = fileContent.data
     const markdown = fileContent.content
   
