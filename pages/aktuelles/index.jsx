@@ -27,7 +27,7 @@ export default function Page({blogs}) {
         <Layout>
             <div className='main-container'>
                 <div className='spacer-top'></div>
-                <Headline line1="Aktuelles" line2="frisches aus der welt des ayurveda" sublevel={false} />                
+                <Headline line1="Aktuelles" line2="ayurveda wissen und events" sublevel={false} />                
                 <ul>
                 {blogs.map(blog => (
                     <li key={blog.slug}>
