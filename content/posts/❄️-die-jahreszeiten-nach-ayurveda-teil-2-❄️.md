@@ -10,9 +10,9 @@ publishedAt: 2023-12-22T19:15:36.869Z
 ---
 ![Frau im verschneiten Wald mit roter Mütze](/images/später-winter.webp "Winterwald")
 
-## Der ayurvedische Spät-Winter 
+# Der ayurvedische Spät-Winter
 
-### 22.12. bis 21.02. - Tierkreiszeichen Steinbock & Wassermann
+## 22.12. bis 21.02. - Tierkreiszeichen Steinbock & Wassermann
 
 Ab Ende Dezember baut der Körper Kapha auf, um sich vor Kälte und Auszehrung zu schützen. Das stärkt das Immunsystem und baut Körpergewebe auf. Der Stoffwechsel ist noch recht stark und aktiv, d. h. wir können schwerere Nahrungsmittel noch gut verstoffwechseln.
 
