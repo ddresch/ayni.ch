@@ -20,6 +20,8 @@ Unser Körper erzeugt genügend Wärme und erleichtert so die Verdauung von sch
 
 Wer jedoch etwas abnehmen möchte, für den ist der frühe Winter eine geeignete Jahreszeit, um mit einer Kapha-reduzierenden Diät die Pfunde purzeln zu lassen.
 
+> Vata ist hoch, Agni stark und schnell
+
 Nährstoffreiche, gekochte Speisen und wärmende Kräutertees sind der Schlüssel für eine gute Energiebalance. Süsse, saure und salzige, ölig-fettige Nahrungsmittel stimulieren die Sinne und gleichen Vata aus. Vata-erhöhende, kalte Nahrungsmittel, kalte Getränke und Wind sollten in dieser Zeit vermieden werden. Massagen und Dampfbäder sind nun besonders wohltuend. Wann immer möglich wärmende Sonnenstrahlen suchen oder daheim einkuscheln. 
 
 Tägliche Spaziergänge in der Wintersonne, Pranayama und Meditation geben geistige Vitalität und Klarheit, schützen vor Winterdepressionen und lassen uns den Winter in seiner Schönheit geniessen.
@@ -27,3 +29,7 @@ Tägliche Spaziergänge in der Wintersonne, Pranayama und Meditation geben geist
 Was ich an dieser Jahreszeit geniesse sind wärmende Kürbisgerichte, Tee, Kerzenschein und Badewanne... ja und auch mal ein Fondue oder Raclette, ayurvedisch aufgepimpt natürlich. 
 
 Mit was machst du dir diese Jahreszeit gemütlich?
+
+
+
+**[Photo by Jakob Owens on Unsplash](https://unsplash.com/photos/woman-throwing-maple-leaves-uE_N2i6-TRM)**
