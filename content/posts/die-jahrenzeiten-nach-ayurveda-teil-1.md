@@ -8,7 +8,7 @@ slug: die-jahrenzeiten-nach-ayurveda-teil-1
 description: Der ayurvedische Früh-Winter
 publishedAt: 2023-10-22T20:21:10.257Z
 ---
-![Frau wirft Laub in die Luft](images/ayni-post-1.webp "Herbstlaub")
+![Frau wirft Laub in die Luft](/images/ayni-post-1.webp "Herbstlaub")
 
 # Der ayurvedische Früh-Winter
 
