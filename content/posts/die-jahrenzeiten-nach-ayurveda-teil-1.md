@@ -1,15 +1,17 @@
 ---
-title: '🍂 Die Jahreszeiten nach Ayurveda - Teil 1 🍂'
-status: 'published'
+title: 🍂 Die Jahreszeiten nach Ayurveda - Teil 1 🍂
+status: published
 author:
-  name: 'Silvia Ferlito'
-  picture: 'https://avatars.githubusercontent.com/u/986306?v=4'
-slug: 'die-jahrenzeiten-nach-ayurveda-teil-1'
-description: 'Der ayurvedische Früh-Winter'
-publishedAt: '2023-10-22T20:21:10.257Z'
+  name: Silvia Ferlito
+  picture: https://avatars.githubusercontent.com/u/986306?v=4
+slug: die-jahrenzeiten-nach-ayurveda-teil-1
+description: Der ayurvedische Früh-Winter
+publishedAt: 2023-10-22T20:21:10.257Z
 ---
+![Frau wirft Laub in die Luft](images/ayni-post-1.webp "Herbstlaub")
 
 # Der ayurvedische Früh-Winter
+
 ## 22.10. bis 21.12. - Tierkreiszeichen Skorpion & Schütze
 
 Die Temperaturen sinken, kühle Winde wechseln sich mit Regen ab, unser Agni und unser Appetit werden immer stärker. Jetzt vertragen wir kräftige Nahrungsmittel und Gerichte, die unsere Geschmacks- und Geruchssinne und unser Agni fordern. 
