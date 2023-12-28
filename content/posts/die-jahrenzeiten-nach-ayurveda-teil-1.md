@@ -32,4 +32,4 @@ Mit was machst du dir diese Jahreszeit gemütlich?
 
 
 
-**[Photo by Jakob Owens on Unsplash](https://unsplash.com/photos/woman-throwing-maple-leaves-uE_N2i6-TRM)**
+[Photo by Jakob Owens on Unsplash](https://unsplash.com/photos/woman-throwing-maple-leaves-uE_N2i6-TRM)
