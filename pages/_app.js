@@ -10,7 +10,7 @@ import CanonicalLink from '../components/CanonicalLink'
 
 function AppLayout({ Component, pageProps, router }) {
 
-  const para1 = useParallax({ speed: -50 })
+  const para1 = useParallax({ speed: -30 })
   const para2 = useParallax({ speed: -60 })
 
   return (
@@ -44,10 +44,12 @@ function AppLayout({ Component, pageProps, router }) {
       <Header />
       
       <div className='left-decor' ref={para1.ref}>
+      {/* <div className='left-decor'>         */}
         <Shape shapeType={'quads2'} shiftedOutline={false} primaryColor={'#ccd5ae'} secondaryColor={'#ccd5ae'} />
       </div>
 
       <div className='right-decor' ref={para2.ref}>
+      {/* <div className='right-decor'> */}
         <Shape shapeType={'quads1'} shiftedOutline={false} primaryColor={'#ccd5ae'} secondaryColor={'#ccd5ae'} />
       </div>
 

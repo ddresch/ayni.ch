@@ -32,8 +32,8 @@ dependencies:
     specifier: ^9.0.1
     version: 9.0.1(@types/react@18.0.28)(react@18.2.0)
   react-scroll-parallax:
-    specifier: ^3.3.2
-    version: 3.3.2(react-dom@18.2.0)(react@18.2.0)
+    specifier: ^3.4.5
+    version: 3.4.5(react-dom@18.2.0)(react@18.2.0)
   remark:
     specifier: ^14.0.2
     version: 14.0.2
@@ -3257,8 +3257,8 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /parallax-controller@1.6.0:
-    resolution: {integrity: sha512-IVRuEMMcLtAnlthB3MJ+bzkOQWz26DESXsP3x+CBsGjIjmXxLr+l1IkR799dQETXgGBZQTUyhRUXFaThBc6+lA==}
+  /parallax-controller@1.7.1:
+    resolution: {integrity: sha512-facVMEBnUynzMN7hCSqyNpF6uyCpVIl4XAUyTR9D8q2JlhgyPY6bZtj/OkFk3+Cpka1TnYCppQb8BzDWHtSaZg==}
     engines: {node: '>=12'}
     dependencies:
       bezier-easing: 2.1.0
@@ -3423,14 +3423,14 @@ packages:
       - supports-color
     dev: false
 
-  /react-scroll-parallax@3.3.2(react-dom@18.2.0)(react@18.2.0):
-    resolution: {integrity: sha512-mLgcLqyFhrIp31gLjz11yYmWEwS8NJoOoCZ15ZFXPOcpPQK8R+jZfeuO59Trm9bReok/iDUyx3ZyCCZjkxj37Q==}
+  /react-scroll-parallax@3.4.5(react-dom@18.2.0)(react@18.2.0):
+    resolution: {integrity: sha512-4NLZQ8cZEUyxoA95DfrXWneOOUSFrFmpM0dZNzMErmuJ0LzY+CCw8Xw0hqB6xxHWxNknfs46AozyIPSWkZeucA==}
     engines: {node: '>=10'}
     peerDependencies:
       react: ^16.8.0-0 || >=17.0.1 || ^18.0.0
       react-dom: ^16.8.0-0 || >=17.0.1 || ^18.0.0
     dependencies:
-      parallax-controller: 1.6.0
+      parallax-controller: 1.7.1
       react: 18.2.0
       react-dom: 18.2.0(react@18.2.0)
     dev: false
