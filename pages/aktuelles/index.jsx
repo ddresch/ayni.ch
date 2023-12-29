@@ -18,6 +18,13 @@ export default function Page({blogs}) {
     return <span>{formattedDate}</span>
   }
 
+  // Sort blogs by publishedAt in descending order (newest first)
+  const sortedBlogs = blogs.sort((a, b) => {
+    const dateA = new Date(a.publishedAt);
+    const dateB = new Date(b.publishedAt);
+    return dateB - dateA; // For ascending order, use dateA - dateB
+  });
+
   return (<>
         <Head>
             <title>Aktuelles</title>
@@ -29,7 +36,7 @@ export default function Page({blogs}) {
                 <div className='spacer-top'></div>
                 <Headline line1="Aktuelles" line2="ayurveda wissen und events" sublevel={false} />                
                 <ul>
-                {blogs.map(blog => (
+                {sortedBlogs.map(blog => (
                     <li key={blog.slug}>
                     <Link href={`/aktuelles/${blog.slug}`}>
                       <DateFormatter dateString={blog.publishedAt} />: {blog.title}
