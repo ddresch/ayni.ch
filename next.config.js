@@ -10,9 +10,9 @@ module.exports = {
     //   fs: false, // the solution
     // };
 
-    if (isServer) {
-      require('./scripts/generate-sitemap')
-    }
+    // if (isServer) {
+    //   require('./scripts/generate-sitemap.js')
+    // }
 
     return config
   },

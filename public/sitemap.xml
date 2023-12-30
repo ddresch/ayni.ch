@@ -1,62 +1,78 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>http://localhost:3000</loc>
+      <url>
+    <loc>https://ayni.ch/</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/kontakt</loc>
+    <loc>https://ayni.ch/kontakt</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/testimonials</loc>
+    <loc>https://ayni.ch/testimonials</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/ueber-mich</loc>
+    <loc>https://ayni.ch/ueber-mich</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/angebot/balance</loc>
+    <loc>https://ayni.ch/aktuelles/</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/angebot/beratung</loc>
+    <loc>https://ayni.ch/angebot/balance</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/angebot/corporate</loc>
+    <loc>https://ayni.ch/angebot/beratung</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/angebot/leadership</loc>
+    <loc>https://ayni.ch/angebot/corporate</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/angebot/wellbeing</loc>
+    <loc>https://ayni.ch/angebot/leadership</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/informationen/ayurveda-massagen</loc>
+    <loc>https://ayni.ch/angebot/wellbeing</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/informationen/ayurveda</loc>
+    <loc>https://ayni.ch/informationen/ayurveda-massagen</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/informationen/coaching-psychologische-beratung</loc>
+    <loc>https://ayni.ch/informationen/ayurveda</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/informationen/corporate-wellbeing</loc>
+    <loc>https://ayni.ch/informationen/coaching-psychologische-beratung</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/informationen/leadership-circle-profile</loc>
+    <loc>https://ayni.ch/informationen/corporate-wellbeing</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>http://localhost:3000/informationen/resilienz-mentaltraining</loc>
+    <loc>https://ayni.ch/informationen/leadership-circle-profile</loc>
     <changefreq>hourly</changefreq>
   </url>
-</urlset>
+  <url>
+    <loc>https://ayni.ch/informationen/resilienz-mentaltraining</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+      <url>
+    <loc>https://ayni.ch/aktuelles/die-jahrenzeiten-nach-ayurveda-teil-1</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/was-ist-ayurveda</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/❄️-die-jahreszeiten-nach-ayurveda-teil-2-❄️</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  </urlset>
