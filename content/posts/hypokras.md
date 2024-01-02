@@ -16,7 +16,7 @@ Die Gewürze, welche in der Mischung aus Rot und Weisswein, gesüsst mit Zucker 
 
 Das Bouquet dieser Gewürze kann also wirklich eine positive Wirkung aufweisen. So wirkt Zimt und Kardamom wärmend auf den Körper, Ingwer stärkend auf das Immunsystem und die Abwehrkräfte. Die beigesetzten Gewürze wie z.B. Ingwer, Pfeffer, Muskat und Koriander unterstützen den Stoffwechsel als auch die Verdauung. Safran und Pfeffer haben eine aphrodisierende Wirkung. So kann es sein, dass es verschiedene Rezepte für unterschiedliche Wirkungen gab. 
 
-> Zum Wohl und auf ein gesundes neues Jahr am Neijoorsaadringedde in Basel
+> Zum Wohl und auf ein gesundes, neues Jahr am Neijoorsaadringedde in Basel
 
 In Basel hat sich dieser Brauch bis heute erhalten. Traditionell am Neijoorsaadringedde sprudelt der Gewürzwein aus dem Dreizackbrunnen am Münsterberg. Die Zunft zum Goldenen Stern hat diesen Brauch seit 1996 für die Bevölkerung öffentlich gemacht und begrüsst mit den besten Wünschen für eine gesunde Zukunft in das neue Jahr.
 
