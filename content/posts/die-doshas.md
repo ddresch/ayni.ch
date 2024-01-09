@@ -23,11 +23,11 @@ Ob Gleichgewicht oder Dysbalance wird von den jeweiligen Eigenschaften bestimmt.
 * **Eigenschaften von Pitta:** flüssig, heiss, penetrierend, sauer, beweglich, scharf
 * **Eigenschaften von Kapha:** schwer, kalt, weich, fettig, süss, unbeweglich, schleimig
 
-Diese beschriebenen Eigenschaften findet man überall auf der Welt: Kälte empfindet man zum Beispiel wegen des kalten Wetters, dünner Kleidung, kaltem Essen oder Getränken aber auch durch ein kaltes soziales Umfeld oder einer Selbstüberforderung, die einem selbst Gegenüber eine gewisse Kälte entgegenbringt. Hitze empfindet man durch heisse Sommertage aber auch durch scharfes, salziges essen und in Stresssituationen.
+Diese beschriebenen Eigenschaften findet man überall auf der Welt: Kälte empfindet man zum Beispiel wegen des kalten Wetters, dünner Kleidung, kaltem Essen oder Getränken aber auch durch ein kaltes soziales Umfeld oder einer Selbstüberforderung, die einem selbst gegenüber eine gewisse Kälte entgegenbringt. Hitze empfindet man durch heisse Sommertage aber auch durch scharfes, salziges essen und in Stresssituationen.
 
-> Gleiche Eigenschaften verstärken sich, Gegenseitige beruhigen sich
+> Gleiche Eigenschaften verstärken sich, gegenseitige beruhigen sich
 
-Eine Dysbalance entsteht also, wenn sich gleiche Eigenschaften verstärken, Gegenseitige beruhigen sich hingegen. Kälte verstärkt das Vata Dosha und Kapha Dosha. Hitze wiederum verstärkt das Pitta Dohsa.
+Eine Dysbalance entsteht also, wenn sich gleiche Eigenschaften verstärken, gegenseitige beruhigen sich hingegen. Kälte verstärkt das Vata Dosha und Kapha Dosha. Hitze wiederum verstärkt das Pitta Dohsa.
 
 Ein zu viel an Vata benötigt Einfühlungsvermögen, Halt und Stabilität. Ein zu viel an Pitta benötigt Kühlung, Freiraum und Entspannung. Ein zu viel an Kapha benötigt Bewegung, Wärme und Struktur.
 
