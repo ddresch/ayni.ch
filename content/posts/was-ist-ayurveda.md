@@ -27,3 +27,5 @@ Ziel des Ayurveda ist es die Erhaltung und Förderung von Gesundheit sowie die B
 In diesem Raum werde ich Informationen zu den Ayurveda Grundlagen, zur Philosophie, sowie zu speziellen und aktuellen Themen posten. 
 
 Viel Freude beim Entdecken.
+
+[Photo by Erz Norton on Unsplash](https://unsplash.com/photos/text-XdnGQ7OgEa4)
