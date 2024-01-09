@@ -11,11 +11,13 @@ publishedAt: 2022-12-14T11:00:00.000Z
 धर्मार्थकाममोक्षाणामारोग्यं मूलमुत्तमम्||१५||\
 रोगास्तस्यापहर्तारः श्रेयसो जीवितस्य च|
 
-> Gesundheit ist die beste Quelle der Tugend, des Wohlergehens, der Zufriedenheit und der Selbstbefreiung, während Krankheiten diese (Quelle), das Wohlergehen und das Leben selbst zerstören.
+Gesundheit ist die beste Quelle der Tugend, des Wohlergehens, der Zufriedenheit und der Selbstbefreiung, während Krankheiten diese (Quelle), das Wohlergehen und das Leben selbst zerstören.
 
-###### *Caraka Samhita, Sutra Sthana, Kapitel 1, Vers 15*
+##### *Caraka Samhita, Sutra Sthana, Kapitel 1, Vers 15*
 
 Gerade in diesen Zeiten sind Erwachsene Menschen verstärkt auf der Suche nach Tugend, Wohlergehen, Zufriedenheit und Selbstbefreiung. Nach dem Vers von Caraka ist Krankheit das, was Wohlergehen und Gesundheit zerstört. Wiederum ist aber Wohlergehen nicht einfach nur die Abwesenheit von Krankheit. Ayurveda definiert vollkomene Gesundheit als Svastha, was soviel bedeutet wie "das verweilen in sich selbst" also im völligen Gleichgewicht mit Körper, Geist und Selbst/Seele sein.
+
+> Svastha, wie man im selbst verweilen kann
 
 Die WHO formuliert Gesundheit als Zustand völligen körperlichen, geistigen, seelischen und sozialen Wohlbefindens. Diese Definition der WHO bildet mit seinem integrativen Ansatz für die Gesundheitsförderung, die Grundlage für die 1986 formulierte Ottawa-Charta. Gesundheit hat also was zu tun mit dem Zusammenspiel von Körper, Geist, Seele und Umwelt, mit dem Innen und dem Aussen.
 
