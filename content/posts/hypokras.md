@@ -2,7 +2,7 @@
 title: Hypokras
 publishedAt: 2024-01-01T13:00:46.722Z
 ---
-![Dreizackbrunnen in Basel beim Neijoorsaadringedde mit Hypokras Wein](/images/hypokras.webp "Dreizackbrunnen in Basel beim Neijoorsaadringedde mit Hypokras Wein")
+![Dreizackbrunnen in Basel beim Neijoorsaadringedde mit Hypokras Wein](/images/20_hypokras.webp "Dreizackbrunnen in Basel beim Neijoorsaadringedde mit Hypokras Wein")
 
 # Aphrodisiakum, Immunstärkung und Verdauungshilfe
 
