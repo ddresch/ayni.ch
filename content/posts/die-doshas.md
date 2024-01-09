@@ -8,6 +8,9 @@ publishedAt: 2023-01-18T12:59:35.760Z
 
 ## Individuelles Gleichgewicht als Ziel
 
+समदोष:समाग्निश्र समधातुमलक्रिय:। \
+प्रसन्नात्मेन्द्रियमना:स्वस्थ इत्यभिधीयते II
+
 Der Mensch, dessen Doshas im Gleichgewicht, dessen Agni gut, dessen Dhatus und Malas normal funktionieren und dessen Seele, Geist und Sinne stets voller Glückseligkeit, wird als gesund bezeichnet.
 
 ##### Sushruta, Sutrasthana Chapter 15, Vers 48
