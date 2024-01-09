@@ -2,7 +2,7 @@
 title: Was ist Ayurveda?
 publishedAt: 2022-10-18T18:33:40.906Z
 ---
-![Ayurveda als Scrabble dargestellt](/images/ayurveda.webp "Ayurveda")
+![Ayurveda als Scrabble dargestellt](/images/1_ayurveda.webp "Ayurveda")
 
 # Erfahrungsmedizin, Philosophie, Tradition
 
