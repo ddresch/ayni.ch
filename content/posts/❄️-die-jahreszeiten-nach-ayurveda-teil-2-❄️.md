@@ -8,7 +8,7 @@ slug: die-jahrenzeiten-nach-ayurveda-teil-1
 description: Der ayurvedische Früh-Winter
 publishedAt: 2023-12-22T19:15:36.869Z
 ---
-![Frau im verschneiten Wald mit roter Mütze](/images/später-winter.webp "Winterwald")
+![Frau im verschneiten Wald mit roter Mütze](/images/19_später-winter.webp "Winterwald")
 
 # Der ayurvedische Spät-Winter
 
