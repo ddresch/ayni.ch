@@ -31,3 +31,5 @@ Ein zu viel an Vata benötigt Einfühlungsvermögen, Halt und Stabilität. Ein z
 Die oben beschriebenen Bioenergien sind in jedem Individuum in unterschiedlicher Ausprägung und Mischung vorhanden. Jeder Mensch ist so wie er ist mit seiner Prakriti (Urnatur) perfekt und im Gleichgewicht. Durch unser Verhalten und Lebensstil aber auch das Alter und die Jahreszeiten beeinflussen unsere Urnatur und können zu einem Ungleichgewicht (Vikriti) führen. 
 
 Welches Ungleichgewicht spürst du gerade?
+
+[Photo by Patrick Fore on Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-balance-stones-JBghIzjbuLs)
