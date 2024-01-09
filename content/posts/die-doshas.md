@@ -12,7 +12,7 @@ Der Mensch, dessen Doshas im Gleichgewicht, dessen Agni gut, dessen Dhatus und M
 
 ##### Sushruta, Sutrasthana Chapter 15, Vers 48
 
-Die 3 Doshas Vata, Pitta und Kapha sind verantwortlich für die Regulation der Körperfunktionen. Jedes Dosa hat ein Verantwortungsgebiet. Vata ist verantwortlich für alle Bewegungsprozesse, Pitta für die Transformations- bzw. Stoffwechselprozesse, Kapha für Stabilität. Weilen die Doshas im Gleichgewicht herrscht aus ayurvedischer Sicht Gesundheit. Eine Dysbalance hingegen ist die Ursache von Krankheit.
+Die 3 Doshas Vata, Pitta und Kapha sind verantwortlich für die Regulation der Körperfunktionen. Jedes Dosha hat ein Verantwortungsgebiet. Vata ist verantwortlich für alle Bewegungsprozesse, Pitta für die Transformations- bzw. Stoffwechselprozesse, Kapha für Stabilität. Weilen die Doshas im Gleichgewicht herrscht aus ayurvedischer Sicht Gesundheit. Eine Dysbalance hingegen ist die Ursache von Krankheit.
 
 Ob Gleichgewicht oder Dysbalance wird von den jeweiligen Eigenschaften bestimmt.
 
@@ -28,6 +28,6 @@ Eine Dysbalance entsteht also, wenn sich gleiche Eigenschaften verstärken, Gege
 
 Ein zu viel an Vata benötigt Einfühlungsvermögen, Halt und Stabilität. Ein zu viel an Pitta benötigt Kühlung, Freiraum und Entspannung. Ein zu viel an Kapha benötigt Bewegung, Wärme und Struktur.
 
-Die oben beschriebenen Bioenergien sind in jedem Individuum in unterschiedlicher Ausprägung und Mischung vorhanden. Jeder Mensch ist so wie er ist mit seiner Prakriti (Urnatur) perfekt und im Gleichgewicht. Durch unser Verhalten und Lebensstil aber auch das Alter und die Jahreszeiten beeinflussen unsere Urnatur und können zu einem Ungleichgewicht führen. 
+Die oben beschriebenen Bioenergien sind in jedem Individuum in unterschiedlicher Ausprägung und Mischung vorhanden. Jeder Mensch ist so wie er ist mit seiner Prakriti (Urnatur) perfekt und im Gleichgewicht. Durch unser Verhalten und Lebensstil aber auch das Alter und die Jahreszeiten beeinflussen unsere Urnatur und können zu einem Ungleichgewicht (Vikriti) führen. 
 
 Welches Ungleichgewicht spürst du gerade?
