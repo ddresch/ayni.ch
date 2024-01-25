@@ -34,3 +34,9 @@ Hier eine herzliche Einladung zu meinem kostenfreien online Workshop am **5. Feb
 * **Wie weiter?** 
 
   Q&A
+
+
+
+Ich freue mich auf dich.
+
+Herzlich, Silvia
