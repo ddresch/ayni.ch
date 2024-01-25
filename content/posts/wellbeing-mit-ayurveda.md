@@ -16,9 +16,21 @@ Hier eine herzliche Einladung zu meinem kostenfreien online Workshop am **5. Feb
 
 **Themen** 
 
-* Was ist Ayurveda? 	Geschichte & Grundlagen
-* Die 6 Geschmäcker 	Experiment
-* Die 3 Dosha Typen 	Konstitutionen und Besonderheiten
-* Verdauungsfeuer 	        Agni und seine Funktionen
-* Ayurveda im Alltag?	Einfache Richtlinien für dein Wellbeing
-* Wie weiter?   		        Q&A
+* **Was ist Ayurveda?** 
+
+  Geschichte & Grundlagen
+* **Die 6 Geschmäcker** 
+
+  Experiment
+* **Die 3 Dosha Typen** 
+
+  Konstitutionen und Besonderheiten
+* **Verdauungsfeuer** 
+
+  Agni und seine Funktionen
+* **Ayurveda im Alltag** 
+
+  Einfache Richtlinien für dein Wellbeing
+* **Wie weiter?** 
+
+  Q&A
