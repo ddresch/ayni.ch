@@ -12,7 +12,9 @@ publishedAt: 2024-01-25T09:55:33.077Z
 
 Für alle die über Ayurveda und mehr Leichtigkeit im Leben erfahren wollen. 
 
-Hier eine herzliche Einladung zu meinem kostenfreien online Workshop am **5. Februar 2024**. Anmeldung via **silvia@ayni.ch**. 
+Hier eine herzliche Einladung zu meinem kostenfreien online Workshop am **5. Februar 2024 von 19:00 bis 20:30 Uhr**. 
+
+Anmeldung via **silvia@ayni.ch**. 
 
 **Themen** 
 
@@ -35,7 +37,7 @@ Hier eine herzliche Einladung zu meinem kostenfreien online Workshop am **5. Feb
 
   Q&A
 
-
+Der Zugangslink wird nach Anmeldung versendet.
 
 Ich freue mich auf dich.
 
