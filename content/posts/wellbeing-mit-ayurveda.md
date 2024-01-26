@@ -1,5 +1,5 @@
 ---
-title: Wellbeing mit Ayurveda
+title: "Event: Workshop - Wellbeing mit Ayurveda"
 publishedAt: 2024-01-25T09:55:33.077Z
 ---
 # Mehr Leichtigkeit im Leben
