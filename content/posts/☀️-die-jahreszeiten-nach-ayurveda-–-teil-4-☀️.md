@@ -1,6 +1,6 @@
 ---
 title: ☀️ Die Jahreszeiten nach Ayurveda – Teil 4 ☀️
-publishedAt: 2024-04-26T16:02:00.000Z
+publishedAt: 2024-04-22T18:02:00.000Z
 ---
 ![Frau im sommerlichen Blütenmehr](/images/23_sommer.webp "Der Somme in seiner Blütenpracht")
 
