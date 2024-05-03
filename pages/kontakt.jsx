@@ -23,7 +23,7 @@ export default function ContactPage(props) {
                 }}/>
                 mit google maps aufrufen                
             </Link>
-            <Link   href="tel:+41794500000" className="address-map-link"
+            <Link   href="tel:+41796184714" className="address-map-link"
                     target="_blank" rel="noreferrer">
                 <img src="phone.svg" alt="Phone Icon" style={{
                     width: '1.5em', float: 'left', display: 'inline-block', marginRight: '0.2em'
