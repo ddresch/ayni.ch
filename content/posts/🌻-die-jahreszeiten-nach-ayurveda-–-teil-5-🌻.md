@@ -1,6 +1,6 @@
 ---
 title: 🌻 Die Jahreszeiten nach Ayurveda – Teil 5 🌻
-publishedAt: 2024-06-18T11:36:00.000Z
+publishedAt: 2024-06-22T13:36:00.000Z
 ---
 ![Sonnenblumenfeld unter weissen Wolken und blauem Himmel](/images/24_hochsommer.webp "Sonnenblumenprach im Hochsommer")
 
@@ -16,7 +16,7 @@ Daher sollten wir alles Extreme vermeiden, wie z. B. längere Zeit in extremer H
 
 Im Allgemeinen sollten salzige, saure, scharfe und sehr heisse Speisen vermieden werden, da diese Pitta erhöhen. Süsse, bittere oder herbe Lebensmittel sind zu bevorzugen, da sie eine kühlende Wirkung haben und Pitta reduzieren.
 
-> ‘’Pitta ist erhöht, Agni zu schwach
+> Pitta ist erhöht, Agni zu schwach
 
 Viel Flüssigkeit, saftiges Essen und leicht verdauliches verhelfen wohltuender Leichtigkeit. Dosha spezifische frische Kräuter und Lebensmittel mit bitterem und adstringierendem Geschmack fördern Agni und Wohlbefinden. 
 
