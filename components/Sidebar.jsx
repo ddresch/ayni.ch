@@ -55,7 +55,7 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
                         onClick={() => {
                             const parts = url.split('/')
                             if(parts.length > 1) {
-                                console.log("parts",parts[0])
+                                // console.log("parts",parts[0])
                                 setSubtree(parts[0])
                             }                            
                             toggleSidebar()
@@ -67,7 +67,7 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
     }
 
     const SubNav = ({label, children}) => {
-        console.log('selectedSubtree', selectedSubtree)
+        // console.log('selectedSubtree', selectedSubtree)
         return (
             <li className={`${(selectedSubtree === label.toLowerCase()) ? styles.selected : ''}`}
                 onClick={() => toggleSubtree(label.toLowerCase())}>{label}    
@@ -108,7 +108,7 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
                         }}
                     >
                         <ul className={styles.navList}>
-                            <NavLink url="/" label="Willkommen" />
+                            <NavLink url="" label="Willkommen" />
                             <NavLink url="ueber-mich" label="Über mich" />
                             <SubNav label="Angebot">
                                 <NavLink url="angebot/wellbeing" label="ayni - wellbeing" />
