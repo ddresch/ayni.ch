@@ -21,5 +21,8 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string"}
       - { label: "Subtitle", name: "subtitle", widget: "string"}
+      - { label: "SEO Title", name: "seoTitle", widget: "string"}
+      - { label: "SEO Description", name: "seoDescription", widget: "string"}
+      - { label: "SEO Keywords", name: "seoKeywords", widget: "string"}
       - { label: "Publish Date", name: "publishedAt", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown"}
