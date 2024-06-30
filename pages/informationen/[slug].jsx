@@ -43,7 +43,7 @@ export async function getStaticProps({ params: { slug } }) {
 }
   
 export async function getStaticPaths() {
-  const filesInProjects = fs.readdirSync('./content/posts')
+  const filesInProjects = fs.readdirSync('./content/informations')
 
   // Getting the filenames excluding .md extension
   // and returning an array containing slug (the filename) as params for every route
