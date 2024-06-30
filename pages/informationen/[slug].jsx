@@ -10,7 +10,7 @@ import Markdown from 'react-markdown'
 export default function Post({ frontmatter, markdown}) {
   return (<>
       <Head>
-        <title>CMS Page: {frontmatter.title}</title>
+        <title>{frontmatter.title}</title>
         <meta name="description" content="Entdecken Sie ayni balance für ganzheitliche Lösungen bei stressbedingten Beschwerden und Burnout in Basel. Wir bieten individuelle Therapiepläne, Stressbewältigungsstrategien, Achtsamkeitstraining und Ayurvedische Massagen. Erstgespräch ab 150 CHF. Krankenkassen-akzeptiert. Finden Sie Ihre innere Balance heute." />
         <meta name="keywords" content="ayni balance, Stressbewältigung, Burnout, Resilienz, Achtsamkeit, Mentaltraining, Stressmanagement" />
       </Head>
