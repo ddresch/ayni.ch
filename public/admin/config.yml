@@ -3,6 +3,7 @@ backend:
   branch: master # Branch to update (optional; defaults to master)
 media_folder: public/images
 public_folder: /images
+logo_url: https://ayni.ch/logo-ayni.svg
 collections:
   - label: "Aktuelles" 
     name: "posts"
@@ -10,5 +11,15 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string"}
+      - { label: "Publish Date", name: "publishedAt", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown"}
+  - label: "Informationen" 
+    name: "informations"
+    folder: "content/informations"
+    create: true
+    delete: false    
+    fields:
+      - { label: "Title", name: "title", widget: "string"}
+      - { label: "Subtitle", name: "subtitle", widget: "string"}
       - { label: "Publish Date", name: "publishedAt", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown"}
