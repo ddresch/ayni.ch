@@ -1,7 +1,7 @@
 ---
 title: ayurveda massagen
-subtitle: übersicht behandlungen
-seoTitle: Ayurveda Massagen in Basel
+subtitle: körperzentriert, ausgleichend & wohltuend
+seoTitle: Ayurveda Massagen und Behandlungen in Basel
 seoDescription: Erfahren Sie mehr über Ayurveda, das Wissen vom Leben, bei ayni
   in Basel. Entdecken Sie die Grundlagen der 3 Doshas - Vata, Pitta, Kapha - und
   die Gunas für mentale Balance. Ziel des Ayurveda ist Svastha, das Verweilen im
