@@ -120,10 +120,11 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
                             <NavLink url="aktuelles" label="Aktuelles" />
                             <SubNav label="Informationen">
                                 <NavLink url="informationen/ayurveda" label="Ayurveda" />
-                                <NavLink url="informationen/leadership-circle-profile" label="Leadership Circle Profile" />
-                                <NavLink url="informationen/coaching-psychologische-beratung" label="Coaching und psychologische Beratung"/>
-                                <NavLink url="informationen/resilienz-mentaltraining" label="Resilienz-, und Mentaltraining"/>
-                                {/* <NavLink url="informationen/corporate-wellbeing" label="Corporate Wellbeing"/> */}
+                                <NavLink url="informationen/komplement%C3%A4rtherapie" label="Komplementärtherapie" />
+                                <NavLink url="informationen/resilienz-mentaltraining" label="Resilienz-, und Mentaltraining"/>                                                                
+                                <NavLink url="informationen/coaching-psychologische-beratung" label="Coaching und Beratung"/> 
+                                <NavLink url="informationen/leadership-circle-profile" label="Leadership Circle Profile" />                               
+                                <NavLink url="informationen/corporate-wellbeing" label="Corporate Wellbeing"/>
                             </SubNav>
                             <NavLink url="testimonials" label="Testimonials" />
                             <NavLink url="kontakt" label="Kontakt" />

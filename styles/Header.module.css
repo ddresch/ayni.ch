@@ -1,6 +1,6 @@
 .navOpen {
-  width: 400px;
-  height: 550px;
+  width: 650px;
+  height: 950px;
   transition: all 0.5s linear;
   filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.4));
 }
@@ -21,6 +21,7 @@
 
 .navList li {
   margin: 10px 0;
+  padding: 0.2%;
 }
 
 .navList li:hover {
