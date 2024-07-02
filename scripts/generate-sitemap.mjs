@@ -27,11 +27,15 @@ async function generateSitemap() {
     '!pages/_*.js',
     '!pages/api',
     '!pages/aktuelles/[slug].jsx',
+    '!pages/informationen/[slug].jsx',
+    '!pages/angebot/[slug].jsx',
     '!pages/[slug].jsx',
   ])
   // blog posts pages
   const posts = await globby([
     'content/posts/**/*.md',
+    'content/angebote/**/*.md',
+    'content/informations/**/*.md',
   ])
   const sitemap = `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     ${pages.map(addPage).join('\n')}
