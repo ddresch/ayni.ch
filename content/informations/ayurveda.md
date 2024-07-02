@@ -1,9 +1,13 @@
 ---
-title: Ayurveda
+title: ayurveda
 subtitle: das wissen vom leben
 seoTitle: Ayurveda Praxis in Basel
-seoDescription: Erfahren Sie mehr über Ayurveda, das Wissen vom Leben, bei ayni in Basel. Entdecken Sie die Grundlagen der 3 Doshas - Vata, Pitta, Kapha - und die Gunas für mentale Balance. Ziel des Ayurveda ist Svastha, das Verweilen im Selbst, durch die richtige Balance von Körper, Geist und Seele.
-seoKeywords: Ayurveda, Doshas, Vata, Pitta, Kapha, Gunas, Tamas, Rajas, Sattva, Lebensphilosophie, Gesundheit
+seoDescription: Erfahren Sie mehr über Ayurveda, das Wissen vom Leben, bei ayni
+  in Basel. Entdecken Sie die Grundlagen der 3 Doshas - Vata, Pitta, Kapha - und
+  die Gunas für mentale Balance. Ziel des Ayurveda ist Svastha, das Verweilen im
+  Selbst, durch die richtige Balance von Körper, Geist und Seele.
+seoKeywords: Ayurveda, Doshas, Vata, Pitta, Kapha, Gunas, Tamas, Rajas, Sattva,
+  Lebensphilosophie, Gesundheit
 publishedAt: 2023-02-01T14:00:32.566Z
 ---
 Das Wort Ayurveda aus dem Sanskrit bedeutet übersetzt *“das Wissen vom Leben”*.
@@ -16,7 +20,7 @@ Caraka, der berühmte Ayurveda-Arzt und Philosoph (ca. 400 v. Chr.) beschrieb di
 
 Mit Teilen sind die fünf Elemente: Wasser, Feuer, Erde, Luft und Äther/Raum, also die Bausteine des Universums gemeint.
 
->Ziel des Ayurveda ist Svastha, das verweilen im Selbst.
+> Ziel des Ayurveda ist Svastha, das verweilen im Selbst.
 
 Ein Hauptwerkzeug bei der Anwendung von Ayurveda ist die Klassifizierung von drei fundamentalen bioenergetischen Prinzipien, bekannt als die 3 Doshas:
 
@@ -30,8 +34,8 @@ So wie unser Körper von den drei Doshas regiert wird, so bestimmen auch drei ge
 
 Die sogenannten Gunas werden auch als Doshas des Geistes bezeichnet und bestimmen mit ihren Ausprägungen die emotionalen und intellektuellen Qualitäten, Interessen, Schwächen und Stärken unserer Psyche auf den drei Attributen des Geistes:
 
-* Tamas
-* Rajas
-* Sattva
+* Sattva - Tugend, Liebe und Zuversicht
+* Rajas - Leidenschaft, Aggression und Wut
+* Tamas - Unwissenheit, Lethargie und Schwere
 
 Ziel des Ayurveda ist Svastha, das Verweilen im Selbst. Es bedeutet den Körper, Geist und Seele zu stärken und den Menschen somit Gesund zu halten in allen Lebensbereichen.
