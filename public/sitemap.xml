@@ -8,6 +8,10 @@
     <changefreq>hourly</changefreq>
   </url>
   <url>
+    <loc>https://ayni.ch/qr-contact</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
     <loc>https://ayni.ch/testimonials</loc>
     <changefreq>hourly</changefreq>
   </url>
@@ -40,7 +44,11 @@
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/informationen/ayurveda-massagen</loc>
+    <loc>https://ayni.ch/informationen/[slug]</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/ayurveda-massagen-org</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
@@ -64,7 +72,23 @@
     <changefreq>hourly</changefreq>
   </url>
       <url>
+    <loc>https://ayni.ch/aktuelles/die-doshas</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/die-gunas</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
     <loc>https://ayni.ch/aktuelles/die-jahrenzeiten-nach-ayurveda-teil-1</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/hypokras</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/vollkommene-gesundheit</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
@@ -72,7 +96,23 @@
     <changefreq>hourly</changefreq>
   </url>
   <url>
+    <loc>https://ayni.ch/aktuelles/wellbeing-mit-ayurveda</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/☀️-die-jahreszeiten-nach-ayurveda-–-teil-4-☀️</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
     <loc>https://ayni.ch/aktuelles/❄️-die-jahreszeiten-nach-ayurveda-teil-2-❄️</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🌷-die-jahreszeiten-nach-ayurveda-–-teil-3-🌷</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🌻-die-jahreszeiten-nach-ayurveda-–-teil-5-🌻</loc>
     <changefreq>hourly</changefreq>
   </url>
   </urlset>
