@@ -50,7 +50,7 @@ export default function Page({ frontmatter, markdown}) {
 }
 
 
-export async function getStaticProps({ params: { slug } }) {
+export async function getStaticProps() {
   const fileContent = matter(fs.readFileSync(`./content/allgemein/testimonials.md`, 'utf8'), {
     engines: {yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA })}
   })
