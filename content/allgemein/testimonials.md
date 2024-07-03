@@ -10,7 +10,7 @@ seoKeywords: Ayurveda, Doshas, Vata, Pitta, Kapha, Gunas, Tamas, Rajas, Sattva,
   Lebensphilosophie, Gesundheit
 publishedAt: 2023-02-01T14:00:32.566Z
 testimonial:
-  - title: Angelica, 43, Swizterland
+  - title: Angelica, 43, Switzerland
     description: >-
       I have met Silvia in one of the most challenging times of my life
       healthwise. 
