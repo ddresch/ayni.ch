@@ -62,7 +62,7 @@ block2: >-
   * Die meisten Krankenkassen übernehmen über die Zusatzversicherung einen Teil der Behandlungskosten. Bitte vorgängig abklären.
 
 
-  Ich bin beim EMR (Erfahrungsmedizinisches Register) mit der Methode Nr. 4041 - Branchenzertifikat OdA KT - Methode Ayurveda Therapie und Nr. 57 - Ayurveda-Ernährung und -Massage registriert. Meine ZSR-Nr. lautet F459364.
+  Ich bin beim EMR ([Erfahrungsmedizinisches Register](https://emr.ch/therapeut/silvia.ferlito/)) mit der Methode Nr. 4041 - Branchenzertifikat OdA KT - Methode Ayurveda Therapie und Nr. 57 - Ayurveda-Ernährung und -Massage registriert. Meine ZSR-Nr. lautet F459364.
 
 
   ![EMR Logo](/images/emr-logo-color.svg)
