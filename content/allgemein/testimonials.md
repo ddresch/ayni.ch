@@ -51,4 +51,26 @@ testimonial:
 
 
       Die Ayurveda Massage war wundervoll wohltuend, angenehm und entspannend. Silvia ging auf meine individuellen Bedürfnisse ein und passte den Druck ihrer Griffe an, was ich sehr schätze. Ich fühlte mich bei ihr in kompetenten Händen gut aufgehoben und konnte einfach geniessen.
+  - title: Angelica, 43, Swizterland
+    description: >-
+      I have met Silvia in one of the most challenging times of my life
+      healthwise. 
+
+
+      From day one I could sense that Silvia has a genuine interest in helping people to heal and find purpose again.
+
+
+      Not only is she a very talented and empathetic ayurvedic therapist, but also a great human being!
+
+
+      Thanks to her kind way, she has enlightened my path with her incredible positive thinking, helping me to see things from different perspectives and to believe in myself and in the infinite self-healing potential of my body. 
+
+
+      Her ayurvedic treatments and nutritional advice to maintain my lymphatic system active/clean as well as to calm my mind and soul, have been very powerful and healing.
+
+
+      Today I can finally see that light that she once told me I would have soon seen again. I have learnt to listen to my body when it's about nutritional needs and to create the space I need to breathe, when life becomes too demanding on me.
+
+
+      If you ever decide to try and undergo a healing journey with Silvia, she will gently accompany you on a journey of self-discovery, new awareness and self healing.
 ---
