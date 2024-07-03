@@ -59,7 +59,7 @@ block2: >-
 
   * Jede komplementärtherapeutische Sitzung beinhaltet ein Vorgespräch, die Behandlung und ein Nachgespräch
 
-  * Die meisten Krankenkassen übernehmen über die Zusatzversicherung einen Teil der Behandlungskosten. 
+  * Die meisten Krankenkassen übernehmen über die Zusatzversicherung einen Teil der Behandlungskosten. Bitte vorgängig abklären.
 
     Ich bin beim EMR (Erfahrungsmedizinisches Register) mit der Methode Nr. 4041 - Branchenzertifikat OdA KT - Methode Ayurveda Therapie und Nr. 57 - Ayurveda-Ernährung und -Massage registriert. Meine ZSR-Nr. lautet F459364.
 ---
