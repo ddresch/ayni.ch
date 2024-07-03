@@ -40,7 +40,7 @@ boxContent: >-
 
   * Meditation, Achtsamkeitstraining, Progressive Muskelrelaxation (PMR) nach Edmond Jacobson, Atemtechniken aus dem Yoga und somit Förderung der Genesungskompetenz
 
-  * Körperzentrierte Manual Therapien und Massagen nach Ayurveda [mehr erfahren](/informationen/ayurveda-massagen)
+  * Körperzentrierte Manual Therapien und Massagen nach Ayurveda [mehr erfahren](https://www.ayni.ch/informationen/ayurveda-massagen)
 block2: >-
   ## Ablauf
 
