@@ -41,8 +41,7 @@ boxContent: >-
 
   * Ayurveda Kochkurse und Seminare
 
-
-  Körperzentrierte Manual Therapien und Massagen nach Ayurveda [mehr erfahren](/informationen/ayurveda-massagen)
+  * Körperzentrierte Manual Therapien und Massagen nach Ayurveda [mehr erfahren](https://www.ayni.ch/informationen/ayurveda-massagen)
 block2: >-
   ## Ablauf
 
