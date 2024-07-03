@@ -29,12 +29,17 @@ block1: >-
 
   * du Resilienz, Gesundheit und Freude als Ziel für Deine Mitarbeiter und Organisation siehst
 boxHeadline: Angebot
-boxContent: |-
-  - Einzelsitzungen z.B. Geistiges Gleichgewicht (Tri-Vargas Coaching)
-  - Seminare zum Thema mentale Gesundheit aus ayurvedischer Sicht
-  - Resilienz- und Achtsamkeitstraining
-  - Seminare zu Kommunikation und Teamdynamik basiert auf Typenkonstitution
-  - Seminare zum Thema Ernährung und Wellbeing
+boxContent: >-
+  * Einzelsitzungen z.B. Geistiges Gleichgewicht (Tri-Vargas Coaching: Auflösung
+  der 3-er Matrix von Handlungen/Purpose, Wohlstand und Wünschen)
+
+  * Seminare zum Thema mentale Gesundheit aus ayurvedischer Sicht
+
+  * Resilienz- und Achtsamkeitstraining
+
+  * Seminare zu Kommunikation und Teamdynamik basiert auf Typenkonstitution
+
+  * Seminare zum Thema Ernährung und Wellbeing
 block2: >-
   ## Ablauf
 
