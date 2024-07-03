@@ -73,7 +73,7 @@ collections:
           - { label: "SEO Keywords", name: "seoKeywords", widget: "string"}
           - { label: "Block 1", name: "description", widget: "markdown"}
           - { label: "Box Headline", name: "boxHeadline", widget: "string"}
-          - { label: "Box Headline", name: "boxHeadline", widget: "string"}
+          - { label: "Box Subheadline", name: "boxSubheadline", widget: "string"}
           - { label: "Box Content", name: "boxContent", widget: "markdown"}
 
       
