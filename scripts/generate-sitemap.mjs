@@ -13,7 +13,7 @@ const addPage = (page) => {
   // const path = page.replace('pages', '').replace('.mdx', '').replace('.jsx', '').replace('.js', '').replace('.md', '')
   const path = replaceWithBlank(page, ['pages', '.mdx', '.jsx', '.js', '.md', 'index'])
     .replace('content/posts/', '/aktuelles/')
-    .replace('content/informationen/', '/informationen/')
+    .replace('content/informations/', '/informationen/')
     .replace('content/angebote/', '/angebot/')
     .replace('content/allgemein/', '/')
   const route = path === '/index' ? '' : path
