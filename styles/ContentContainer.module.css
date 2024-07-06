@@ -8,6 +8,10 @@ div.contentContainer p {
   line-height: 25px;
 }
 
+div.contentContainer a {
+  color: rgb(207,77,111);
+}
+
 div.quads1 {
   width: 100%;
   padding: 15% 10% 25% 5%;  
