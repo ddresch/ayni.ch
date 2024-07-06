@@ -47,6 +47,36 @@ collections:
     create: true
     delete: false    
     files:
+      - label: "Startseite"
+        name: "startpage"
+        file: "content/allgemein/startseite.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string"}
+          - { label: "Subtitle", name: "subtitle", widget: "string"}
+          - { label: "SEO Title", name: "seoTitle", widget: "string"}
+          - { label: "SEO Description", name: "seoDescription", widget: "string"}
+          - { label: "SEO Keywords", name: "seoKeywords", widget: "string"}
+          - { label: "Block 1", name: "description", widget: "markdown"}
+          - label: Angebote
+            name: offers
+            widget: list
+            fields:
+              - {label: Titel, name: title, widget: string}
+              - {label: Beschreibung, name: description, widget: string}
+              - {label: Link, name: link, widget: string}
+      - label: "Über mich"
+        name: "about-me"
+        file: "content/allgemein/ueber-mich.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string"}
+          - { label: "Subtitle", name: "subtitle", widget: "string"}
+          - { label: "SEO Title", name: "seoTitle", widget: "string"}
+          - { label: "SEO Description", name: "seoDescription", widget: "string"}
+          - { label: "SEO Keywords", name: "seoKeywords", widget: "string"}
+          - { label: "Block 1", name: "description", widget: "markdown"}
+          - { label: "Box Headline", name: "boxHeadline", widget: "string"}
+          - { label: "Box Subheadline", name: "boxSubheadline", widget: "string"}
+          - { label: "Box Content", name: "boxContent", widget: "markdown"}
       - label: "Testimonials"
         name: "testimonials"
         file: "content/allgemein/testimonials.md"
@@ -62,19 +92,6 @@ collections:
             fields:
               - {label: Titel, name: title, widget: string}
               - {label: Beschreibung, name: description, widget: markdown}
-      - label: "Über mich"
-        name: "about-me"
-        file: "content/allgemein/ueber-mich.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string"}
-          - { label: "Subtitle", name: "subtitle", widget: "string"}
-          - { label: "SEO Title", name: "seoTitle", widget: "string"}
-          - { label: "SEO Description", name: "seoDescription", widget: "string"}
-          - { label: "SEO Keywords", name: "seoKeywords", widget: "string"}
-          - { label: "Block 1", name: "description", widget: "markdown"}
-          - { label: "Box Headline", name: "boxHeadline", widget: "string"}
-          - { label: "Box Subheadline", name: "boxSubheadline", widget: "string"}
-          - { label: "Box Content", name: "boxContent", widget: "markdown"}
 
       
   
