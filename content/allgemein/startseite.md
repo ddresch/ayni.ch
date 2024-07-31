@@ -38,12 +38,14 @@ description: >-
   Deine Silvia Ferlito
 offers:
   - title: ayni wellbeing
-    description: Individuelle Ayurveda Ernährungs-, Gesundheitsberatung und
-      Massagetherapie für ein gesundes und energievolles Leben
+    description: Individuelle, komplementärtherapeutische Begleitung mit Ayurveda
+      Ernährungs-, Gesundheitsberatung und körperzentrierter Massagetherapie für
+      ein gesundes und energievolles Leben
     link: angebot/wellbeing
   - title: ayni balance
     description: Ganzheitliche Lösungswege für stressbedingte Beschwerden, Burnout,
-      Resilienz und Mentaltraining
+      Stärkung von Resilienz und Mentaltraining mit komplementärtherapeutischer
+      Begleitung
     link: angebot/balance
   - title: ayni beratung
     description: Coaching, Mentaltraining und Psychologische Beratung des Ayurveda
@@ -54,7 +56,7 @@ offers:
       360 Grad Bewertung und bei der Bewältgung von Lebenskrisen
     link: angebot/leadership
   - title: ayni corporate
-    description: Ganzheitliche Lösungswege für ein Nachhaltiges Corporate & Employee
-      Wellbeing
+    description: Integrative Lösungsansätze für ein Nachhaltiges Corporate &
+      Employee Wellbeing
     link: angebot/corporate
 ---
