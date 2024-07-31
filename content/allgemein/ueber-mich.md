@@ -42,15 +42,15 @@ description: >-
 boxHeadline: Meine Ausbildungen
 boxSubheadline: im leben lernt man nie aus
 boxContent: |-
-  - Ayurveda Komplementärtherapeutin i.A.
-  - Diplom Ayurveda Ernährungs- und Massage Therapeutin
-  - Zert. Ayurveda Ernährungs und Gesundheitsberaterin
-  - Zert. Psychologische Ayurveda Beraterin
-  - SVEB 1 Erwachsenenbildnerin
-  - CAS Dipl. Stress-, Resilienz-, Mental Coach
-  - CAS Dipl. Mental Trainerin
-  - CAS Integral Coach
-  - CAS General Management
-  - CAS Strategisches Leadership
-  - Dipl. Betriebswirtin (Bachelor of Arts)
+  * Komplementärtherapeutin BZ OdA KT - Methode Ayurveda Therapie 
+  * Diplom Ayurveda Ernährungs- und Massage Therapeutin
+  * Zert. Ayurveda Ernährungs und Gesundheitsberaterin
+  * Zert. Psychologische Ayurveda Beraterin
+  * SVEB 1 Erwachsenenbildnerin
+  * CAS Dipl. Stress-, Resilienz-, Mental Coach
+  * CAS Dipl. Mental Trainerin
+  * CAS Integral Coach
+  * CAS General Management
+  * CAS Strategisches Leadership
+  * Dipl. Betriebswirtin (Bachelor of Arts)
 ---
