@@ -33,7 +33,7 @@ In unseren Gefilden ist der Sommer dieses Jahr sehr spät eingezogen. Die Tage z
 💡Gegenläufige Qualitäten gleichen sich aus: bei Hitze – kühlen, bei Kälte -wärmen\
 💡Regelmässige Ruhepausen und genug Bewegung in den Alltag einbauen\
 💡tief Atmen\
-💡& für die Basler unter uns beim Rhybade abkühle😀
+💡& für die Basler unter uns wenn's z'heiss isch biim Rhyschwimme abkühle 😀
 
 Leidet dein Körper und Geist unter der noch grossen Hitze und dem Wechsel der Jahreszeit? Melde dich unverbindlich und wir schauen gemeinsam was Ayurveda zu deinem Wohlbefinden beitragen kann.
 
