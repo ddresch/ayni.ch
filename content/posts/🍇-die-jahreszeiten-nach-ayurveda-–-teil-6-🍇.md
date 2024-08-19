@@ -1,6 +1,6 @@
 ---
 title: "🍇  Die Jahreszeiten nach Ayurveda – Teil 6 🍇 "
-publishedAt: 2024-06-22T13:36:00.000Z
+publishedAt: 2024-08-19T11:05:00.000Z
 ---
 ![Sonne scheint durch Herbstlaub](/images/25_herbst.webp "Herbstlaub")
 
