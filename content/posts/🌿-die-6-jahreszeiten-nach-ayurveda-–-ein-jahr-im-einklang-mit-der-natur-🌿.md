@@ -1,6 +1,6 @@
 ---
 title: 🌿 Die 6 Jahreszeiten nach Ayurveda – Ein Jahr im Einklang mit der Natur 🌿
-publishedAt: 2024-10-15T15:30:00.000Z
+publishedAt: 2024-10-04T17:30:00.000Z
 ---
 ![Portrait](/images/summary_portrait.webp "Praxis ayni Portrait")
 
