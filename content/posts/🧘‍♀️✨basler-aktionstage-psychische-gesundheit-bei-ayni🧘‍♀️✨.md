@@ -4,9 +4,9 @@ publishedAt: 2024-10-16T11:17:00.000Z
 ---
 ![hand lending a heart](/images/28_psychischegesundheit_help.webp "A helping hand and heart")
 
-# Entdecke die Heilkraft der Berührung 
+# Entdecke die Heilkraft der Berührung
 
-## vom 20. bis 31. Oktober 
+## vom 20. bis 31. Oktober
 
 Vom 20. bis 31. Oktober finden die Basler Aktionstage Psychische Gesundheit statt – eine grossartige Gelegenheit, um sich über psychische Gesundheit auszutauschen, Vorurteile abzubauen und neue Wege zur Stärkung des Wohlbefindens zu entdecken.
 
@@ -18,7 +18,7 @@ In einer Welt, die immer berührungsärmer wird, vergessen wir oft, wie wichtig 
 
 👉 Sichere dir jetzt einen Termin und erfahre mehr! 🌿✨
 
-📆 https://meet.brevo.com/ayni\
+📆 [Online Terminvereinbarung](https://meet.brevo.com/ayni)\
 📞Kontakt: +41 79 618 47 14 oder gruezi@ayni.ch
 
 Lass uns gemeinsam das Tabu um psychische Gesundheit brechen und neue Wege der Selbstfürsorge entdecken! 💚
