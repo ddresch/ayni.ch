@@ -28,4 +28,4 @@ Willkommen bei ayni - Praxis für Ayurveda KomplementärTherapie, Beratung & Coa
 
 \- - -
 
-Photo by [Mohamed Nohassi ](<Unsplash https://unsplash.com/photos/silhouette-of-person-standing-on-rock-surrounded-by-body-of-water-odxB5oIG_iA>)[](<Unsplash https://unsplash.com/photos/silhouette-of-person-standing-on-rock-surrounded-by-body-of-water-odxB5oIG_iA>)
+Photo by [Mohamed Nohassi ](https://unsplash.com/photos/silhouette-of-person-standing-on-rock-surrounded-by-body-of-water-odxB5oIG_iA)[](https://unsplash.com/photos/silhouette-of-person-standing-on-rock-surrounded-by-body-of-water-odxB5oIG_iA)
