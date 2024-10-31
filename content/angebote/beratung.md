@@ -59,7 +59,7 @@ block2: >-
 
   * Jede komplementärtherapeutische Sitzung beinhaltet ein Vorgespräch, die Behandlung und ein Nachgespräch
 
-  * Die meisten Krankenkassen übernehmen über die Zusatzversicherung einen Teil der komplementärtherapeutische Behandlungskosten. Bitte vorgängig abklären.
+  * Die meisten Krankenkassen übernehmen über die Zusatzversicherung einen Teil der komplementärtherapeutischen Behandlungskosten. Bitte vorgängig abklären.
 
 
   Ich bin beim EMR ([Erfahrungsmedizinisches Register](https://emr.ch/therapeut/silvia.ferlito/)) mit der Methode Nr. 4041 - Branchenzertifikat OdA KT - Methode Ayurveda Therapie und Nr. 57 - Ayurveda-Ernährung und -Massage registriert. 
