@@ -1,5 +1,5 @@
 ---
-title: 🧘‍♀️✨Basler Aktionstage Psychische Gesundheit bei ayni🧘‍♀️✨
+title: 🧘‍♀️✨ Basler Aktionstage Psychische Gesundheit bei ayni ✨🧘‍♀️
 publishedAt: 2024-10-16T11:17:00.000Z
 ---
 ![hand lending a heart](/images/28_psychischegesundheit_help.webp "A helping hand and heart")
