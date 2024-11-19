@@ -1,5 +1,5 @@
 ---
-title: "Vollkommene Gesundheit "
+title: "⚖️ Vollkommene Gesundheit "
 publishedAt: 2022-12-14T11:00:00.000Z
 ---
 ![Kind isst Süssigkeiten](/images/2_vollkommene-gesundheit.webp "Süssigkeiten im Leben")
