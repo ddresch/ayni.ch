@@ -1,5 +1,5 @@
 ---
-title: Die Gunas
+title: 🧘🏻‍♀️ Die Gunas
 publishedAt: 2023-02-01T14:00:32.566Z
 ---
 ![Junge Frau lehnt ihren Kopf zur Seite](/images/5_die-gunas.webp "In Gedanken")
