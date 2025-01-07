@@ -6,7 +6,7 @@ publishedAt: 2025-01-07T16:51:00.000Z
 
 # Mach den Dosha-Check!
 
-### Finde heraus was dich antreibt uns starte dein 2025 voller Energie
+## Finde heraus was dich antreibt uns starte dein 2025 voller Energie
 
 Das neue Jahr ist der perfekte Zeitpunkt, um Deine Ziele mit mehr Leichtigkeit und weniger Stress zu erreichen. Ayurveda bietet Dir die Möglichkeit, Dein Jahr im Einklang mit Deinem einzigartigen Dosha-Typ zu gestalten. Jeder von uns hat eine ganz eigene Energie, die bestimmt, wie wir durch das Jahr gehen. Finde heraus, was Dich wirklich antreibt (und was Dich vielleicht auch blockiert).
 
@@ -28,8 +28,6 @@ Stabil und ausdauernd, aber manchmal träge. Bewegung ist der Schlüssel, um Dei
 
 *Tendenz*: Lethargie/Depressionen!
 
-
-
 **Was Du tun kannst:**
 
 **Vata**: Wärmende, nährende Mahlzeiten und Atemübungen.
@@ -40,10 +38,6 @@ Stabil und ausdauernd, aber manchmal träge. Bewegung ist der Schlüssel, um Dei
 
 👉 Mach den Dosha-Check und starte Dein Jahr im Einklang mit Deinem natürlichen Rhythmus! Schau Dir die Slides an und entdecke, was am ehesten zu Dir passt. Womöglich bist Du auch ein Mischtyp. Beachte, dass dies keine therapeutische Diagnose darstellt, sondern eine Hilfestellung für Dich ist.
 
-
-
 Willst du mehr wissen und dich individuell beraten lassen? ayni ist für dich da! 
-
-
 
 [Photo by Simon Maage](https://unsplash.com/de/fotos/photo-of-three-women-lifting-there-hands-tXiMrX3Gc-g)
