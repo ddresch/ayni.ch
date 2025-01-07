@@ -1,5 +1,5 @@
 ---
-title: 🌿✨ Happy World Ayurveda Day ✨🌿
+title: ✨ Happy World Ayurveda Day ✨
 publishedAt: 2024-10-29T12:00:00.000Z
 ---
 ![hands holding candle](/images/29_dhanvantari.webp "Hand holding a candle for Dhantera")
