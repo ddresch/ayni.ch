@@ -25,7 +25,7 @@ Corporate Wellbeing trägt einen wesentlichen Beitrag zur Steigerung der Mitarbe
 
 **Vision**
 
-Meine Passion ist es Mensch und Gesellschaft zu einem neuen Gesundheitsverständnis und ihrer ganz persönlichen Balance heranzuführen ob im Therapie Setting, bei Meditationskursen, in Kochkursen, Seminaren, Kreativen Workshops, Vorträgen oder der betrieblichen Gesundheitsförderung im Rahmen des Corporate Wellbeing. 
+Meine Passion ist es Mensch und Gesellschaft zu einem neuen Gesundheitsverständnis und ihrer ganz persönlichen Balance heranzuführen ob im Therapie Setting, bei Meditationskursen, in Kochkursen, Seminaren, kreativen Workshops, Vorträgen oder der betrieblichen Gesundheitsförderung im Rahmen des Corporate Wellbeing. 
 
 Der Ayurveda kann sich mit seiner Vielfalt an Möglichkeiten, von Körpertherapie über Ernährung bis zu Bewegung und Entspannungsmethoden, sehr gut in die Bedürfnisser der heutigen Zeit einreihen und nachhaltig die Gesundheit und das Wohlbefinden fördern. 
 
