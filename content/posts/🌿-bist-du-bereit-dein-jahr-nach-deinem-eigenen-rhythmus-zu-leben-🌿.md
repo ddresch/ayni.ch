@@ -38,7 +38,7 @@ Stabil und ausdauernd, aber manchmal träge. Bewegung ist der Schlüssel, um Dei
 
 ![Dosha Overview](/images/1_1_dosha_check_2.webp "Die 3 Dosas")
 
-👉 Mach den Dosha-Check und starte Dein Jahr im Einklang mit Deinem natürlichen Rhythmus! Schau Dir die [Slides](<>) an und entdecke, was am ehesten zu Dir passt. Womöglich bist Du auch ein Mischtyp. 
+👉 [Mach den Dosha-Check](/images/1_dosha_check_summary.pdf) und starte Dein Jahr im Einklang mit Deinem natürlichen Rhythmus! Schau Dir die [Slides](/images/1_dosha_check_summary.pdf) an und entdecke, was am ehesten zu Dir passt. Womöglich bist Du auch ein Mischtyp. 
 
 Beachte, dass dies keine therapeutische Diagnose darstellt, sondern eine Hilfestellung für Dich ist.
 
