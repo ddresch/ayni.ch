@@ -41,16 +41,29 @@ description: >-
   Willkommen in meiner Praxis **ayni** in Basel!
 boxHeadline: Meine Ausbildungen
 boxSubheadline: im leben lernt man nie aus
-boxContent: |-
-  - Ayurveda Komplementärtherapeutin i.A.
-  - Diplom Ayurveda Ernährungs- und Massage Therapeutin
-  - Zert. Ayurveda Ernährungs und Gesundheitsberaterin
-  - Zert. Psychologische Ayurveda Beraterin
-  - SVEB 1 Erwachsenenbildnerin
-  - CAS Dipl. Stress-, Resilienz-, Mental Coach
-  - CAS Dipl. Mental Trainerin
-  - CAS Integral Coach
-  - CAS General Management
-  - CAS Strategisches Leadership
-  - Dipl. Betriebswirtin (Bachelor of Arts)
+boxContent: >-
+  * 2024 KomplementärTherapeutin mit Branchenzertifikat
+  [OdaKT](https://www.oda-kt.ch/methoden-kt/methoden), Methode Ayurveda 
+
+  * 2024 Diplom KomplementärTherapeutin Ayurveda Therapie [REAA](https://ayurveda-akademie.org/akademie/schweiz) / [HPS](https://www.heilpraktikerschule.ch/angebot/ausbildungen/ayurveda/ayurveda-therapie-kt)
+
+  * 2022 Diplom Ayurveda Ernährungs- und Massage Therapeutin [HPS](https://www.heilpraktikerschule.ch/angebot/ausbildungen/ayurveda/ayurveda-ernaehrung-massage)
+
+  * 2022 Zert. Psychologische Ayurveda Beraterin [REAA](https://ayurveda-akademie.org/angebot/ausbildung/ayurveda-psychologie/psychologischer-ayurveda-berater)
+
+  * 2021 Zert. Ayurveda Ernährungs und Gesundheitsberaterin [REAA](https://ayurveda-akademie.org/angebot/ausbildung/ayurveda-ernaehrung/ayurveda-ernaehrungsberater)
+
+  * 2019 SVEB 1 Erwachsenenbildnerin, [Coaching Institut Living Sense](https://coaching-institut.ch/ausbildner-in-sveb/)
+
+  * 2015 CAS Dipl. Mental Trainerin, [Coaching Institut Living Sense](https://coaching-institut.ch/diplom/dipl-transformations-mental-coach-cis/)
+
+  * 2014 CAS Dipl. Stress-, Resilienz-, Mental Coach, [Coaching Institut Living Sense](https://coaching-institut.ch/diplom/dipl-resilienz-stress-coach-cis/)
+
+  * 2012 CAS Integral Coach, [Coaching Institut Living Sense](https://coaching-institut.ch/coaching-zertifikate-ausbildungen/cert-integral-coach-cis/)
+
+  * 2008 CAS General Management, [FH. St.Gallen / OST](https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/wirtschaft/unternehmensfuehrung-und-leadership/cas-strategisches-management-fuer-executives)
+
+  * 2008 CAS Strategisches Leadership, [FH. St.Gallen / OST](https://www.ost.ch/de/weiterbildung/weiterbildungsangebot/wirtschaft/unternehmensfuehrung-und-leadership/cas-leadership-fuer-executives)
+
+  * 2003 Dipl. Betriebswirtin (Bachelor of Arts), [Berufsakademie / Duale Hochschule BW](https://dhbw-loerrach.de/industrie/studieninhalte-profil)
 ---

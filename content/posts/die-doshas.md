@@ -1,5 +1,5 @@
 ---
-title: Die Doshas
+title: 🌎 Die Doshas
 publishedAt: 2023-01-18T12:59:35.760Z
 ---
 ![Drei Steinmännchen schauen Richtung Ozean](/images/3_die-3-doshas.webp "Steinmännchen in Balance")
