@@ -162,10 +162,18 @@ img.content-img-center {
   text-decoration: underline;
 }
 
-.markdown-body img {
+.markdown-body p:first-of-type img {
   width: 100%;
-  float: none;
   shape-margin: 20px;
+}
+
+.markdown-body p:not(:first-of-type) img {
+  width: auto;
+  max-width: 100%;
+}
+
+.markdown-body p img {
+  float: none;
 }
 
 .markdown-body a {
