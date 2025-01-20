@@ -2,11 +2,9 @@
 title: 🌷 Die Jahreszeiten nach Ayurveda – Teil 3 🌷
 publishedAt: 2024-02-20T10:28:31.130Z
 ---
+![Nachaufnahme von weiss- und lila-farbigen Krokussen auf einer Wiese](/images/22_frühling.webp "Krokusse im Frühlingserwachen")
 
-
-![Nachaufnahme von weiss- und lila-farbigen Krokussen auf einer Wiese](/images/22_frühling.webp "Krokusse im Frühlingserwachen")
-
-# Der ayurvedische Frühling 22.02. bis 21.04. 
+# Der ayurvedische Frühling 22.02. bis 21.04.
 
 ## Tierkreiszeichen Fische & Widder
 
