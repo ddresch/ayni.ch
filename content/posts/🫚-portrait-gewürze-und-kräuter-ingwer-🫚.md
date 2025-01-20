@@ -38,6 +38,7 @@ Mit seinen wärmenden und verdauungsfördernden Eigenschaften stärkt er besonde
 ![Karotten Ingwer Supper](/images/1_2_ingwersuppe.webp "KarottenIngwer Suppe")
 
 ✨ **Mein Geheimtipp:** Probiere meinen **Karotten-Ingwer-Kuss** – ein Rezept für wohlige Wärme an kalten Tagen. 🌟
+
 👉Hier geht's zum Rezept: [Karotten-Ingwer-Kuss-Suppe](https://www.ayni.ch/images/2_portrait_gewuerze-und-kraeuter_suppe.pdf)
 
 Photos by [Dominik Martin](https://unsplash.com/photos/person-holding-white-bowl-with-sliced-lime-and-ginger-inside-JYFmYif4n70)[](https://unsplash.com/de/fotos/photo-of-three-women-lifting-there-hands-tXiMrX3Gc-g) und [Jade Aucamp](https://unsplash.com/de/fotos/suppe-mit-sesam-und-brot-OMcrCX6wDpU)[](https://unsplash.com/photos/person-using-magnifying-glass-enlarging-the-appearance-of-his-nose-and-sunglasses-uAFjFsMS3YY)
