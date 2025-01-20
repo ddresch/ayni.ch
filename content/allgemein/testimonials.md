@@ -10,6 +10,19 @@ seoKeywords: Ayurveda, Doshas, Vata, Pitta, Kapha, Gunas, Tamas, Rajas, Sattva,
   Lebensphilosophie, Gesundheit
 publishedAt: 2023-02-01T14:00:32.566Z
 testimonial:
+  - title: Salome, 27, Schweiz
+    description: >-
+      Die Ayurvedabehandlung- und Beratung bei Silvia Ferlito war eine sehr
+      grosse Bereicherung für mich. Ihre aufgeschlossene, professionelle und
+      gleichzeitig sehr warme und nährende Art macht ihre Behandlungen
+      einzigartig. Es war für mich eine Erfahrung, die ich bis anhin nicht
+      kannte.   
+
+
+      Ich verspüre ihr gegenüber ein grosses Vertrauen und konnte vor allem bei den Massagen sogleich entspannen und fühlte mich leichter. 
+
+
+      Von ihrem Wissens- und Erfahrungsschatz durfte ich zudem auch profitieren, sie gab mir sehr wertvolle Tipps und Anleitungen vor allem bezüglich Ernährung. Dadurch hat sich meine Gesundheit deutlich verbessert. Danke für alles!
   - title: Angelica, 43, Switzerland
     description: >-
       I have met Silvia in one of the most challenging times of my life
