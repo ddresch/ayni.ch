@@ -1,5 +1,5 @@
 ---
-title: "🪶Themen Fokus: Hochsensibilität🪶"
+title: "🪶 Themen Fokus: Hochsensibilität 🪶"
 publishedAt: 2025-01-27T10:00:00.000Z
 ---
 ![Frau, die dem Sonnenaufgang entgegenläuft](/images/1_3_hochsensibilität.webp "Ein Hauch von Licht")
