@@ -32,4 +32,4 @@ Wenn du mehr darüber erfahren möchtest, wie AyurvedaTherapie dir helfen kann, 
 
 [](https://www.ayni.ch/images/2_portrait_gewuerze-und-kraeuter_suppe.pdf)
 
-[](https://unsplash.com/de/fotos/eine-frau-in-einem-orangefarbenen-kleid-geht-durch-eine-schlucht-xAPIN3qwZN0)[](https://unsplash.com/de/fotos/eine-frau-in-einem-orangefarbenen-kleid-geht-durch-eine-schlucht-xAPIN3qwZN0)Photo by NEOM on Unsplash
+[Photo by NEOM on Unsplash](https://unsplash.com/de/fotos/eine-frau-in-einem-orangefarbenen-kleid-geht-durch-eine-schlucht-xAPIN3qwZN0)
