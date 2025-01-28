@@ -34,15 +34,12 @@ Mit seinen wärmenden und verdauungsfördernden Eigenschaften stärkt er besonde
 
 ⚠️ **Hinweis:** Ingwer sollte bei **Gallensteinen** oder während der Einnahme von **blutverdünnenden Medikamenten** nur nach Absprache mit einem Arzt verwendet werden. Auch bei Sodbrennen oder empfindlichem Magen vorsichtig einsetzen.
 
-
-
 ![Karotten Ingwer Suppe](/images/1_2_ingwersuppe.webp "Karotten Ingwer Suppe")
 
 [](https://www.ayni.ch/images/2_portrait_gewuerze-und-kraeuter_suppe.pdf)
 
 ✨ **Mein Geheimtipp:** Probiere meinen **Karotten-Ingwer-Kuss** – ein Rezept für wohlige Wärme an kalten Tagen. 🌟
 
-
-👉 Hier geht's zum Rezept
+👉 Hier geht's zum Rezept: [Karotten-Ingwer-Kuss-Suppe](https://www.ayni.ch/images/2_portrait_gewuerze-und-kraeuter_suppe.pdf)
 
 Photos by [Dominik Martin](https://unsplash.com/photos/person-holding-white-bowl-with-sliced-lime-and-ginger-inside-JYFmYif4n70) [](https://unsplash.com/photos/person-holding-white-bowl-with-sliced-lime-and-ginger-inside-JYFmYif4n70)and [Jade Aucamp](https://unsplash.com/de/fotos/suppe-mit-sesam-und-brot-OMcrCX6wDpU)
