@@ -35,11 +35,9 @@ Du möchtest das nicht alleine machen? 🤝 Melde dich bei meiner begleiteten 
 * Rezepte zum Nachkochen
 * Zusätzliche Behandlungen, die deinen Körper und Geist regenerieren 
 
-Gemeinsam mit dem Neumond 🌑 starten wir am 29.3. die diesjährige Upvaas Woche. Sei dabei und sichere dir deinen Platz. Maximal 6-8 Teilnehmer. 
+Gemeinsam mit dem Neumond 🌑 starten wir am **29.3.** die diesjährige Upvaas Woche. Sei dabei und sichere dir deinen Platz. Maximal 6-8 Teilnehmer. 
 
 Mehr infos zum Ablauf hier 👉 [Upvaas Kurablauf](https://www.ayni.ch/images/2_1_ayurveda_upvaas-kur_flyer.pdf)
-
-
 
 ![]()
 
