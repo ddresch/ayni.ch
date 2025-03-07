@@ -43,7 +43,7 @@ block1: >-
   * eine gesunde Balance zwischen Arbeit, Erholung und persönlichen Bedürfnissen zu finden.
 
   * Blockaden zu lösen, um deine innere Kraft und Klarheit zurückzugewinnen und deine Lebensziele mit neuer Energie zu verfolgen, um mehr Zufriedenheit zu erleben.
-boxHeadline: Angebot
+boxHeadline: Methoden
 boxContent: >-
   * Ressourcen, Coaching, Trauerarbeit und -Begleitung
 
