@@ -25,6 +25,8 @@ block1: >-
   Spüre dich selbst bewusster, löse Blockaden und aktiviere deine natürlichen Selbstheilungskräfte.
 
 
+
+
   **ayni wellbeing unterstützt dich bei**
 
 
