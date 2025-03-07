@@ -38,9 +38,9 @@ description: >-
   Deine Silvia Ferlito
 offers:
   - title: ayni wellbeing
-    description: Komplementärtherapeutische Prozessbegleitung vereint
-      Ayurveda-Ernährungstherapie, körperzentrierte Behandlungen und Massagen,
-      Meditation, Achtsamkeit und psychologische Beratung.
+    description: KomplementärTherapie vereint mit Ayurveda-Ernährung,
+      körperzentrierte Behandlungen / Massagen, Meditation, Achtsamkeit und
+      psychologische Beratung.
     link: angebot/wellbeing
   - title: ayni coaching
     description: Integrales Coaching, Mentaltraining und Psychologische Beratung
