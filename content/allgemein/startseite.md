@@ -11,7 +11,7 @@ seoKeywords: Ayurveda, Komplementärtherapie, Basel, Region Basel, Wellness,
 publishedAt: 2023-02-01T14:00:32.566Z
 description: >-
   Willkommen bei ayni – deiner Praxis in Basel für Komplementärtherapie in der
-  Methode Ayurveda, psychologischer Beratung und Coaching. 
+  Methode Ayurveda Therapie, psychologischer Beratung und Coaching. 
 
 
   ![Portrait Silvia Ferlito](/images/portrait-wall.png "Portrait Silvia Ferlito")
@@ -38,19 +38,18 @@ description: >-
   Deine Silvia Ferlito
 offers:
   - title: ayni wellbeing
-    description: Individuelle, komplementärtherapeutische Begleitung mit Ayurveda
-      Ernährungs-, Gesundheitsberatung und körperzentrierter Massagetherapie für
-      ein gesundes und energievolles Leben
+    description: Komplementärtherapeutische Prozessbegleitung vereint
+      Ayurveda-Ernährungstherapie, körperzentrierte Behandlungen und Massagen,
+      Meditation, Achtsamkeit und psychologische Beratung.
     link: angebot/wellbeing
-  - title: ayni balance
-    description: Ganzheitliche Lösungswege für stressbedingte Beschwerden, Burnout,
-      Stärkung von Resilienz und Mentaltraining mit komplementärtherapeutischer
-      Begleitung
-    link: angebot/balance
-  - title: ayni beratung
-    description: Coaching, Mentaltraining und Psychologische Beratung des Ayurveda
-      lebendig, praxisnah und alltagsgerecht
-    link: angebot/beratung
+  - title: ayni coaching
+    description: Integrales Coaching, Mentaltraining und Psychologische Beratung
+      kombiniert mit der Weisheit des Ayurveda.
+    link: angebot/coaching
+  - title: ayni teambuilding
+    description: Kreatives Teambuilding, Stärkung der Zusammenarbeit, Kommunikation
+      und Vertrauen mit Room Escape Basel.
+    link: angebot/teambuiling
   - title: ayni leadership
     description: Unterstützung bei Persönlichkeits-, Karriereentwicklung mit der LCP
       360 Grad Bewertung und bei der Bewältgung von Lebenskrisen
