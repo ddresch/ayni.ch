@@ -1,5 +1,5 @@
 ---
-title: ayni beratung
+title: ayni coaching
 subtitle: kraftvoll, befreiend, inspirierend
 seoTitle: coaching, mental training, psychologische Beratung und Ayurveda in Basel
 seoDescription: Willkommen bei ayni coaching in Basel – Ihrem Partner für
