@@ -80,4 +80,9 @@ block2: >-
 
 
   ![EMR Logo](/images/emr-logo-color.svg)
+
+
+
+
+  ![EGK Logo](/images/vs-egk.webp)
 ---
