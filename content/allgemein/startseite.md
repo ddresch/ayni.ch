@@ -1,16 +1,16 @@
 ---
 title: Silvia Ferlito
 subtitle: ayurveda, beratung & coaching
-seoTitle: Praxis für Komplementärtherapie, Ayurveda, Beratung und Coaching in Basel!
-seoDescription: Praxis für Komplementärtherapie, Ayurveda Ernährungs- und
+seoTitle: Praxis für KomplementärTherapie, Ayurveda, Beratung und Coaching in Basel!
+seoDescription: Praxis für KomplementärTherapie, Ayurveda Ernährungs- und
   Massagetherapie, Beratung und Coaching. Ich biete individuelle Lösungen für
   ein gesundes und energievolles Leben.
-seoKeywords: Ayurveda, Komplementärtherapie, Basel, Region Basel, Wellness,
+seoKeywords: Ayurveda, KomplementärTherapie, Basel, Region Basel, Wellness,
   Gesundheit, Ernährung, Mentaltraining, Resilienz, Coaching, Beratung,
   Leadership, Balance, Wellbeing
 publishedAt: 2023-02-01T14:00:32.566Z
 description: >-
-  Willkommen bei ayni – deiner Praxis in Basel für Komplementärtherapie in der
+  Willkommen bei ayni – deiner Praxis in Basel für KomplementärTherapie in der
   Methode Ayurveda Therapie, psychologischer Beratung und Coaching. 
 
 
