@@ -14,17 +14,14 @@ seoKeywords: ayni wellbeing, Ayurveda, Ernährungsberatung, Gesundheitsberatung,
   Ernährung, Ayurveda Komplementärtherapie, Ayurveda Therapie, Ayurveda Detox
 publishedAt: 2023-02-01T14:00:32.566Z
 block1: >-
-  Komplementärtherapeutische Prozessbegleitung vereint
-  Ayurveda-Ernährungstherapie, körperzentrierte Behandlungen und Massagen,
-  Meditation, Achtsamkeit und psychologische Beratung.
+  KomplementärTherapie vereint mit Ayurveda-Ernährung, körperzentrierte
+  Behandlungen / Massagen, Meditation, Achtsamkeit und psychologische Beratung.
 
 
   > Wahre Veränderung beginnt in uns selbst.
 
 
   Spüre dich selbst bewusster, löse Blockaden und aktiviere deine natürlichen Selbstheilungskräfte.
-
-
 
 
   **ayni wellbeing unterstützt dich bei**
