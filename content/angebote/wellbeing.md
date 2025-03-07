@@ -45,7 +45,7 @@ block1: >-
   * die Verbesserung deiner Selbstregulation, um stressigen Situationen mit mehr Gelassenheit zu begegnen
 
   * die Stärkung deiner Genesungskompetenz für mehr Wohlbefinden und eine ausgeglichene innere Balance
-boxHeadline: Angebot & Methoden
+boxHeadline: Methoden
 boxContent: >-
   * Ganzheitliche Befunderhebung und Konstitutionsbestimmung der drei Doshas zur
   Erkennung von Ungleichgewichten sowie zur Förderung der Selbstwahrnehmung auf
