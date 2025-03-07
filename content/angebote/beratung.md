@@ -45,7 +45,8 @@ block1: >-
   * Blockaden zu lösen, um deine innere Kraft und Klarheit zurückzugewinnen und deine Lebensziele mit neuer Energie zu verfolgen, um mehr Zufriedenheit zu erleben.
 boxHeadline: Methoden
 boxContent: >-
-  * Ressourcen, Coaching, Trauerarbeit und -Begleitung
+  * Ressourcen Aktivierung, Integrales Coaching, Somatic Coaching, Trauerarbeit
+  und -Begleitung
 
   * Achtsamkeitstraining, Eigenwahrnehmung, körperzentrierte Arbeit
 
