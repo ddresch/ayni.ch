@@ -83,12 +83,4 @@ block2: >-
 
 
   ![EMR Logo](/images/emr-logo-color.svg)
-
-
-
-
-  Die Ayurveda-Therapie basiert auf einem alten, ganzheitlichen Ansatz, der Körper, Geist und Seele in Einklang bringt. Sie unterstützt die natürlichen Selbstregulationskräfte des Körpers und hilft, das individuelle Gleichgewicht zu finden. Alle Anwendungen, wie z.B. Ernährungstherapie, Manualtherapie und Massagen sowie Atemübungen und Bewegung, zielen darauf ab, das allgemeine Wohlbefinden zu fördern und das energetische Gleichgewicht zu stärken.
-
-
-  Sie ersetzen keine medizinische Diagnose, Behandlung oder Therapie und sind nicht dafür gedacht, Krankheiten zu heilen oder zu diagnostizieren.
 ---
