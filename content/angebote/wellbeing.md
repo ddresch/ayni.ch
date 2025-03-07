@@ -1,47 +1,61 @@
 ---
 title: ayni wellbeing
-subtitle: individuell, entspannend & gesund
-seoTitle: mehr Wohlbefinden mit Ayurveda in Basel
-seoDescription: Entdecken Sie ayni wellbeing für individuelle Ayurveda
-  Ernährungs-, Gesundheitsberatung und Massage-Therapie in Basel. Wir bieten
-  maßgeschneiderte Therapiepläne für Magenbrennen, Reflux, Blähungen und mehr.
-  Erstgespräch und Therapiepläne ab 150 CHF. Krankenkassen-akzeptiert.
-  Verbessern Sie Ihr Wohlbefinden heute.
-seoKeywords: ayni wellbeing, Ernährungsberatung, Gesundheitsberatung,
-  Massage-Therapie, Doshas, Ayurveda, Lebensstil, Ernährung
+subtitle: individuell, ganzheitlich & stärkend
+seoTitle: mehr Wohlbefinden mit Ayurveda Therapie in Basel
+seoDescription: Entdecken Sie ayni wellbeing – Ihre ganzheitliche Ayurveda
+  Therapie in Basel. Wir bieten individuelle
+  Ernährungsberatung,  Gesundheitsberatung,  Massage-Therapie und
+  Ayurveda  Komplementärtherapie für Frauenleiden, Wechseljahre, Magenbrennen,
+  Reflux, Blähungen, Gewichtskontrolle, Stressbewältigung und emotionale
+  Belastungen. Krankenkassen anerkannt. Starten Sie Ihre Ayurveda Reise für mehr
+  Wohlbefinden mit einem Erstgespräch & Therapieplan ab 150 CHF.
+seoKeywords: ayni wellbeing, Ayurveda, Ernährungsberatung, Gesundheitsberatung,
+  Massage-Therapie, Doshas (Vata, Pitta, Kapha), Ayurveda Lebensstil, Ayurveda
+  Ernährung, Ayurveda Komplementärtherapie, Ayurveda Therapie, Ayurveda Detox
 publishedAt: 2023-02-01T14:00:32.566Z
 block1: >-
-  Individuelle, komplementärtherapeutische Begleitung mit Ayurveda Ernährungs-,
-  Gesundheitsberatung und körperzentrierter Massagetherapie für ein gesundes und
-  energievolles Leben
+  Komplementärtherapeutische Prozessbegleitung vereint
+  Ayurveda-Ernährungstherapie, körperzentrierte Behandlungen und Massagen,
+  Meditation, Achtsamkeit und psychologische Beratung.
 
 
-  > Du bist, was du isst und verdaust 
+  > Wahre Veränderung beginnt in uns selbst.
 
 
-  Lebe zu Deiner Konstitution passend, aktivere die Intelligenz des Körpers und verfeinere Dein Körpergefühl als den wichtigsten Ratgeber. 
+  Spüre dich selbst bewusster, löse Blockaden und aktiviere deine natürlichen Selbstheilungskräfte.
 
 
-  ayni wellbeing ist für Dich, wenn 
+  **ayni wellbeing unterstützt dich bei**
 
 
-  * Du Dein Körpergefühl verbessern möchtest und z.B. Verdauungsbeschwerden, Verspannungen oder Schmerzen hast oder eine diagnostizierte Erkrankung mit Komplementärtherapie begleiten möchtest
+  * körperlichen Beschwerden wie Verdauungsproblemen, Verspannungen oder Schmerzen und Frauenleiden
 
-  * Deine Ernährung an Vielfältigkeit abnimmt und Genuss zu kurz kommt 
+  * mentaler Erschöpfung, Stress oder emotionalen Belastungen und auch bei Beschwerden in den Wechseljahren
 
-  * Du wieder mal etwas für Dich und Dein Wohlbefinden machen willst
-boxHeadline: Angebot
+  * dem Wunsch nach bewusster Ernährung und nachhaltigen Gesundheitsgewohnheiten
+
+
+  **Ziele sind**
+
+
+  * die Förderung deiner Selbstwahrnehmung für eine tiefere Verbindung zu Körper und Emotionen
+
+  * die Verbesserung deiner Selbstregulation, um stressigen Situationen mit mehr Gelassenheit zu begegnen
+
+  * die Stärkung deiner Genesungskompetenz für mehr Wohlbefinden und eine ausgeglichene innere Balance
+boxHeadline: Angebot & Methoden
 boxContent: >-
-  * Befunderhebung und Konstitutionsbestimmung der 3 Doshas Prakriti (Urzustand)
-  / Vikriti (Ungleichgewicht
+  * Ganzheitliche Befunderhebung und Konstitutionsbestimmung der drei Doshas zur
+  Erkennung von Ungleichgewichten sowie zur Förderung der Selbstwahrnehmung auf
+  körperlicher, geistiger und emotionaler Ebene.
 
-  * Komplementärtherapeutische Begleitung zur Unterstützung sowie Stärkung von Genesungsprozessen, Selbstregulation und Selbstwahrnehmung
+  * Entwicklung von Stressbewältigungsstrategien und Stärkung der Selbstregulation durch Achtsamkeit, Meditation und Atemtechniken.
 
-  * Individuelle ayurvedische Begleitung von Ernährung über Rezepte bis zu Lifestyle Anpassungen und Ritualen  
+  * Aktivierung innerer Ressourcen, Förderung der Resilienz und Auflösung hinderlicher Glaubensmuster zur Stärkung der Genesungskompetenz.
 
-  * Ayurveda Kochkurse und Seminare
+  * Trauerarbeit, Aufstellungsarbeit und Unterstützung des geistigen Gleichgewichts durch Tri-Vargas Matrix (Auflösung der 3-er Matrix von Handlungen/Purpose, Wohlstand und Wünschen)
 
-  * Körperzentrierte Manual Therapien und Massagen nach Ayurveda [mehr erfahren](https://www.ayni.ch/informationen/ayurveda-massagen)
+  * Körperzentrierte Therapieansätze mit Manualtherapien und Ayurveda-Massagen zur Stärkung der körperlichen Vitalität und Beruhigung des Nervensystems [mehr erfahren](https://www.ayni.ch/informationen/ayurveda-massagen)
 block2: >-
   ## Ablauf
 
@@ -52,21 +66,27 @@ block2: >-
   ## Dauer & Kosten
 
 
-  * Erstgespräch Befunderhebung 90 Minuten
+  * Erstgespräch Thema, Zieldefinition, Befunderhebung 90 Minuten
 
-  * Therapiesitzung je nach Behandlung und Bedarf 75 bis 120 Minuten
-
-  * Bei Bedarf detaillierter Therapieplan, Ernährungsplan und Debrief 60 bis 75 Minuten
+  * Jede weitere Therapiesitzung je nach Thema / Bereich und Bedarf 90 bis 120 Minuten.
 
   * Jede komplementärtherapeutische Sitzung beinhaltet ein Vorgespräch, die Behandlung und ein Nachgespräch
 
-  * Der Stundentarif beträgt 150 CHF, je nach Behandlungsform, Materialeinsatz oder Vorbereitung wird der Aufwand separat berechnet
+  * Der Stundentarif beträgt 150 CHF, je nach Behandlungsform, Materialeinsatz oder Vorbereitung wird der Aufwand separat berechnen.
 
-  * Die meisten Krankenkassen übernehmen über die Zusatzversicherung einen Teil der komplementärtherapeutischen Behandlungskosten. Bitte vorgängig abklären.
+  * Die meisten Krankenkassen übernehmen über die Zusatzversicherung einen Teil der Behandlungskosten. Bitte vorgängig abklären.
 
 
   Ich bin beim EMR ([Erfahrungsmedizinisches Register](https://emr.ch/therapeut/silvia.ferlito/)) mit der Methode Nr. 4041 - Branchenzertifikat OdA KT - Methode Ayurveda Therapie und Nr. 57 - Ayurveda-Ernährung und -Massage registriert. 
 
 
   ![EMR Logo](/images/emr-logo-color.svg)
+
+
+
+
+  Die Ayurveda-Therapie basiert auf einem alten, ganzheitlichen Ansatz, der Körper, Geist und Seele in Einklang bringt. Sie unterstützt die natürlichen Selbstregulationskräfte des Körpers und hilft, das individuelle Gleichgewicht zu finden. Alle Anwendungen, wie z.B. Ernährungstherapie, Manualtherapie und Massagen sowie Atemübungen und Bewegung, zielen darauf ab, das allgemeine Wohlbefinden zu fördern und das energetische Gleichgewicht zu stärken.
+
+
+  Sie ersetzen keine medizinische Diagnose, Behandlung oder Therapie und sind nicht dafür gedacht, Krankheiten zu heilen oder zu diagnostizieren.
 ---
