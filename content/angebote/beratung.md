@@ -1,33 +1,48 @@
 ---
 title: ayni beratung
-subtitle: lebendig, praxisnah & alltagsgerecht
-seoTitle: psychologische Beratung und Ayurveda in Basel
-seoDescription: Willkommen bei ayni beratung in Basel, Ihrem Partner für
-  lebendiges, praxisnahes und alltagsgerechtes Mentaltraining und psychologische
-  Ayurveda-Beratung. Wir bieten individuelle Coaching-Sitzungen,
-  Achtsamkeitstraining und Arbeit mit dem inneren Kritiker. Erstgespräch ab 150
-  CHF. Krankenkassen-akzeptiert. Aktivieren Sie Ihre verborgenen Ressourcen
-  heute.
-seoKeywords: ayni beratung, Mentaltraining, psychologische Beratung, Ayurveda,
-  Selbstentwicklung, Coaching, Trauerarbeit
+subtitle: kraftvoll, befreiend, inspirierend
+seoTitle: coaching, mental training, psychologische Beratung und Ayurveda in Basel
+seoDescription: Willkommen bei ayni coaching in Basel – Ihrem Partner für
+  integrales Coaching, Mentaltraining und psychologische Ayurveda-Beratung. Wir
+  bieten individuelle Coaching-Sitzungen, Achtsamkeitstraining und Unterstützung
+  bei der Arbeit mit dem inneren Kritiker. Fördern Sie Ihre Selbstentwicklung
+  und Potenzialentwicklung. Erstgespräch ab 150 CHF. Aktivieren Sie heute Ihre
+  verborgenen Ressourcen und finden Sie neue Wege zur Balance und inneren
+  Klarheit.
+seoKeywords: ayni coaching, integrales Coaching, Mentaltraining, psychologische
+  Beratung, Ayurveda, Selbstentwicklung, Potenzialentwicklung, Balance
 publishedAt: 2023-02-01T14:00:32.566Z
 block1: >-
-  Mentaltraining und psychologische Beratung des Ayurveda lebendig, praxisnah
-  und alltagsgerecht.
-
-  > Erfolg entsteht im Kopf
+  Integrales Coaching, Mentaltraining und Psychologische Beratung kombiniert mit
+  der Weisheit des Ayurveda.
 
 
-  Nutze Deine verborgenen Ressourcen. Aktiviere neue Energien, um erfolgreicher zu sein und eine bessere Lebensbalance zu erreichen.
+  > Finde deine Balance entfessele dein Potenzial
 
 
-  *ayni beratung* ist für dich, wenn:
+  Nutze Deine verborgenen Ressourcen. Aktiviere neue Energien um im Leben erfolgreicher zu sein und eine bessere Lebensbalance zu erreichen.
 
-  - du deine verborgenen Ressourcen aktivieren möchtest
 
-  - du mentale und körperliche Belastungen besser bewältigen willst
+  **ayni coaching unterstützt dich bei** 
 
-  - du deine Energie wieder erlangen möchtest, um erfolgreicher zu sein
+
+  * der Aktivierung deiner verborgenen Ressourcen 
+
+  * mentalen und körperlichen Belastungen und deren Bewältigung und Handhabung
+
+  * der Reaktivierung deiner Energie und Lebensfreude, um erfolgreicher zu leben und deine Lebensbalance zu verbessern
+
+
+
+
+  **Ziele sind**
+
+
+  * die Aktivierung deiner verborgenen Stärken und Potenziale zu aktivieren und Herausforderungen mit mehr Selbstvertrauen und Energie zu begegnen.
+
+  * eine gesunde Balance zwischen Arbeit, Erholung und persönlichen Bedürfnissen zu finden.
+
+  * Blockaden zu lösen, um deine innere Kraft und Klarheit zurückzugewinnen und deine Lebensziele mit neuer Energie zu verfolgen, um mehr Zufriedenheit zu erleben.
 boxHeadline: Angebot
 boxContent: >-
   * Ressourcen, Coaching, Trauerarbeit und -Begleitung
@@ -55,14 +70,9 @@ block2: >-
 
   * Bei Bedarf intensivere Sitzungen z.B. bei Aufstellungsarbeit oder Trancearbeit 120 Minuten
 
-  * Der Stundentarif beträgt 150 CHF, je nach Behandlungsform, Materialeinsatz oder Vorbereitung wird der Aufwand separat berechnet
+  * Der Stundentarif beträgt 150 CHF
 
-  * Jede komplementärtherapeutische Sitzung beinhaltet ein Vorgespräch, die Behandlung und ein Nachgespräch
-
-  * Die meisten Krankenkassen übernehmen über die Zusatzversicherung einen Teil der komplementärtherapeutischen Behandlungskosten. Bitte vorgängig abklären.
-
-
-  Ich bin beim EMR ([Erfahrungsmedizinisches Register](https://emr.ch/therapeut/silvia.ferlito/)) mit der Methode Nr. 4041 - Branchenzertifikat OdA KT - Methode Ayurveda Therapie und Nr. 57 - Ayurveda-Ernährung und -Massage registriert. 
+  * Online sowie in der Praxis oder vor Ort
 
 
   ![EMR Logo](/images/emr-logo-color.svg)
