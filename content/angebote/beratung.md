@@ -74,7 +74,4 @@ block2: >-
   * Der Stundentarif beträgt 150 CHF
 
   * Online sowie in der Praxis oder vor Ort
-
-
-  ![EMR Logo](/images/emr-logo-color.svg)
 ---
