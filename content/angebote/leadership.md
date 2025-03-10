@@ -21,8 +21,10 @@ block1: >-
   Entdecke neue Perspektiven, Entwicklungsmöglichkeiten und dein Potenzial für deine berufliche und persönliche Entfaltung.
 
 
-  *ayni leadership* ist für dich, wenn:
+  ***ayni leadership* unterstützt dich bei**
 
+
+  * dem Ausbau und Wachstum deiner Leadership-Kompetenzen
 
   * du einen neuen beruflichen Weg einschlagen möchtest und dein volles Potenzial leben willst
 
@@ -30,12 +32,16 @@ block1: >-
 
   * deine Leadership Kompetenzen ausgebaut werden und wachsen wollen
 boxHeadline: Angebot
-boxContent: |-
-  - Leadership Circle Profile™ 360 Grad Bewertung
-  - Purpose & Value Coaching
-  - Emotionale Abstimmung
-  - Geistiges Gleichgewicht (Tri-Vargas Coaching)
-  - Begleitung bei Neuorientierung, Zieldefinitionen und Krisen
+boxContent: >-
+  * Leadership Circle Profile™ 360 Grad Bewertung
+
+  * Purpose & Value Coaching
+
+  * Emotionale Abstimmung
+
+  * Geistiges Gleichgewicht (Tri-Vargas Coaching - Auflösung der 3-er Matrix von Handlungen/Purpose, Wohlstand und Wünschen)
+
+  * Begleitung bei Neuorientierung, Zieldefinitionen und Krisen
 block2: >-
   In einem ersten Gespräch beleuchten wir das Thema/die Themen und definieren
   gemeinsam das Ziel für die Zeit der Zusammenarbeit. Beim LCP speziell
