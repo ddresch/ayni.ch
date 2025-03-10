@@ -2,11 +2,11 @@
 title: ayni teambuilding
 subtitle: kreativ, kollaborativ & lösungsorientiert
 seoTitle: teambuilding ayni und Room Escape Basel
-seoDescription: ayni teambuilding - erlebe kreatives Teambuilding mit Room
-  Escape Basel! Stärkt Zusammenarbeit, Kommunikation und Vertrauen durch
-  spannende Escape Room Herausforderungen. Kombiniert mit Reflexion, Workshops
-  und individuellen Coachings – für eine langfristige Verbesserung der
-  Teamdynamik. Jetzt Teamevent planen!
+seoDescription: Erlebe kreatives Teambuilding mit Room Escape Basel! Stärkt
+  Zusammenarbeit, Kommunikation und Vertrauen durch spannende Escape Room
+  Herausforderungen. Kombiniert mit Reflexion, Workshops und individuellen
+  Coachings – für eine langfristige Verbesserung der Teamdynamik. Jetzt
+  Teamevent planen!
 seoKeywords: ayni teambuilidng, Teambuilding Basel, Escape Room Teamevent,
   Teamwork verbessern, Kommunikation im Team stärken, Vertrauen im Team
   aufbauen, Problemlösung Team, Kreatives Teambuilding Teamcoaching,
