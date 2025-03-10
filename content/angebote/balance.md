@@ -1,71 +1,84 @@
 ---
-title: ayni balance
-subtitle: ausgleichend, stärkend & zielführend
-seoTitle: Balance mit Ayurveda in Basel
-seoDescription: Entdecken Sie ayni balance für ganzheitliche Lösungen bei
-  stressbedingten Beschwerden und Burnout in Basel. Wir bieten individuelle
-  Therapiepläne, Stressbewältigungsstrategien, Achtsamkeitstraining und
-  Ayurvedische Massagen. Erstgespräch ab 150 CHF. Krankenkassen-akzeptiert.
-  Finden Sie Ihre innere Balance heute.
-seoKeywords: ayni balance, Stressbewältigung, Burnout, Resilienz, Achtsamkeit,
-  Mentaltraining, Stressmanagement
+title: ayni teambuilding
+subtitle: kreativ, kollaborativ & lösungsorientiert
+seoTitle: teambuilding ayni und Room Escape Basel
+seoDescription: ayni teambuilding - erlebe kreatives Teambuilding mit Room
+  Escape Basel! Stärkt Zusammenarbeit, Kommunikation und Vertrauen durch
+  spannende Escape Room Herausforderungen. Kombiniert mit Reflexion, Workshops
+  und individuellen Coachings – für eine langfristige Verbesserung der
+  Teamdynamik. Jetzt Teamevent planen!
+seoKeywords: ayni teambuilidng, Teambuilding Basel, Escape Room Teamevent,
+  Teamwork verbessern, Kommunikation im Team stärken, Vertrauen im Team
+  aufbauen, Problemlösung Team, Kreatives Teambuilding Teamcoaching,
+  Zusammenarbeit fördern, Firmen Teamevent Schweiz
 publishedAt: 2023-02-01T14:00:32.566Z
 block1: >-
-  Ganzheitliche Lösungswege für stressbedingte Beschwerden, Burnout, Stärkung
-  von Resilienz und Mentaltraining mit komplementärtherapeutischer Begleitung.
+  Kreatives Teambuilding, Stärkung der Zusammenarbeit, Kommunikation und
+  Vertrauen mit [Room Escape Basel](https://www.roomescape.ch).
 
 
-  > Balance findet man irgendwo in der Mitte
+  > Gemeinsam lösen wir jedes Rätsel
 
 
-  Erlerne Stress abzubauen, Stressbewältigungsstrategien im Alltag ein- und umzusetzen und kraftvoller zu werden.
+  Im Team liegen grosse Potenziale, die durch gezielte Kommunikation und kreative Problemlösungen aktiviert werden. Nutze die Möglichkeit, das volle Potenzial deines Teams freizusetzen und gemeinsam neue Wege des Erfolgs zu gestalten.
 
 
-  *ayni balance* ist für dich, wenn:
+  ***ayni* Teambuilding unterstützt dich bei:**
 
 
-  * du deinen Energiehaushalt in Balance bringen möchtest
+  * Kommunikationsverbesserung und Zusammenarbeit innerhalb deines Teams
 
-  * du dich beweglicher und ausgeglichener fühlen möchtest
+  * kreativem Denken und der Förderung von lösungsorientiertem Handeln
 
-  * dein Stresslevel steigt und du nicht weisst wie du das ändern kannst
+  * der Verbesserung des gegenseitigen Vertrauens und der Unterstützung unter den Teammitgliedern
+
+
+  **Ziele sind:**
+
+
+  * die Förderung einer offenen und effektiven Kommunikation, die es dem Team ermöglicht, Herausforderungen gemeinsam zu meistern.
+
+  * die Entwicklung von Lösungsstrategien durch kreatives Denken und Zusammenarbeit.
+
+  * das Stärken von Vertrauen und Zusammenhalt, um als Einheit zu wachsen und gemeinsam erfolgreicher zu sein.
 boxHeadline: Angebot
 boxContent: >-
-  * Befunderhebung und Bestimmung des Ungleichgewichts auf Ebene Körper, Geist
-  und Selbst
+  * Teamevent mit [Room Escape Basel ](https://www.roomescape.ch/team-event/)–
+  spannende Escape Room Herausforderungen zur Förderung von Teamarbeit und
+  Kommunikation
 
-  * Identifikation Körperliche Vitalität, Mentale Belastbarkeit, Stressoren und somit Stärkung der Selbstwahrnehmung
+  * Individuelle Begleitung in der Reflexion und Analyse der Teamdynamik
 
-  * Entwicklung Stressbewältigungsstrategien, Ressourcenmanagement (Ojas), Aufbau Resilienz und somit Aktivierung der Selbstregulationskräfte
+  * Workshops zur Verbesserung der Teamkommunikation und Zusammenarbeit
 
-  * Meditation, Achtsamkeitstraining, Progressive Muskelrelaxation (PMR) nach Edmond Jacobson, Atemtechniken aus dem Yoga und somit Förderung der Genesungskompetenz
+  * Gemeinsame Zielsetzung und Entwicklung von Lösungen für die Zusammenarbeit im Arbeitsumfeld
 
-  * Körperzentrierte Manual Therapien und Massagen nach Ayurveda [mehr erfahren](https://www.ayni.ch/informationen/ayurveda-massagen)
+  * Auswertung der Erfahrungen und Planung konkreter Schritte zur langfristigen Teamentwicklung[](https://www.ayni.ch/informationen/ayurveda-massagen)
 block2: >-
   ## Ablauf
 
 
-  In einem ersten Gespräch beleuchten wir das Thema/die Themen, definieren gemeinsam das Ziel für die Zeit der Zusammenarbeit und führen bei Gesundheitsthemen auch eine ausführliche Befunderhebung durch. Im Laufe des Behandlungszyklus wächst die eigene Kompetenz und Kapazität die eigene Balance zu festigen. Die neuen Routinen und Rituale verankern sich in den Alltag und wirken nachhaltig.
+  Bei Bedarf beleuchten wir bei einem Vorgespräch das Thema für das Teamcoaching und definieren gemeinsam das Ziel.
 
 
   ## Dauer & Kosten
 
 
-  * Erstgespräch Thema, Zieldefinition, Befunderhebung 90 Minuten
-
-  * Coaching / Beratung Sitzung je nach Thema / Bereich und Bedarf 60 bis 120 Minuten.
-
-  * Bei Bedarf intensivere Sitzungen z.B. bei Aufstellungsarbeit oder Trancearbeit 120 Minuten
-
-  * Jede komplementärtherapeutische Sitzung beinhaltet ein Vorgespräch, die Behandlung und ein Nachgespräch
-
-  * Der Stundentarif beträgt 150 CHF, je nach Behandlungsform, Materialeinsatz oder Vorbereitung wird der Aufwand separat berechnet
-
-  * Die meisten Krankenkassen übernehmen über die Zusatzversicherung einen Teil der komplementärtherapeutischen Behandlungskosten. Bitte vorgängig abklären.
+  * **Vorbriefing & Einführung**
+    Kurze Einführung in das Escape Game inkl. Icebreaker, passend zum Thema
+  * **Escape Game**
+    Teamwork und Problemlösungen im Escape Room, inkl. Beobachtung durch den Coach 
+  * **Reflexion & Feedback**
+    Individuelle, Team- und Peer-Feedback-Runden, um das Erlebte zu reflektieren
+  * **Debriefing**
+    Abschlussgespräch und Takeaways mit Fokus auf die zukünftige Zusammenarbeit 
+  * Gesamtdauer inkl Spielszenario: ab 2 / 2,5 Stunden
 
 
-  Ich bin beim EMR ([Erfahrungsmedizinisches Register](https://emr.ch/therapeut/silvia.ferlito/)) mit der Methode Nr. 4041 - Branchenzertifikat OdA KT - Methode Ayurveda Therapie und Nr. 57 - Ayurveda-Ernährung und -Massage registriert. 
+  ## **Genuss & Stärkung**
 
 
-  ![EMR Logo](/images/emr-logo-color.svg)
+  * Auf Wunsch bietet die [Escape Bar](https://www.roomescape.ch/bar/) in schönem Ambiente vor und nach dem Rätselspaß eine kulinarische Stärkung – je nach Tageszeit mit einem Z’nüni, einem leckeren Apéro oder einem feinen Essen. Die perfekte Gelegenheit, das Team auf die bevorstehende Aufgabe einzustimmen, den Teamgeist zu fördern und nach dem Escape Game gemeinsam den Erfolg zu feiern.
+
+  * Für das Apéro, die Spielszenarien und das Coaching erstellt [Room Escape Basel](https://www.roomescape.ch/team-event/) ein individuelles Angebot. Der Preis für das Teamcoaching richtet sich nach dem Zeitaufwand und der Teilnehmerzahl.
 ---
