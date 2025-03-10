@@ -24,7 +24,7 @@ block1: >-
   Spüre dich selbst bewusster, löse Blockaden und aktiviere deine natürlichen Selbstheilungskräfte.
 
 
-  **ayni wellbeing unterstützt dich bei**
+  ***ayni* wellbeing unterstützt dich bei**
 
 
   * körperlichen Beschwerden wie Verdauungsproblemen, Verspannungen oder Schmerzen und Frauenleiden
