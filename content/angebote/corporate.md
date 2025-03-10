@@ -20,14 +20,16 @@ block1: >-
   Nutze die Ressourcen gesunder, motivierter, sinnerfüllter und glücklicher Menschen, um das Unternehmen gesund zu halten.
 
 
-  *ayni corporate* ist für dich, wenn:
+  ***ayni corporate* unterstützt dich bei**
 
 
-  * du Organisationsänderungen aktiv und positiv für alle Beteiligten in Angriff nehmen willst
+  * Organisationsänderungen und der aktiven und positiven Gestaltung für alle Beteiligten
 
-  * du einen Kulturwandel und Mindshift erreichen willst
 
-  * du Resilienz, Gesundheit und Freude als Ziel für Deine Mitarbeiter und Organisation siehst
+  * der Förderung eines Kulturwandels und Mindshifts in deinem Unternehmen
+
+
+  * Stärkung von Resilienz, Gesundheit und Freude für deine Mitarbeiter und Organisation
 boxHeadline: Angebot
 boxContent: >-
   * Einzelsitzungen z.B. Geistiges Gleichgewicht (Tri-Vargas Coaching: Auflösung
