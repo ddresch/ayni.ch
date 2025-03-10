@@ -23,7 +23,7 @@ block1: >-
   Nutze Deine verborgenen Ressourcen. Aktiviere neue Energien um im Leben erfolgreicher zu sein und eine bessere Lebensbalance zu erreichen.
 
 
-  ***ayni* coaching unterstützt dich bei** 
+  ***ayni* *coaching* unterstützt dich bei** 
 
 
   * der Aktivierung deiner verborgenen Ressourcen 
