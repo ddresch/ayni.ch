@@ -23,7 +23,7 @@ block1: >-
   Im Team liegen grosse Potenziale, die durch gezielte Kommunikation und kreative Problemlösungen aktiviert werden. Nutze die Möglichkeit, das volle Potenzial deines Teams freizusetzen und gemeinsam neue Wege des Erfolgs zu gestalten.
 
 
-  ***ayni* Teambuilding unterstützt dich bei:**
+  ***ayni* *teambuilding* unterstützt dich bei**
 
 
   * Kommunikationsverbesserung und Zusammenarbeit innerhalb deines Teams
