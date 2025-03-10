@@ -78,7 +78,7 @@ block2: >-
   ## **Genuss & Stärkung**
 
 
-  * Auf Wunsch bietet die [Escape Bar](https://www.roomescape.ch/bar/) in schönem Ambiente vor und nach dem Rätselspaß eine kulinarische Stärkung – je nach Tageszeit mit einem Z’nüni, einem leckeren Apéro oder einem feinen Essen. Die perfekte Gelegenheit, das Team auf die bevorstehende Aufgabe einzustimmen, den Teamgeist zu fördern und nach dem Escape Game gemeinsam den Erfolg zu feiern.
+  * Auf Wunsch bietet die [Escape Bar](https://www.roomescape.ch/bar/) in schönem Ambiente vor und nach dem Rätselspass eine kulinarische Stärkung – je nach Tageszeit mit einem Z’nüni, einem leckeren Apéro oder einem feinen Essen. Die perfekte Gelegenheit, das Team auf die bevorstehende Aufgabe einzustimmen, den Teamgeist zu fördern und nach dem Escape Game gemeinsam den Erfolg zu feiern.
 
   * Für das Apéro, die Spielszenarien und das Coaching erstellt [Room Escape Basel](https://www.roomescape.ch/team-event/) ein individuelles Angebot. Der Preis für das Teamcoaching richtet sich nach dem Zeitaufwand und der Teilnehmerzahl.
 ---
