@@ -23,7 +23,7 @@ block1: >-
   Nutze Deine verborgenen Ressourcen. Aktiviere neue Energien um im Leben erfolgreicher zu sein und eine bessere Lebensbalance zu erreichen.
 
 
-  **ayni coaching unterstützt dich bei** 
+  ***ayni* coaching unterstützt dich bei** 
 
 
   * der Aktivierung deiner verborgenen Ressourcen 
@@ -31,8 +31,6 @@ block1: >-
   * mentalen und körperlichen Belastungen und deren Bewältigung und Handhabung
 
   * der Reaktivierung deiner Energie und Lebensfreude, um erfolgreicher zu leben und deine Lebensbalance zu verbessern
-
-
 
 
   **Ziele sind**
