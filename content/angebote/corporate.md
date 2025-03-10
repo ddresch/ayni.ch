@@ -25,9 +25,7 @@ block1: >-
 
   * Organisationsänderungen und der aktiven und positiven Gestaltung für alle Beteiligten
 
-
   * der Förderung eines Kulturwandels und Mindshifts in deinem Unternehmen
-
 
   * Stärkung von Resilienz, Gesundheit und Freude für deine Mitarbeiter und Organisation
 boxHeadline: Angebot
