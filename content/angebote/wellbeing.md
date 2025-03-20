@@ -14,9 +14,9 @@ seoKeywords: ayni wellbeing, Ayurveda, Ernährungsberatung, Gesundheitsberatung,
   Ernährung, Ayurveda Komplementärtherapie, Ayurveda Therapie, Ayurveda Detox
 publishedAt: 2023-02-01T14:00:32.566Z
 block1: >-
-  KomplementärTherapie vereint mit Ayurveda-Ernährung, körperzentrierte
-  Behandlungen, ayurvedische Massage-Techniken, Meditation, Achtsamkeit und
-  psychologische Beratung.
+  KomplementärTherapie vereint mit Ayurveda-Ernährung, körperzentrierten
+  Behandlungen, Meditation und Achtsamkeit, sowie zusätzlich unterstützend
+  ayurvedische Massagen und psychologische Beratung.
 
 
   > Wahre Veränderung beginnt in uns selbst.
@@ -55,7 +55,7 @@ boxContent: >-
 
   * Trauerarbeit, Aufstellungsarbeit und Unterstützung des geistigen Gleichgewichts durch Tri-Vargas Matrix (Auflösung der 3-er Matrix von Handlungen/Purpose, Wohlstand und Wünschen)
 
-  * Körperzentrierte Therapieansätze mit ayurvedischen Behandlungs- und Massage-Techniken zur Stärkung der körperlichen Vitalität und Beruhigung des Nervensystems [mehr erfahren](https://www.ayni.ch/informationen/ayurveda-massagen)
+  * Körperzentrierte Therapieansätze mit ayurvedischen Behandlungen und Massagen zur Stärkung der körperlichen Vitalität und Beruhigung des Nervensystems [mehr erfahren](https://www.ayni.ch/informationen/ayurveda-massagen)
 block2: >-
   ## Ablauf
 
@@ -83,7 +83,7 @@ block2: >-
   Das EMR ([Erfahrungsmedizinisches Register](https://emr.ch/therapeut/silvia.ferlito/)) dient als Orientierungshilfe.
 
 
-  Bitte beachten: Reine Coachingsitzungen, Beratungen und online Konsultationen sind nicht über die Zusatzversicherung gedeckt.
+  Bitte beachten: Reine Coachingsitzungen, Beratungen, Wellnessbehandlungen und online Konsultationen sind nicht über die Zusatzversicherung gedeckt.
 
 
   ![EMR Logo und EGK Logo](/images/vs-emr_egk.svg)
