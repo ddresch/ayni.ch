@@ -15,7 +15,7 @@ seoKeywords: ayni wellbeing, Ayurveda, Ernährungsberatung, Gesundheitsberatung,
 publishedAt: 2023-02-01T14:00:32.566Z
 block1: >-
   KomplementärTherapie vereint mit Ayurveda-Ernährung, körperzentrierte
-  Behandlungen, ayurvedischen Massage-Techniken, Meditation, Achtsamkeit und
+  Behandlungen, ayurvedische Massage-Techniken, Meditation, Achtsamkeit und
   psychologische Beratung.
 
 
