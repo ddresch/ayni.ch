@@ -15,7 +15,8 @@ seoKeywords: ayni wellbeing, Ayurveda, Ernährungsberatung, Gesundheitsberatung,
 publishedAt: 2023-02-01T14:00:32.566Z
 block1: >-
   KomplementärTherapie vereint mit Ayurveda-Ernährung, körperzentrierte
-  Behandlungen / Massagen, Meditation, Achtsamkeit und psychologische Beratung.
+  Behandlungen, ayurvedischen Massage-Techniken, Meditation, Achtsamkeit und
+  psychologische Beratung.
 
 
   > Wahre Veränderung beginnt in uns selbst.
@@ -54,7 +55,7 @@ boxContent: >-
 
   * Trauerarbeit, Aufstellungsarbeit und Unterstützung des geistigen Gleichgewichts durch Tri-Vargas Matrix (Auflösung der 3-er Matrix von Handlungen/Purpose, Wohlstand und Wünschen)
 
-  * Körperzentrierte Therapieansätze mit Manualtherapien und Ayurveda-Massagen zur Stärkung der körperlichen Vitalität und Beruhigung des Nervensystems [mehr erfahren](https://www.ayni.ch/informationen/ayurveda-massagen)
+  * Körperzentrierte Therapieansätze mit ayurvedischen Behandlungs- und Massage-Techniken zur Stärkung der körperlichen Vitalität und Beruhigung des Nervensystems [mehr erfahren](https://www.ayni.ch/informationen/ayurveda-massagen)
 block2: >-
   ## Ablauf
 
@@ -76,7 +77,13 @@ block2: >-
   * Die meisten Krankenkassen übernehmen über die Zusatzversicherung einen Teil der Behandlungskosten. Bitte vorgängig abklären.
 
 
-  Ich bin beim EMR ([Erfahrungsmedizinisches Register](https://emr.ch/therapeut/silvia.ferlito/)) mit der Methode Nr. 4041 - Branchenzertifikat OdA KT - Methode Ayurveda Therapie und Nr. 57 - Ayurveda-Ernährung und -Massage registriert. 
+  Ich bin bei den meisten Zusatzversicherungen mit den Methoden Nr. **4041 - Branchenzertifikat OdA KT** - **Methode Ayurveda Therapie** und Nr. **57 - Ayurveda-Ernährung und -Massage** registriert. 
+
+
+  Das EMR ([Erfahrungsmedizinisches Register](https://emr.ch/therapeut/silvia.ferlito/)) dient als Orientierungshilfe.
+
+
+  Bitte beachten: Reine Coachingsitzungen, Beratungen und online Konsultationen sind nicht über die Zusatzversicherung gedeckt.
 
 
   ![EMR Logo und EGK Logo](/images/vs-emr_egk.svg)
