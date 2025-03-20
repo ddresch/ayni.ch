@@ -39,8 +39,8 @@ description: >-
 offers:
   - title: ayni wellbeing
     description: KomplementärTherapie vereint mit Ayurveda-Ernährung,
-      körperzentrierte Behandlungen / Massagen, Meditation, Achtsamkeit und
-      psychologische Beratung.
+      körperzentrierte Behandlungen, ayurvedischen Massage-Techniken,
+      Meditation, Achtsamkeit und psychologische Beratung.
     link: angebot/wellbeing
   - title: ayni coaching
     description: Integrales Coaching, Mentaltraining und Psychologische Beratung
