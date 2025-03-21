@@ -8,7 +8,7 @@ publishedAt: 2025-03-06T10:00:00.000Z
 
 ## *Unlocking Leadership Potential Through Ayurveda & **Leadership Circle Profile**™ (LCP)*
 
-In today’s dynamic world, effective leadership requires a deep understanding of both **inner consciousness and external impact**. The **Leadership Circle Profile**™offers a powerful framework to measure leadership effectiveness, while **Ayurveda**, the ancient science of life, provides profound insights into personal balance, purpose, and well-being. When combined, these two systems create a **transformational leadership model** that integrates modern science with timeless wisdom. 
+In today’s dynamic world, effective leadership requires a deep understanding of both **inner consciousness and external impact**. The **Leadership Circle Profile**™ offers a powerful framework to measure leadership effectiveness, while **Ayurveda**, the ancient science of life, provides profound insights into personal balance, purpose, and well-being. When combined, these two systems create a **transformational leadership model** that integrates modern science with timeless wisdom. 
 
 ### Ayurveda & Leadership: The Doshas as Leadership Archetypes
 
@@ -35,11 +35,11 @@ The LCP framework helps leaders **uncover their subconscious patterns**, while 
 
 Leadership is not just about individual potential - it is shaped by the following underlying factors:
 
-1. **Ātmā (Self-Awareness & Inner Wisdom):** Understanding the self through LCP’s 360-degree feedback and Ayurveda’s self-reflection practices.
-2. **Deśa (Environment & Culture):** Aligning leadership strategies with organisational and societal needs.
-3. **Kula (Community & Ancestry):** Recognizing inherited strengths and conditioning that shape leadership behaviors.
-4. **Kāla (Timing & Cycles):** Leading with awareness of personal and collective cycles of change.
-5. **Balā (Strength & Resilience):** Cultivating inner and outer strength through mindful practices and emotional intelligence.
+* **Ātmā (Self-Awareness & Inner Wisdom):** Understanding the self through LCP’s 360-degree feedback and Ayurveda’s self-reflection practices.
+* **Deśa (Environment & Culture):** Aligning leadership strategies with organisational and societal needs.
+* **Kula (Community & Ancestry):** Recognizing inherited strengths and conditioning that shape leadership behaviors.
+* **Kāla (Timing & Cycles):** Leading with awareness of personal and collective cycles of change.
+* **Balā (Strength & Resilience):** Cultivating inner and outer strength through mindful practices and emotional intelligence.
 
 ### Why Integrate LCP & Ayurveda?
 
