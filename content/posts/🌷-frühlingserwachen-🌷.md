@@ -40,7 +40,7 @@ Der Frühling kann eine Zeit der Erkältungen sein, da der Körper sich an die n
 📖 **Fazit**
 Der Frühling bietet eine wunderbare Gelegenheit, Körper und Geist in Einklang zu bringen. Ayurveda unterstützt mit Reinigung, Bewegung und Achtsamkeit, die innere Balance zu stärken und die Lebenskraft zu fördern. Ayurveda Therapie hilft dabei, die Selbstregulation zu aktivieren und die Vitalität auf natürliche Weise zu steigern.
 
-✨ Wie startest du in den Frühling? Teile deine Erfahrungen in den Kommentaren!
+✨ Wie startest du in den Frühling? 
 
 ![]()
 
