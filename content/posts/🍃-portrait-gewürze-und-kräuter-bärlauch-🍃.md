@@ -36,6 +36,6 @@ Bärlauch, auch als „wilder Knoblauch“ bekannt, ist eines der ersten Kräute
 
 [](https://www.ayni.ch/images/2_portrait_gewuerze-und-kraeuter_suppe.pdf)✨ **Mein Geheimtipp:** **Feines Wurzelcremesüppchen mit Bärlauch** – Mein Muntermacher im Frühling! 🌱
 
-👉 Hier geht's zum Rezept: 
+👉 Hier geht's zum Rezept: [Wurzelcremesuppe mit Bärlauch](https://www.ayni.ch/images/3_2_portrait_gewuerze-und-kraeuter_suppe.pdf)
 
 Photo by [Wolfgang Hasselmann](https://unsplash.com/photos/green-leafed-plant-WSvjboqZsOo)[](https://unsplash.com/photos/green-leafed-plant-WSvjboqZsOo) and [Megan Bucknall](https://unsplash.com/de/fotos/grune-suppe-auf-weisser-keramikschussel-qav5LFLbSUk) on Unsplash
