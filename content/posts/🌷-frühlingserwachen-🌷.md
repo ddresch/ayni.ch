@@ -4,7 +4,7 @@ publishedAt: 2025-03-03T10:00:00.000Z
 ---
 ![Frühlingserwachen](/images/3_1_frühling.webp "Frühlingserwachen")
 
-# Frühjahresmüdigkeite Ade
+# Frühjahresmüdigkeit Ade
 
 ## *Neue Energie durch Ayurveda*
 
