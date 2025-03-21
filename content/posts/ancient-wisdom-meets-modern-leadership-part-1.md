@@ -1,5 +1,5 @@
 ---
-title: "Ancient Wisdom Meets Modern Leadership Part 1 "
+title: "🚀 Ancient Wisdom Meets Modern Leadership Part 1 🚀 "
 publishedAt: 2025-03-06T10:00:00.000Z
 ---
 ![Ausgestreckte Beine](/images/3_4_lcp.webp "Ausgestreckte Beine")
