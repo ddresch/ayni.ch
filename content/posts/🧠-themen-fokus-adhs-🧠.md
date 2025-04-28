@@ -34,7 +34,6 @@ Im Ayurveda wird ADHS häufig mit einem starken Vata-Überschuss in Verbindung
 
 🕕 **Routinen & Rituale (Dinacharya) – das Herzstück der ADHS-Balance**
 
-
 In der Ayurveda-Therapie unterstützen wir Ratsuchende dabei, ihre Routinen zu begleiten und zuträgliche Tagesabläufe zu integrieren, da sie für innere Stabilität sorgen. Doch genau hier liegt die grösste Herausforderung: Erwachsene mit ADHS stehen oft unter Leistungsdruck, während Kinder durch ständige Beschäftigung und Reizüberflutung Schwierigkeiten haben, Ruhe zu finden. Ayurveda empfiehlt, kleine feste Rituale in den Alltag zu integrieren:
 
 * Kleine, feste Rituale in den Alltag integrieren: Statt sich an einem perfekten Tagesablauf zu orientieren, lieber kleine Routinen fest verankern. Beispielsweise immer zur selben Zeit essen oder jeden Abend eine kurze Achtsamkeitsübung machen.
@@ -53,13 +52,13 @@ Ein integrativer Ansatz, der Ayurveda, Ernährungsoptimierung und manuelle Thera
 
 **Hinweis**: Konsultiere IMMER eine Fachperson, bevor du zu Nahrungsergänzungsmitteln oder Pflanzlichen Heilmitteln greifst.
 
+Hast du Fragen rund um ADHS, Balance und Ayurveda. Melde dich gerne bei mir!
+
 \- - -
 
 Willkommen bei ayni - Praxis für Ayurveda KomplementärTherapie, Beratung & Coaching. Neugierig auf mehr? Schreib mir: [gruezi@ayni.ch](mailto:gruezi@ayni.ch) oder melde dich zu meinem [Newsletter](https://lnkd.in/gYQw9KEU) an.
 
 \- - -
-
-
 
 ![]()
 
