@@ -62,7 +62,13 @@ Die moderne Forschung bestätigt zunehmend, was Ayurveda seit Jahrtausenden lehr
 
 Agni ist die Basis für Gesundheit, Energie und Wohlbefinden. Eine bewusste Ernährung und ein regelmässiger Lebensstil helfen, das Verdauungsfeuer im Gleichgewicht zu halten. Die moderne Wissenschaft bestätigt, dass eine gesunde Verdauung nicht nur das Immunsystem stärkt, sondern auch Stoffwechselerkrankungen vorbeugen kann. Ayurveda bietet hier eine bewährte Methode, um das Verdauungssystem ganzheitlich zu unterstützen – mit individuellen Anpassungen für jeden Konstitutionstyp.
 
-✨ Wie unterstützt du dein Agni ganzheitlich? 
+✨ Wie unterstützt du dein Agni ganzheitlich? Bei Fragen bin ich gerne für dich da!
+
+\- - -
+
+Willkommen bei ayni - Praxis für Ayurveda KomplementärTherapie, Beratung & Coaching. Neugierig auf mehr? Schreib mir: [gruezi@ayni.ch](mailto:gruezi@ayni.ch) oder melde dich zu meinem [Newsletter](<>) an.
+
+\- - -
 
 ![]()
 
