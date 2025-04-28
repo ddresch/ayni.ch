@@ -46,7 +46,7 @@ In der Ayurveda-Therapie unterstützen wir Ratsuchende dabei, ihre Routinen zu b
 * **Shiroabhyanga und Shirodhara (Kopfbehandlung und Öl-Stirnguss)** Fördern tiefe Entspannung und mentale Klarheit.
 * **Marma-Therapie** Gezielte Stimulation von Energiepunkten kann innere Unruhe reduzieren.
 
-**Fazit: Ayurveda als ganzheitliche Unterstützung bei ADHS**
+📖 **Fazit: Ayurveda als ganzheitliche Unterstützung bei ADHS**
 
 Ein integrativer Ansatz, der Ayurveda, Ernährungsoptimierung und manuelle Therapien kombiniert, kann Betroffenen helfen, ihre Symptome zu lindern und die Lebensqualität zu steigern. Die grösste Herausforderung bleibt die Integration von Routinen in den Alltag – doch gerade hier liegt der Schlüssel zur langfristigen Verbesserung. Ayurveda bietet pragmatische Lösungen, um Schritt für Schritt mehr Stabilität in das Leben mit ADHS zu bringen.
 
