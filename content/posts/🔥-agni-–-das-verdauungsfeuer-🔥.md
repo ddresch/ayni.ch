@@ -24,8 +24,7 @@ Wenn Agni optimal arbeitet, fühlen wir uns energiegeladen, haben eine gute Verd
 
 * **Schwaches Agni (Mandagni)** Träge Verdauung, Blähungen, Gewichtszunahme, Müdigkeit
 * **Unregelmässiges Agni (Vishamagni)** Wechsel zwischen Verstopfung und Durchfall, unregelmässiger Hunger
-
-👉 **Überaktives Agni (Tikshagni)** Starker Hunger, Sodbrennen, Entzündungen Reizdarm
+* **Überaktives Agni (Tikshagni)** Starker Hunger, Sodbrennen, Entzündungen Reizdarm
 
 ## 🔬  **Wissenschaft trifft Ayurveda: Mikrobiom & Verdauung**
 
