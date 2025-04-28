@@ -46,13 +46,9 @@ Die moderne Forschung bestätigt zunehmend, was Ayurveda seit Jahrtausenden lehr
 * **Heisses Wasser trinken:** Morgens ein Glas warmes Wasser hilft, den Stoffwechsel sanft zu aktivieren und Ama auszuleiten.
 * **Vermeidung von schwer verdaulichen Lebensmitteln:** Hochverarbeitete Lebensmittel, Zucker, kalte Milchprodukte und industrieller Weizen können die Verdauung schwächen.
 
-
-
 ### 📖 **Fazit: Agni bewusst stärken – für ein gesundes Leben**
 
 Agni ist die Basis für Gesundheit, Energie und Wohlbefinden. Eine bewusste Ernährung und ein regelmässiger Lebensstil helfen, das Verdauungsfeuer im Gleichgewicht zu halten. Die moderne Wissenschaft bestätigt, dass eine gesunde Verdauung nicht nur das Immunsystem stärkt, sondern auch Stoffwechselerkrankungen vorbeugen kann. Ayurveda bietet hier eine bewährte Methode, um das Verdauungssystem ganzheitlich zu unterstützen – mit individuellen Anpassungen für jeden Konstitutionstyp.
-
-
 
 ✨ Wie unterstützt du dein Agni ganzheitlich? 
 
