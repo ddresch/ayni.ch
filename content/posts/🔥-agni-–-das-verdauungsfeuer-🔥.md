@@ -12,7 +12,7 @@ publishedAt: 2025-04-07T10:00:00.000Z
 
 Moderne wissenschaftliche Erkenntnisse bestätigen diese ayurvedische Sichtweise: Die Darmgesundheit, das Mikrobiom und der Stoffwechsel stehen in enger Verbindung mit unserem allgemeinen Wohlbefinden. Immer mehr Studien zeigen, dass ein Ungleichgewicht in der Verdauung nicht nur körperliche Beschwerden, sondern auch psychische Auswirkungen haben kann.
 
-### **Agni & Stoffwechsel – Das Zentrum unserer Gesundheit**
+## **Agni & Stoffwechsel – Das Zentrum unserer Gesundheit**
 
 In der ayurvedischen Lehre gibt es verschiedene Arten von Agni, die alle eine spezifische Rolle im Stoffwechsel spielen:
 
@@ -40,7 +40,7 @@ Wenn Agni optimal arbeitet, fühlen wir uns energiegeladen, haben eine gute Verd
 * Sodbrennen
 * Entzündungen Reizdarm
 
-### 🔬  **Wissenschaft trifft Ayurveda: Mikrobiom & Verdauung**
+## 🔬  **Wissenschaft trifft Ayurveda: Mikrobiom & Verdauung**
 
 Die moderne Forschung bestätigt zunehmend, was Ayurveda seit Jahrtausenden lehrt:
 
@@ -49,7 +49,7 @@ Die moderne Forschung bestätigt zunehmend, was Ayurveda seit Jahrtausenden lehr
 * **Zusammenhang zwischen Verdauung und chronischen Erkrankungen**
   Forschungen legen nahe, dass viele Stoffwechselerkrankungen wie Diabetes, Fettleber oder Reizdarm mit einer gestörten Darmgesundheit zusammenhängen. Ayurveda empfiehlt hier eine gezielte Stärkung von Agni, um den Stoffwechsel zu regulieren.
 
-### 🔥 **Ayurveda-Tipps zur Stärkung von Agni**
+## 🔥 **Ayurveda-Tipps zur Stärkung von Agni**
 
 **Regelmässige Mahlzeiten:** Unregelmässiges Essen schwächt Agni. Drei ausgewogene Mahlzeiten pro Tag helfen, die Verdauung zu stabilisieren.
 
@@ -58,7 +58,7 @@ Die moderne Forschung bestätigt zunehmend, was Ayurveda seit Jahrtausenden lehr
 * **Heisses Wasser trinken:** Morgens ein Glas warmes Wasser hilft, den Stoffwechsel sanft zu aktivieren und Ama auszuleiten.
 * **Vermeidung von schwer verdaulichen Lebensmitteln:** Hochverarbeitete Lebensmittel, Zucker, kalte Milchprodukte und industrieller Weizen können die Verdauung schwächen.
 
-### 📖 **Fazit: Agni bewusst stärken – für ein gesundes Leben**
+## 📖 **Fazit: Agni bewusst stärken – für ein gesundes Leben**
 
 Agni ist die Basis für Gesundheit, Energie und Wohlbefinden. Eine bewusste Ernährung und ein regelmässiger Lebensstil helfen, das Verdauungsfeuer im Gleichgewicht zu halten. Die moderne Wissenschaft bestätigt, dass eine gesunde Verdauung nicht nur das Immunsystem stärkt, sondern auch Stoffwechselerkrankungen vorbeugen kann. Ayurveda bietet hier eine bewährte Methode, um das Verdauungssystem ganzheitlich zu unterstützen – mit individuellen Anpassungen für jeden Konstitutionstyp.
 
