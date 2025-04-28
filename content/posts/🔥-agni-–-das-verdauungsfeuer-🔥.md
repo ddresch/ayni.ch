@@ -22,11 +22,23 @@ In der ayurvedischen Lehre gibt es verschiedene Arten von Agni, die alle eine sp
 
 Wenn Agni optimal arbeitet, fühlen wir uns energiegeladen, haben eine gute Verdauung und ein starkes Immunsystem. Ist es hingegen zu schwach oder zu stark, entstehen Ungleichgewichte:
 
-👉 **Schwaches Agni (Mandagni):** Träge Verdauung, Blähungen, Gewichtszunahme, Müdigkeit.
+👉 **Schwaches Agni (Mandagni)**
 
-👉 **Unregelmässiges Agni (Vishamagni):** Wechsel zwischen Verstopfung und Durchfall, unregelmässiger Hunger.
+* Träge Verdauung
+* Blähungen
+* Gewichtszunahme
+* Müdigkeit
 
-👉 **Überaktives Agni (Tikshagni):** Starker Hunger, Sodbrennen, Entzündungen, Reizdarm. 
+👉 **Unregelmässiges Agni (Vishamagni)**
+
+* Wechsel zwischen Verstopfung und Durchfall
+* unregelmässiger Hunger
+
+👉 **Überaktives Agni (Tikshagni)**
+
+* Starker Hunger
+* Sodbrennen
+* Entzündungen Reizdarm
 
 ### 🔬  **Wissenschaft trifft Ayurveda: Mikrobiom & Verdauung**
 
