@@ -60,4 +60,4 @@ Welcome to ayni – Practice for Ayurveda Complementary Therapy, Consulting & Co
 
 \---
 
-Photo by [Austin Chan](https://unsplash.com/photos/this-is-the-sign-youve-been-looking-for-neon-signage-ukzHlkoz1IE) on Unsplash
+Photo by [](https://unsplash.com/photos/this-is-the-sign-youve-been-looking-for-neon-signage-ukzHlkoz1IE)[Nick Fewings](https://unsplash.com/photos/blue-and-white-happy-birthday-print-stone-ioNNsLBO8hE) on Unsplash
