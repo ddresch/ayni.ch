@@ -1,6 +1,6 @@
 ---
 title: ayni coaching
-subtitle: kraftvoll, befreiend, inspirierend
+subtitle: "klar, zielgerichtet, transformativ "
 seoTitle: coaching, mental training, psychologische Beratung und Ayurveda in Basel
 seoDescription: Willkommen bei ayni coaching in Basel – Ihrem Partner für
   integrales Coaching, Mentaltraining und psychologische Ayurveda-Beratung. Wir
@@ -13,63 +13,101 @@ seoKeywords: ayni coaching, integrales Coaching, Mentaltraining, psychologische
   Beratung, Ayurveda, Selbstentwicklung, Potenzialentwicklung, Balance
 publishedAt: 2023-02-01T14:00:32.566Z
 block1: >-
-  Integrales Coaching, Mentaltraining und Psychologische Beratung kombiniert mit
-  der Weisheit des Ayurveda.
+  Durch eine ganzheitliche Sichtweise, die integrales Coaching, psychologische
+  Beratung und systemische Ansätze umfasst, unterstütze ich dich dabei, innere
+  Klarheit zu gewinnen und persönliche Herausforderungen zu meistern. Mit
+  Achtsamkeitspraxis und ressourcenorientierter Prozessbegleitung helfe ich dir,
+  deinen eigenen Weg mit mehr innerer Klarheit und Entschlossenheit zu gehen. 
 
 
-  > Finde deine Balance entfessele dein Potenzial
+  > *Finde zurück in deine Kraft. Ordne deine Gedanken. Gestalte deinen Weg bewusst.*
 
 
-  Nutze Deine verborgenen Ressourcen. Aktiviere neue Energien um im Leben erfolgreicher zu sein und eine bessere Lebensbalance zu erreichen.
+  *Nutze deinen Raum für Entwicklung, Klarheit und Selbstverbindung.*
 
 
-  ***ayni* *coaching* unterstützt dich bei** 
+  ![]()
 
 
-  * der Aktivierung deiner verborgenen Ressourcen 
-
-  * mentalen und körperlichen Belastungen und deren Bewältigung und Handhabung
-
-  * der Reaktivierung deiner Energie und Lebensfreude, um erfolgreicher zu leben und deine Lebensbalance zu verbessern
+  Bei *ayni coaching* erhälst du eine wertschätzende Begleitung, die dich dabei unterstützt, innere Klarheit zu gewinnen und mit mehr Selbstvertrauen und Zielorientierung deinen Weg zu gehen. Gemeinsam entwickeln wir individuelle Strategien, die dir helfen, Entscheidungen bewusster zu treffen und persönliche oder berufliche Herausforderungen wirksam zu meistern.
 
 
-  **Ziele sind**
+  Wenn du den Wunsch hast, deine persönlichen oder beruflichen Herausforderungen mit mehr Klarheit und Fokus zu meistern, begleite ich dich dabei, deinen inneren Kompass zu finden.
 
 
-  * die Aktivierung deiner verborgenen Stärken und Potenziale zu aktivieren und Herausforderungen mit mehr Selbstvertrauen und Energie zu begegnen.
+  **ayni coaching unterstützt dich bei** 
 
-  * eine gesunde Balance zwischen Arbeit, Erholung und persönlichen Bedürfnissen zu finden.
 
-  * Blockaden zu lösen, um deine innere Kraft und Klarheit zurückzugewinnen und deine Lebensziele mit neuer Energie zu verfolgen, um mehr Zufriedenheit zu erleben.
-boxHeadline: Angebot
+  * **Der Aktivierung deiner verborgenen Ressourcen**: Entdecke und nutze deine inneren Potenziale, um Herausforderungen mit mehr Selbstvertrauen und Energie zu begegnen.
+
+  * **Mentalen und körperlichen Belastungen**: Bewältige Stress, Erschöpfung und emotionale Blockaden, um wieder mehr Klarheit und Stabilität zu gewinnen.
+
+  * **Der Reaktivierung deiner Energie und Lebensfreude**: Finde deine Balance, verbessere deine Lebensqualität und setze deine Ziele mit neuer Kraft und Motivation um.
+
+
+  **Für wen?**
+
+
+  * *ayni coaching* richtet sich an alle, die eine tiefgreifende Veränderung in ihrem Leben anstreben, persönlich wie beruflich. Du möchtest Klarheit über deine Ziele gewinnen, alte Muster hinter dir lassen und deinen eigenen Weg mit mehr Selbstvertrauen und Orientierung gehen? Dann bist du hier genau richtig.
+
+  * Ob du dich in einer Umbruchphase befindest und den Wunsch nach Veränderung verspürst, dich selbstbewusster und klarer positionieren möchtest, dein Potenzial entfalten oder neue Wege für dein berufliches Leben finden möchtest. Gemeinsam entwickeln wir eine individuelle Strategie, die dich stärkt und weiterbringt.
+
+
+  **Bereit für den nächsten Schritt?**
+
+  Vereinbare dein erstes Gespräch und entdecke, wie du mit Klarheit und innerer Stärke deinen Weg gestalten kannst. Ich freue mich darauf, dich kennenzulernen.
+
+
+  **Ziele**
+
+
+  * **Innere Klarheit & Selbstvertrauen stärken:** Deine Wünsche, Ziele und Bedürfnisse erkennen, Blockaden lösen und mit mehr Fokus und Stabilität deinen Weg gehen.
+
+  * **Potenziale entfalten & neue Handlungsspielräume nutzen:** Verborgene Ressourcen aktivieren, um Herausforderungen selbstbestimmt und kraftvoll zu begegnen.
+
+  * **Lebensbalance & Authentizität fördern:** Ein bewusstes, erfülltes Leben gestalten, im Einklang mit deinen persönlichen und beruflichen Bedürfnissen.
+
+
+  **Gib dir selbst zurück, damit du anderen geben kannst.**
+
+  *Veränderung beginnt dort, wo du dir selbst wieder nah bist.*
+boxHeadline: Was dich erwartet
 boxContent: >-
-  * Ressourcen Aktivierung, Integrales Coaching, Somatic Coaching, Trauerarbeit
-  und -Begleitung
+  * **Vertrauensvoller und respektvoller Rahmen:** In einem sicheren und
+  respektvollen Raum arbeiten wir gemeinsam an deinen persönlichen Themen und
+  Herausforderungen, ohne Druck.
 
-  * Achtsamkeitstraining, Eigenwahrnehmung, körperzentrierte Arbeit
+  * **Coaching-Methoden:** Mit erprobten Coaching-Techniken unterstütze ich dich, emotionale und mentale Blockaden zu lösen und neue Wege zu finden.
 
-  * Geistiges Gleichgewicht (Tri-Vargas Coaching: Auflösung der 3-er Matrix von Handlungen/Purpose, Wohlstand und Wünschen)
+  * **Ayurveda-Weisheit:** Ich integriere die Prinzipien des Ayurveda, um deine innere Balance zu stärken, Stress zu reduzieren und dein Wohlbefinden zu fördern
 
-  * Identifikation von Hinderungsfaktoren, Verankerung hilfreicher Verhaltens- und Glaubensmuster
+  * **Selbstreflexion & Klarheit:** Durch gezielte Reflexion helfe ich dir, dein Selbstbewusstsein zu stärken und Klarheit über deine nächsten Schritte zu gewinnen.
 
-  * Arbeit mit dem inneren Kritiker und Aufstellungsarbeit
+  * **Konkrete Handlungsstrategien:** Wir entwickeln konkrete, umsetzbare Strategien, die du direkt in deinem Leben anwenden kannst, um Veränderungen zu erzielen.
 block2: >-
   ## Ablauf
 
 
-  In einem ersten Gespräch beleuchten wir das Thema/die Themen und definieren gemeinsam das Ziel für die Zeit der Zusammenarbeit. In den laufenden Sitzungen und der Prozessarbeit verankern wir die hilfreichen Änderungen in den Alltag.
+  * **Erstes Gespräch**: Wir klären deine Bedürfnisse und Herausforderungen. Hier besprechen wir, wie das Coaching dich am besten unterstützen kann.
+
+  * **Zielsetzung und Planung**: Du definierst mit meiner Hilfe deine Ziele und wir entwickeln einen klaren Plan, wie du diese erreichst.
+
+  * **Coaching Sitzungen**: Wir arbeiten in regelmässigen Sitzungen zusammen, um deine Fortschritte zu begleiten und bei Bedarf anzupassen.
+
+  * **Nachhaltige Integration**: Am Ende deiner Begleitung reflektieren wir gemeinsam deine Entwicklung und deine nächsten Schritte.
 
 
-  ## Dauer & Kosten
+  ## Dauer & Investition
 
 
-  * Erstgespräch Thema, Zieldefinition, Befunderhebung 90 Minuten
+  Erstes Gespräch (inkl. Thema, Zielklärung): 90 Min
 
-  * Coaching / Beratung, Sitzung je nach Thema / Bereich und Bedarf 60 bis 120 Minuten.
 
-  * Bei Bedarf intensivere Sitzungen z.B. bei Aufstellungsarbeit oder Trancearbeit 120 Minuten
+  Folgesitzung: 60–120 Min (je nach Thema & Bedarf)
 
-  * Der Stundentarif beträgt 150 CHF
 
-  * Online sowie in der Praxis oder vor Ort
+  Kosten: CHF 150 / Stunde
+
+
+  Ort: Online oder in der Praxis
 ---
