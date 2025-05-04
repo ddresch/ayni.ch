@@ -13,7 +13,7 @@ seoKeywords: ayni teambuilidng, Teambuilding Basel, Escape Room Teamevent,
   Zusammenarbeit fördern, Firmen Teamevent Schweiz
 publishedAt: 2023-02-01T14:00:32.566Z
 block1: >-
-  Escaoe Game triff Teamcoaching! In Zusammenarbeit mit [Room Escape
+  Escape Game triff Teamcoaching! In Zusammenarbeit mit [Room Escape
   Basel](https://www.roomescape.ch) begleite ich Teams durch gemeinsames Erleben
   und gezielte Reflexion, für mehr Teamgeist, klare Kommunikation und neue
   Handlungsspielräume. Spielerische Interaktion und das Meistern von
