@@ -100,14 +100,14 @@ block2: >-
   ## Dauer & Investition
 
 
-  Erstes Gespräch (inkl. Thema, Zielklärung): 90 Min
+  **Erstes Gespräch** (inkl. Thema, Zielklärung): 90 Min
 
 
-  Folgesitzung: 60–120 Min (je nach Thema & Bedarf)
+  **Folgesitzung:** 60–120 Min (je nach Thema & Bedarf)
 
 
-  Kosten: CHF 150 / Stunde
+  **Kosten:** CHF 150 / Stunde
 
 
-  Ort: Online oder in der Praxis
+  **Ort:** Online oder in der Praxis
 ---
