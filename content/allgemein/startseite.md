@@ -66,7 +66,7 @@ offers:
   - title: ayni teambuilding
     description: Kreatives Teambuilding, Stärkung der Zusammenarbeit, Kommunikation
       und Vertrauen mit Room Escape Basel.
-    link: angebot/teambuiling
+    link: angebot/teambuilding
   - title: ayni leadership
     description: Unterstützung bei Persönlichkeits-, Karriereentwicklung mit der LCP
       360 Grad Bewertung und bei der Bewältgung von Lebenskrisen
