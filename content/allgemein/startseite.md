@@ -40,12 +40,17 @@ description: >-
   Diese beiden Konzepte vereine ich in meiner Arbeit mit dem Leitsatz *„Gib Dir zurück, damit Du anderen geben kannst.“* für ein Gleichgewicht zwischen Mensch, Natur und Universum und für den Einklang zwischen Körper, Geist und Seele. Denn nur, wenn wir uns selbst wieder in Balance bringen, können wir auch unsere volle Kraft entfalten.
 
 
-  **In meiner Arbeit begleite ich Menschen in unterschiedlichen Lebensbereichen, von persönlichem Wachstum und Leadership-Entwicklung bis hin zu komplementärtherapeutischen Prozessen.**
+  In meiner Arbeit begleite ich Menschen in unterschiedlichen Lebensbereichen, von persönlichem Wachstum und Leadership-Entwicklung bis hin zu komplementärtherapeutischen Prozessen.
 
   Dabei integriere ich Coachingansätze, Ayurveda-Therapie mit Ernährung, Massage, Lifestyle-Beratung, Achtsamkeit und Wellbeing zu einer individuellen, ganzheitlichen Begleitung – auf körperlicher, mentaler und emotionaler Ebene.
 
 
-  Deine Silvia Ferlito
+  Bereit für den nächsten Schritt?
+
+  Ob persönlich, als Führungskraft oder im Team, entdecke, wie du Klarheit gewinnst, innere Balance stärkst und bewusste Veränderung gestaltest. Vereinbare dein erstes Gespräch - ich freue mich, dich kennenzulernen.
+
+
+  Deine SIlvia Ferlito
 offers:
   - title: ayni wellbeing
     description: KomplementärTherapie vereint mit Ayurveda-Ernährung,
