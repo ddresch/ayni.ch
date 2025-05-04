@@ -25,7 +25,7 @@ block1: >-
   > Wahre Veränderung beginnt in uns selbst.
 
 
-  *Spüre dich selbst bewusster, löse innere Spannungen und unterstütze dich darin, dein inneres Gleichgewicht wiederzufinden und deine Regenerationskräfte zu stärken.*
+  ###### *Spüre dich selbst bewusster, löse innere Spannungen und unterstütze dich darin, dein inneres Gleichgewicht wiederzufinden und deine Regenerationskräfte zu stärken.*
 
 
   ![]()
