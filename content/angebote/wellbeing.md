@@ -28,6 +28,7 @@ block1: >-
   *Spüre dich selbst bewusster, löse innere Spannungen und unterstütze dich darin, dein inneres Gleichgewicht wiederzufinden und deine Regenerationskräfte zu stärken.*
 
 
+  ![]()
 
 
   Bei *ayni wellbeing* findest du einen geschützten Raum, um dich selbst wieder zu spüren und dein inneres Gleichgewicht zu stärken. So gewinnst du neue Energie und eine klare Ausrichtung – für mehr Leichtigkeit und Präsenz im Alltag.
