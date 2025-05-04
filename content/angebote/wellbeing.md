@@ -118,20 +118,16 @@ block2: >-
 
   **Kostenerstattung durch Krankenkassen**
 
-  Ein Teil der Behandlungskosten wird in der Regel von vielen Krankenkassen über die Zusatzversicherung übernommen. Bitte erkundige dich vorab bei deiner Versicherung, wie du persönlich unterstützt wirst.
+  Ein Teil der Behandlungskosten wird in der Regel von vielen Krankenkassen über die Zusatzversicherung übernommen. Bitte erkundige dich vorab bei deiner Versicherung, wie du persönlich unterstützt wirst. Das EMR ([Erfahrungsmedizinisches Register](<>)) dient als Orientierungshilfe.
 
 
-  Ich bin beim **EMR (Erfahrungsmedizinisches Register)** anerkannt und registriert:
+  Ich bin beim **EMR (Erfahrungsmedizinisches Register)** anerkannt und registriert mit folgenden Methoden:
 
 
-  1. **Ayurveda-Therapie**
+  **Ayurveda-Therapie** (Methode Nr. 4041, Branchenzertifikat OdA KT)
 
-      (Methode Nr. 4041, Branchenzertifikat OdA KT)
-  2. **Ayurveda-Ernährung und -Massage**
 
-      (Methode Nr. 57)
-
-  Das EMR ([Erfahrungsmedizinisches Register](https://emr.ch/therapeut/silvia.ferlito/)) dient als Orientierungshilfe.
+  **Ayurveda-Ernährung und -Massage** (Methode Nr. 57)
 
 
   Bitte beachten: Reine Coachingsitzungen, Beratungen, Wellnessbehandlungen und online Konsultationen sind nicht über die Zusatzversicherung gedeckt.
