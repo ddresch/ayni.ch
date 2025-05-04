@@ -13,66 +13,98 @@ seoKeywords: ayni teambuilidng, Teambuilding Basel, Escape Room Teamevent,
   Zusammenarbeit fördern, Firmen Teamevent Schweiz
 publishedAt: 2023-02-01T14:00:32.566Z
 block1: >-
-  Kreatives Teambuilding, Stärkung der Zusammenarbeit, Kommunikation und
-  Vertrauen mit [Room Escape Basel](https://www.roomescape.ch).
+  Escaoe Game triff Teamcoaching! In Zusammenarbeit mit [Room Escape
+  Basel](https://www.roomescape.ch) begleite ich Teams durch gemeinsames Erleben
+  und gezielte Reflexion, für mehr Teamgeist, klare Kommunikation und neue
+  Handlungsspielräume. Spielerische Interaktion und das Meistern von
+  Herausforderungen stärken Vertrauen und fördern neue Perspektiven. So werden
+  Potenziale sichtbar und der Weg frei für eine lebendige, lösungsorientierte
+  Teamkultur.
 
 
   > Gemeinsam lösen wir jedes Rätsel
 
 
-  Im Team liegen grosse Potenziale, die durch gezielte Kommunikation und kreative Problemlösungen aktiviert werden. Nutze die Möglichkeit, das volle Potenzial deines Teams freizusetzen und gemeinsam neue Wege des Erfolgs zu gestalten.
+  Im Team liegen grosse Potenziale, sie entfalten sich durch kreative Aufgaben, gezielte Kommunikation und gemeinsame Reflexion. Nutze die Chance, dein Team nachhaltig zu stärken und mit neuer Klarheit, Motivation und Vertrauen in die Zusammenarbeit zu starten.
+
+
+  ![]()
+
+
+  Wenn du ein starkes, kooperatives Team aufbauen möchtest, das gemeinsam neue Herausforderungen meistert und die Zusammenarbeit nachhaltig stärkt, unterstütze ich dich gerne dabei.
 
 
   ***ayni* *teambuilding* unterstützt dich bei**
 
 
-  * Kommunikationsverbesserung und Zusammenarbeit innerhalb deines Teams
+  * **Der Verbesserung von Kommunikation & Zusammenarbeit:** Teamprozesse werden transparenter, offener und effektiver gestaltet.
 
-  * kreativem Denken und der Förderung von lösungsorientiertem Handeln
+  * **Kreativem Denken & lösungsorientiertem Handeln:** Herausforderungen werden gemeinsam reflektiert und mit frischem Blick gelöst.
 
-  * der Verbesserung des gegenseitigen Vertrauens und der Unterstützung unter den Teammitgliedern
-
-
-  **Ziele sind:**
+  * **Der Stärkung von Vertrauen & Teamzusammenhalt:** Gemeinsame Erlebnisse verbinden – und schaffen nachhaltige Impulse für den Alltag.
 
 
-  * die Förderung einer offenen und effektiven Kommunikation, die es dem Team ermöglicht, Herausforderungen gemeinsam zu meistern.
+  **Für wen?**
 
-  * die Entwicklung von Lösungsstrategien durch kreatives Denken und Zusammenarbeit.
 
-  * das Stärken von Vertrauen und Zusammenhalt, um als Einheit zu wachsen und gemeinsam erfolgreicher zu sein.
-boxHeadline: Angebot
+  * ayni teambuilding richtet sich an Unternehmen und Teams, die ihre Zusammenarbeit auf eine neue, kreative Ebene heben möchten. Wenn dein Team die Kommunikation, das Vertrauen oder die Zusammenarbeit verbessern möchte, um gemeinsam grössere Herausforderungen zu meistern, bist du hier genau richtig.
+
+  * Ob ihr euch in einer Übergangsphase befindet, die Teamdynamik verbessern wollt, oder auf der Suche nach neuen Wegen seid, eure Zusammenarbeit zu stärken. Gemeinsam entwickle ich massgeschneiderte Lösungen, die euch als Team näher zusammenbringen und eure Effizienz steigern.
+
+
+  **Bereit für den nächsten Schritt als Team?**
+
+  Vereinbare dein erstes Gespräch und entdecke, wie dein Team durch Zusammenarbeit, Vertrauen und kreative Problemlösungen noch erfolgreicher zusammenarbeiten kann. Ich freue mich darauf, mit euch gemeinsam neue Wege zu finden.
+
+
+  **Ziele:**
+
+
+  * Offene Kommunikation & Klarheit im Team stärken: Herausforderungen gemeinsam bewältigen und Synergien nutzen.
+
+  * Kreative Lösungswege finden: Durch gemeinsame Reflexion und spielerisches Erleben neue Perspektiven gewinnen.
+
+  * Vertrauen & Teamgeist vertiefen: Für mehr Miteinander, Motivation und gemeinsame Erfolge.
+
+
+  **Gib dir selbst zurück, damit du anderen geben kannst.**
+
+
+  *Denn, Verbindung nach innen schafft Zusammenarbeit im Aussen.*
+boxHeadline: Was euch erwartet
 boxContent: >-
-  * Teamevent mit [Room Escape Basel ](https://www.roomescape.ch/team-event/)–
-  spannende Escape Room Herausforderungen zur Förderung von Teamarbeit und
-  Kommunikation
+  * **Teamevent mit [Room Escape
+  Basel:](https://www.roomescape.ch/team-event/)** spannende Escape Room
+  Herausforderungen zur Förderung von Teamarbeit und Kommunikation
 
-  * Individuelle Begleitung in der Reflexion und Analyse der Teamdynamik
+  * **Gezielte Teamreflexion:** Professionelle Begleitung zur Analyse von Rollen, Dynamiken und Kommunikation im Team.
 
-  * Workshops zur Verbesserung der Teamkommunikation und Zusammenarbeit
+  * **Workshops & Coaching:** Entwicklung konkreter Strategien zur Verbesserung der Zusammenarbeit im Arbeitsalltag.
 
-  * Gemeinsame Zielsetzung und Entwicklung von Lösungen für die Zusammenarbeit im Arbeitsumfeld
+  * **Individuelle Zielsetzung & Umsetzung:** Vom Erlebnis zur Veränderung, mit konkreten Schritten für nachhaltige Teamentwicklung.
 
-  * Auswertung der Erfahrungen und Planung konkreter Schritte zur langfristigen Teamentwicklung[](https://www.ayni.ch/informationen/ayurveda-massagen)
+  * **Optionaler kulinarischer Rahmen:** Gemeinsamer Apéro oder Essen in der Escape Bar für Austausch & Teamgefühl.[](https://www.ayni.ch/informationen/ayurveda-massagen)
 block2: >-
   ## Ablauf
 
 
-  Bei Bedarf beleuchten wir bei einem Vorgespräch das Thema für das Teamcoaching und definieren gemeinsam das Ziel.
+  * **Vorbriefing & Zielklärung:** Kurze Einführung, Icebreaker & thematische Fokussierung
+
+  * **Escape Game:** Teamaufgabe im Spielsetting – inkl. Beobachtung durch Coach
+
+  * **Reflexion & Feedback:** Auswertung durch Gruppen- & Peer-Feedback sowie Coachimpulse
+
+  * **Debriefing & Transfer:** Abschlussrunde mit Takeaways & Übertragung ins Arbeitsumfeld
 
 
-  ## Dauer & Kosten
+  ## Dauer & Investition
 
 
-  * **Vorbriefing & Einführung**
-    Kurze Einführung in das Escape Game inkl. Icebreaker, passend zum Thema
-  * **Escape Game**
-    Teamwork und Problemlösungen im Escape Room, inkl. Beobachtung durch den Coach 
-  * **Reflexion & Feedback**
-    Individuelle, Team- und Peer-Feedback-Runden, um das Erlebte zu reflektieren
-  * **Debriefing**
-    Abschlussgespräch und Takeaways mit Fokus auf die zukünftige Zusammenarbeit 
-  * Gesamtdauer inkl Spielszenario: ab 2 / 2,5 Stunden
+  * **Gesamtdauer:** ab 2,5 Stunden (inkl. Spiel, Reflexion & Auswertung)
+
+  * **Verpflegung:** Optionales Apéro oder Essen über die Escape Bar
+
+  * **Kosten:** Individuelles Angebot durch Room Escape Basel (inkl. Spiel & Catering). Das Coachinghonorar richtet sich nach 
 
 
   ## **Genuss & Stärkung**
