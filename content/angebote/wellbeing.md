@@ -28,6 +28,8 @@ block1: >-
   *Spüre dich selbst bewusster, löse innere Spannungen und unterstütze dich darin, dein inneres Gleichgewicht wiederzufinden und deine Regenerationskräfte zu stärken.*
 
 
+
+
   Bei *ayni wellbeing* findest du einen geschützten Raum, um dich selbst wieder zu spüren und dein inneres Gleichgewicht zu stärken. So gewinnst du neue Energie und eine klare Ausrichtung – für mehr Leichtigkeit und Präsenz im Alltag.
 
 
@@ -59,11 +61,6 @@ block1: >-
   Vereinbare jetzt dein erstes Gespräch und finde den Weg zurück zu mehr Energie und innerer Balance.
 
 
-  **Gib dir selbst zurück, damit du anderen geben kannst.**
-
-  *Weil dein Körper spürt, was deine Seele noch nicht sagen kann*
-
-
   **Ziele**
 
 
@@ -72,6 +69,11 @@ block1: >-
   * **Verbesserung der Selbstregulation:** Mit mehr Gelassenheit auf stressige Situationen reagieren
 
   * **Stärkung der Genesungskompetenz:** Für mehr Wohlbefinden und innere Balance
+
+
+  **Gib dir selbst zurück, damit du anderen geben kannst.**
+
+  *Weil dein Körper spürt, was deine Seele noch nicht sagen kann*
 boxHeadline: Dich erwartet
 boxContent: >-
   * **Ganzheitliche Befunderhebung:** Bestimmung der drei Doshas zur Erkennung
@@ -101,13 +103,13 @@ block2: >-
   ## Dauer & Investition
 
 
-  * Erstsitzung (inkl. Befunderhebung & Zielklärung): 90 Min
+  * **Erstsitzung** (inkl. Befunderhebung & Zielklärung): 90 Min
 
-  * Folgesitzung: 60–120 Min (je nach Thema & Bedarf)
+  * **Folgesitzung**: 60–120 Min (je nach Thema & Bedarf)
 
-  * Kosten: CHF 150 / Stunde
+  * **Kosten**: CHF 150 / Stunde
 
-  * Ort: Praxis
+  * **Ort**: Praxis
 
 
   Jede komplementärtherapeutische Sitzung beinhaltet ein Vorgespräch, die Behandlung und ein Nachgespräch
@@ -121,12 +123,12 @@ block2: >-
   Ich bin beim **EMR (Erfahrungsmedizinisches Register)** anerkannt und registriert:
 
 
-  * **Ayurveda-Therapie**
+  1. **Ayurveda-Therapie**
 
-     (Methode Nr. 4041, Branchenzertifikat OdA KT)
-  * **Ayurveda-Ernährung und -Massage**
+      (Methode Nr. 4041, Branchenzertifikat OdA KT)
+  2. **Ayurveda-Ernährung und -Massage**
 
-     (Methode Nr. 57)
+      (Methode Nr. 57)
 
   Das EMR ([Erfahrungsmedizinisches Register](https://emr.ch/therapeut/silvia.ferlito/)) dient als Orientierungshilfe.
 
