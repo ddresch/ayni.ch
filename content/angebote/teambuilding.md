@@ -60,11 +60,11 @@ block1: >-
   **Ziele:**
 
 
-  * Offene Kommunikation & Klarheit im Team stärken: Herausforderungen gemeinsam bewältigen und Synergien nutzen.
+  * **Offene Kommunikation & Klarheit im Team stärken:** Herausforderungen gemeinsam bewältigen und Synergien nutzen.
 
-  * Kreative Lösungswege finden: Durch gemeinsame Reflexion und spielerisches Erleben neue Perspektiven gewinnen.
+  * **Kreative Lösungswege finden:** Durch gemeinsame Reflexion und spielerisches Erleben neue Perspektiven gewinnen.
 
-  * Vertrauen & Teamgeist vertiefen: Für mehr Miteinander, Motivation und gemeinsame Erfolge.
+  * **Vertrauen & Teamgeist vertiefen**: Für mehr Miteinander, Motivation und gemeinsame Erfolge.
 
 
   **Gib dir selbst zurück, damit du anderen geben kannst.**
@@ -97,7 +97,7 @@ block2: >-
   * **Debriefing & Transfer:** Abschlussrunde mit Takeaways & Übertragung ins Arbeitsumfeld
 
 
-  ## Dauer & Investition
+  ## Dauer & Kosten
 
 
   * **Gesamtdauer:** ab 2,5 Stunden (inkl. Spiel, Reflexion & Auswertung)
@@ -110,7 +110,7 @@ block2: >-
   ## **Genuss & Stärkung**
 
 
-  * Auf Wunsch bietet die [Escape Bar](https://www.roomescape.ch/bar/) in schönem Ambiente vor und nach dem Rätselspass eine kulinarische Stärkung – je nach Tageszeit mit einem Z’nüni, einem leckeren Apéro oder einem feinen Essen. Die perfekte Gelegenheit, das Team auf die bevorstehende Aufgabe einzustimmen, den Teamgeist zu fördern und nach dem Escape Game gemeinsam den Erfolg zu feiern.
+  * Auf Wunsch bietet die [Escape Bar](https://www.roomescape.ch/bar/) in schönem Ambiente vor und nach dem Rätselspass eine kulinarische Stärkung , je nach Tageszeit mit einem Z’nüni, einem leckeren Apéro oder einem feinen Essen. Die perfekte Gelegenheit, das Team auf die bevorstehende Aufgabe einzustimmen, den Teamgeist zu fördern und nach dem Escape Game gemeinsam den Erfolg zu feiern.
 
-  * Für das Apéro, die Spielszenarien und das Coaching erstellt [Room Escape Basel](https://www.roomescape.ch/team-event/) ein individuelles Angebot. Der Preis für das Teamcoaching richtet sich nach dem Zeitaufwand und der Teilnehmerzahl.
+  * Für das Apéro, die Spielszenarien und das Coaching erstellt [Room Escape Basel](https://www.roomescape.ch/team-event/) ein individuelles Angebot. Der Preis für das Teamcoaching richtet sich nach dem Zeitaufwand und der Teilnehmerzahl.
 ---
