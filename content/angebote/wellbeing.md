@@ -74,6 +74,7 @@ block1: >-
 
   **Gib dir selbst zurück, damit du anderen geben kannst.**
 
+
   *Weil dein Körper spürt, was deine Seele noch nicht sagen kann*
 boxHeadline: Was dich erwartet
 boxContent: >-
