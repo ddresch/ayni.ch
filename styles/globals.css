@@ -88,11 +88,16 @@ ul {
   padding: 13px;
 }
 
-ul li {
+ul li, ol li {
   margin: 0;  
   padding: 1%;
   line-height: 1.8em;
   font-size: 1.2rem;
+}
+
+ol li::marker {
+  color: #cf4d6f;
+  font-weight: 700;
 }
 
 option {
