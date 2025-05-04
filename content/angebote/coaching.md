@@ -106,7 +106,7 @@ block2: >-
   **Folgesitzung:** 60–120 Min (je nach Thema & Bedarf)
 
 
-  **Kosten:** CHF 150 / Stunde
+  **Kosten:** CHF 250 / Stunde
 
 
   **Ort:** Online oder in der Praxis
