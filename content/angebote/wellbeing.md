@@ -124,10 +124,10 @@ block2: >-
   Ich bin beim **EMR (Erfahrungsmedizinisches Register)** anerkannt und registriert mit folgenden Methoden:
 
 
-  **Ayurveda-Therapie** (Methode Nr. 4041, Branchenzertifikat OdA KT)
+  **1. Ayurveda-Therapie** (Methode Nr. 4041, Branchenzertifikat OdA KT)
 
 
-  **Ayurveda-Ernährung und -Massage** (Methode Nr. 57)
+  **2. Ayurveda-Ernährung und -Massage** (Methode Nr. 57)
 
 
   Bitte beachten: Reine Coachingsitzungen, Beratungen, Wellnessbehandlungen und online Konsultationen sind nicht über die Zusatzversicherung gedeckt.
