@@ -68,7 +68,7 @@ block1: >-
   * **Lebensbalance & Authentizität fördern:** Ein bewusstes, erfülltes Leben gestalten, im Einklang mit deinen persönlichen und beruflichen Bedürfnissen.
 
 
-  **Gib dir selbst zurück, damit du anderen geben kannst.**
+  **Gib dir selbst zurück, damit du anderen geben kannst.**\
 
   *Veränderung beginnt dort, wo du dir selbst wieder nah bist.*
 boxHeadline: Was dich erwartet
