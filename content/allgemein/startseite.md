@@ -68,8 +68,10 @@ offers:
       und Vertrauen mit Room Escape Basel.
     link: angebot/teambuilding
   - title: ayni leadership
-    description: Unterstützung bei Persönlichkeits-, Karriereentwicklung mit der LCP
-      360 Grad Bewertung und bei der Bewältgung von Lebenskrisen
+    description: Individuelle Begleitung bei Persönlichkeits- und
+      Karriereentwicklung sowie Bewältigung von Herausforderungen, für deine
+      persönliche und berufliche Weiterentwicklung mit Achtsamkeit, Klarheit und
+      innerer Stärke.
     link: angebot/leadership
   - title: ayni corporate
     description: Integrative Lösungsansätze für ein Nachhaltiges Corporate &
