@@ -67,8 +67,7 @@ block1: >-
   * **Vertrauen & Teamgeist vertiefen**: Für mehr Miteinander, Motivation und gemeinsame Erfolge.
 
 
-  **Gib dir selbst zurück, damit du anderen geben kannst.**
-
+  **Gib dir selbst zurück, damit du anderen geben kannst.**\
 
   *Denn, Verbindung nach innen schafft Zusammenarbeit im Aussen.*
 boxHeadline: Was euch erwartet
