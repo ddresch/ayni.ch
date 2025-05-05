@@ -103,7 +103,7 @@ block2: >-
 
   * **Verpflegung:** Optionales Apéro oder Essen über die Escape Bar
 
-  * **Kosten:** Individuelles Angebot durch Room Escape Basel (inkl. Spiel & Catering). Das Coachinghonorar richtet sich nach 
+  * **Kosten:** Individuelles Angebot durch Room Escape Basel (inkl. Spiel & Catering). Das Coachinghonorar richtet sich nach Teilnehmerzahl & Zeitaufwand.
 
 
   ## **Genuss & Stärkung**
