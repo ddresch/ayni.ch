@@ -29,7 +29,7 @@ block1: >-
   ![]()
 
 
-  Bei ayni leadership findest du eine professionelle Begleitung, die dich in persönlichen und beruflichen Wachstumsprozessen stärkt, ob als Führungskraft oder in einer verantwortungsvollen Position.
+  Bei *ayni leadership* findest du eine professionelle Begleitung, die dich in persönlichen und beruflichen Wachstumsprozessen stärkt, ob als Führungskraft oder in einer verantwortungsvollen Position.
 
 
   Wenn du dich klarer positionieren, deine Rolle mit mehr Präsenz und innerer Stabilität gestalten und deinen ganz eigenen Führungsweg finden möchtest, begleite ich dich gerne dabei.
