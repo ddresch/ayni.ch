@@ -72,8 +72,7 @@ block1: >-
   * **Förderung von Selbstfürsorge und gesunden Grenzen:** Verstehen, wie du Verantwortung trägst, ohne dich selbst zu überfordern, und so deine nachhaltige Leistung als Führungskraft sicherst.
 
 
-  **Gib dir selbst zurück, damit du andere führen kannst.**
-
+  **Gib dir selbst zurück, damit du andere führen kannst.**\
 
   Indem du dich selbst erkennst und annimmst, öffnest du Raum für echte Verbindung, neue Perspektiven und nachhaltige Wirkung, in deinem Leben und im Miteinander.
 boxHeadline: Was dich erwartet
