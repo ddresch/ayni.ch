@@ -47,7 +47,7 @@ block1: >-
   * **Ernährungs- & Gesundheitsbewusstsein:** Bewusste Ernährung und nachhaltige Gesundheitsgewohnheiten integrieren
 
 
-  **Für wen?**
+  ## **Für wen?**
 
 
   * Für Frauen, die im Alltag viel leisten – und dabei sich selbst oft an letzte Stelle stellen. Wenn du merkst, dass du mehr von deiner inneren Energie und Leichtigkeit zurückgewinnen möchtest, begleite ich dich sanft und ganzheitlich zurück in deine Kraft.
@@ -62,7 +62,7 @@ block1: >-
   Vereinbare jetzt dein erstes Gespräch und finde den Weg zurück zu mehr Energie und innerer Balance.
 
 
-  **Ziele**
+  ## **Ziele**
 
 
   * **Förderung der Selbstwahrnehmung:** Eine tiefere Verbindung zu deinem Körper und deinen Emotionen
@@ -125,8 +125,7 @@ block2: >-
   Ich bin beim **EMR (Erfahrungsmedizinisches Register)** anerkannt und registriert mit folgenden Methoden:
 
 
-  **1. Ayurveda-Therapie** (Methode Nr. 4041, Branchenzertifikat OdA KT)
-
+  **1. Ayurveda-Therapie** (Methode Nr. 4041, Branchenzertifikat OdA KT)\
 
   **2. Ayurveda-Ernährung und -Massage** (Methode Nr. 57)
 
