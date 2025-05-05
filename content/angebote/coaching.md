@@ -35,7 +35,7 @@ block1: >-
   Wenn du den Wunsch hast, deine persönlichen oder beruflichen Herausforderungen mit mehr Klarheit und Fokus zu meistern, begleite ich dich dabei, deinen inneren Kompass zu finden.
 
 
-  **ayni coaching unterstützt dich bei** 
+  ***ayni coaching* unterstützt dich bei** 
 
 
   * **Der Aktivierung deiner verborgenen Ressourcen**: Entdecke und nutze deine inneren Potenziale, um Herausforderungen mit mehr Selbstvertrauen und Energie zu begegnen.
@@ -45,7 +45,7 @@ block1: >-
   * **Der Reaktivierung deiner Energie und Lebensfreude**: Finde deine Balance, verbessere deine Lebensqualität und setze deine Ziele mit neuer Kraft und Motivation um.
 
 
-  **Für wen?**
+  ## **Für wen?**
 
 
   * *ayni coaching* richtet sich an alle, die eine tiefgreifende Veränderung in ihrem Leben anstreben, persönlich wie beruflich. Du möchtest Klarheit über deine Ziele gewinnen, alte Muster hinter dir lassen und deinen eigenen Weg mit mehr Selbstvertrauen und Orientierung gehen? Dann bist du hier genau richtig.
@@ -58,7 +58,7 @@ block1: >-
   Vereinbare dein erstes Gespräch und entdecke, wie du mit Klarheit und innerer Stärke deinen Weg gestalten kannst. Ich freue mich darauf, dich kennenzulernen.
 
 
-  **Ziele**
+  ## **Ziele**
 
 
   * **Innere Klarheit & Selbstvertrauen stärken:** Deine Wünsche, Ziele und Bedürfnisse erkennen, Blockaden lösen und mit mehr Fokus und Stabilität deinen Weg gehen.
