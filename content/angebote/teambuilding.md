@@ -44,7 +44,7 @@ block1: >-
   * **Der Stärkung von Vertrauen & Teamzusammenhalt:** Gemeinsame Erlebnisse verbinden – und schaffen nachhaltige Impulse für den Alltag.
 
 
-  **Für wen?**
+  ## **Für wen?**
 
 
   * ayni teambuilding richtet sich an Unternehmen und Teams, die ihre Zusammenarbeit auf eine neue, kreative Ebene heben möchten. Wenn dein Team die Kommunikation, das Vertrauen oder die Zusammenarbeit verbessern möchte, um gemeinsam grössere Herausforderungen zu meistern, bist du hier genau richtig.
@@ -57,7 +57,7 @@ block1: >-
   Vereinbare dein erstes Gespräch und entdecke, wie dein Team durch Zusammenarbeit, Vertrauen und kreative Problemlösungen noch erfolgreicher zusammenarbeiten kann. Ich freue mich darauf, mit euch gemeinsam neue Wege zu finden.
 
 
-  **Ziele:**
+  ## **Ziele**
 
 
   * **Offene Kommunikation & Klarheit im Team stärken:** Herausforderungen gemeinsam bewältigen und Synergien nutzen.
