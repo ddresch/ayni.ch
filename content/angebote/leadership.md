@@ -89,36 +89,30 @@ boxContent: >-
   * **Geistiges Gleichgewicht (Tri-Vargas Coaching):** Auflösung der 3-er Matrix von Handlungen/Purpose, Wohlstand und Wünschen, um eine harmonische Balance zwischen diesen Bereichen zu erreichen.
 
   * **Begleitung bei Neuorientierung, Zieldefinitionen und Krisen:** Unterstützung bei beruflichen oder persönlichen Umbrüchen, Zielsetzungen und der Umsetzung von Veränderungen.
-block2: |-
+block2: >-
   ## Ablauf
 
+
   * **Kennenlerngespräch:** ca. 30 Min. kostenlos & unverbindlich
+
   * **Individuelle Prozessbegleitung:** Einzelsitzungen oder Pakete
+
   * **Dauer & Inhalte:** werden gemeinsam abgestimmt
+
 
   ## Dauer & Kosten
 
-  * **Erstgespräch**
 
-  inklusive Themenklärung, Prozess- und Zieldefinition)
-
-  **Dauer**: 90 Minuten
-
-  **Kosten**: 250 / Stunde
-
-  * Leadership Coaching:
-
-  Individuelle Coaching – Sitzung je nach Thema und Bedarf
-
-  **Dauer**: 60 bis 120 Minuten 
-
-  **Kosten**: CHF 250 / Stunde
-
-  * LCP Paket für Führungskräfte
-
-  Enthält LCP Profile Assessment, Onboarding, Debrief, zwei Follow up Sessions
-
-  **Gesamtzeit**: ca. 300 Minuten (5 Stunden)
-
-  **Pauschalpreis**: CHF 1’500
+  * **Erstgespräch**\
+    inklusive Themenklärung, Prozess- und Zieldefinition)\
+    **Dauer**: 90 Minuten\
+    **Kosten**: 250 / Stunde
+  * **Leadership Coaching**\
+    Individuelle Coaching – Sitzung je nach Thema und Bedarf\
+    **Dauer**: 60 bis 120 Minuten \
+    **Kosten**: CHF 250 / Stunde
+  * **LCP Paket für Führungskräfte**\
+    Enthält LCP Profile Assessment, Onboarding, Debrief, zwei Follow up Sessions\
+    **Gesamtzeit**: ca. 300 Minuten (5 Stunden)\
+    **Pauschalpreis**: CHF 1’500
 ---
