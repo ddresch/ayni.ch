@@ -35,7 +35,7 @@ block1: >-
   Wenn du dich klarer positionieren, deine Rolle mit mehr Präsenz und innerer Stabilität gestalten und deinen ganz eigenen Führungsweg finden möchtest, begleite ich dich gerne dabei.
 
 
-  ## ayni leadership unterstützt dich bei
+  **ayni leadership unterstützt dich bei**
 
 
   * **Innerer Ausrichtung:** Deine Werte, Ziele und Ressourcen erkennen – und aus ihnen heraus führen.
