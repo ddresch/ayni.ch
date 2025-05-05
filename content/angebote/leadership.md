@@ -23,10 +23,19 @@ block1: >-
   > Wer sein Ziel kennt, findet den Weg
 
 
+  Finde deine Richtung. Stärke deine innere Führung. Werde zur klaren Kraft in deinem Leben.
+
+
+  ![]()
+
+
+  Bei ayni leadership findest du eine professionelle Begleitung, die dich in persönlichen und beruflichen Wachstumsprozessen stärkt, ob als Führungskraft oder in einer verantwortungsvollen Position.
+
+
   Wenn du dich klarer positionieren, deine Rolle mit mehr Präsenz und innerer Stabilität gestalten und deinen ganz eigenen Führungsweg finden möchtest, begleite ich dich gerne dabei.
 
 
-  ### ayni leadership unterstützt dich bei
+  ## ayni leadership unterstützt dich bei
 
 
   * **Innerer Ausrichtung:** Deine Werte, Ziele und Ressourcen erkennen – und aus ihnen heraus führen.
@@ -40,7 +49,7 @@ block1: >-
   * **Entscheidungsfindung & Vision:** Handlungssicherheit gewinnen – mit Herz, Kopf und Intuition.
 
 
-  ### Für wen?
+  ## Für wen?
 
 
   Dieses Angebot richtet sich an Menschen in (oder auf dem Weg in) verantwortungsvolle Rollen: Führungskräfte, Projektleitende, sowie alle, die Klarheit, Integrität und persönliche Entwicklung im Beruf vereinen möchten.
@@ -49,7 +58,7 @@ block1: >-
   **Bist du bereit für deine nächste Entwicklungsstufe?** Vereinbare ein unverbindliches Kennenlerngespräch und finde heraus, wie du mit innerer Klarheit und authentischer Präsenz deinen eigenen Führungsweg gestaltest. Ich freue mich auf dich.
 
 
-  ### Ziele
+  ## Ziele
 
 
   * **Stärkung der inneren Führung:** Klarheit über eigene Werte, Ziele und Ressourcen entwickeln, um authentisch und mit innerer Stärke zu führen.
