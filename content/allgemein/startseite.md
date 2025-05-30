@@ -97,7 +97,7 @@ offers:
       innerer Stärke.
     link: angebot/leadership
   - title: ayni corporate
-    description: Integrative Lösungen für nachhaltiges Corporate Wellbeing und
-      Employee Wellbeing, um langfristige Gesundheit und Leistung zu fördern.
+    description: Integrative Lösungen für nachhaltiges Corporate und Employee
+      Wellbeing, um langfristige Gesundheit und Leistung zu fördern.
     link: angebot/corporate
 ---
