@@ -45,12 +45,35 @@ description: >-
   Dabei integriere ich Coachingansätze, Ayurveda-Therapie mit Ernährung, Massage, Lifestyle-Beratung, Achtsamkeit und Wellbeing zu einer individuellen, ganzheitlichen Begleitung – auf körperlicher, mentaler und emotionaler Ebene.
 
 
-  Bereit für den nächsten Schritt?
+  **Bereit für den nächsten Schritt?**
 
   Ob persönlich, als Führungskraft oder im Team, entdecke, wie du Klarheit gewinnst, innere Balance stärkst und bewusste Veränderung gestaltest. Vereinbare dein erstes Gespräch - ich freue mich, dich kennenzulernen.
 
 
-  Deine SIlvia Ferlito
+  Ich begleite dich auf deinem Weg zu:
+
+
+  * **Klarheit**: Erkenne deine Bedürfnisse und Ziele, sowohl im persönlichen als auch im beruflichen Kontext.
+
+  * **Balance**: Bringe Körper, Geist und Seele wieder ins Gleichgewicht und aktiviere deine natürlichen Heilungskräfte.
+
+  * **Veränderung**: Nutze deine Ressourcen, um persönliche und berufliche Herausforderungen zu meistern und zu wachsen.
+
+
+
+  **Warum ayni?**
+
+
+  * **Individuell und ganzheitlich:** Mein integrativer Ansatz berücksichtigt deine ganz persönlichen Bedürfnisse – mit einem Fokus auf Körper, Geist und Seele.
+
+  * **Nachhaltige Veränderung:** Wir arbeiten zusammen an langfristigen Lösungen, die dir helfen, dich nachhaltig weiterzuentwickeln.
+
+  * **Erfahrung und Expertise:** Als erfahrene Prozessbegleiterin, Coach und Ayurveda-Therapeutin biete ich dir fundierte Unterstützung in allen Lebensbereichen.
+
+
+
+
+  Deine Silvia Ferlito
 offers:
   - title: ayni wellbeing
     description: KomplementärTherapie vereint mit Ayurveda-Ernährung,
