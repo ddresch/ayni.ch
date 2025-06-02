@@ -11,12 +11,13 @@ seoKeywords: Ayurveda, KomplementärTherapie, Basel, Region Basel, Wellness,
 publishedAt: 2023-02-01T14:00:32.566Z
 description: >-
   Willkommen bei ayni – deiner Praxis in Basel für KomplementärTherapie in der
-  Methode Ayurveda Therapie, psychologischer Beratung und Coaching. Ich begleite
-  Einzelpersonen, Teams und Führungskräfte dabei, ihre Balance zu stärken, ihr
-  Potenzial zu entfalten und Wandel bewusst zu gestalten.
+  Methode Ayurveda Therapie, psychologischer Beratung und Coaching. 
 
 
-  Ob körperliche Beschwerden, mentale Erschöpfung, persönliche Krisen, Weiterentwicklung oder berufliche Herausforderungen – bei ayni findest du einen Raum für Reflexion, Wachstum und nachhaltige Veränderung. Ich arbeite mit einem integrativen Ansatz, der die Weisheit des Ayurveda mit moderner Prozessbegleitung verbindet – individuell, achtsam und auf Augenhöhe.
+  Ich begleite Einzelpersonen, Teams und Führungskräfte dabei, ihre Balance zu stärken, ihr Potenzial zu entfalten und Wandel bewusst zu gestalten.
+
+
+  Ob körperliche Beschwerden, mentale Erschöpfung, persönliche Krisen, Weiterentwicklung oder berufliche Herausforderungen. Bei ayni findest du einen Raum für Reflexion, Wachstum und nachhaltige Veränderung. Ich arbeite mit einem integrativen Ansatz, der die Weisheit des Ayurveda mit moderner Prozessbegleitung verbindet - individuell, achtsam und auf Augenhöhe.
 
 
   ![Portrait Silvia Ferlito](/images/portrait-wall.png "Portrait Silvia Ferlito")
@@ -42,7 +43,7 @@ description: >-
 
   In meiner Arbeit begleite ich Menschen in unterschiedlichen Lebensbereichen, von persönlichem Wachstum und Leadership-Entwicklung bis hin zu komplementärtherapeutischen Prozessen.
 
-  Dabei integriere ich Coachingansätze, Ayurveda-Therapie mit Ernährung, Massage, Lifestyle-Beratung, Achtsamkeit und Wellbeing zu einer individuellen, ganzheitlichen Begleitung – auf körperlicher, mentaler und emotionaler Ebene.
+  Dabei integriere ich Coachingansätze, Ayurveda-Therapie mit Ernährung, Massage, Lifestyle-Beratung, Achtsamkeit und Wellbeing zu einer individuellen, ganzheitlichen Begleitung - auf körperlicher, mentaler und emotionaler Ebene.
 
 
   **Bereit für den nächsten Schritt?**
@@ -60,7 +61,6 @@ description: >-
   * **Veränderung**: Nutze deine Ressourcen, um persönliche und berufliche Herausforderungen zu meistern und zu wachsen.
 
 
-
   **Warum ayni?**
 
 
@@ -69,8 +69,6 @@ description: >-
   * **Nachhaltige Veränderung:** Wir arbeiten zusammen an langfristigen Lösungen, die dir helfen, dich nachhaltig weiterzuentwickeln.
 
   * **Erfahrung und Expertise:** Als erfahrene Prozessbegleiterin, Coach und Ayurveda-Therapeutin biete ich dir fundierte Unterstützung in allen Lebensbereichen.
-
-
 
 
   Deine Silvia Ferlito
