@@ -78,7 +78,7 @@ description: >-
   Dich erwarten Impulse für mehr Balance, Lebensfreude und inneres Wachstum.
 
 
-  👉 [Jetzt anmelden](https://d20a6f56.sibforms.com/serve/MUIFAFJWTDAqFnb3TaHJD_nHVWXlVO-bQSxg2g0FG9Ca6pOFdFgtsycARkvzYqko_s1SQIJL4pZtJFS4snC_wkasbRP1-r8tziHEexVc79dXB2h1PPoS1otMGuvNtf4DInkxp8NSNLTG2kyu3PsxIlIjVCyX9ATs4oGWf_GUlfzutPJwTyx4bUFmUJcl-NTMzhOwhENFXHJp8CV0)
+  📨 [Jetzt anmelden](https://d20a6f56.sibforms.com/serve/MUIFAFJWTDAqFnb3TaHJD_nHVWXlVO-bQSxg2g0FG9Ca6pOFdFgtsycARkvzYqko_s1SQIJL4pZtJFS4snC_wkasbRP1-r8tziHEexVc79dXB2h1PPoS1otMGuvNtf4DInkxp8NSNLTG2kyu3PsxIlIjVCyX9ATs4oGWf_GUlfzutPJwTyx4bUFmUJcl-NTMzhOwhENFXHJp8CV0)
 
 
   Deine Silvia Ferlito
