@@ -55,7 +55,7 @@ block1: >-
 
   **Bereit für den nächsten Schritt?**
 
-  Vereinbare dein erstes Gespräch und entdecke, wie du mit Klarheit und innerer Stärke deinen Weg gestalten kannst. Ich freue mich darauf, dich kennenzulernen.
+  [Vereinbare dein erstes Gespräch](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) und entdecke, wie du mit Klarheit und innerer Stärke deinen Weg gestalten kannst. Ich freue mich darauf, dich kennenzulernen.
 
 
   ## **Ziele**
