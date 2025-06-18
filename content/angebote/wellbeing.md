@@ -59,7 +59,7 @@ block1: >-
 
   **Bist du bereit, dein Wohlbefinden wieder in die eigenen Hände zu nehmen?**
 
-  Vereinbare jetzt dein erstes Gespräch und finde den Weg zurück zu mehr Energie und innerer Balance.
+  [Vereinbare jetzt dein erstes Gespräch](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) und finde den Weg zurück zu mehr Energie und innerer Balance.
 
 
   ## **Ziele**
