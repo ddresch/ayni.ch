@@ -181,7 +181,7 @@ img.content-img-center {
   float: none;
 }
 
-.markdown-body a {
+.markdown-body a, .main-container a { {
   color: #cf4d6f;
 }
 
