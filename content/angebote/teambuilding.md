@@ -54,7 +54,7 @@ block1: >-
 
   **Bereit für den nächsten Schritt als Team?**
 
-  Vereinbare dein erstes Gespräch und entdecke, wie dein Team durch Zusammenarbeit, Vertrauen und kreative Problemlösungen noch erfolgreicher zusammenarbeiten kann. Ich freue mich darauf, mit euch gemeinsam neue Wege zu finden.
+  [Vereinbare dein erstes Gespräch](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) und entdecke, wie dein Team durch Zusammenarbeit, Vertrauen und kreative Problemlösungen noch erfolgreicher zusammenarbeiten kann. Ich freue mich darauf, mit euch gemeinsam neue Wege zu finden.
 
 
   ## **Ziele**
