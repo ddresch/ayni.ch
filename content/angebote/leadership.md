@@ -55,7 +55,7 @@ block1: >-
   Dieses Angebot richtet sich an Menschen in (oder auf dem Weg in) verantwortungsvolle Rollen: Führungskräfte, Projektleitende, sowie alle, die Klarheit, Integrität und persönliche Entwicklung im Beruf vereinen möchten.
 
 
-  **Bist du bereit für deine nächste Entwicklungsstufe?** Vereinbare ein unverbindliches Kennenlerngespräch und finde heraus, wie du mit innerer Klarheit und authentischer Präsenz deinen eigenen Führungsweg gestaltest. Ich freue mich auf dich.
+  **Bist du bereit für deine nächste Entwicklungsstufe?** [Vereinbare ein unverbindliches Kennenlerngespräch](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) und finde heraus, wie du mit innerer Klarheit und authentischer Präsenz deinen eigenen Führungsweg gestaltest. Ich freue mich auf dich.
 
 
   ## Ziele
