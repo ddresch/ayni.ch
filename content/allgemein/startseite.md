@@ -20,7 +20,7 @@ description: >-
   Ob körperliche Beschwerden, mentale Erschöpfung, persönliche Krisen, Weiterentwicklung oder berufliche Herausforderungen. Bei ayni findest du einen Raum für Reflexion, Wachstum und nachhaltige Veränderung. Ich arbeite mit einem integrativen Ansatz, der die Weisheit des Ayurveda mit moderner Prozessbegleitung verbindet - individuell, achtsam und auf Augenhöhe.
 
 
-  [Buche jetzt deinen Termin ](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468)oder [schreibe mir über das Kontaktformular](#contact-form).
+  [Buche jetzt deinen Termin](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) oder schreibe mir über das Kontaktformular.
 
 
   ![Portrait Silvia Ferlito](/images/portrait-wall.png "Portrait Silvia Ferlito")
