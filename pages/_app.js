@@ -40,12 +40,17 @@ function AppLayout({ Component, pageProps, router }) {
           <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
           <link rel="manifest" href="/manifest.json" />
           <script async src="https://www.googletagmanager.com/gtag/js?id=AW-17188148066"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());          
-            gtag('config', 'AW-17188148066');
-          </script>
+          <script
+            dangerouslySetInnerHTML={{
+            __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag() {
+                dataLayer.push(arguments);
+              }
+              gtag('js', new Date());          
+              gtag('config', 'AW-17188148066');
+            `}}
+          />
       </Head>
 
       <Header />
