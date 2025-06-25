@@ -31,7 +31,7 @@ export default function ContactForm() {
     }
     
     return (
-        <form onSubmit={handleSubmit(onSubmit)}>
+        <form id="contact-form" onSubmit={handleSubmit(onSubmit)}>
             <label>Name</label>
             <input type={'text'} placeholder={'Name'} {...register("name", {required: true, maxLength: 80})} />
             <label>Telefon</label>
