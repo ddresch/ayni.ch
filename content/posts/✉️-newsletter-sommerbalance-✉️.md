@@ -1,44 +1,35 @@
 ---
-title: "✉️ Newsletter: Sommerbalance ✉️"
-publishedAt: 2025-06-03T12:00:00.000Z
+title: 🔎 Ayurveda Therapie und die Kunst der Balance 🔍
+publishedAt: 2025-06-12T14:00:00.000Z
 ---
-![Frau in einem Massagestuhl am See](/images/5_2_1_sommer_selfmassage.png "Frau in einem Massagestuhl am See")
+![Kind auf einer Blumewiese](/images/6_2_post-odakt_stress.png "Kind auf einer Blumenwiese")
 
-# Urlaub
+# Vom Körper zur inneren Mitte
 
-## *Wohltat und Herausforderung*
+## wie Ayurveda mich gelehrt hat in Balance zu sein
 
-Denn der gewohnte Tagesablauf verabschiedet sich meist schneller als gedacht – ob gewollt oder nicht.
+Mit 3 Jahren habe ich angefangen zu turnen und das bis ich etwa 20 war. In all den Jahren hat mein Körper gelernt, immer wieder die perfekte Balance zu finden, um jede Bewegung sicher und elegant auszuführen. Doch je älter ich wurde, desto mehr wurde mir klar:  
 
-* Die Betten sind oft weit entfernt von „orthopädisch wertvoll“,
-* der Rhythmus unregelmässig,
-* das Essen reichhaltiger als gewohnt.
+> Was mein Körper so gut konnte, musste mein Geist erst noch lernen.
 
-Schon zu Beginn meines Urlaubs habe ich gemerkt: Mein Rücken zwickt.
-Die Schlafkojen auf dem Segelboot waren charmant, aber nicht gerade rückenfreundlich.
+Ich begann ohne Vorwissen oder jegliches Studium Meditation, Visualisierungen, Mentaltraining zu praktizieren. Damals in den 90ern war das noch als Zauberei oder Esoterik belächelt, heute jedoch sind diese Praktiken wissenschaftlich anerkannt. 
 
-Noch bevor es schlimmer wurde, habe ich mir Unterstützung geholt – bei einem Osteopathen, der genau wusste, wo er ansetzen musste.
+Erst viel später wurde mir - vielleicht auch erst durch meine Praktiken - bewusst, wie sehr unsere Gedanken, Überzeugungen und inneren Muster unsere Wahrnehmung und damit unser ganzes Erleben beeinflussen können. 
 
-Denn ja: Ayurveda ist ein starker Anker für mich.
-Mit warmem Porridge, Triphala, Magnesium und kleinen Ritualen halte ich mich auch unterwegs stabil.
+Der Geist kann uns täuschen, in Dauerschleifen festhalten oder uns selbst im Weg stehen. Das zu erkennen war für mich der Beginn einer tieferen Auseinandersetzung mit mentaler Gesundheit und innerem Gleichgewicht.
 
-Aber manchmal braucht es mehr.
-Manchmal sitzt einfach etwas nicht da, wo es hingehört – da kann auch die beste Gewürzmischung nichts ausrichten.
+Denn Balance ist nicht nur eine Frage des Körpers, sondern auch eine des Geistes, besonders in stressigen Zeiten, in denen wir das Gefühl haben, aus dem Takt zu geraten. Aber es braucht mehr als eine Atemübung oder eine einzelne Meditation, um wieder in die eigene Mitte zu finden. Kraftvoll wird es dann, wenn wir bereit sind, ehrlich hinzusehen, uns selbst zu reflektieren und Körper, Geist und Seele gleichermassen einzubeziehen. 
 
-Für mich ist das kein Widerspruch, sondern ein ganzheitlicher Weg:
+So wurde schliesslich Ayurveda für mich zu einem wertvollen Wegweiser, um ganzheitlich ins Gleichgewicht zu kommen, mit mehr Klarheit, Ruhe und innerer Stärke. 
 
-* Ayurveda und manuelle Therapie.
-* Selbstfürsorge und professionelle Hilfe.
+In meinem neuen Artikel auf der Seite der KomplementärTherapie Schweiz zeige ich, wie Ayurveda uns helfen kann, Stress zu verstehen und zu bewältigen. Wie wir durch achtsame Ernährung, bewusste Bewegung und mentale Klarheit wieder mehr Ruhe und Energie finden können. 
 
-So konnte ich mich im Urlaub nicht nur erholen, sondern auch tiefer in meinem Körper ankommen.
+Denn wahre Stärke entsteht genau dort, wo Körper und Geist im Einklang sind - und genau das möchte ich mit dir teilen. Vielleicht kann Ayurveda Therapie dich genau dahin begleiten, zu mehr Ruhe, Klarheit und innerer Zufriedenheit. 
 
-Was hilft dir, wenn dein Körper Zeichen setzt?
-
-Hier geht’s zu meinem aktuellen [Newsletter](https://sh1.sendinblue.com/vxygy6939pfe.html?t=1751293115) mit Tipps, wie du auch im Sommer deine Balance hältst, plus spannende Infos zu meinen Fachartikeln.[](https://lnkd.in/dA9UHyYf)
+✨ Du möchtest erfahren, wie Ayurveda auch dich auf deinem Weg zu mehr Balance begleiten kann? Dann schau gern in meinen [Artikel](https://www.komplementär-therapie.ch/ayurveda-therapie-und-die-kunst-der-balance/) auf der Seite der KomplementärTherapie Schweiz.
 
 [](https://lnkd.in/gYQw9KEU)
-✨ Wenn dein Körper Zeichen setzt und du dir Begleitung wünschst:
-Ich biete dir ein [kostenfreies Erstgespräch](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) an – persönlich, achtsam, individuell.
+Und wenn du spürst, dass es für dich Zeit ist, neue Wege zu gehen, bin ich gern an deiner Seite. Hier kannst du ein [kostenfreies Erstgespräch](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) buchen
 
 \- - -
 
@@ -48,4 +39,4 @@ Willkommen bei ayni - Praxis für Ayurveda KomplementärTherapie, Beratung & Coa
 
 ![]()
 
-Photo by [Miikka Luotio](https://unsplash.com/photos/woman-in-white-hijab-sitting-on-black-and-pink-chair-near-body-of-water-during-daytime-EGY-1xM2HsI) on Unsplash
+Photo by [Melissa Askew](https://unsplash.com/photos/girl-sitting-on-daisy-flowerbed-in-forest-8n00CqwnqO8) on Unsplash
