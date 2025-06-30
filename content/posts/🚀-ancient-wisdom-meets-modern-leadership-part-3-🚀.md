@@ -73,9 +73,10 @@ You can call this Ayurveda and ancient parctice or just simply the practice of l
 ![]()
 
 **Let’s Keep the Conversation Alive**
+
 If this exploration sparked something in you, curiosity, resonance, or simply a pause, I’d love to hear your reflections. These ideas are not meant to remain on the page but to be lived, tested, and shared.
 
-**Feel free to connect or reach out** if you're curious to explore the inner side of leadership – or simply want to exchange thoughts on clarity, balance & purpose in today’s fast-paced world.
+Feel free to connect or reach out if you're curious to explore the inner side of leadership – or simply want to exchange thoughts on clarity, balance & purpose in today’s fast-paced world.
 
 [Send me a message](https://www.ayni.ch/kontakt) or [book a free discovery call](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) – let’s get to know each other.
 
