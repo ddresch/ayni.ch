@@ -1,6 +1,6 @@
 ---
 title: "✉️ Newsletter: Selbstfürsorge & Achtsamkeit ✉️"
-publishedAt: 2025-04-07T10:00:00.000Z
+publishedAt: 2025-04-14T12:00:00.000Z
 ---
 ![Mensch mit zu vielen Gedanken](/images/4_2_1_newsletter_man.png "Mensch mit zu vielen Gedanken")
 
