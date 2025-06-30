@@ -8,7 +8,6 @@ publishedAt: 2025-06-03T12:00:00.000Z
 
 ## *Wohltat und Herausforderung*
 
-
 Denn der gewohnte Tagesablauf verabschiedet sich meist schneller als gedacht – ob gewollt oder nicht.
 
 * Die Betten sind oft weit entfernt von „orthopädisch wertvoll“,
@@ -41,7 +40,7 @@ Hier geht’s zu meinem aktuellen [Newsletter](https://sh1.sendinblue.com/vxygy6
 ✨ Wenn dein Körper Zeichen setzt und du dir Begleitung wünschst:
 Ich biete dir ein [kostenfreies Erstgespräch](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) an – persönlich, achtsam, individuell.
 
-- - -
+\- - -
 
 Willkommen bei ayni - Praxis für Ayurveda KomplementärTherapie, Beratung & Coaching. Neugierig auf mehr? Schreib mir: [gruezi@ayni.ch](mailto:gruezi@ayni.ch) oder melde dich zu meinem [Newsletter](<>) an.
 
