@@ -17,7 +17,7 @@ Denn der gewohnte Tagesablauf verabschiedet sich meist schneller als gedacht –
 Schon zu Beginn meines Urlaubs habe ich gemerkt: Mein Rücken zwickt.
 Die Schlafkojen auf dem Segelboot waren charmant, aber nicht gerade rückenfreundlich.
 
-Noch bevor es schlimmer wurde, habe ich mir Unterstützung geholt – bei Dr. Massimiliano Scanu, einem Osteopathen mit eigener Methode (Biofunc), der genau wusste, wo er ansetzen musste.
+Noch bevor es schlimmer wurde, habe ich mir Unterstützung geholt – bei einem Osteopathen, der genau wusste, wo er ansetzen musste.
 
 Denn ja: Ayurveda ist ein starker Anker für mich.
 Mit warmem Porridge, Triphala, Magnesium und kleinen Ritualen halte ich mich auch unterwegs stabil.
