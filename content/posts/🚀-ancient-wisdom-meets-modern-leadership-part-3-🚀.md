@@ -18,35 +18,25 @@ According to Ayurvedic and Vedantic psychology, human consciousness is shaped by
 
 **Internal Faculties (Antahkarana):**
 
-·       **Manas** – the sensory mind, which processes impressions
-
-·       **Indriyas & Karmendriyas** – the organs of perception and action
-
-·       **Ahamkara** – the ego or sense of "I"
-
-·       **Buddhi (Dhi)** – the intellect, responsible for discernment and decision-making
-
-·       **Smṛti** – memory and inner knowing
-
-·       **Dṛti** – the power of will and inner resolve
-
-·       **Citta** – the subconscious field that stores impressions (samskaras)
+* **Manas** – the sensory mind, which processes impressions
+* **Indriyas & Karmendriyas** – the organs of perception and action
+* **Ahamkara** – the ego or sense of "I"
+* **Buddhi (Dhi)** – the intellect, responsible for discernment and decision-making
+* **Smṛti** – memory and inner knowing
+* **Dṛti** – the power of will and inner resolve
+* **Citta** – the subconscious field that stores impressions (samskaras)
 
 **The Layers of Being (Koshas):**
 
-·       **Annamaya Kosha** – the physical body (food sheath)
-
-·       **Pranamaya Kosha** – life energy or breath
-
-·       **Manomaya Kosha** – mind and emotion
-
-·       **Vijnanamaya Kosha** – wisdom and discernment
-
-·       **Anandamaya Kosha** – bliss or the innermost layer of joy
+* **Annamaya Kosha** – the physical body (food sheath)
+* **Pranamaya Kosha** – life energy or breath
+* **Manomaya Kosha** – mind and emotion
+* **Vijnanamaya Kosha** – wisdom and discernment
+* **Anandamaya Kosha** – bliss or the innermost layer of joy
 
 **Beyond All Layers:**
 
-·       **Atman** – the true Self, unchanging, eternal, and beyond ego or thought.
+* **Atman** – the true Self, unchanging, eternal, and beyond ego or thought.
 
 Understanding and working with these layers gives leaders a more nuanced sense of self-awareness, which can lead to better decision-making, emotional intelligence, and relational presence. These aren’t abstract ideas; they are precise lenses through which we can observe and refine how we think, act, and lead.
 
