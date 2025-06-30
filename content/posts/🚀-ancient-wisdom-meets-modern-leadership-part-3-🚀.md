@@ -12,7 +12,7 @@ In today's ever-evolving world of leadership, external tools and strategies are 
 
 We often ask: *What does it take to lead well?* But perhaps the more powerful question is: *Who must I become to lead with integrity, vision, and impact?* The answer lies in developing our inner faculties—the subtle instruments of perception, judgment, and awareness that govern our behavior and choices.
 
-### Mapping the Inner World
+## Mapping the Inner World
 
 According to Ayurvedic and Vedantic psychology, human consciousness is shaped by a constellation of faculties and layers of being:
 
@@ -40,13 +40,13 @@ According to Ayurvedic and Vedantic psychology, human consciousness is shaped by
 
 Understanding and working with these layers gives leaders a more nuanced sense of self-awareness, which can lead to better decision-making, emotional intelligence, and relational presence. These aren’t abstract ideas; they are precise lenses through which we can observe and refine how we think, act, and lead.
 
-### Why This Matters in Leadership
+## Why This Matters in Leadership
 
 When **Buddhi** is clouded, decision-making suffers. When **Ahamkāra** dominates, ego overshadows empathy. A restless **Manas** leads to distraction and burnout. Without awareness of **Citta**, we repeat old patterns. When **Smṛti** (memory) is weak, we lose connection to our guiding principles. And without **Dṛti** (willpower), we waver in the face of challenge. Finally, when we lose touch with **Ātman**, our leadership becomes performative rather than purposeful.
 
 Modern leadership challenges, navigating uncertainty, managing complexity, building ethical cultures, demand inner clarity as much as outer skill. Integrating these ancient faculties can shift us from reactive leadership to conscious, compassionate action.
 
-### Reflection in Practice
+## Reflection in Practice
 
 Leaders can begin with simple inquiries:
 
@@ -58,7 +58,7 @@ Leaders can begin with simple inquiries:
 
 Such questions invite pause and presence—two qualities in short supply but of high value.
 
-### Conclusion: Becoming the Leader Within
+## Conclusion: Becoming the Leader Within
 
 The journey of modern leadership isn’t just about achieving more, it’s about becoming more. Ayurveda and its inner models remind us that leadership begins not in the boardroom, but in the stillness of self-awareness. When we align our inner faculties, we lead from a place of clarity, compassion, and courage.
 
@@ -72,7 +72,7 @@ You can call this Ayurveda and ancient parctice or just simply the practice of l
 
 ![]()
 
-**Let’s Keep the Conversation Alive**
+## **Let’s Keep the Conversation Alive**
 
 If this exploration sparked something in you, curiosity, resonance, or simply a pause, I’d love to hear your reflections. These ideas are not meant to remain on the page but to be lived, tested, and shared.
 
