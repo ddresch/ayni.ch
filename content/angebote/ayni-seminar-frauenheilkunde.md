@@ -25,9 +25,7 @@ block1: >-
   Dieses Seminar wird organisiert von praxis ayni - Praxis für integrative Ayurveda-Therapie und Wissensvermittlung.
 
 
-  \[Jetzt anmelden]
-
-
+  [\[Jetzt anmelden]](https://forms.gle/JfwdkukGdK682DFL7)
 
 
   ### Zur Dozentin
@@ -117,9 +115,7 @@ boxContent: >-
   Sichere dir deinen Platz im ersten Kurs dieser exklusiven Seminarreihe und erweitere dein Wissen um ganzheitliche Frauenheilkunde im Ayurveda.
 
 
-  \[Anmeldebutton]
-
-
+  [\[Anmeldebutton]](https://forms.gle/JfwdkukGdK682DFL7)
 
 
   Die Seminarreihe orientiert sich an der Fachweiterbildungsordnung (FWBO) des EMR und eignet sich zur fachlichen Vertiefung und Weiterbildung.
