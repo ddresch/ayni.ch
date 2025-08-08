@@ -74,7 +74,7 @@ boxContent: >-
 
   **💰 Preis:** CHF 800.– pro Modul
 
-  **Frühbucherbonus:** CHF 750.– für die ersten 4 Anmeldungen
+  **Frühbucherbonus:** CHF 750.– für die ersten 5 Anmeldungen
 
 
   **🍽️ Verpflegung:**
@@ -118,6 +118,11 @@ boxContent: >-
 
 
   \[Anmeldebutton]
+
+
+
+
+  Die Seminarreihe orientiert sich an der Fachweiterbildungsordnung (FWBO) des EMR und eignet sich zur fachlichen Vertiefung und Weiterbildung.
 block2: >-
   #### Mehr über Vanita Kansal
 
