@@ -1,13 +1,12 @@
 ---
-title: ayni Seminar Frauenheilkunde
-subtitle: mit Dr. Vanita Kansal – Ayurveda-Gynäkologin
+title: "ayni Seminare: Ganzheitliche Frauenheilkunde mit Ayurveda"
+subtitle: praxisnah, fundiert und anwendbar
 seoTitle: "Ayurveda für Frauen: Striroga & Prasuti Tantra – Ganzheitliche
   Frauenheilkunde lernen"
 seoDescription: Lerne in diesem praxisorientierten Ayurveda-Seminar alles über
   ayurvedische Frauenheilkunde (Striroga), Menstruationsbeschwerden,
   Endometriose, PMS, klimakterische Beschwerden und natürliche Therapieformen.
-  Für Therapeuten, Heilpraktiker, Ärzte und interessierte Frauen mit
-  Ayurveda-Vorkenntnissen.
+  Für Therapeuten, Heilpraktiker, Ärzte und interessierte Frauen.
 seoKeywords: Ayurveda für Frauen, Striroga, Ayurveda Frauenheilkunde, Ayurveda
   Seminar Frauen, ayurvedische Therapie Menstruationsbeschwerden, Prasuti
   Tantra, PMS ayurvedisch behandeln, Endometriose Ayurveda, klimakterische
@@ -15,61 +14,112 @@ seoKeywords: Ayurveda für Frauen, Striroga, Ayurveda Frauenheilkunde, Ayurveda
   Frauen
 publishedAt: 2025-08-08T11:23:00.000+02:00
 block1: >-
-  In dieser exklusiven Seminarreihe vermittelt Vanita Kansal, eine der wenigen
-  Ayurveda-Gynäkologinnen im deutschsprachigen Raum, ihr tiefes Wissen
-  aus medizinischer und ayurvedischer Sicht.
+  ### Ayurveda für Frauen – Ganzheitliche Frauenheilkunde mit Vanita Kansal
 
 
-  Jedes Thema wird aus beiden Perspektiven beleuchtet schulmedizinisch fundiert und ayurvedisch interpretiert. Daraus entsteht ein praxisnaher, ganzheitlicher Blick auf zentrale Themen der Frauenheilkunde.
+  **Praxisorientiertes Fachseminar** für Ärzte, Heilpraktiker, Therapeuten und Frauen mit Ayurveda-Grundkenntnissen**.**
+
+  Lerne, wie du Frauen mit ayurvedischem Wissen kompetent bei Beschwerden, Kinderwunsch und in den Wechseljahren begleiten kannst. 
 
 
-  👥 **Zielgruppe**
+  Dieses Seminar wird organisiert von praxis ayni - Praxis für integrative Ayurveda-Therapie und Wissensvermittlung.
 
 
-  Die Inhalte richten sich gezielt an Fachpersonen, die Frauen mit ayurvedischem Wissen kompetent und differenziert begleiten möchten sei es bei Beschwerden, im Kinderwunsch oder in den Wechseljahren.
+  \[Jetzt anmelden]
 
 
-  Geeignet für Fachpersonen mit Ayurveda-Vorkenntnissen, der Ayurveda-Therapie, Ayurveda-Medizin, Gynäkologie, Naturheilpraxis und auch an Frauen die mehr über sich selbst lernen möchten und etwas für Ihre Gesundheit tun wollen. 
 
 
-  **Voraussetzungen**: Für die Teilnahme an diesem Seminar werden grundlegende Kenntnisse im Ayurveda vorausgesetzt. Du solltest bereits mit den zentralen Konzepten wie den drei **Doshas** (Vata, Pitta, Kapha), den sieben **Dhatus** (Körpergeweben) sowie **Mala** (Ausscheidungsprodukte), **Agni** (Verdauungsfeuer) und **Ama** (Stoffwechselrückstände) vertraut sein. Auch ein grundlegendes Verständnis der **Srotas** (Körperkanäle), der ayurvedischen **Konstitutionstypen** (Prakriti und Vikriti) sowie der **ayurvedischen Diagnostik** – etwa durch Puls- oder Zungenbeobachtung – ist hilfreich, um dem Seminar gut folgen zu können.
+  ### Zur Dozentin
 
 
-  🧭 **Ziel der Seminarreihe**
+  Vanita Kansal ist eine der wenigen **Ayurveda-Gynäkologinnen** im deutschsprachigen Raum. Sie verbindet tiefes ayurvedisches Wissen mit medizinischer Expertise und hat ihr Studium der Ayurvedamedizin an der **Baba Farid University of Health Sciences mit Auszeichnung** abgeschlossen. Seit 2007 lebt sie in Deutschland, arbeitet als Ayurveda-Expertin und ist seit vielen Jahren Dozentin und Praktikerin im Bereich integrative Medizin. Ihre Stärke liegt in der Verbindung von schulmedizinischem Wissen mit der Heilkraft des klassischen Ayurveda, die sie praxisnah vermittelt.
 
 
-  Der Fokus liegt auf der direkten Anwendbarkeit im Praxisalltag: Therapiekonzepte, Fallbeispiele, manuelle Anwendungen, Ernährung, Kräuter, Lebensstil angepasst an den Konstitutionstyp und den Lebensabschnitt.
+  ### Zielgruppe
+
+
+  Dieses Seminar richtet sich an Fachpersonen mit Ayurveda-Vorkenntnissen – insbesondere aus Ayurveda-Therapie, Ayurveda-Medizin, Gynäkologie und Naturheilpraxis –, die Frauen kompetent und differenziert begleiten möchten. Auch alle interessierten Frauen, die mehr über sich selbst lernen und aktiv ihre Gesundheit fördern wollen, sind herzlich eingeladen.
+
+
+  ### Ziel der Seminarreihe
+
+
+  Der Fokus liegt auf der **direkten Anwendbarkeit im Praxisalltag**. Du lernst Therapiekonzepte, Fallbeispiele, manuelle Anwendungen, Ernährung, Kräuter und Lebensstilstrategien, die individuell an den Konstitutionstyp und den Lebensabschnitt angepasst sind.
+
+
+  ### Modul 1: Frauenbeschwerden verstehen & begleiten
+
+
+  Die Frauenheilkunde wird im Ayurveda **Striroga** genannt – ein eigenständiger Bereich mit einem besonderen Verständnis für die weibliche Gesundheit. Dieses praxisorientierte Fachseminar betrachtet aus Sicht von **Striroga** und **Prasuti Tantra** die Anatomie und Physiologie des weiblichen Fortpflanzungssystems – sowohl ayurvedisch als auch schulmedizinisch.
+
+
+  Du lernst verschiedene Krankheitsbilder wie **Menstruationsstörungen, PMS, Amenorrhö, Dysmenorrhö, Endometriose** sowie **Endometritis** kennen. Diese werden ayurvedisch-pathophysiologisch erklärt, und passende Therapieansätze werden diskutiert. Auch klimakterische Beschwerden und deren ganzheitliche Behandlung sowie präventive Massnahmen sind Bestandteil des Seminars.
+
+
+  Darüber hinaus erhältst du praktische Hinweise zur Verordnung spezifischer **Ayurveda-Kräuter** sowie präventive und therapeutische **Ernährungsempfehlungen für Frauen**.
+
+
+  ### Voraussetzungen
+
+
+  Für die Teilnahme werden grundlegende Kenntnisse im Ayurveda vorausgesetzt. Du solltest bereits mit den zentralen Konzepten wie den drei Doshas (Vata, Pitta, Kapha), den sieben Dhatus (Körpergeweben), Mala (Ausscheidungsprodukte), Agni (Verdauungsfeuer) und Ama (Stoffwechselrückstände) vertraut sein. Auch ein grundlegendes Verständnis der Srotas (Körperkanäle), der ayurvedischen Konstitutionstypen (Prakriti und Vikriti) sowie der ayurvedischen Diagnostik – etwa durch Puls- oder Zungenbeobachtung – ist hilfreich, um dem Seminar gut folgen zu können.
 boxHeadline: "Modul 1: Frauenbeschwerden verstehen & begleiten"
 boxContent: >-
-  ### Kursinhalt
+  **🗓️ Termin:** 13./14. Dezember 2025
+
+  **🕘 Uhrzeit:** Samstag 9:00–17:30 / Sonntag 9:00–16:00
+
+  **📍 Ort:** Eggladen – Güterstrasse 271, 4053 Basel (nahe SBB)
+
+  **💰 Preis:** CHF 800.– pro Modul
+
+  **Frühbucherbonus:** CHF 750.– für die ersten 4 Anmeldungen
 
 
-  Die Frauenheilkunde wird im Ayurveda **Striroga** genannt – ein eigenständiger Bereich mit einem besonderen Verständnis für die weibliche Gesundheit. Der Ayurveda hat hierzu über Jahrtausende hinweg fundierte Literatur und wirksame Behandlungskonzepte hervorgebracht.
+  **🍽️ Verpflegung:**
+
+  ✓ Gesunde Pausensnacks, Kaffee und Tee inklusive
+
+  ✓ Gemeinsames Mittagessen im Restaurant (auf eigene Kosten)
 
 
-  In diesem **praxisorientierten Fachseminar** betrachten wir aus Sicht von **Striroga** und **Prasuti Tantra** die Anatomie und Physiologie des weiblichen Fortpflanzungssystems – sowohl **ayurvedisch** als auch **schulmedizinisch**.
+  **👥 Teilnehmerzahl & Anmeldung:**
+
+  Die Teilnehmerzahl ist limitiert auf **mindestens 10, maximal 15 Personen**, um eine intensive und persönliche Lernerfahrung zu gewährleisten.
 
 
-  Es werden verschiedene Krankheitsbilder wie **Menstruationsstörungen, PMS, Amenorrhö, Dysmenorrhö, Endometriose** sowie **Endometritis** vorgestellt. Diese werden ayurvedisch-pathophysiologisch erklärt, und es werden passende **Therapieansätze** diskutiert. Auch **klimakterische Beschwerden** und deren ganzheitliche Behandlung sowie **präventive Maßnahmen** sind Bestandteil des Seminars.
+  ### Folgemodule
 
 
-  Darüber hinaus erhältst du praktische Hinweise zur Verordnung spezifischer **Ayurveda-Kräuter** sowie **Ernährungsempfehlungen für Frauen** – sowohl präventiv als auch therapeutisch.
+  **👶 Modul 2: Kinderwunsch, Schwangerschaft & Wochenbett**
+
+  🗓️ Frühling 2026
+
+  Von der Empfängnisvorbereitung bis zur Rückbildungszeit – mit ayurvedisch-medizinischen Grundlagen für eine gesunde Mutter-Kind-Begleitung.
 
 
-  Das Seminar wird sehr praxisorientiert sein und ist für **Ärzte**, **Therapeuten** und **Heilpraktiker** geeignet. Und es richtet sich natürlich auch an alle Frauen, die mehr über sich selbst lernen möchten und etwas für Ihre Gesundheit tun wollen.
+  **🌺 Modul 3: Die Wechseljahre im Licht des Ayurveda**
+
+  🗓️ Sommer 2026
+
+  Ein neuer Lebensabschnitt – hormonell, emotional, geistig.
+
+  Stabilität, Klarheit und Kraft aus Sicht der klassischen Ayurveda-Lehre und der modernen Gynäkologie.
 
 
-  **Dozentin**: Vanita Kansal (B.A.M.S.) 
+  Die genauen Termine für Modul 2 und 3 werden noch bekannt gegeben. 
 
 
+  ### Jetzt für Modul 1 anmelden
 
 
-  ### Voraussetzungen:
+  Sichere dir deinen Platz im ersten Kurs dieser exklusiven Seminarreihe und erweitere dein Wissen um ganzheitliche Frauenheilkunde im Ayurveda.
 
 
-  Für die Teilnahme werden **Ayurveda-Grundlagenkenntnisse** vorausgesetzt (z. B. Kenntnisse zu **Doshas, Dhatus, Agni, Ama, Srotas, Prakriti/Vikriti** und der ayurvedischen Diagnostik).
+  \[Anmeldebutton]
 block2: >-
-  ### Zur Dozentin
+  #### Mehr über Vanita Kansal
 
 
   Frau Kansal hat ihr sechsjähriges Studium der Ayurvedamedizin an der Baba Farid University of Health Sciences mit Auszeichnung absolviert. Danach hat sie auch als Dozentin am Mai Bhago Ayurveda College, Mukatsar gelehrt und an verschiedenen Kliniken parallel praktiziert. 
@@ -84,8 +134,22 @@ block2: >-
   Seit 2009 ist sie auch ein aktives Mitglied im Verband europäischer Ayurveda Mediziner und Therapeuten (VEAT). Sie hält seit 5 Jahren das Fachseminar Ayurveda für Frauen Für Ärzte, Heilpraktiker und Therapeuten.
 
 
-  Vanita Kansal ist Ayurveda-Ärztin und Gynäkologin. Sie praktiziert im Prakschlösschen, einer bekannten Klinik für integrative Medizin, wo sie Frauen mit ganzheitlichem Blick begleitet. Ihre Stärke liegt in der Verbindung von schulmedizinischem Wissen mit der tiefen Heilkraft des klassischen Ayurveda.
+  Vanita Kansal ist Ayurveda-Ärztin und Gynäkologin. Sie praktiziert im Parkschlösschen, einer bekannten Klinik für integrative Medizin, wo sie Frauen mit ganzheitlichem Blick begleitet. Ihre Stärke liegt in der Verbindung von schulmedizinischem Wissen mit der tiefen Heilkraft des klassischen Ayurveda.
 
 
   Mit ihrer langjährigen Erfahrung, ihrer Klarheit und ihrer praxisnahen Art vermittelt sie Ayurveda so, dass es im Alltag von Ärzten, Heilpraktikern und Therapeuten direkt anwendbar wird.
+
+
+
+
+  #### **Mehr über ayni**
+
+
+  Als Ayurveda-Therapeutin ist es Silvia Ferlito ein Herzensanliegen, Ayurveda-Wissen weiterzugeben und so mehr Menschen zu einem ganzheitlichen Gesundheitsverständnis zu verhelfen.
+
+
+  Mit ayni teilt sie ihr Wissen praxisnah – für Fachpersonen und alle, die Ayurveda tiefgründig erleben und im Alltag anwenden möchten. Ihr Ziel ist es, das alte Heilwissen lebendig zu halten und den Zugang dazu möglichst vielen Menschen zu öffnen.
+
+
+  Mehr dazu findest du auf [ayni.ch](https://ayni.ch/).
 ---
