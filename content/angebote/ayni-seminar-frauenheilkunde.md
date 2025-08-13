@@ -64,13 +64,13 @@ block1: >-
   Für die Teilnahme werden grundlegende Kenntnisse im Ayurveda vorausgesetzt. Du solltest bereits mit den zentralen Konzepten wie den drei Doshas (Vata, Pitta, Kapha), den sieben Dhatus (Körpergeweben), Mala (Ausscheidungsprodukte), Agni (Verdauungsfeuer) und Ama (Stoffwechselrückstände) vertraut sein. Auch ein grundlegendes Verständnis der Srotas (Körperkanäle), der ayurvedischen Konstitutionstypen (Prakriti und Vikriti) sowie der ayurvedischen Diagnostik – etwa durch Puls- oder Zungenbeobachtung – ist hilfreich, um dem Seminar gut folgen zu können.
 boxHeadline: "Modul 1: Frauenbeschwerden verstehen & begleiten"
 boxContent: >-
-  **🗓️ Termin:** 13./14. Dezember 2025
+  **🗓️ Termin:** 13./14. Dezember 2025\
 
-  **🕘 Uhrzeit:** Samstag 9:00–17:30 / Sonntag 9:00–16:00
+  **🕘 Uhrzeit:** Samstag 9:00–17:30 / Sonntag 9:00–16:00\
 
-  **📍 Ort:** Eggladen – Güterstrasse 271, 4053 Basel (nahe SBB)
+  **📍 Ort:** Eggladen – Güterstrasse 271, 4053 Basel (nahe SBB)\
 
-  **💰 Preis:** CHF 800.– pro Modul
+  **💰 Preis:** CHF 800.– pro Modul\
 
   **Frühbucherbonus:** CHF 750.– für die ersten 5 Anmeldungen
 
@@ -115,7 +115,7 @@ boxContent: >-
   Sichere dir deinen Platz im ersten Kurs dieser exklusiven Seminarreihe und erweitere dein Wissen um ganzheitliche Frauenheilkunde im Ayurveda.
 
 
-  [\[Anmeldebutton]](https://forms.gle/JfwdkukGdK682DFL7)
+  \[[Anmeldebutton]](https://forms.gle/JfwdkukGdK682DFL7)
 
 
   Die Seminarreihe orientiert sich an der Fachweiterbildungsordnung (FWBO) des EMR und eignet sich zur fachlichen Vertiefung und Weiterbildung.
