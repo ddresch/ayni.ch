@@ -25,10 +25,13 @@ block1: >-
   Dieses Seminar wird organisiert von praxis ayni - Praxis für integrative Ayurveda-Therapie und Wissensvermittlung.
 
 
-  [\[Jetzt anmelden]](https://forms.gle/JfwdkukGdK682DFL7)
+  \[[Jetzt anmelden]](https://forms.gle/JfwdkukGdK682DFL7)
 
 
   ### Zur Dozentin
+
+
+  ![](/images/portrait-vanita-kansal.webp)
 
 
   Vanita Kansal ist eine der wenigen **Ayurveda-Gynäkologinnen** im deutschsprachigen Raum. Sie verbindet tiefes ayurvedisches Wissen mit medizinischer Expertise und hat ihr Studium der Ayurvedamedizin an der **Baba Farid University of Health Sciences mit Auszeichnung** abgeschlossen. Seit 2007 lebt sie in Deutschland, arbeitet als Ayurveda-Expertin und ist seit vielen Jahren Dozentin und Praktikerin im Bereich integrative Medizin. Ihre Stärke liegt in der Verbindung von schulmedizinischem Wissen mit der Heilkraft des klassischen Ayurveda, die sie praxisnah vermittelt.
