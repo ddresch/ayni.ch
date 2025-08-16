@@ -1,5 +1,5 @@
 ---
-title: Ganzheitliche Frauenheilkunde mit Ayurveda
+title: Frauenheilkunde mit Ayurveda
 subtitle: praxisnah, fundiert und anwendbar
 seoTitle: "Ayurveda für Frauen: Striroga & Prasuti Tantra – Ganzheitliche
   Frauenheilkunde lernen"
@@ -59,7 +59,11 @@ block1: >-
   Die Frauenheilkunde wird im Ayurveda **Striroga** genannt – ein eigenständiger Bereich mit einem besonderen Verständnis für die weibliche Gesundheit. Dieses praxisorientierte Fachseminar betrachtet aus Sicht von **Striroga** und **Prasuti Tantra** die Anatomie und Physiologie des weiblichen Fortpflanzungssystems – sowohl ayurvedisch als auch schulmedizinisch.
 
 
-  Du lernst verschiedene Krankheitsbilder wie **Menstruationsstörungen, PMS, Amenorrhö, Dysmenorrhö, Endometriose** sowie **Endometritis** kennen. Diese werden ayurvedisch-pathophysiologisch erklärt, und passende Therapieansätze werden diskutiert. Auch klimakterische Beschwerden und deren ganzheitliche Behandlung sowie präventive Massnahmen sind Bestandteil des Seminars.
+  Du lernst verschiedene Krankheitsbilder wie **Menstruationsstörungen, PMS, Amenorrhö, Dysmenorrhö, Endometriose** sowie **Endometritis** kennen. \
+
+  \
+
+  Diese werden ayurvedisch-pathophysiologisch erklärt, und passende Therapieansätze werden diskutiert. Auch klimakterische Beschwerden und deren ganzheitliche Behandlung sowie präventive Massnahmen sind Bestandteil des Seminars.
 
 
   Darüber hinaus erhältst du praktische Hinweise zur Verordnung spezifischer **Ayurveda-Kräuter** sowie präventive und therapeutische **Ernährungsempfehlungen für Frauen**.
@@ -69,8 +73,11 @@ block1: >-
 
 
   Für die Teilnahme werden grundlegende Kenntnisse im Ayurveda vorausgesetzt. Du solltest bereits mit den zentralen Konzepten wie den drei Doshas (Vata, Pitta, Kapha), den sieben Dhatus (Körpergeweben), Mala (Ausscheidungsprodukte), Agni (Verdauungsfeuer) und Ama (Stoffwechselrückstände) vertraut sein. Auch ein grundlegendes Verständnis der Srotas (Körperkanäle), der ayurvedischen Konstitutionstypen (Prakriti und Vikriti) sowie der ayurvedischen Diagnostik – etwa durch Puls- oder Zungenbeobachtung – ist hilfreich, um dem Seminar gut folgen zu können.
-boxHeadline: "Modul 1: Frauenbeschwerden verstehen & begleiten"
+boxHeadline: "Modul 1: "
 boxContent: >-
+  ## Frauenbeschwerden verstehen & begleiten
+
+
   **🗓️ Termin:** 13. / 14. Dezember 2025\
 
   \
@@ -98,8 +105,7 @@ boxContent: >-
   **👥 Teilnehmerzahl & Anmeldung:**
 
   Die Teilnehmerzahl ist limitiert auf **mindestens 10, maximal 15 Personen**, um eine intensive und persönliche Lernerfahrung zu gewährleisten.
-
-
+block2: >-
   ### Jetzt für Modul 1 anmelden
 
 
@@ -110,7 +116,8 @@ boxContent: >-
 
 
   Die Seminarreihe orientiert sich an der Fachweiterbildungsordnung (FWBO) des EMR und eignet sich zur fachlichen Vertiefung und Weiterbildung.
-block2: >-
+
+
   ### Folgemodule
 
 
