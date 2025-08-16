@@ -53,15 +53,14 @@ block1: >-
   ![Überblick Seminar Reihe](/images/ayni-seminar-reihe-overview.svg "Überblick Seminar Reihe")
 
 
-  ### Modul 1: Frauenbeschwerden verstehen & begleiten
+  ## Modul 1: Frauenbeschwerden verstehen & begleiten
 
 
   Die Frauenheilkunde wird im Ayurveda **Striroga** genannt – ein eigenständiger Bereich mit einem besonderen Verständnis für die weibliche Gesundheit. Dieses praxisorientierte Fachseminar betrachtet aus Sicht von **Striroga** und **Prasuti Tantra** die Anatomie und Physiologie des weiblichen Fortpflanzungssystems – sowohl ayurvedisch als auch schulmedizinisch.
 
 
-  Du lernst verschiedene Krankheitsbilder wie **Menstruationsstörungen, PMS, Amenorrhö, Dysmenorrhö, Endometriose** sowie **Endometritis** kennen. \
+  Du lernst verschiedene Krankheitsbilder wie **Menstruationsstörungen, PMS, Amenorrhö, Dysmenorrhö, Endometriose** sowie **Endometritis** kennen.
 
-  \
 
   Diese werden ayurvedisch-pathophysiologisch erklärt, und passende Therapieansätze werden diskutiert. Auch klimakterische Beschwerden und deren ganzheitliche Behandlung sowie präventive Massnahmen sind Bestandteil des Seminars.
 
@@ -69,13 +68,13 @@ block1: >-
   Darüber hinaus erhältst du praktische Hinweise zur Verordnung spezifischer **Ayurveda-Kräuter** sowie präventive und therapeutische **Ernährungsempfehlungen für Frauen**.
 
 
-  ### Voraussetzungen
+  ## Voraussetzungen
 
 
   Für die Teilnahme werden grundlegende Kenntnisse im Ayurveda vorausgesetzt. Du solltest bereits mit den zentralen Konzepten wie den drei Doshas (Vata, Pitta, Kapha), den sieben Dhatus (Körpergeweben), Mala (Ausscheidungsprodukte), Agni (Verdauungsfeuer) und Ama (Stoffwechselrückstände) vertraut sein. Auch ein grundlegendes Verständnis der Srotas (Körperkanäle), der ayurvedischen Konstitutionstypen (Prakriti und Vikriti) sowie der ayurvedischen Diagnostik – etwa durch Puls- oder Zungenbeobachtung – ist hilfreich, um dem Seminar gut folgen zu können.
-boxHeadline: "Modul 1: "
+boxHeadline: Modul 1
 boxContent: >-
-  ## Frauenbeschwerden verstehen & begleiten
+  ### Frauenbeschwerden verstehen & begleiten
 
 
   **🗓️ Termin:** 13. / 14. Dezember 2025\
@@ -106,7 +105,7 @@ boxContent: >-
 
   Die Teilnehmerzahl ist limitiert auf **mindestens 10, maximal 15 Personen**, um eine intensive und persönliche Lernerfahrung zu gewährleisten.
 block2: >-
-  ### Jetzt für Modul 1 anmelden
+  ## Jetzt für Modul 1 anmelden
 
 
   Sichere dir deinen Platz im ersten Kurs dieser exklusiven Seminarreihe und erweitere dein Wissen um ganzheitliche Frauenheilkunde im Ayurveda.
@@ -118,7 +117,7 @@ block2: >-
   Die Seminarreihe orientiert sich an der Fachweiterbildungsordnung (FWBO) des EMR und eignet sich zur fachlichen Vertiefung und Weiterbildung.
 
 
-  ### Folgemodule
+  ## Folgemodule
 
 
   **👶 Modul 2: Kinderwunsch, Schwangerschaft & Wochenbett**
@@ -142,7 +141,7 @@ block2: >-
 
 
 
-  #### Mehr über Vanita Kansal
+  ## Mehr über Vanita Kansal
 
 
   Frau Kansal hat ihr sechsjähriges Studium der Ayurvedamedizin an der Baba Farid University of Health Sciences mit Auszeichnung absolviert. Danach hat sie auch als Dozentin am Mai Bhago Ayurveda College, Mukatsar gelehrt und an verschiedenen Kliniken parallel praktiziert. 
@@ -163,7 +162,7 @@ block2: >-
   Mit ihrer langjährigen Erfahrung, ihrer Klarheit und ihrer praxisnahen Art vermittelt sie Ayurveda so, dass es im Alltag von Ärzten, Heilpraktikern und Therapeuten direkt anwendbar wird.
 
 
-  #### **Mehr über ayni**
+  ## **Mehr über ayni**
 
 
   Als Ayurveda-Therapeutin ist es Silvia Ferlito ein Herzensanliegen, Ayurveda-Wissen weiterzugeben und so mehr Menschen zu einem ganzheitlichen Gesundheitsverständnis zu verhelfen.
