@@ -1,11 +1,12 @@
 import fs from 'fs'
-import * as React from 'react'
 import matter from 'gray-matter'
+import rehypeRaw from 'rehype-raw'
 import yaml from 'js-yaml'
 import { Headline } from '../../components/Headline'
 import Layout from '../../components/Layout'
 import Head from 'next/head'
 import Markdown from 'react-markdown'
+import {parseShortcodes} from '../../lib/parseShortcodes'
 
 export default function Post({ frontmatter, markdown}) {
     const formatDate = (dateStr) => { 
@@ -27,7 +28,9 @@ export default function Post({ frontmatter, markdown}) {
                             sublevel={false} 
                 />
                 <div className='markdown-body'>
-                  <Markdown>{markdown}</Markdown>
+                  <Markdown rehypePlugins={[rehypeRaw]} skipHtml={false}>
+                    {parseShortcodes(markdown)}
+                  </Markdown>
                 </div>
             </div>
             <div className='spacer-top'></div>

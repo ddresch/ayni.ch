@@ -1,12 +1,13 @@
 import fs from 'fs'
-import * as React from 'react'
 import matter from 'gray-matter'
+import rehypeRaw from 'rehype-raw'
 import yaml from 'js-yaml'
 import { Headline } from '../../components/Headline'
 import Layout from '../../components/Layout'
 import Head from 'next/head'
 import Markdown from 'react-markdown'
 import { ContentContainer } from '../../components/ContentContainer'
+import {parseShortcodes} from '../../lib/parseShortcodes'
 
 export default function Post({ frontmatter, markdown}) {  
   return (<>
@@ -23,8 +24,8 @@ export default function Post({ frontmatter, markdown}) {
                     sublevel={false}
           />
           <div className='markdown-body'>
-            <Markdown>
-              {frontmatter.block1}
+            <Markdown rehypePlugins={[rehypeRaw]} skipHtml={false}>
+              {parseShortcodes(frontmatter.block1)}
             </Markdown>
           </div>
         </div>
@@ -39,8 +40,8 @@ export default function Post({ frontmatter, markdown}) {
         </ContentContainer> 
         <div className='main-container'>
           <div className='markdown-body'>
-            <Markdown>
-              {frontmatter.block2}
+            <Markdown rehypePlugins={[rehypeRaw]} skipHtml={false}>
+              {parseShortcodes(frontmatter.block2)}
             </Markdown>
           </div>
         </div>
