@@ -14,10 +14,11 @@ seoKeywords: Ayurveda für Frauen, Striroga, Ayurveda Frauenheilkunde, Ayurveda
   Frauen
 publishedAt: 2025-08-08T11:23:00.000+02:00
 block1: >-
-  ### Ayurveda für Frauen – Ganzheitliche Frauenheilkunde mit Vanita Kansal
+  ## Ayurveda für Frauen – Ganzheitliche Frauenheilkunde mit Vanita Kansal
 
 
-  **Praxisorientiertes Fachseminar** für Ärzte, Heilpraktiker, Therapeuten und Frauen mit Ayurveda-Grundkenntnissen**.**
+  **Praxisorientiertes Fachseminar** für Ärzte, Heilpraktiker, Therapeuten und Frauen mit Ayurveda-Grundkenntnissen.\
+
 
   Lerne, wie du Frauen mit ayurvedischem Wissen kompetent bei Beschwerden, Kinderwunsch und in den Wechseljahren begleiten kannst. 
 
@@ -28,7 +29,7 @@ block1: >-
   [Zum Seminar Ganzheitliche Frauenheilkunde mit Vanita Kansal anmelden](https://forms.gle/JfwdkukGdK682DFL7)
 
 
-  ### Zur Dozentin
+  ## Zur Dozentin
 
 
   ![](/images/portrait-vanita-kansal.webp)
@@ -37,13 +38,13 @@ block1: >-
   Vanita Kansal ist eine der wenigen **Ayurveda-Gynäkologinnen** im deutschsprachigen Raum. Sie verbindet tiefes ayurvedisches Wissen mit medizinischer Expertise und hat ihr Studium der Ayurvedamedizin an der **Baba Farid University of Health Sciences mit Auszeichnung** abgeschlossen. Seit 2007 lebt sie in Deutschland, arbeitet als Ayurveda-Expertin und ist seit vielen Jahren Dozentin und Praktikerin im Bereich integrative Medizin. Ihre Stärke liegt in der Verbindung von schulmedizinischem Wissen mit der Heilkraft des klassischen Ayurveda, die sie praxisnah vermittelt.
 
 
-  ### Zielgruppe
+  ## Zielgruppe des Seminar
 
 
   Dieses Seminar richtet sich an Fachpersonen mit Ayurveda-Vorkenntnissen – insbesondere aus Ayurveda-Therapie, Ayurveda-Medizin, Gynäkologie und Naturheilpraxis –, die Frauen kompetent und differenziert begleiten möchten. Auch alle interessierten Frauen, die mehr über sich selbst lernen und aktiv ihre Gesundheit fördern wollen, sind herzlich eingeladen.
 
 
-  ### Ziel der Seminarreihe
+  ## Ziel der Seminarreihe
 
 
   Der Fokus liegt auf der **direkten Anwendbarkeit im Praxisalltag**. Du lernst Therapiekonzepte, Fallbeispiele, manuelle Anwendungen, Ernährung, Kräuter und Lebensstilstrategien, die individuell an den Konstitutionstyp und den Lebensabschnitt angepasst sind.
