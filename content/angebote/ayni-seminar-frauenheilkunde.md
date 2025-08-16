@@ -1,5 +1,5 @@
 ---
-title: "ayni Seminare: Ganzheitliche Frauenheilkunde mit Ayurveda"
+title: Ganzheitliche Frauenheilkunde mit Ayurveda
 subtitle: praxisnah, fundiert und anwendbar
 seoTitle: "Ayurveda für Frauen: Striroga & Prasuti Tantra – Ganzheitliche
   Frauenheilkunde lernen"
@@ -25,7 +25,7 @@ block1: >-
   Dieses Seminar wird organisiert von praxis ayni - Praxis für integrative Ayurveda-Therapie und Wissensvermittlung.
 
 
-  \[[Jetzt anmelden]](https://forms.gle/JfwdkukGdK682DFL7)
+  [Zum Seminar Ganzheitliche Frauenheilkunde mit Vanita Kansal anmelden](https://forms.gle/JfwdkukGdK682DFL7)
 
 
   ### Zur Dozentin
@@ -67,11 +67,17 @@ block1: >-
   Für die Teilnahme werden grundlegende Kenntnisse im Ayurveda vorausgesetzt. Du solltest bereits mit den zentralen Konzepten wie den drei Doshas (Vata, Pitta, Kapha), den sieben Dhatus (Körpergeweben), Mala (Ausscheidungsprodukte), Agni (Verdauungsfeuer) und Ama (Stoffwechselrückstände) vertraut sein. Auch ein grundlegendes Verständnis der Srotas (Körperkanäle), der ayurvedischen Konstitutionstypen (Prakriti und Vikriti) sowie der ayurvedischen Diagnostik – etwa durch Puls- oder Zungenbeobachtung – ist hilfreich, um dem Seminar gut folgen zu können.
 boxHeadline: "Modul 1: Frauenbeschwerden verstehen & begleiten"
 boxContent: >-
-  **🗓️ Termin:** 13./14. Dezember 2025\
+  **🗓️ Termin:** 13. / 14. Dezember 2025\
+
+  \
 
   **🕘 Uhrzeit:** Samstag 9:00–17:30 / Sonntag 9:00–16:00\
 
+  \
+
   **📍 Ort:** Eggladen – Güterstrasse 271, 4053 Basel (nahe SBB)\
+
+  \
 
   **💰 Preis:** CHF 800.– pro Modul\
 
@@ -90,6 +96,17 @@ boxContent: >-
   Die Teilnehmerzahl ist limitiert auf **mindestens 10, maximal 15 Personen**, um eine intensive und persönliche Lernerfahrung zu gewährleisten.
 
 
+  ### Jetzt für Modul 1 anmelden
+
+
+  Sichere dir deinen Platz im ersten Kurs dieser exklusiven Seminarreihe und erweitere dein Wissen um ganzheitliche Frauenheilkunde im Ayurveda.
+
+
+  [Zum Seminar Ganzheitliche Frauenheilkunde mit Vanita Kansal anmelden](<>)
+
+
+  Die Seminarreihe orientiert sich an der Fachweiterbildungsordnung (FWBO) des EMR und eignet sich zur fachlichen Vertiefung und Weiterbildung.
+block2: >-
   ### Folgemodule
 
 
@@ -112,17 +129,8 @@ boxContent: >-
   Die genauen Termine für Modul 2 und 3 werden noch bekannt gegeben. 
 
 
-  ### Jetzt für Modul 1 anmelden
 
 
-  Sichere dir deinen Platz im ersten Kurs dieser exklusiven Seminarreihe und erweitere dein Wissen um ganzheitliche Frauenheilkunde im Ayurveda.
-
-
-  \[[Anmeldebutton]](https://forms.gle/JfwdkukGdK682DFL7)
-
-
-  Die Seminarreihe orientiert sich an der Fachweiterbildungsordnung (FWBO) des EMR und eignet sich zur fachlichen Vertiefung und Weiterbildung.
-block2: >-
   #### Mehr über Vanita Kansal
 
 
@@ -142,8 +150,6 @@ block2: >-
 
 
   Mit ihrer langjährigen Erfahrung, ihrer Klarheit und ihrer praxisnahen Art vermittelt sie Ayurveda so, dass es im Alltag von Ärzten, Heilpraktikern und Therapeuten direkt anwendbar wird.
-
-
 
 
   #### **Mehr über ayni**
