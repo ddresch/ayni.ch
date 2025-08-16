@@ -38,10 +38,10 @@ block1: >-
   Vanita Kansal ist eine der wenigen **Ayurveda-Gynäkologinnen** im deutschsprachigen Raum. Sie verbindet tiefes ayurvedisches Wissen mit medizinischer Expertise und hat ihr Studium der Ayurvedamedizin an der **Baba Farid University of Health Sciences mit Auszeichnung** abgeschlossen. Seit 2007 lebt sie in Deutschland, arbeitet als Ayurveda-Expertin und ist seit vielen Jahren Dozentin und Praktikerin im Bereich integrative Medizin. Ihre Stärke liegt in der Verbindung von schulmedizinischem Wissen mit der Heilkraft des klassischen Ayurveda, die sie praxisnah vermittelt.
 
 
-  ## Zielgruppe des Seminar
+  ## Zielgruppe des Seminars
 
 
-  Dieses Seminar richtet sich an Fachpersonen mit Ayurveda-Vorkenntnissen – insbesondere aus Ayurveda-Therapie, Ayurveda-Medizin, Gynäkologie und Naturheilpraxis –, die Frauen kompetent und differenziert begleiten möchten. Auch alle interessierten Frauen, die mehr über sich selbst lernen und aktiv ihre Gesundheit fördern wollen, sind herzlich eingeladen.
+  Dieses Seminar richtet sich an Fachpersonen mit Ayurveda-Vorkenntnissen – insbesondere aus Ayurveda-Therapie, Ayurveda-Medizin, Gynäkologie und Naturheilpraxis, die Frauen kompetent und differenziert begleiten möchten. Auch alle interessierten Frauen, die mehr über sich selbst lernen und aktiv ihre Gesundheit fördern wollen, sind herzlich eingeladen.
 
 
   ## Ziel der Seminarreihe
@@ -65,7 +65,7 @@ block1: >-
   Diese werden ayurvedisch-pathophysiologisch erklärt, und passende Therapieansätze werden diskutiert. Auch klimakterische Beschwerden und deren ganzheitliche Behandlung sowie präventive Massnahmen sind Bestandteil des Seminars.
 
 
-  Darüber hinaus erhältst du praktische Hinweise zur Verordnung spezifischer **Ayurveda-Kräuter** sowie präventive und therapeutische **Ernährungsempfehlungen für Frauen**.
+  Darüber hinaus erhältst du praktische Hinweise zur Verordnung spezifischer **Ayurveda-Kräuter** sowie präventive und therapeutische **Ernährungsempfehlungen** für Frauen.
 
 
   ## Voraussetzungen
