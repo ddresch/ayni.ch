@@ -50,6 +50,9 @@ block1: >-
   Der Fokus liegt auf der **direkten Anwendbarkeit im Praxisalltag**. Du lernst Therapiekonzepte, Fallbeispiele, manuelle Anwendungen, Ernährung, Kräuter und Lebensstilstrategien, die individuell an den Konstitutionstyp und den Lebensabschnitt angepasst sind.
 
 
+  ![Überblick Seminar Reihe](/images/ayni-seminar-reihe-overview.svg "Überblick Seminar Reihe")
+
+
   ### Modul 1: Frauenbeschwerden verstehen & begleiten
 
 
