@@ -56,10 +56,10 @@ block1: >-
   ## Modul 1: Frauenbeschwerden verstehen & begleiten
 
 
-  Die Frauenheilkunde wird im Ayurveda **Striroga** genannt – ein eigenständiger Bereich mit einem besonderen Verständnis für die weibliche Gesundheit. Dieses praxisorientierte Fachseminar betrachtet aus Sicht von **Striroga** und **Prasuti Tantra** die Anatomie und Physiologie des weiblichen Fortpflanzungssystems – sowohl ayurvedisch als auch schulmedizinisch.
+  Die Frauenheilkunde wird im Ayurveda **Striroga** genannt – ein eigenständiger Bereich mit einem besonderen Verständnis für die weibliche Gesundheit. Dieses praxisorientierte Fachseminar betrachtet aus Sicht von *Striroga* und *Prasuti Tantra* die Anatomie und Physiologie des weiblichen Fortpflanzungssystems – sowohl ayurvedisch als auch schulmedizinisch.
 
 
-  Du lernst verschiedene Krankheitsbilder wie **Menstruationsstörungen, PMS, Amenorrhö, Dysmenorrhö, Endometriose** sowie **Endometritis** kennen.
+  Du lernst verschiedene Krankheitsbilder wie *Menstruationsstörungen*, *PMS*, *Amenorrhö*, *Dysmenorrhö*, *Endometriose* sowie *Endometritis* kennen.
 
 
   Diese werden ayurvedisch-pathophysiologisch erklärt, und passende Therapieansätze werden diskutiert. Auch klimakterische Beschwerden und deren ganzheitliche Behandlung sowie präventive Massnahmen sind Bestandteil des Seminars.
