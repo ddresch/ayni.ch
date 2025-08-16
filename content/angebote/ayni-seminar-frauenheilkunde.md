@@ -14,10 +14,10 @@ seoKeywords: Ayurveda für Frauen, Striroga, Ayurveda Frauenheilkunde, Ayurveda
   Frauen
 publishedAt: 2025-08-08T11:23:00.000+02:00
 block1: >-
-  ## Ayurveda für Frauen – Ganzheitliche Frauenheilkunde mit Vanita Kansal
+  ## Ein praxisorientiertes Fachseminar mit Vanita Kansal
 
 
-  **Praxisorientiertes Fachseminar** für Ärzte, Heilpraktiker, Therapeuten und Frauen mit Ayurveda-Grundkenntnissen.\
+  Für Ärzte, Heilpraktiker, Therapeuten und Frauen mit Ayurveda-Grundkenntnissen.
 
 
   Lerne, wie du Frauen mit ayurvedischem Wissen kompetent bei Beschwerden, Kinderwunsch und in den Wechseljahren begleiten kannst. 
