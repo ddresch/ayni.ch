@@ -111,7 +111,7 @@ block2: >-
   Sichere dir deinen Platz im ersten Kurs dieser exklusiven Seminarreihe und erweitere dein Wissen um ganzheitliche Frauenheilkunde im Ayurveda.
 
 
-  [cta title="Jetzt Seminar buchen" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/JfwdkukGdK682DFL7"]
+  \[cta title="Jetzt Deinen Platz sichern" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/JfwdkukGdK682DFL7"]
 
 
   Die Seminarreihe orientiert sich an der Fachweiterbildungsordnung (FWBO) des EMR und eignet sich zur fachlichen Vertiefung und Weiterbildung.
@@ -122,12 +122,14 @@ block2: >-
 
   **👶 Modul 2: Kinderwunsch, Schwangerschaft & Wochenbett**
 
+
   🗓️ Frühling 2026
 
   Von der Empfängnisvorbereitung bis zur Rückbildungszeit – mit ayurvedisch-medizinischen Grundlagen für eine gesunde Mutter-Kind-Begleitung.
 
 
   **🌺 Modul 3: Die Wechseljahre im Licht des Ayurveda**
+
 
   🗓️ Sommer 2026
 
@@ -137,8 +139,6 @@ block2: >-
 
 
   Die genauen Termine für Modul 2 und 3 werden noch bekannt gegeben. 
-
-
 
 
   ## Mehr über Vanita Kansal
