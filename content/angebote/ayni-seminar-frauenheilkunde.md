@@ -26,7 +26,7 @@ block1: >-
   Dieses Seminar wird organisiert von praxis ayni - Praxis für integrative Ayurveda-Therapie und Wissensvermittlung.
 
 
-  \[cta title="Jetzt Seminar buchen" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/JfwdkukGdK682DFL7" boxlink="true"]
+  [cta title="Jetzt Seminar buchen" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/JfwdkukGdK682DFL7" boxlink="true"]
 
 
   ## Zur Dozentin
