@@ -26,7 +26,7 @@ block1: >-
   Dieses Seminar wird organisiert von praxis ayni - Praxis für integrative Ayurveda-Therapie und Wissensvermittlung.
 
 
-  [cta title="Jetzt Seminar buchen" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/JfwdkukGdK682DFL7" boxlink="true"]
+  \[cta title="Jetzt Seminar buchen" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/JfwdkukGdK682DFL7" boxlink="true"]
 
 
   ## Zur Dozentin
@@ -66,6 +66,34 @@ block1: >-
 
 
   Darüber hinaus erhältst du praktische Hinweise zur Verordnung spezifischer **Ayurveda-Kräuter** sowie präventive und therapeutische **Ernährungsempfehlungen** für Frauen.
+
+
+  **Lehr- und Unterrichtsinhalte:**
+
+
+  * Anatomie und Physiologie des weiblichen Fortpflanzungssystems aus ayurvedischer und schulmedizinischer Sicht
+
+  * Krankheitsbilder wie Menstruationsstörungen, PMS, Amenorrhö, Dysmenorrhö, Endometriose und Endometritis
+
+  * Therapieansätze aus ayurvedischer Sicht
+
+  * Behandlung klimakterischer Beschwerden und präventive Maßnahmen
+
+  * Verordnung spezifischer Ayurveda-Kräuter
+
+  * Präventive und therapeutische Ernährungsempfehlungen für Frauen
+
+
+  **Zu erreichende therapeutische Handlungskompetenzen:**
+
+
+  * Diagnose und Behandlung von Frauenbeschwerden mit ayurvedischen Methoden
+
+  * Integration von Ayurveda in die ganzheitliche Frauenheilkunde
+
+  * Anpassung von Therapiekonzepten an den individuellen Konstitutionstyp und Lebensabschnitt
+
+  * Anwendung von manuellen Techniken, Kräutern und Ernährungsempfehlungen
 
 
   ## Voraussetzungen
