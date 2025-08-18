@@ -77,7 +77,7 @@ block1: >-
 
   * Therapieansätze aus ayurvedischer Sicht
 
-  * Behandlung klimakterischer Beschwerden und präventive Maßnahmen
+  * Behandlung klimakterischer Beschwerden und präventive Massnahmen
 
   * Verordnung spezifischer Ayurveda-Kräuter
 
