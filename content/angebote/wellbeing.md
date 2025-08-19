@@ -118,7 +118,7 @@ block2: >-
 
   **Kostenerstattung durch Krankenkassen**
 
-  Ein Teil der Behandlungskosten wird in der Regel von vielen Krankenkassen über die Zusatzversicherung übernommen. Bitte erkundige dich vorab bei deiner Versicherung, wie du persönlich unterstützt wirst. Das EMR ([Erfahrungsmedizinisches Register](<>)) dient als Orientierungshilfe.
+  Ein Teil der Behandlungskosten wird in der Regel von vielen Krankenkassen über die Zusatzversicherung übernommen. Bitte erkundige dich vorab bei deiner Versicherung, wie du persönlich unterstützt wirst. Das EMR ([Erfahrungsmedizinisches Register](https://emr.ch)) dient als Orientierungshilfe.
 
 
   Ich bin beim **EMR (Erfahrungsmedizinisches Register)** anerkannt und registriert mit folgenden Methoden:
