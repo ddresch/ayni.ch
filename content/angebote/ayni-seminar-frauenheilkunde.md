@@ -73,7 +73,7 @@ block1: >-
 
   * Anatomie und Physiologie des weiblichen Fortpflanzungssystems aus ayurvedischer und schulmedizinischer Sicht
 
-  * Krankheitsbilder wie Menstruationsstörungen, PMS, Amenorrhö, Dysmenorrhö, Endometriose und Endometritis
+  * Krankheitsbilder wie Menstruationsstörungen, PMS, Amenorrhö, Dysmenorrhö, Myome, Endometriose und Endometritis
 
   * Therapieansätze aus ayurvedischer Sicht
 
