@@ -1,6 +1,5 @@
 import Link from 'next/link'
 import fs from 'fs'
-import * as React from 'react'
 import matter from 'gray-matter'
 import yaml from 'js-yaml'
 // Custom components
@@ -27,19 +26,19 @@ export default function Page({blogs}) {
 
   return (<>
         <Head>
-            <title>ayni wisdom</title>
+            <title>ayni education</title>
             <meta name="description" content="Entdecken Sie ayni balance für ganzheitliche Lösungen bei stressbedingten Beschwerden und Burnout in Basel. Wir bieten individuelle Therapiepläne, Stressbewältigungsstrategien, Achtsamkeitstraining und Ayurvedische Massagen. Erstgespräch ab 150 CHF. Krankenkassen-akzeptiert. Finden Sie Ihre innere Balance heute." />
             <meta name="keywords" content="ayni balance, Stressbewältigung, Burnout, Resilienz, Achtsamkeit, Mentaltraining, Stressmanagement" />
         </Head>
         <Layout>
             <div className='main-container'>
                 <div className='spacer-top'></div>
-                <Headline line1="ayni wisdom" line2="ayurveda wissen und events" sublevel={false} />
+                <Headline line1="ayni education" line2="ayurveda wissen und events" sublevel={false} />
                 <ul>
                 {sortedBlogs.map(blog => (
                     <li key={blog.slug}>
-                    <Link href={`/aktuelles/${blog.slug}`}>
-                      <DateFormatter dateString={blog.publishedAt} />: {blog.title}
+                    <Link href={`/education/${blog.slug}`}>
+                      {blog.eventDate}: {blog.title}
                     </Link>
                     </li>
                 ))}
@@ -56,12 +55,12 @@ export default function Page({blogs}) {
 }
 
 export async function getStaticProps() {
-    // List of files in blgos folder
-    const filesInBlogs = fs.readdirSync('./content/posts')
-  
+    // List of files in blogs folder
+    const filesInBlogs = fs.readdirSync('./content/education')
+
     // Get the front matter and slug (the filename without .md) of all files
     const blogs = filesInBlogs.map(filename => {
-      const file = fs.readFileSync(`./content/posts/${filename}`, 'utf8')
+      const file = fs.readFileSync(`./content/education/${filename}`, 'utf8')
       const matterData = matter(file, {
         engines: {
           yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }),

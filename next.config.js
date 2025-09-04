@@ -16,4 +16,14 @@ module.exports = {
 
     return config
   },
+  async redirects() {
+    return [
+      // Basic redirect
+      {
+        source: '/seminar-frauenheilkunde',
+        destination: '/education/ayni-seminar-frauenheilkunde',
+        permanent: true,
+      },
+    ]
+  }
 }
