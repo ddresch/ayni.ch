@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import { SpeedInsights } from '@vercel/speed-insights/next'
 import { ParallaxProvider } from 'react-scroll-parallax'
 import { AnimatePresence } from 'framer-motion'
 import { useParallax } from 'react-scroll-parallax'
@@ -15,6 +16,7 @@ function AppLayout({ Component, pageProps, router }) {
 
   return (
     <>
+      <SpeedInsights />
       <Head>
           <title>Praxis für Ayurveda Ernährungs- und Massagetherapie in Basel</title>          
           
