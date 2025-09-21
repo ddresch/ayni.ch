@@ -122,10 +122,9 @@ boxContent: >-
   **🍽️ Verpflegung:**
 
 
-  ✓ Gesunde Pausensnacks, Kaffee und Tee inklusive
+  * Gesunde Pausensnacks, Kaffee und Tee inklusive
 
-
-  ✓ Gemeinsames Mittagessen im Restaurant (auf eigene Kosten)
+  * Gemeinsames Mittagessen im Restaurant (auf eigene Kosten)
 
 
   **👥 Teilnehmerzahl & Anmeldung:**
