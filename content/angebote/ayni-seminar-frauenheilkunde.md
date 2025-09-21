@@ -105,26 +105,25 @@ boxContent: >-
   ### Frauenbeschwerden verstehen & begleiten
 
 
-  **🗓️ Termin:** 13. / 14. Dezember 2025\
+  **🗓️ Termin:** 13. / 14. Dezember 2025
 
-  \
 
-  **🕘 Uhrzeit:** Samstag 9:00–17:30 / Sonntag 9:00–16:00\
+  **🕘 Uhrzeit:** Samstag 9:00–17:30 / Sonntag 9:00–16:00
 
-  \
 
-  **📍 Ort:** Eggladen – Güterstrasse 271, 4053 Basel (nahe SBB)\
+  **📍 Ort:** Eggladen – Güterstrasse 271, 4053 Basel (nahe SBB)
 
-  \
 
-  **💰 Preis:** CHF 800.– pro Modul\
+  **💰 Preis:** CHF 800.– pro Modul
 
-  **Frühbucherbonus:** CHF 750.– für die ersten 5 Anmeldungen
+  **Frühbucherbonus:** CHF 750.– für die ersten 5 Anmeldungen (die ersten 5 Plätze sind vergeben)
 
 
   **🍽️ Verpflegung:**
 
+
   ✓ Gesunde Pausensnacks, Kaffee und Tee inklusive
+
 
   ✓ Gemeinsames Mittagessen im Restaurant (auf eigene Kosten)
 
