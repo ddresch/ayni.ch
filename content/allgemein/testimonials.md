@@ -10,6 +10,9 @@ seoKeywords: Ayurveda, Doshas, Vata, Pitta, Kapha, Gunas, Tamas, Rajas, Sattva,
   Lebensphilosophie, Gesundheit
 publishedAt: 2023-02-01T14:00:32.566Z
 testimonial:
+  - title: Virginia, HR Manager with a Team of 20 collaborators
+    description: Silvia’s coaching during our team activity uplifted everyone’s
+      spirits and made it a memorable experience.
   - title: Salome, 27, Schweiz
     description: >-
       Die Ayurvedabehandlung- und Beratung bei Silvia Ferlito war eine sehr
@@ -86,7 +89,4 @@ testimonial:
 
 
       Die Ayurveda Massage war wundervoll wohltuend, angenehm und entspannend. Silvia ging auf meine individuellen Bedürfnisse ein und passte den Druck ihrer Griffe an, was ich sehr schätze. Ich fühlte mich bei ihr in kompetenten Händen gut aufgehoben und konnte einfach geniessen.
-  - title: Virginia, HR Manager with a Team of 20 collaborators
-    description: Silvia’s coaching during our team activity uplifted everyone’s
-      spirits and made it a memorable experience.
 ---
