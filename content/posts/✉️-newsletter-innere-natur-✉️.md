@@ -25,7 +25,7 @@ Manchmal reicht Selbstfürsorge allein nicht. Dann kann professionelle Begleitun
 
 „Gib dir zurück, damit du anderen geben kannst.“
 
-Hier geht’s zu meinem aktuellen Newsletter mit Tipps, wie du deine innere Balance auch im Herbst bewahrst, kleine Rituale in deinen Alltag integrierst und dich geerdet, ruhig und voller innerer Wärme fühlst.
+Hier geht’s zu meinem [aktuellen Newsletter](https://sh1.sendinblue.com/acc8ua6939pfe.html?t=1762349103863) mit Tipps, wie du deine innere Balance auch im Herbst bewahrst, kleine Rituale in deinen Alltag integrierst und dich geerdet, ruhig und voller innerer Wärme fühlst.
 
 ✨ Wenn dein Körper Zeichen setzt und du dir Begleitung wünschst:
 Ich biete dir ein [kostenfreies Kennenlerngespräch](<>) an – persönlich, achtsam, individuell.
