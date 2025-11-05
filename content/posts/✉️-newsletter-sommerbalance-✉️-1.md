@@ -2,8 +2,6 @@
 title: "✉️ Newsletter: Sommerbalance ✉️"
 publishedAt: 2025-06-03T12:00:00.000Z
 ---
-
-
 ![Frau im Massagestuhl am See](/images/5_2_1_sommer_selfmassage.png "Frau im Massagestuhl am See")
 
 # **Urlaub**
@@ -37,7 +35,7 @@ So konnte ich mich im Urlaub nicht nur erholen, sondern auch tiefer in meinem K�
 Hier geht’s zu meinem [aktuellen Newsletter](https://sh1.sendinblue.com/vxygy6939pfe.html?t=1751295623) mit Tipps, wie du auch im Sommer deine Balance hältst, plus spannende Infos zu meinen Fachartikeln.
 
 ✨ Wenn dein Körper Zeichen setzt und du dir Begleitung wünschst:
-Ich biete dir ein [kostenfreies Kennenlerngespräch](<>) an – persönlich, achtsam, individuell.
+Ich biete dir ein [kostenfreies Erstgespräch](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468)[](<>) an – persönlich, achtsam, individuell.
 
 \- - -
 
