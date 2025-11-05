@@ -6,7 +6,7 @@ publishedAt: 2025-11-05T13:15:00.000+01:00
 
 # Deine innere Natur entdecken
 
-## ***Vom Erinnern, Entspannen und Entfalten*** 
+## ***Vom Erinnern, Entspannen und Entfalten***
 
 Manchmal braucht es eine Phase der Stille, um wieder zu spüren, wer wir wirklich sind, jenseits von Trends, Optimierung und ständiger Leistungsbereitschaft. Ich habe mir in den letzten Monaten genau diese Ruhe gegönnt, um meinem Atem, meinem Körper und meiner inneren Stimme wieder zuzuhören.
 
