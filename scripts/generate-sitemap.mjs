@@ -32,6 +32,7 @@ async function generateSitemap() {
     '!pages/api',
     '!pages/aktuelles/[slug].jsx',
     '!pages/informationen/[slug].jsx',
+    '!pages/education/[slug].jsx',
     '!pages/angebot/[slug].jsx',
     '!pages/[slug].jsx',
   ])

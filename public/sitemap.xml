@@ -24,54 +24,14 @@
     <changefreq>hourly</changefreq>
   </url>
   <url>
-    <loc>https://ayni.ch/angebot/balance</loc>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>https://ayni.ch/angebot/beratung</loc>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>https://ayni.ch/angebot/corporate</loc>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>https://ayni.ch/angebot/leadership</loc>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>https://ayni.ch/angebot/wellbeing</loc>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>https://ayni.ch/informationen/[slug]</loc>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>https://ayni.ch/informationen/ayurveda-massagen-org</loc>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>https://ayni.ch/informationen/ayurveda</loc>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>https://ayni.ch/informationen/coaching-psychologische-beratung</loc>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>https://ayni.ch/informationen/corporate-wellbeing</loc>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>https://ayni.ch/informationen/leadership-circle-profile</loc>
-    <changefreq>hourly</changefreq>
-  </url>
-  <url>
-    <loc>https://ayni.ch/informationen/resilienz-mentaltraining</loc>
+    <loc>https://ayni.ch/education/</loc>
     <changefreq>hourly</changefreq>
   </url>
       <url>
+    <loc>https://ayni.ch/aktuelles/ancient-wisdom-meets-modern-leadership-part-1</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
     <loc>https://ayni.ch/aktuelles/die-doshas</loc>
     <changefreq>hourly</changefreq>
   </url>
@@ -104,7 +64,27 @@
     <changefreq>hourly</changefreq>
   </url>
   <url>
+    <loc>https://ayni.ch/aktuelles/✉️-newsletter-innere-natur-✉️</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/✉️-newsletter-selbstfürsorge-achtsamkeit-✉️</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/✉️-newsletter-sommerbalance-✉️-1</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/✉️-newsletter-sommerbalance-✉️</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
     <loc>https://ayni.ch/aktuelles/❄️-die-jahreszeiten-nach-ayurveda-teil-2-❄️</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🌱-portrait-gewürze-und-kräuter-kreuzkümmel-🌱</loc>
     <changefreq>hourly</changefreq>
   </url>
   <url>
@@ -112,7 +92,139 @@
     <changefreq>hourly</changefreq>
   </url>
   <url>
+    <loc>https://ayni.ch/aktuelles/🌷-frühlingserwachen-🌷</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
     <loc>https://ayni.ch/aktuelles/🌻-die-jahreszeiten-nach-ayurveda-–-teil-5-🌻</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🌿-bist-du-bereit-dein-jahr-nach-deinem-eigenen-rhythmus-zu-leben-🌿</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🌿-die-6-jahreszeiten-nach-ayurveda-–-ein-jahr-im-einklang-mit-der-natur-🌿</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🌿✨-happy-world-ayurveda-day-✨🌿</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🍃-portrait-gewürze-und-kräuter-bärlauch-🍃</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🍃-portrait-gewürze-und-kräuter-tulsi-🍃</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🍇-die-jahreszeiten-nach-ayurveda-–-teil-6-🍇</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🐦-themen-fokus-morgenroutine-🐦</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🔥-agni-–-das-verdauungsfeuer-🔥</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/😴-themen-fokus-schlaf-😴</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🚀-ancient-wisdom-meets-modern-leadership-part-2-🚀</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🚀-ancient-wisdom-meets-modern-leadership-part-3-🚀</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🤯-overload-🤯</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🧘‍♀️✨basler-aktionstage-psychische-gesundheit-bei-ayni🧘‍♀️✨</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🧠-themen-fokus-adhs-🧠</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🫚-portrait-gewürze-und-kräuter-ingwer-🫚-1</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/aktuelles/🫚-portrait-gewürze-und-kräuter-ingwer-🫚</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/ayni-seminar-frauenheilkunde</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/balance</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/beratung</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/coaching</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/corporate</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/leadership</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/teambuilding</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/angebot/wellbeing</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/ayurveda-massagen</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/ayurveda</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/coaching-psychologische-beratung</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/corporate-wellbeing</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/komplementärtherapie-1</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/komplementärtherapie</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/leadership-circle-profile</loc>
+    <changefreq>hourly</changefreq>
+  </url>
+  <url>
+    <loc>https://ayni.ch/informationen/resilienz-mentaltraining</loc>
     <changefreq>hourly</changefreq>
   </url>
   </urlset>
