@@ -17,7 +17,7 @@ export default function ContactForm() {
             request: data.request,
             message: data.message,
         }
-        // call API to add photo to contest
+        // call Next.js API route which forwards to PHP mail script
         const res = await fetch(`/api/share/mail`, {
             method: 'POST',
             headers: {
