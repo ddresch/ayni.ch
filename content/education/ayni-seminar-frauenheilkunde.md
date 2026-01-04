@@ -1,19 +1,5 @@
 ---
-title: Frauenheilkunde mit Ayurveda
-subtitle: praxisnah, fundiert und anwendbar
-seoTitle: "Ayurveda für Frauen: Striroga & Prasuti Tantra – Ganzheitliche
-  Frauenheilkunde lernen"
-seoDescription: Lerne in diesem praxisorientierten Ayurveda-Seminar alles über
-  ayurvedische Frauenheilkunde (Striroga), Menstruationsbeschwerden,
-  Endometriose, PMS, klimakterische Beschwerden und natürliche Therapieformen.
-  Für Therapeuten, Heilpraktiker, Ärzte und interessierte Frauen.
-seoKeywords: Ayurveda für Frauen, Striroga, Ayurveda Frauenheilkunde, Ayurveda
-  Seminar Frauen, ayurvedische Therapie Menstruationsbeschwerden, Prasuti
-  Tantra, PMS ayurvedisch behandeln, Endometriose Ayurveda, klimakterische
-  Beschwerden Ayurveda, Ayurveda Kräuter für Frauen, ayurvedische Ernährung
-  Frauen
 publishedAt: 2025-08-08T11:23:00.000+02:00
-eventDate: "13. / 14. Dezember 2025"
 block1: >-
   ## Ein praxisorientiertes Fachseminar mit Vanita Kansal
 
@@ -101,38 +87,6 @@ block1: >-
 
 
   Für die Teilnahme werden grundlegende Kenntnisse im Ayurveda vorausgesetzt. Du solltest bereits mit den zentralen Konzepten wie den drei Doshas (Vata, Pitta, Kapha), den sieben Dhatus (Körpergeweben), Mala (Ausscheidungsprodukte), Agni (Verdauungsfeuer) und Ama (Stoffwechselrückstände) vertraut sein. Auch ein grundlegendes Verständnis der Srotas (Körperkanäle), der ayurvedischen Konstitutionstypen (Prakriti und Vikriti) sowie der ayurvedischen Diagnostik – etwa durch Puls- oder Zungenbeobachtung – ist hilfreich, um dem Seminar gut folgen zu können.
-boxHeadline: Modul 1
-boxContent: >-
-  ### Frauenbeschwerden verstehen & begleiten
-
-
-  **🗓️ Termin:** 13. / 14. Dezember 2025\
-
-  \
-
-  **🕘 Uhrzeit:** Samstag 9:00–17:30 / Sonntag 9:00–16:00\
-
-  \
-
-  **📍 Ort:** Eggladen – Güterstrasse 271, 4053 Basel (nahe SBB)\
-
-  \
-
-  **💰 Preis:** CHF 800.– pro Modul\
-
-  **Frühbucherbonus:** CHF 750.– für die ersten 5 Anmeldungen
-
-
-  **🍽️ Verpflegung:**
-
-  ✓ Gesunde Pausensnacks, Kaffee und Tee inklusive
-
-  ✓ Gemeinsames Mittagessen im Restaurant (auf eigene Kosten)
-
-
-  **👥 Teilnehmerzahl & Anmeldung:**
-
-  Die Teilnehmerzahl ist limitiert auf **mindestens 10, maximal 15 Personen**, um eine intensive und persönliche Lernerfahrung zu gewährleisten.
 block2: >-
   ## Jetzt für Modul 1 anmelden
 
@@ -204,4 +158,51 @@ block2: >-
 
 
   Mehr dazu findest du auf [ayni.ch](https://ayni.ch/).
+seoKeywords: Ayurveda für Frauen, Striroga, Ayurveda Frauenheilkunde, Ayurveda
+  Seminar Frauen, ayurvedische Therapie Menstruationsbeschwerden, Prasuti
+  Tantra, PMS ayurvedisch behandeln, Endometriose Ayurveda, klimakterische
+  Beschwerden Ayurveda, Ayurveda Kräuter für Frauen, ayurvedische Ernährung
+  Frauen
+eventDate: 13. / 14. Dezember 2025
+boxContent: >-
+  ### Frauenbeschwerden verstehen & begleiten
+
+
+  **🗓️ Termin:** 13. / 14. Dezember 2025\
+
+  \
+
+  **🕘 Uhrzeit:** Samstag 9:00–17:30 / Sonntag 9:00–16:00\
+
+  \
+
+  **📍 Ort:** Eggladen – Güterstrasse 271, 4053 Basel (nahe SBB)\
+
+  \
+
+  **💰 Preis:** CHF 800.– pro Modul\
+
+  **Frühbucherbonus:** CHF 750.– für die ersten 5 Anmeldungen
+
+
+  **🍽️ Verpflegung:**
+
+  ✓ Gesunde Pausensnacks, Kaffee und Tee inklusive
+
+  ✓ Gemeinsames Mittagessen im Restaurant (auf eigene Kosten)
+
+
+  **👥 Teilnehmerzahl & Anmeldung:**
+
+  Die Teilnehmerzahl ist limitiert auf **mindestens 10, maximal 15 Personen**, um eine intensive und persönliche Lernerfahrung zu gewährleisten.
+subtitle: praxisnah, fundiert und anwendbar
+title: Frauenheilkunde mit Ayurveda - Modul 1
+seoTitle: "Ayurveda für Frauen: Striroga & Prasuti Tantra – Ganzheitliche
+  Frauenheilkunde lernen"
+boxHeadline: Modul 1
+seoDescription: Lerne in diesem praxisorientierten Ayurveda-Seminar alles über
+  ayurvedische Frauenheilkunde (Striroga), Menstruationsbeschwerden,
+  Endometriose, PMS, klimakterische Beschwerden und natürliche Therapieformen.
+  Für Therapeuten, Heilpraktiker, Ärzte und interessierte Frauen.
 ---
+\
