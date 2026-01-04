@@ -1,5 +1,6 @@
 ---
 title: Frauenheilkunde mit Ayurveda - Modul 2
+eventDate: 11. / 12. April 2026
 subtitle: praxisnah, fundiert und anwendbar
 seoTitle: "Ayurveda für Frauen: Striroga & Prasuti Tantra – Ganzheitliche
   Frauenheilkunde lernen"
