@@ -20,8 +20,15 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string"}
       - { label: "Event Date", name: "eventDate", widget: "string"}
+      - { label: "Subtitle", name: "subtitle", widget: "string"}
+      - { label: "SEO Title", name: "seoTitle", widget: "string"}
+      - { label: "SEO Description", name: "seoDescription", widget: "string"}
+      - { label: "SEO Keywords", name: "seoKeywords", widget: "string"}
       - { label: "Publish Date", name: "publishedAt", widget: "datetime" }
-      - { label: "Body", name: "body", widget: "markdown"}
+      - { label: "Block 1", name: "block1", widget: "markdown"}
+      - { label: "Box Headline", name: "boxHeadline", widget: "string"}
+      - { label: "Box Content", name: "boxContent", widget: "markdown"}
+      - { label: "Block 2", name: "block2", widget: "markdown"}
   - label: "Angebot" 
     name: "angebote"
     folder: "content/angebote"
