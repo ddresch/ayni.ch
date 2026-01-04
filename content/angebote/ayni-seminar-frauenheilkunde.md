@@ -1,5 +1,5 @@
 ---
-title: Frauenheilkunde mit Ayurveda
+title: Frauenheilkunde mit Ayurveda - Modul 2
 subtitle: praxisnah, fundiert und anwendbar
 seoTitle: "Ayurveda für Frauen: Striroga & Prasuti Tantra – Ganzheitliche
   Frauenheilkunde lernen"
@@ -12,7 +12,7 @@ seoKeywords: Ayurveda für Frauen, Striroga, Ayurveda Frauenheilkunde, Ayurveda
   Tantra, PMS ayurvedisch behandeln, Endometriose Ayurveda, klimakterische
   Beschwerden Ayurveda, Ayurveda Kräuter für Frauen, ayurvedische Ernährung
   Frauen
-publishedAt: 2025-08-08T11:23:00.000+02:00
+publishedAt: 2026-01-01T11:23:00.000+01:00
 block1: >-
   ## Ein praxisorientiertes Fachseminar mit Vanita Kansal
 
