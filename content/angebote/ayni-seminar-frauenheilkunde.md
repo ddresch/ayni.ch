@@ -1,5 +1,5 @@
 ---
-title: Frauenheilkunde mit Ayurveda - Modul 1
+title: Frauenheilkunde mit Ayurveda - Modul 2
 subtitle: praxisnah, fundiert und anwendbar
 seoTitle: "Ayurveda für Frauen: Striroga & Prasuti Tantra – Ganzheitliche
   Frauenheilkunde lernen"
@@ -26,7 +26,7 @@ block1: >-
   Dieses Seminar wird organisiert von praxis ayni - Praxis für integrative Ayurveda-Therapie und Wissensvermittlung.
 
 
-  \[cta title="Jetzt Seminar buchen" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/JfwdkukGdK682DFL7" boxlink="true"]
+  \[cta title="Jetzt Seminar buchen" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/Jh4s658iHZEL37DQ6" boxlink="true"]
 
 
   ## Zur Dozentin
@@ -103,7 +103,6 @@ block1: >-
   * Praktische Übungen, Rituale und therapeutische Anwendungen
 
 
-
   ## Voraussetzungen
 
 
@@ -145,7 +144,7 @@ block2: >-
   Sichere dir deinen Platz im ersten Kurs dieser exklusiven Seminarreihe und erweitere dein Wissen um ganzheitliche Frauenheilkunde im Ayurveda.
 
 
-  \[cta title="Jetzt Deinen Platz sichern" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/JfwdkukGdK682DFL7"]
+  \[cta title="Jetzt Deinen Platz sichern" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/Jh4s658iHZEL37DQ6"]
 
 
   #### Die Seminarreihe orientiert sich an der Fachweiterbildungsordnung (FWBO) des EMR und eignet sich zur fachlichen Vertiefung und Weiterbildung.
@@ -160,7 +159,7 @@ block2: >-
   **Modul 1: Frauenbeschwerden verstehen & begleiten**
 
 
-  🗓️ **Dezember 2025** - erfolgreich durchgeführt - weitere Daten in Ausarbeitung
+  🗓️ **13. - 14. Dezember 2025** - erfolgreich durchgeführt - weitere Daten in Ausarbeitung
 
 
   * Themen: Menstruationsstörungen, PMS, Dysmenorrhö, Endometriose, klimakterische Beschwerden
@@ -173,7 +172,7 @@ block2: >-
   **Modul 2: Kinderwunsch, Schwangerschaft & Wochenbett**
 
 
-  **🗓️ 11. - 12. April 2026**
+  **🗓️ 11. - 12. April 2026 zur [Anmeldung](https://forms.gle/Jh4s658iHZEL37DQ6)** 
 
 
   * Von der Empfängnisvorbereitung bis zur Rückbildungszeit
@@ -186,7 +185,7 @@ block2: >-
   **Modul 3: Die Wechseljahre im Licht des Ayurveda**
 
 
-  🗓️ **Sommer 2026**
+  🗓️ **10.- 11. Oktober 2026 zur [Anmeldung](https://forms.gle/oSoj2E1zCTW5Ww837)**
 
 
   * Ein neuer Lebensabschnitt – hormonell, emotional, geistig
