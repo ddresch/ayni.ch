@@ -26,7 +26,7 @@ block1: >-
   Dieses Seminar wird organisiert von praxis ayni - Praxis für integrative Ayurveda-Therapie und Wissensvermittlung.
 
 
-  \[cta title="Jetzt Seminar buchen" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/JfwdkukGdK682DFL7" boxlink="true"]
+  \[cta title="Jetzt Seminar buchen" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/aVTz2AYwDvB8q1JK7" boxlink="true"]
 
 
   ## Zur Dozentin
@@ -144,13 +144,13 @@ block2: >-
   Sichere dir deinen Platz im ersten Kurs dieser exklusiven Seminarreihe und erweitere dein Wissen um ganzheitliche Frauenheilkunde im Ayurveda.
 
 
-  \[cta title="Jetzt Deinen Platz sichern" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/JfwdkukGdK682DFL7"]
+  \[cta title="Jetzt Deinen Platz sichern" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/aVTz2AYwDvB8q1JK7"]
 
 
   #### Die Seminarreihe orientiert sich an der Fachweiterbildungsordnung (FWBO) des EMR und eignet sich zur fachlichen Vertiefung und Weiterbildung.
 
 
-  #### Der Kurs umfasst **12 Zeitstunden (entspricht 16 Lektionen à 45 Minuten).**
+  #### Jedes Modul umfasst **12 Zeitstunden (entspricht 16 Lektionen à 45 Minuten).**
 
 
   ## Übersicht Aller Module
@@ -159,7 +159,7 @@ block2: >-
   **Modul 1: Frauenbeschwerden verstehen & begleiten**
 
 
-  🗓️ **Dezember 2025** - erfolgreich durchgeführt - weitere Daten in Ausarbeitung
+  🗓️ **13. - 14. Dezember 2025** - erfolgreich durchgeführt - weitere Daten in Ausarbeitung
 
 
   * Themen: Menstruationsstörungen, PMS, Dysmenorrhö, Endometriose, klimakterische Beschwerden
@@ -172,7 +172,7 @@ block2: >-
   **Modul 2: Kinderwunsch, Schwangerschaft & Wochenbett**
 
 
-  **🗓️ 11. - 12. April 2026**
+  **🗓️ 11. - 12. April 2026 Anmeldung**
 
 
   * Von der Empfängnisvorbereitung bis zur Rückbildungszeit
@@ -185,7 +185,7 @@ block2: >-
   **Modul 3: Die Wechseljahre im Licht des Ayurveda**
 
 
-  🗓️ **Sommer 2026**
+  🗓️ **10. - 11. Oktober 2026**
 
 
   * Ein neuer Lebensabschnitt – hormonell, emotional, geistig
