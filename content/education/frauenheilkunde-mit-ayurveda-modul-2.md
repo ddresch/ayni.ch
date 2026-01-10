@@ -27,7 +27,7 @@ block1: >-
   Dieses Seminar wird organisiert von praxis ayni - Praxis für integrative Ayurveda-Therapie und Wissensvermittlung.
 
 
-  \[cta title="Jetzt Seminar buchen" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/5cacFupB2dKopQP48" boxlink="true"]
+  [cta title="Jetzt Seminar buchen" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/5cacFupB2dKopQP48" boxlink="true"]
 
 
   ## Zur Dozentin
@@ -163,9 +163,9 @@ block2: >-
   🗓️ **Dezember 2025** - erfolgreich durchgeführt - weitere Daten in Ausarbeitung
 
 
-  * Themen: Menstruationsstörungen, PMS, Dysmenorrhö, Endometriose, klimakterische Beschwerden
+  * Themen: Menstruationsstörungen, PMS, Dysmenorrhö, Endometriose, klimakterische Beschwerden 
 
-  * Praxisorientierte Vermittlung: Ayurveda + schulmedizinische Sicht
+  * Praxisorientierte Vermittlung: Ayurveda + schulmedizinische Sicht 
 
   * Hinweise zu Ernährung, Kräutern, Lebensstilstrategien und manuellen Techniken
 
@@ -178,7 +178,7 @@ block2: >-
 
   * Von der Empfängnisvorbereitung bis zur Rückbildungszeit
 
-  * Mit ayurvedisch-medizinischen Grundlagen für eine gesunde Mutter-Kind-Begleitung
+  * Mit ayurvedisch-medizinischen Grundlagen für eine gesunde Mutter-Kind-Begleitung 
 
   * Praxisnah: Ernährung, Kräuter, Lebensstil, typische Beschwerden, therapeutische Anwendungen
 
@@ -189,9 +189,9 @@ block2: >-
   🗓️ **10. - 11. Oktober 2026 zur [Anmeldung](https://forms.gle/bu2u9ohh7ktFao1p6)**
 
 
-  * Ein neuer Lebensabschnitt – hormonell, emotional, geistig
+  * Ein neuer Lebensabschnitt – hormonell, emotional, geistig 
 
-  * Stabilität, Klarheit und Kraft aus Sicht der klassischen Ayurveda-Lehre und der modernen Gynäkologie
+  * Stabilität, Klarheit und Kraft aus Sicht der klassischen Ayurveda-Lehre und der modernen Gynäkologie 
 
   * Fokus: Präventive und therapeutische Massnahmen, Anpassung an individuelle Konstitution und Lebensabschnitt
 
