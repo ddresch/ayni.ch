@@ -145,7 +145,7 @@ block2: >-
   Sichere dir deinen Platz im ersten Kurs dieser exklusiven Seminarreihe und erweitere dein Wissen um ganzheitliche Frauenheilkunde im Ayurveda.
 
 
-  \[cta title="Jetzt Deinen Platz sichern" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/5cacFupB2dKopQP48"]
+  [cta title="Jetzt Deinen Platz sichern" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/5cacFupB2dKopQP48"]
 
 
   #### Die Seminarreihe orientiert sich an der Fachweiterbildungsordnung (FWBO) des EMR und eignet sich zur fachlichen Vertiefung und Weiterbildung.
