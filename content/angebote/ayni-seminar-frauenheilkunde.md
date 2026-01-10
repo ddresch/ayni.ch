@@ -1,5 +1,5 @@
 ---
-title: Frauenheilkunde mit Ayurveda - Modul 2
+title: Frauenheilkunde mit Ayurveda - Modul 1
 subtitle: praxisnah, fundiert und anwendbar
 seoTitle: "Ayurveda für Frauen: Striroga & Prasuti Tantra – Ganzheitliche
   Frauenheilkunde lernen"
