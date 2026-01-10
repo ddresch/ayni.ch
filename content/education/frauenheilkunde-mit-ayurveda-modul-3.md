@@ -105,7 +105,7 @@ block1: >-
 
   * Ayurveda-Know-how in die eigene Berufs-Realität übertragen (Klinik, Praxis, Coaching)
 
-  * Kompetenz in interprofessioneller Kommunikation (z.B. Ärzt:innen, Hebammen, Therapeut:innen)
+  * Kompetenz in interprofessioneller Kommunikation (z.B. Ärzt:innen, Therapeut:innen)
 
 
   ## Voraussetzungen
