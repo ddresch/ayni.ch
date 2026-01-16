@@ -17,7 +17,7 @@ description: >-
   Ich begleite Einzelpersonen, Teams und Führungskräfte dabei, ihre Balance zu stärken, ihr Potenzial zu entfalten und Wandel bewusst zu gestalten.
 
 
-  Ob körperliche Beschwerden, mentale Erschöpfung, persönliche Krisen, Weiterentwicklung oder berufliche Herausforderungen. Bei ayni findest du einen Raum für Reflexion, Wachstum und nachhaltige Veränderung. Ich arbeite mit einem integrativen Ansatz, der die Weisheit des Ayurveda mit moderner Prozessbegleitung verbindet - individuell, achtsam und auf Augenhöhe.
+  Ob körperliche Beschwerden, mentale Erschöpfung, persönliche Krisen, Weiterentwicklung oder berufliche Herausforderungen. Bei ayni verbinde ich die Weisheit des Ayurveda mit moderner Prozessbegleitung zu einem integrativen Ansatz – individuell, achtsam und auf Augenhöhe.
 
 
   [Buche jetzt deinen Termin](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) oder schreibe mir über das [Kontaktformular](#contact-form).
@@ -44,14 +44,12 @@ description: >-
   Diese beiden Konzepte vereine ich in meiner Arbeit mit dem Leitsatz *„Gib Dir zurück, damit Du anderen geben kannst.“* für ein Gleichgewicht zwischen Mensch, Natur und Universum und für den Einklang zwischen Körper, Geist und Seele. Denn nur, wenn wir uns selbst wieder in Balance bringen, können wir auch unsere volle Kraft entfalten.
 
 
-  In meiner Arbeit begleite ich Menschen in unterschiedlichen Lebensbereichen, von persönlichem Wachstum und Leadership-Entwicklung bis hin zu komplementärtherapeutischen Prozessen.
-
-  Dabei integriere ich Coachingansätze, Ayurveda-Therapie mit Ernährung, Massage, Lifestyle-Beratung, Achtsamkeit und Wellbeing zu einer individuellen, ganzheitlichen Begleitung - auf körperlicher, mentaler und emotionaler Ebene.
+  In meiner Arbeit begleite ich Menschen in unterschiedlichen Lebensbereichen, von persönlichem Wachstum und Leadership-Entwicklung bis hin zu komplementärtherapeutischen Prozessen. Dabei integriere ich Coachingansätze, Ayurveda-Therapie mit Ernährung, Massage, Lifestyle-Beratung, Achtsamkeit und Wellbeing. So entsteht eine individuelle, ganzheitliche Begleitung auf körperlicher, mentaler und emotionaler Ebene.
 
 
   **Bereit für den nächsten Schritt?**
 
-  Ob persönlich, als Führungskraft oder im Team, entdecke, wie du Klarheit gewinnst, innere Balance stärkst und bewusste Veränderung gestaltest. Vereinbare dein erstes Gespräch - ich freue mich, dich kennenzulernen.
+  Ob persönlich, als Führungskraft oder im Team, entdecke, wie du Klarheit gewinnst, innere Balance stärkst und bewusste Veränderung gestaltest. Vereinbare dein erstes Gespräch, ich freue mich, dich kennenzulernen.
 
 
   Ich begleite dich auf deinem Weg zu:
@@ -67,18 +65,18 @@ description: >-
   **Warum ayni?**
 
 
-  * **Individuell und ganzheitlich:** Mein integrativer Ansatz berücksichtigt deine ganz persönlichen Bedürfnisse – mit einem Fokus auf Körper, Geist und Seele.
+  * **Individuell und ganzheitlich:** Mein integrativer Ansatz berücksichtigt deine persönlichen Bedürfnisse und legt den Fokus auf Körper, Geist und Seele.
 
-  * **Nachhaltige Veränderung:** Wir arbeiten zusammen an langfristigen Lösungen, die dir helfen, dich nachhaltig weiterzuentwickeln.
+  * **Nachhaltige Veränderung:** Wir entwickeln gemeinsam Lösungen, die dir helfen, dich langfristig weiterzuentwickeln.
 
-  * **Erfahrung und Expertise:** Als erfahrene Prozessbegleiterin, Coach und Ayurveda-Therapeutin biete ich dir fundierte Unterstützung in allen Lebensbereichen.
+  * **Erfahrung und Expertise:** Als erfahrene Prozessbegleiterin, Coach und Ayurveda-Therapeutin unterstütze ich dich kompetent in allen Lebensbereichen.
 
 
   **Bleib in Verbindung.**
 
   Wenn du dich für Ayurveda, Stressbewältigung und ganzheitliche Gesundheit interessierst, lade ich dich herzlich ein, meinen Newsletter zu abonnieren.
 
-  Dich erwarten Impulse für mehr Balance, Lebensfreude und inneres Wachstum.
+  Du erhältst regelmässig Impulse für mehr Balance, Lebensfreude und inneres Wachstum
 
 
   📨 [Jetzt anmelden](https://d20a6f56.sibforms.com/serve/MUIFAFJWTDAqFnb3TaHJD_nHVWXlVO-bQSxg2g0FG9Ca6pOFdFgtsycARkvzYqko_s1SQIJL4pZtJFS4snC_wkasbRP1-r8tziHEexVc79dXB2h1PPoS1otMGuvNtf4DInkxp8NSNLTG2kyu3PsxIlIjVCyX9ATs4oGWf_GUlfzutPJwTyx4bUFmUJcl-NTMzhOwhENFXHJp8CV0)
