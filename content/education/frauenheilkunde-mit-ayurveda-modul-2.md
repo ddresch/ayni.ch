@@ -1,6 +1,6 @@
 ---
 title: Frauenheilkunde mit Ayurveda - Modul 2
-eventDate: 11. / 12. April 2026
+eventDate: In Planung
 subtitle: praxisnah, fundiert und anwendbar
 seoTitle: "Ayurveda für Frauen: Striroga & Prasuti Tantra – Ganzheitliche
   Frauenheilkunde lernen"
@@ -15,7 +15,7 @@ seoKeywords: Ayurveda für Frauen, Striroga, Ayurveda Frauenheilkunde, Ayurveda
   Frauen
 publishedAt: 2026-01-01T11:23:00.000+01:00
 block1: >-
-  ## Ein praxisorientiertes Fachseminar mit Vanita Kansal
+  ## Ein praxisorientiertes Fachseminar
 
 
   Für Ärzte, Heilpraktiker, Therapeuten und Frauen mit Ayurveda-Grundkenntnissen.
@@ -27,16 +27,9 @@ block1: >-
   Dieses Seminar wird organisiert von praxis ayni - Praxis für integrative Ayurveda-Therapie und Wissensvermittlung.
 
 
-  [cta title="Jetzt Seminar buchen" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/5cacFupB2dKopQP48" boxlink="true"]
+  ![]()
 
 
-  ## Zur Dozentin
-
-
-  ![Portait der Dozentin Vanita Kansal](/images/portrait-vanita-kansal.webp "Foto Vanita")
-
-
-  Vanita Kansal ist eine der wenigen **Ayurveda-Gynäkologinnen** im deutschsprachigen Raum. Sie verbindet tiefes ayurvedisches Wissen mit medizinischer Expertise und hat ihr Studium der Ayurvedamedizin an der **Baba Farid University of Health Sciences mit Auszeichnung** abgeschlossen. Seit 2007 lebt sie in Deutschland, arbeitet als Ayurveda-Expertin im Parkschlösschen in Traben Trarbach und ist seit vielen Jahren Dozentin und Praktikerin im Bereich integrative Medizin. Ihre Stärke liegt in der Verbindung von schulmedizinischem Wissen mit der Heilkraft des klassischen Ayurveda, die sie praxisnah vermittelt.
 
 
   ## Zielgruppe des Seminars
@@ -113,7 +106,7 @@ boxContent: >-
   ### **Kinderwunsch, Schwangerschaft & Wochenbett**
 
 
-  **🗓️ Termin:** 11. / 12. April 2026
+  **🗓️ Termin:** In Planung
 
 
   **🕘 Uhrzeit:** Samstag 9:00–17:30 / Sonntag 9:00–16:00
@@ -139,14 +132,7 @@ boxContent: >-
 
   Die Teilnehmerzahl ist limitiert auf **10 bis 15 Personen**, um eine intensive und persönliche Lernerfahrung zu gewährleisten
 block2: >-
-  ## Jetzt für Modul 2 anmelden
-
-
-  Sichere dir deinen Platz im ersten Kurs dieser exklusiven Seminarreihe und erweitere dein Wissen um ganzheitliche Frauenheilkunde im Ayurveda.
-
-
-  [cta title="Jetzt Deinen Platz sichern" description="Ganzheitliche Frauenheilkunde mit Vanita Kansal" href="https://forms.gle/5cacFupB2dKopQP48"]
-
+  
 
   #### Die Seminarreihe orientiert sich an der Fachweiterbildungsordnung (FWBO) des EMR und eignet sich zur fachlichen Vertiefung und Weiterbildung.
 
@@ -173,7 +159,7 @@ block2: >-
   **Modul 2: Kinderwunsch, Schwangerschaft & Wochenbett**
 
 
-  **🗓️ 11. - 12. April 2026 zur [Anmeldung](https://forms.gle/5cacFupB2dKopQP48)**
+  **🗓️ In Planung[](https://forms.gle/5cacFupB2dKopQP48)**
 
 
   * Von der Empfängnisvorbereitung bis zur Rückbildungszeit
@@ -186,7 +172,7 @@ block2: >-
   **Modul 3: Die Wechseljahre im Licht des Ayurveda**
 
 
-  🗓️ **10. - 11. Oktober 2026 zur [Anmeldung](https://forms.gle/bu2u9ohh7ktFao1p6)**
+  🗓️ **In Planung[](https://forms.gle/bu2u9ohh7ktFao1p6)**
 
 
   * Ein neuer Lebensabschnitt – hormonell, emotional, geistig 
@@ -194,27 +180,6 @@ block2: >-
   * Stabilität, Klarheit und Kraft aus Sicht der klassischen Ayurveda-Lehre und der modernen Gynäkologie 
 
   * Fokus: Präventive und therapeutische Massnahmen, Anpassung an individuelle Konstitution und Lebensabschnitt
-
-
-  ## Mehr über Vanita Kansal
-
-
-  Frau Kansal hat ihr sechsjähriges Studium der Ayurvedamedizin an der Baba Farid University of Health Sciences mit Auszeichnung absolviert. Danach hat sie auch als Dozentin am Mai Bhago Ayurveda College, Mukatsar gelehrt und an verschiedenen Kliniken parallel praktiziert. 
-
-
-  Seit 2007 lebt sie in Deutschland und hat viele Vorträge und Seminare in Deutschland, der Schweiz und in China gehalten. Seit 2010 arbeitet sie als Ayurveda-Expertin im Ayurveda Parkschlösschen in Traben-Trarbach. Im Jahr 2016 hat sie ihre Heilpraktikerprüfung absolviert. 
-
-
-  Frau Kansal stammt aus einer traditionellen Ayurvedafamilie, in der sie mit tiefem ayurvedischen Wissen, Yoga und Meditationsritualen aufgewachsen ist. Ihre Hauptvision ist es, der Menschheit Ayurveda nahe zu bringen, so dass viele Menschen von diesem tiefen und alten Wissen profitieren und gesund leben können. 
-
-
-  Seit 2009 ist sie auch ein aktives Mitglied im Verband europäischer Ayurveda Mediziner und Therapeuten (VEAT). Sie hält seit 5 Jahren das Fachseminar Ayurveda für Frauen Für Ärzte, Heilpraktiker und Therapeuten.
-
-
-  Vanita Kansal ist Ayurveda-Ärztin und Gynäkologin. Sie praktiziert im Parkschlösschen, einer bekannten Klinik für integrative Medizin, wo sie Frauen mit ganzheitlichem Blick begleitet. Ihre Stärke liegt in der Verbindung von schulmedizinischem Wissen mit der tiefen Heilkraft des klassischen Ayurveda.
-
-
-  Mit ihrer langjährigen Erfahrung, ihrer Klarheit und ihrer praxisnahen Art vermittelt sie Ayurveda so, dass es im Alltag von Ärzten, Heilpraktikern und Therapeuten direkt anwendbar wird.
 
 
   ## **Mehr über ayni**
