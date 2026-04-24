@@ -1,5 +1,5 @@
 ---
-title: komplementärtherapie
+title: komplementärtherapieABC
 subtitle: das was von innen wirkt
 seoTitle: Ayurveda Praxis in Basel
 seoDescription: Erfahre mehr über Ayurveda, das Wissen vom Leben, bei ayni in
