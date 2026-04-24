@@ -2,31 +2,52 @@
 title: corporate wellbeing
 subtitle: den bedürfnissen der mitarbeiter rechnung tragen
 seoTitle: Corporate Wellbeing in Basel
-seoDescription: Erfahren Sie mehr über Corporate Wellbeing in Basel
+seoDescription: Erfahren mehr über Corporate Wellbeing in Basel
 seoKeywords: Ayurveda, Doshas, Vata, Pitta, Kapha, Gunas, Tamas, Rajas, Sattva,
   Lebensphilosophie, Gesundheit
 publishedAt: 2023-02-01T14:00:32.566Z
 ---
 Corporate Wellbeing ist mehr als nur Gesundheitsmanagement!
 
-Wohlbefinden ist ein ganzheitliches bio-psycho-soziales Konstrukt. Es umfasst die physische, psychische und emotionale Gesundheit sowie das soziale Wohlbefinden eines Menschen. Während häufig über "Betriebliches Gesundheitsmanagement" oder "Corporate Wellness" gesprochen wird, ist der Begriff "Corporate Wellbeing" noch vernachlässigt. Dabei ist es wichtig zu verstehen, dass Wohlbefinden und Wellness unterschiedliche Konzepte sind, die beide einen grossen Einfluss auf die Gesundheit der Mitarbeiter haben können.
+Wohlbefinden ist ein ganzheitliches bio-psycho-soziales Konstrukt. Es umfasst die physische, psychische und emotionale Gesundheit sowie das soziale Wohlbefinden eines Menschen. Während häufig über "Betriebliches Gesundheitsmanagement" oder "Corporate Wellness" gesprochen wird, ist der Begriff "Corporate Wellbeing" noch häufig vernachlässigt. Dabei ist es wichtig zu verstehen, dass Wohlbefinden und Wellness unterschiedliche Konzepte sind, die beide einen grossen Einfluss auf die Gesundheit der Mitarbeiter haben können.
 
-Spätestens seit der Corona Pandemie wird den Themen mentale Gesundheit, Stress, Depressionen, Sinnhaftigkeit, psychologische Sicherheit, Gesundheit, Ganzheitlichkeit mehr Bedeutung gegeben, sie brauchen also auch den entsprechenden Raum dafür.
+**Corporate Wellbeing** geht tiefer: Es schafft den Raum für mentale Gesundheit, psychologische Sicherheit und echte Sinnhaftigkeit im Berufsalltag.
 
-**Corporate Wellness vs. Corporate Wellbeing:**
+### Corporate Wellness vs. Corporate Wellbeing
 
-Corporate Wellness konzentriert sich hauptsächlich auf die körperliche Gesundheit der Mitarbeiter. Es beinhaltet Programme und Initiativen wie Fitnesskurse, Ernährungsberatung und Gesundheitschecks. Während Corporate Wellness einen wichtigen Teil der Mitarbeitergesundheit abdeckt, geht Corporate Wellbeing darüber hinaus. Es umfasst nicht nur die körperliche Gesundheit, sondern auch das emotionale, spirituelle, soziale und geistige Wohlbefinden. Hier verbinden sich die Philosophie des Ayurveda mit der ganzheitlichen Sichtweise einer betrieblichen Wellbeing Offensive.
+Es ist wichtig, den Unterschied zu verstehen, um nachhaltige Effekte zu erzielen:
+
+**Corporate Wellness:** Konzentriert sich primär auf die körperliche Gesundheit (Fitness, Kantine, Ergonomie).
+
+**Corporate Wellbeing:** Geht darüber hinaus. Es integriert das emotionale, soziale und geistige Wohlbefinden. Hier verbindet sich die zeitlose Philosophie des Ayurveda mit moderner Betriebspsychologie zu einer wirksamen **Wellbeing Offensive**.
 
 > bewusstseinsprozesse herbeiführen, um die selbstregulierung fördern 
 
-**Warum Corporate Wellbeing?**
+![We Figure it Out](/images/0_corporatewellbeing.webp "Wir finden eine Lösung")
 
-Corporate Wellbeing trägt einen wesentlichen Beitrag zur Steigerung der Mitarbeiterzufriedenheit, Produktivität, Bindung und allen voran der Mitarbeitergesundheit. Mitarbeiter werden in allen Bereichen ihres Wohlbefindens unterstützt. Das schafft aus dem innen heraus Motivation, Unterstützung und ein Wertschätzendes Arbeitsumfeld.
+### **Warum Corporate Wellbeing?**
 
-**Vision**
+Ein wertschätzendes Arbeitsumfeld entsteht von innen heraus. Wenn Mitarbeitende in allen Bereichen ihres Wohlbefindens unterstützt werden, führt das zu:
 
-Meine Passion ist es Mensch und Gesellschaft zu einem neuen Gesundheitsverständnis und ihrer ganz persönlichen Balance heranzuführen ob im Therapie Setting, bei Meditationskursen, in Kochkursen, Seminaren, kreativen Workshops, Vorträgen oder der betrieblichen Gesundheitsförderung im Rahmen des Corporate Wellbeing. 
+* **Höherer Resilienz:** Bewusstseinsprozesse fördern die Selbstregulierung bei Stress.
+* **Nachhaltiger Motivation:** Sinnhaftigkeit und Balance steigern die Bindung zum Unternehmen.
+* **Gelebter Wertschätzung:** Ein ganzheitliches Gesundheitsverständnis reduziert Fehlzeiten und fördert die Produktivität.
 
-Der Ayurveda kann sich mit seiner Vielfalt an Möglichkeiten, von Körpertherapie über Ernährung bis zu Bewegung und Entspannungsmethoden, sehr gut in die Bedürfnisser der heutigen Zeit einreihen und nachhaltig die Gesundheit und das Wohlbefinden fördern. 
+### Meine Vision für dein Unternehmen
 
-Mit meinem Angebot trage ich den Bedürfnissen der Arbeitnehmer Rechnung und helfe so mit einer Corporate Wellbeing Offensive auch den Unternehmen mit gesünderen, zufriedeneren, aktiveren und ausbalancierteren Mitarbeitern. Hierbei betrachte ich das bio-soziale-konstrukt der Menschen ganzheitlich, schliesse körperliches Wohlbefinden, Gesundheit und mentale Aspekte gleichermassen ein.
+Meine Passion ist es, Menschen zu ihrer ganz persönlichen Balance heranzuführen. Der Ayurveda bietet mit seiner Vielfalt – von Ernährung über Körperarbeit bis hin zu Entspannungsmethoden – genau die Werkzeuge, die in unserer heutigen Zeit den Unterschied machen.
+
+Mit meinem Angebot helfe ich Unternehmen dabei, das bio-soziale Konstrukt ihrer Mitarbeitenden ganzheitlich zu betrachten. Das Ergebnis sind gesündere, zufriedenere und ausbalanciertere Teams, die ihre volle Kraft entfalten können. 
+
+### Was dich erwartet
+
+* **Seminare & Vorträge:** Mentale Gesundheit, Resilienz und Wellbeing aus ayurvedischer Sicht.
+* **Workshops:** Typgerechte Ernährung, Achtsamkeit und Stressprävention im Berufsalltag.
+* **Individuelle Begleitung:** Coaching für Schlüsselpersonen zur Förderung der inneren Balance.
+
+**Verbindung nach innen schafft Zusammenarbeit im Aussen.**\
+*Ich freue mich darauf, dich und dein Unternehmen ein Stück auf diesem Weg zu begleiten.*
+
+##### **Jedes Team und jede Organisation ist einzigartig. Gerne erstelle ich nach einem ersten Gespräch ein individuelles Konzept und eine Offerte, die genau zu euren Bedürfnissen und eurem Zeithorizont passt.**
+
+**\[ Zusammenarbeit besprechen ]**
