@@ -23,7 +23,7 @@ Dabei nutzen wir das Potenzial deiner gesamten Persönlichkeit:
 * **Selbst (Intuition):** Den Zugang zur inneren Stimme und Weisheit stärken.
 * **Emotionen (Gefühle):** Emotionale Intelligenz als Kompass nutzen.
 
-#### Fokus auf Lösungen statt auf Probleme
+### Fokus auf Lösungen statt auf Probleme
 
 Meine Arbeitsmethodik ist konsequent ziel- und ressourcenorientiert. Wir halten uns nicht unnötig mit der Analyse der Vergangenheit auf, sondern richten den Blick auf die Gegenwart und die Gestaltung der Zukunft. Wir konstruieren Lösungen und positive Annahmen, die dich „hin zu“ deinem Ziel führen.
 
@@ -41,7 +41,7 @@ Da etwa 90 % unseres täglichen Handelns unbewusst gesteuert werden, ist unser U
 
 Wie im Spitzensport nutzen wir das Mentaltraining, um diese „Datenchips“ neu zu beschreiben. Durch die bewusste Vorstellung neuer Denk- und Handlungsstrategien lösen wir alte Prägungen auf und verankern deine gewünschten Ziele tief in deinem System. So wird mentales, unentdecktes Potenzial frei für ein bewusst gestaltetes Leben.
 
-#### Resilienz
+### Resilienz
 
 Die geistige Widerstandskraft stärken
 
