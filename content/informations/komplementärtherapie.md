@@ -25,6 +25,8 @@ Zentrale Pfeiler meiner Arbeit sind:
 
 > Komplementärtherapie fördert innere Stärke und Selbstbestimmung
 
+![Selfcare is the best care](/images/0_komplementaertherapie.webp "Selfcare is the best care")
+
 ### Die drei Säulen der Zusammenarbeit
 
 Basierend auf einem ganzheitlichen Verständnis arbeiten wir gezielt an diesen Bereichen:
