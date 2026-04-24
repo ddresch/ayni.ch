@@ -16,9 +16,7 @@ Die Komplementärtherapie ist ein ganzheitlicher Ansatz, der die Selbstregulieru
 
 Das innere Potenzial mobilisieren
 
-In der KT betrachten wir den Menschen in seiner Ganzheit von Körper, Geist und Seele. Statt nur Symptome zu behandeln, fokussieren wir uns darauf, vorhandene Ressourcen zu stärken. Das Ziel ist es, Menschen zu befähigen, auch in schwierigen Situationen das innere Gleichgewicht wiederzuerlangen und Belastungen durch eine gesteigerte Resilienz erfolgreich zu bewältigen. 
-
-Zentrale Pfeiler meiner Arbeit sind:
+In der KT betrachten wir den Menschen in seiner Ganzheit von Körper, Geist und Seele. Statt nur Symptome zu behandeln, fokussieren wir uns darauf, vorhandene Ressourcen zu stärken. Das Ziel ist es, Menschen zu befähigen, auch in schwierigen Situationen das innere Gleichgewicht wiederzuerlangen und Belastungen durch eine gesteigerte Resilienz erfolgreich zu bewältigen. Zentrale Pfeiler meiner Arbeit sind:
 
 * **Kohärenzgefühl:** Den Sinnzusammenhang der eigenen Gesundheit verstehen.
 * **Selbstermächtigung:** Die Fähigkeit zurückgewinnen, selbstbestimmt und kompetent mit gesundheitlichen Herausforderungen umzugehen.
