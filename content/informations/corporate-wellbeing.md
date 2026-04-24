@@ -48,6 +48,6 @@ Mit meinem Angebot helfe ich Unternehmen dabei, das bio-soziale Konstrukt ihrer 
 **Verbindung nach innen schafft Zusammenarbeit im Aussen.**\
 *Ich freue mich darauf, dich und dein Unternehmen ein Stück auf diesem Weg zu begleiten.*
 
-##### **Jedes Team und jede Organisation ist einzigartig. Gerne erstelle ich nach einem ersten Gespräch ein individuelles Konzept und eine Offerte, die genau zu euren Bedürfnissen und eurem Zeithorizont passt.**
+#### **Jedes Team und jede Organisation ist einzigartig. Gerne erstelle ich nach einem ersten Gespräch ein individuelles Konzept und eine Offerte, die genau zu euren Bedürfnissen und eurem Zeithorizont passt.**
 
 **\[ Zusammenarbeit besprechen ]**
