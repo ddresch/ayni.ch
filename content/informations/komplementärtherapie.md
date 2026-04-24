@@ -43,7 +43,7 @@ Krankenkassen-Anerkennung
 
 Als Komplementärtherapeutin mit Branchenzertifikat OdA KT (Methode Ayurveda-Therapie) bin ich beim **EMR** und der **EGK** registriert. Dadurch werden die Leistungen von den meisten Schweizer Krankenkassen über die Zusatzversicherung übernommen. 
 
-***Indem du dir selbst die Aufmerksamkeit schenkst, die du brauchst, stärkst du das Fundament für dein gesamtes Leben.***
+#### **Indem du dir selbst die Aufmerksamkeit schenkst, die du brauchst, stärkst du das Fundament für dein gesamtes Leben.**
 
 *Ich freue mich darauf, dich ein Stück auf diesem Weg zu begleiten*
 
