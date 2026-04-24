@@ -27,6 +27,8 @@ Wir nutzen das gemeinsame Spiel, um die Brücke von der unmittelbaren Erfahrung 
 * **Reflektieren:** Analyse von Rollen, Kommunikation und Verhaltensmustern direkt nach dem Spiel.
 * **Transfer:** Strategien entwickeln, um die neuen Impulse nachhaltig im Team zu verankern.
 
+![New Empowering Stories](/images/0_teambuilding.webp "Schreibe für Dein Team neue Geschichten")
+
 ### Was euch erwartet
 
 Dieses Format ist ein intensiver Entwicklungsschritt, der Spass und psychologischen Tiefgang vereint:
