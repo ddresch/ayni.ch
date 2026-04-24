@@ -24,8 +24,6 @@ Diese Bausteine des Lebens finden wir in den fünf Elementen wieder: Wasser, Feu
 
 > Ziel des Ayurveda ist Svastha, das verweilen im Selbst.
 
-
-
 ![Ayurveda](/images/1_ayurveda.webp "Ayurveda")
 
 ### Die Bio-Rhythmen: Die 3 Doshas
@@ -56,4 +54,4 @@ Wahre Veränderung beginnt dort, wo du dir selbst wieder nah bist. Balance begin
 
 Ich freue mich darauf, dich ein Stück auf diesem Weg zu begleiten.
 
-[cta title="Jetzt Termin vereinbaren ="Für Dein Wohlbefindenl" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468"]
+[cta title="Jetzt Termin vereinbaren" description="Für Dein Wohlbefinden" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468"]
