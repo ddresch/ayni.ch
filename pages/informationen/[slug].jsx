@@ -6,6 +6,7 @@ import { Headline } from '../../components/Headline'
 import Layout from '../../components/Layout'
 import Head from 'next/head'
 import Markdown from 'react-markdown'
+import {parseShortcodes} from '../../lib/parseShortcodes'
 
 export default function Post({ frontmatter, markdown}) {
   return (<>
@@ -22,7 +23,9 @@ export default function Post({ frontmatter, markdown}) {
                     sublevel={false}
           />
           <div className='markdown-body'>
-            <Markdown>{markdown}</Markdown>
+            <Markdown rehypePlugins={[rehypeRaw]} skipHtml={false}>
+              {parseShortcodes(markdown)}
+            </Markdown>
           </div>
         </div>
         <div className='spacer-top'></div>
