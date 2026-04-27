@@ -124,8 +124,8 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
                             <SubNav label="Informationen">
                                 <NavLink url="informationen/ayurveda" label="Ayurveda" />
                                 <NavLink url="informationen/komplement%C3%A4rtherapie" label="Komplementärtherapie" />
-                                <NavLink url="informationen/resilienz-mentaltraining" label="Resilienz-, und Mentaltraining"/>                                                                
-                                <NavLink url="informationen/coaching-psychologische-beratung" label="Coaching und Beratung"/> 
+                                <NavLink url="informationen/teambuilding" label="Teambuilding"/>                                                                
+                                <NavLink url="informationen/coaching-resilienz" label="Coaching"/> 
                                 <NavLink url="informationen/leadership-circle-profile" label="Leadership Circle Profile" />                               
                                 <NavLink url="informationen/corporate-wellbeing" label="Corporate Wellbeing"/>
                             </SubNav>
