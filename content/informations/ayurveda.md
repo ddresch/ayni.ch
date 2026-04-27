@@ -53,4 +53,4 @@ Das höchste Ziel des Ayurveda ist **Svastha**. Wörtlich übersetzt bedeutet e
 **Wahre Veränderung beginnt dort, wo du dir selbst wieder nah bist. Balance beginnt dort, wo wir die Signale des Körpers verstehen.**\
 *Ich freue mich darauf, dich ein Stück auf diesem Weg zu begleiten.*
 
-\[cta title="Jetzt Termin vereinbaren" description="Für Dein Wohlbefinden" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+[cta title="Jetzt Termin vereinbaren" description="Für Dein Wohlbefinden" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
