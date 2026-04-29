@@ -51,4 +51,4 @@ Dieses Angebot richtet sich an Unternehmen, HR-Verantwortliche und Teams, die:
 
 #### **Jedes Team und jede Organisation ist einzigartig. Gerne erstelle ich nach einem ersten Gespräch ein individuelles Konzept und eine Offerte, die genau zu euren Bedürfnissen und eurem Zeithorizont passt.**
 
-**\[ Zusammenarbeit besprechen ]**
+[cta title="Jetzt Termin vereinbaren" description="Zusammenarbeit besprechen" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
