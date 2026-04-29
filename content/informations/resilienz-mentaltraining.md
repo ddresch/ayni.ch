@@ -1,5 +1,5 @@
 ---
-title: teambuilding & teamentwicklung
+title: teambuilding & teamentwicklungABC
 subtitle: gemeinsam erleben, bewusst zusammenarbeiten
 seoTitle: Teambuilding & Teamentwicklung Basel | Coaching im Escape Room
 seoDescription: Verbinde Teambuilding in Basel mit professioneller
