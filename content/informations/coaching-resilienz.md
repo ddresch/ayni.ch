@@ -52,4 +52,4 @@ Dabei berücksichtigen wir auch den ayurvedischen Lebensrhythmus: Deine täglich
 **Indem du dich selbst erkennst und annimmst, öffnest du den Raum für echte Verbindung, neue Perspektiven und nachhaltige Wirkung.**\
 *Ich freue mich darauf, dich ein Stück auf diesem Weg zu begleiten.*
 
-**\[ Termin vereinbaren ]**
+[cta title="Jetzt Termin vereinbaren" description="Für Deine innere Kraft" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
