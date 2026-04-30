@@ -25,13 +25,13 @@ block1: >-
   Mit einer Kombination aus ayurvedischer Ernährung, körperzentrierter Arbeit, ausgleichenden Behandlungen und Massagen, Meditation und achtsamer Begleitung unterstütze ich dich dabei, deine Energie wieder in Fluss zu bringen und ein harmonisches Gleichgewicht zwischen Körper, Geist und Seele zu finden. Gemeinsam entwickeln wir individuelle Lösungsansätze, die dir helfen, die Herausforderungen des Lebens zu meistern.
 
 
-  \[Unverbindlich anfragen]
+  [cta title="Unverbindlich anfragen" description="Für dein körperliches Gleichgewicht" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   > Wahre Veränderung beginnt in uns selbst.
 
 
-  Balance beginnt dort, wo wir die Signale des Körpers verstehen.
+  ***Balance beginnt dort, wo wir die Signale des Körpers verstehen.***
 
 
   ## Mein Ansatz
@@ -54,6 +54,54 @@ block1: >-
   * **Ayurvedische Ernährung:** Individuelle Konzepte, die deine Verdauung und dein hormonelles Gleichgewicht stützen.
 
   * **Prozessbegleitung**: Psychologische Beratung, Achtsamkeit
+
+
+  ## Was dich erwartet
+
+
+  Meine Begleitung ist so individuell wie dein Anliegen. In den Sitzungen nutzen wir verschiedene therapeutische Werkzeuge, um dich ganzheitlich zu unterstützen:
+
+
+  * **Ganzheitliche Befunderhebung:** Zu Beginn bestimmen wir deine ayurvedische Konstitution (Doshas), um Ungleichgewichte auf körperlicher, geistiger und emotionaler Ebene zu erkennen.
+
+  * **Körperzentrierte Therapie:** Ayurvedische Behandlungen und Massagen zur Vitalitätssteigerung, Schmerzlinderung und gezielten Beruhigung des Nervensystems.
+
+  * **Stressbewältigung & Selbstregulation:** Wir entwickeln Strategien für deinen Alltag und stärken deine Resilienz durch Achtsamkeit, Meditation und Atemtechniken.
+
+  * **Innere Stärke & Ressourcen:** Wir aktivieren deine vorhandenen Stärken und lösen hinderliche Glaubensmuster auf.
+
+  * **Trauer- & Prozessarbeit:** Ich biete dir einen geschützten Raum für emotionale Prozesse und die Wiederherstellung deines inneren Gleichgewichts nach Verlusten oder Umbrüchen.
+
+
+  ## Wo ayni therapy & women’s health dich unterstützt:
+
+
+  * **Frauengesundheit & Zyklus:** Begleitung bei Menstruationsbeschwerden, hormonellen Ungleichgewichten, Kinderwunsch oder den Wechseljahren.
+
+  * **Körperliche Beschwerden:** Linderung bei Verdauungsproblemen, Verspannungen und psychosomatischen Schmerzen.
+
+  * **Mentale Balance:** Hilfe bei Stress, Ängsten, innerer Unruhe und Erschöpfungszuständen.
+
+  * **Ernährung & Lebensführung:** Bewusste Ernährung und nachhaltige Gewohnheiten als Basis für deine Gesundheit und Vitalität.
+
+
+  [cta title="Erstgespräch vereinbaren" description="Für Raum für dich und dein Thema" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+
+
+  ##  
+
+
+  ## Für wen?
+
+
+  **Menschen, die viel geben und sich selbst wieder Raum schenken möchten.**
+
+  Ich begleite dich, wenn du merkst, dass deine Energie im Alltag verloren geht und du zurück zu mehr Leichtigkeit und innerer Kraft finden möchtest. Ob bei stressbedingter Erschöpfung, hormonellen Schwankungen oder psychosomatischen Beschwerden – gemeinsam finden wir Wege, deine Balance nachhaltig zu stärken.
+
+
+  **Frauen im Fokus – Raum für alle.**
+
+  Meine Arbeit hat einen besonderen Schwerpunkt in der Begleitung von Frauen durch alle Lebensphasen. Doch **ayni** ist ein offener Raum: Auch Männer, Kinder und Familien finden hier individuelle Unterstützung in Phasen, die besondere Begleitung brauchen – zum Beispiel bei ADHS-Themen, Stress oder tiefen Erschöpfungszuständen.
 boxHeadline: Ziele der Begleitung
 boxContent: >-
   In der Komplementärtherapie arbeiten wir gemeinsam an drei zentralen Säulen,
@@ -69,7 +117,9 @@ block2: >-
   > Gib dir selbst zurück, damit du anderen geben kannst.
 
 
-  Weil dein Körper spürt, was deine Seele noch nicht sagen kann.
+  ***Weil dein Körper spürt, was deine Seele noch nicht sagen kann.***
+
+
 
 
   Es geht nicht um schnelle Lösungen, sondern um einen achtsamen Weg. Wir fördern deine Selbstwahrnehmung, damit du mit mehr Gelassenheit auf Herausforderungen reagieren kannst und lernst, deine Energie wieder in Fluss zu bringen.
@@ -78,12 +128,7 @@ block2: >-
   Ich freue mich darauf, dich ein Stück auf deinem Weg zu begleiten.
 
 
-
-
-  **\[ Zeit für Dich buchen ]**
-
-
-   
+  [cta title="Zeit für Dich buchen" description="Für neue Energie und innere Ruhe" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   ## Der gemeinsame Weg
@@ -127,8 +172,6 @@ block2: >-
 
 
   2.    **Ayurveda-Ernährung und -Massage** (Methode Nr. 57)
-
-
 
 
   *Hinweis: Reine Coachings, Wellnessbehandlungen und Online-Konsultationen sind nicht über die Zusatzversicherung gedeckt.*
