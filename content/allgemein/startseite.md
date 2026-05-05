@@ -99,9 +99,9 @@ offers:
   - title: ayni coaching & leadership
     description: Begleitung von Teams und Organisationen in Zusammenarbeit,
       Kommunikation und gesunder Entwicklung.
-    link: angebot/ayni-coaching-leadership
+    link: /angebot/ayni-coaching-leadership
   - title: ayni corporate & teams
     description: Begleitung von Teams und Organisationen in Zusammenarbeit,
       Kommunikation und gesunder Entwicklung.
-    link: angebot/ayni-corporate-teams
+    link: /angebot/ayni-corporate-teams
 ---
