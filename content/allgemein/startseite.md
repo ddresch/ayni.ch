@@ -33,7 +33,7 @@ description: >-
   ![Portrait Silvia Ferlito](/images/portrait-wall.png "Portrait Silvia Ferlito")
 
 
-  # **Was bedeutet ayni?**
+  # Was bedeutet ayni?
 
 
   Das Wort ayni kommt aus den Anden und bedeutet auf Quechua *Schenken*. Damit wird die gegenseitige Hilfe der Mitglieder einer Gemeinschaft beschrieben. Ayni bezeichnet somit die Gegenseitigkeit und Wechselbeziehung zwischen dem Innen und Aussen, dem Nehmen und Geben.
@@ -67,7 +67,7 @@ description: >-
   \[cta title="Jetzt Kennenlerngespräch vereinbaren" description="Für Verbindung, Wachstum und Entwicklung" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
-  # **Warum ayni?**
+  # Warum ayni?
 
 
   * **Individuell und ganzheitlich:** Mein integrativer Ansatz berücksichtigt deine persönlichen Bedürfnisse und legt den Fokus auf Körper, Geist und Seele.
