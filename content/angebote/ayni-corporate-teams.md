@@ -26,7 +26,7 @@ block1: >-
   Ob es um einen Kulturwandel, die Stärkung der Resilienz oder die Neuausrichtung der Zusammenarbeit geht: Bei ayni corporate verbinden wir ayurvedisches Gesundheitswissen mit moderner Teamentwicklung zu einem ganzheitlichen Ansatz für ein nachhaltiges Employee Wellbeing.
 
 
-  \[cta title="Dialog starten" description="Für eine gesunde Unternehmenskultur" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  [cta title="Dialog starten" description="Für eine gesunde Unternehmenskultur" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   > *Gesunde Menschen schaffen gesunde Unternehmen*
@@ -87,7 +87,7 @@ block1: >-
   * **Gesunde Führung:** Unterstützung von Führungskräften darin, Verantwortung zu tragen, ohne die eigene Energie (oder die des Teams) zu erschöpfen.
 
 
-  \[cta title="Raum für Wachstum öffnen" description="Für Fokus und neue Synergien" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  [cta title="Raum für Wachstum öffnen" description="Für Fokus und neue Synergien" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   ## Für wen?
@@ -120,7 +120,7 @@ block2: >-
    Ich freue mich darauf, euch ein Stück auf eurem Weg zu begleiten.
 
 
-  \[cta title="Umetzung gestalten" description="Für nachhaltige Wirkung im Team" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  [cta title="Umetzung gestalten" description="Für nachhaltige Wirkung im Team" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   ## Zwei Wege für Dein Team
