@@ -108,46 +108,42 @@ boxContent: >-
 
   * **Kreative Lösungskompetenz:** Herausforderungen gemeinsam mit frischem Blick meistern.
 block2: >-
-  > *Gib dir zurück, damit du andere – und dich selbst – führen kannst*
+  > Gib dir selbst zurück, damit du anderen geben kannst.
 
 
-  ***Indem du dich selbst erkennst und annimmst, öffnest du den Raum für echte Verbindung, neue Perspektiven und eine nachhaltige Wirkung – in deinem Leben und in deinem Miteinander.***
+  ***Denn, Verbindung nach innen schafft Zusammenarbeit im Aussen***
 
 
-  Es geht nicht um schnelle Lösungen, sondern um einen achtsamen Weg. Wir fördern deine Selbstwahrnehmung, damit du mit mehr Gelassenheit auf Herausforderungen reagieren kannst und lernst, deine Energie wieder in Fluss zu bringen.
-
-  Ich freue mich darauf, dich ein Stück auf deinem Weg zu begleiten.
+  Es geht nicht um kurzfristige Effekte, sondern um eine gesunde Entwicklung. Wir fördern die gemeinsame Reflexion, damit ihr als Team mit mehr Klarheit auf Herausforderungen reagieren könnt und lernt, eure Potenziale wieder synergetisch in Fluss zu bringen.
 
 
-  [cta title="Innere Führung stärken" description="Für Souveränes Handeln und innere Stabilität" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+   Ich freue mich darauf, euch ein Stück auf eurem Weg zu begleiten.
 
 
-   
+  \[cta title="Innere Führung stärken" description="Für Souveränes Handeln und innere Stabilität" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
-  ## Der gemeinsame Weg
+  ## Zwei Wege für Dein Team
 
 
-  **Vom Innehalten zur bewussten Gestaltung.**
+  **Vom gemeinsamen Erleben zur bewussten Gestaltung**
 
 
-  1. **Klären & Ausrichten:** Im ersten Gespräch (ca. 90 Min.) schaffen wir Ordnung. Wir definieren deine aktuellen Herausforderungen, identifizieren blinde Flecken und legen fest, wohin deine Reise gehen soll. 
-
-  2. **Vertiefen & Erkennen:** In den Folgesitzungen gehen wir unter die Oberfläche. Wir nutzen systemische Fragen, Achtsamkeit oder Tools wie das *Leadership Circle Profile*, um Muster zu verstehen und neue Handlungsspielräume zu öffnen.
-
-  3. **Integrieren & Umsetzen:** Wir erarbeiten konkrete Strategien für deinen Alltag. Du lernst, deine neuen Erkenntnisse direkt in deine Führungsrolle oder dein persönliches Projekt zu übertragen.
-
-  4. **Reflektieren & Festigen:** Wir schauen gemeinsam auf das Erreichte. Du gewinnst Sicherheit in deiner neuen Ausrichtung und festigst dein Fundament für langfristige Souveränität. 
-
+  1. **Corporate Wellbeing & Kultur**
+     Hier liegt der Fokus auf der mentalen Gesundheit, der Resilienz und dem Schaffen einer wertschätzenden Unternehmenskultur. Wir stärken das Fundament, auf dem deine Mitarbeitenden gesund wachsen können.
+     → \[Mehr zu Corporate Wellbeing] 
+  2. **Teamentwicklung erlebbar machen**
+     In Kooperation mit **Room Escape Basel** biete ich ein spezielles Format an: Wir nutzen das gemeinsame Lösen von Rätseln als Spiegel für die Teamdynamik. So wird Zusammenarbeit direkt spürbar und veränderbar.
+     → \[Mehr erfahren zu Teambuilding & Room Escape]
 
   ## Dauer & Investition
 
 
-  * **Kennenlerngespräch:** ca. 30 Min. (kostenlos & unverbindlich).
+  * **Vorbriefing:** Kennenlernen und Klärung deiner Ziele / Deliverables.
 
-  * **Erstgespräch (Themen- & Zieldefinition):** 90 Min. | CHF 250 / Std.
+  * **Konzeption:** Erstellung eines massgeschneiderten Angebots und Zeithorizonts.
 
-  * **Individuelle Coaching-Sitzung:** 60–120 Min. | CHF 250 / Std.
+  * **Umsetzung:** Workshops, Einzelsitzungen oder Teamevents (z.B. ab 2,5 Std. inkl. Escape Game).
 
-  * **LCP Paket für Führungskräfte:** Assessment, Onboarding, Debrief & Follow-ups (5 Std.) | Pauschal CHF 1’500.
+  * **Investition:** Nach Bedarf und Vereinbarung. Die Abrechnung erfolgt je nach Leistung und Aufwand.
 ---
