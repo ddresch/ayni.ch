@@ -88,19 +88,13 @@ block1: >-
   [cta title="Raum für Entwicklung öffnen" description="Für Fokus und Entscheidungskraft" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
-  Für wen?
+  ## Für wen?
 
 
-  Menschen, die Klarheit suchen und ihre Wirkung bewusst gestalten möchten.
+  **Menschen, die Klarheit suchen und ihre Wirkung bewusst gestalten möchten.** Ich begleite dich, wenn du merkst, dass deine Energie in der täglichen Verantwortung verloren geht und du zurück zu mehr innerer Stabilität und Entschlossenheit finden möchtest. Ob bei beruflicher Erschöpfung, komplexen Entscheidungsprozessen oder dem Wunsch nach einer authentischen Neuausrichtung – gemeinsam finden wir Wege, deine Ressourcen nachhaltig zu stärken und deinen Fokus zu schärfen.
 
 
-  Ich begleite dich, wenn du merkst, dass deine Energie in der täglichen Verantwortung verloren geht und du zurück zu mehr innerer Stabilität und Entschlossenheit finden möchtest. Ob bei beruflicher Erschöpfung, komplexen Entscheidungsprozessen oder dem Wunsch nach einer authentischen Neuausrichtung – gemeinsam finden wir Wege, deine Ressourcen nachhaltig zu stärken und deinen Fokus zu schärfen.
-
-
-  Verantwortungsträger im Fokus – Raum für Entwicklung.
-
-
-  Meine Arbeit hat einen besonderen Schwerpunkt in der Begleitung von Menschen in (oder auf dem Weg in) verantwortungsvolle Rollen. Doch ayni ist ein offener Raum: Ich unterstütze Menschen, die an einem Wendepunkt stehen, Klarheit über ihre Ziele gewinnen möchten oder neue Wege für ihre persönliche und berufliche Integrität suchen.
+  **Verantwortungsträger im Fokus – Raum für Entwicklung.** Meine Arbeit hat einen besonderen Schwerpunkt in der Begleitung von Menschen in (oder auf dem Weg in) verantwortungsvolle Rollen. Doch ayni ist ein offener Raum: Ich unterstütze Menschen, die an einem Wendepunkt stehen, Klarheit über ihre Ziele gewinnen möchten oder neue Wege für ihre persönliche und berufliche Integrität suchen.
 boxHeadline: Ziele der Begleitung
 boxContent: >-
   Im Coaching arbeiten wir gemeinsam an drei zentralen Säulen, die deine wirken
