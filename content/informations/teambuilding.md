@@ -11,7 +11,7 @@ seoKeywords: Teambuilding Basel, Teamentwicklung Basel, Team-Coaching, Room
   verbessern.
 publishedAt: 2026-04-24T12:55:00.000+02:00
 ---
-In Zusammenarbeit mit **Room Escape Basel** biete ich ein Format an, das über ein klassisches Teamevent hinausgeht. 
+In Zusammenarbeit mit **[Room Escape Basel](https://www.roomescape.ch/team-event/)** biete ich ein Format an, das über ein klassisches Teamevent hinausgeht. 
 
 Wir nutzen die spielerische Interaktion als Labor für eure Teamkultur. Gezielte Reflexion macht Potenziale sichtbar und öffnet neue Handlungsspielräume für euren Arbeitsalltag.
 
@@ -36,7 +36,7 @@ Dieses Format ist ein intensiver Entwicklungsschritt, der Spass und psychologisc
 * **Authentische Szenarien:** Spannende Themen bei [Room Escape Basel](https://www.roomescape.ch/team-event/), die echte Zusammenarbeit erfordern.
 * **Professionelle Teamreflexion:** Ich begleite euch als Coach, um Gruppendynamiken zu spiegeln und wertschätzendes Feedback zu moderieren.
 * **Massgeschneiderte Fokus-Themen:** Ob Kommunikation, Führung oder Vertrauen – wir setzen den Schwerpunkt passend zu eurem Bedarf.
-* **Kulinarischer Rahmen:** Die [Escape Bar](https://www.roomescape.ch/bar/) bietet das ideale Ambiente für einen Apéro oder ein gemeinsames Essen zur Vertiefung der Gespräche.
+* **Kulinarischer Rahmen:** Die [Escape Bar](https://www.escape-bar/) bietet das ideale Ambiente für einen Apéro oder ein gemeinsames Essen zur Vertiefung der Gespräche.
 
 ### Für wen?
 
@@ -51,4 +51,4 @@ Dieses Angebot richtet sich an Unternehmen, HR-Verantwortliche und Teams, die:
 
 #### **Jedes Team und jede Organisation ist einzigartig. Gerne erstelle ich nach einem ersten Gespräch ein individuelles Konzept und eine Offerte, die genau zu euren Bedürfnissen und eurem Zeithorizont passt.**
 
-\[cta title="Jetzt Termin vereinbaren" description="Zusammenarbeit besprechen" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+[cta title="Jetzt Termin vereinbaren" description="Zusammenarbeit besprechen" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
