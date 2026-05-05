@@ -33,10 +33,10 @@ Wir nutzen das gemeinsame Spiel, um die Brücke von der unmittelbaren Erfahrung 
 
 Dieses Format ist ein intensiver Entwicklungsschritt, der Spass und psychologischen Tiefgang vereint:
 
-* **Authentische Szenarien:** Spannende Themen bei [Room Escape Basel](https://www.roomescape.ch/team-event/), die echte Zusammenarbeit erfordern.
+* **Authentische Szenarien:** Spannende Themen bei **[Room Escape Basel](https://www.roomescape.ch/team-event/)**, die echte Zusammenarbeit erfordern.
 * **Professionelle Teamreflexion:** Ich begleite euch als Coach, um Gruppendynamiken zu spiegeln und wertschätzendes Feedback zu moderieren.
 * **Massgeschneiderte Fokus-Themen:** Ob Kommunikation, Führung oder Vertrauen – wir setzen den Schwerpunkt passend zu eurem Bedarf.
-* **Kulinarischer Rahmen:** Die [Escape Bar](https://www.escape-bar/) bietet das ideale Ambiente für einen Apéro oder ein gemeinsames Essen zur Vertiefung der Gespräche.
+* **Kulinarischer Rahmen:** Die** [Escape Bar](https://www.escape-bar/)** bietet das ideale Ambiente für einen Apéro oder ein gemeinsames Essen zur Vertiefung der Gespräche.
 
 ### Für wen?
 
