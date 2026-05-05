@@ -14,80 +14,80 @@ seoKeywords: Corporate Wellbeing, Teamentwicklung Basel, Unternehmenskultur
   Teambuilding Basel
 publishedAt: 2026-04-30T12:00:00.000+02:00
 block1: >-
-  ## Raum für Entwicklung
+  ## Raum für Wachstum
 
 
-  ### Mentale Klarheit & Souveräne Prozessbegleitung
+  ### Gesunde Unternehmenskultur. Lebendige Zusammenarbeit.
 
 
-  Ich begleite dich dabei, deine innere Führung zu stärken, Klarheit über deine Werte zu gewinnen und dein Handeln wieder in Einklang mit deinem Wesenskern zu bringen. In einer Welt, die sich immer schneller dreht, schaffen wir gemeinsam den Raum, um innezuhalten, die Perspektive zu wechseln und aus einer inneren Stabilität heraus souverän zu agieren.
+  Ich begleite Organisationen und Teams dabei, die Gesundheit und Motivation ihrer Mitarbeitenden als wichtigste Ressource zu erkennen und aktiv zu gestalten. In einer dynamischen Arbeitswelt ist der Erfolg des Ganzen untrennbar mit der inneren Balance des Einzelnen verbunden.
 
 
-  Dabei verbinde ich integrales Coaching, systemische Leadership-Entwicklung und psychologische Beratung zu einem zielgerichteten Ansatz. Gemeinsam entwickeln wir individuelle Strategien, die dir helfen, Herausforderungen wirksam zu meistern und deinen Weg mit neuer Entschlossenheit zu gehen.
+  Ob es um einen Kulturwandel, die Stärkung der Resilienz oder die Neuausrichtung der Zusammenarbeit geht: Bei ayni corporate verbinden wir ayurvedisches Gesundheitswissen mit moderner Teamentwicklung zu einem ganzheitlichen Ansatz für ein nachhaltiges Employee Wellbeing.
 
 
-  [cta title="Kennenlerngespräch vereinbaren" description="Für neue Impulse und klare Sicht" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  \[cta title="Kennenlerngespräch vereinbaren" description="Für neue Impulse und klare Sicht" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
-  > *Wer sein Ziel kennt, findet den Weg*
+  > *Gesunde Menschen schaffen gesunde Unternehmen*
 
 
-  **Finde deine Richtung. Stärke deine innere Führung. Werde zur klaren Kraft in deinem Leben.**
+  ***Innere Balance ist das Fundament für echte Synergie und ein Miteinander, das über sich hinauswächst.***
 
 
   ## Mein Ansatz
 
 
-  ### Souveränität durch Selbsterkenntnis
+  **Verbindung nach innen schafft Zusammenarbeit im Aussen**
 
 
   Wahre Veränderung beginnt dort, wo du dir selbst wieder nah bist.
 
 
-  Im Coaching schlagen wir die Brücke zwischen deiner inneren Haltung und deinem äusseren Wirken. 
+  Dieser Leitsatz gilt auch für Teams. Erst wenn die Selbstführung und das gegenseitige Verständnis stimmen, entsteht echte Synergie. 
 
 
-  Wir arbeiten nicht nur an der Oberfläche, sondern stärken deine Selbstführungskompetenz.
+  Wir arbeiten nicht nur an der Oberfläche von Konflikten oder Strukturen, sondern stärken die Kultur der Zusammenarbeit und die gemeinsame Resilienz.
 
 
   Dabei kombinieren wir:
 
 
-  * **Integrales Coaching & Beratung:** Wir ordnen Gedanken, lösen Blockaden und nutzen systemische Ansätze für neue Perspektiven.
+  * **Ganzheitliches Wellbeing**: Wir nutzen die Weisheit des Ayurveda (z.B. Tri-Varga), um mentale Gesundheit und Lebensfreude in der Organisation zu stärken.
 
-  * **Leadership-Expertise:** Wir nutzen Tools wie das *Leadership Circle Profile (360°)*, um blinde Flecken zu erkennen und deinen authentischen Führungsstil zu entfalten.
+  * **Systemisches Teambuilding:** Wir machen Dynamiken sichtbar und fördern durch gemeinsames Erleben eine lösungsorientierte Teamkultur.
 
-  * **Ayurvedische Weisheit:** Wir integrieren Prinzipien der inneren Balance (Tri-Varga), um Stress zu reduzieren und deine Lebensqualität nachhaltig zu sichern.
+  * **Wertschätzende Kommunikation:** Wir etablieren einen Mindshift in der Gesprächskultur, der Klarheit schafft und echte Verbindung ermöglicht.
 
 
   ## Was dich erwartet
 
 
-  Meine Begleitung ist so individuell wie deine aktuelle Herausforderung. In den Sitzungen nutzen wir verschiedene Coaching-Methoden und strategische Impulse, um dich in deiner Entwicklung ganzheitlich zu unterstützen:
+  Meine Begleitung ist umfassend, pragmatisch und auf eure spezifischen Ziele ausgerichtet. Wir nutzen verschiedene Formate für eine nachhaltige Wirkung:
 
 
-  * **Leadership Circle Profile™:** Auf Wunsch nutzen wir dieses 360-Grad-Assessment, um dein Führungsverhalten sichtbar zu machen und gezielt an deiner Wirksamkeit zu arbeiten.
+  * **Strategische Beratung:** Wir klären die Art der Zusammenarbeit, definieren Deliverables und den passenden Zeithorizont.
 
-  * **Purpose & Value Coaching:** Klärung deiner Werte und langfristigen Ziele,  um dein Handeln in Einklang mit deinem inneren Kompass zu bringen.
+  * **Impuls-Seminare & Workshops:** Wissenstransfer zu Themen wie mentale Gesundheit, typgerechte Ernährung oder Achtsamkeit im Berufsalltag.
 
-  * **Systemische Perspektiven:** Wir werfen einen Blick auf das „Ganze“ – deine Rolle, dein Team und dein Umfeld – um verdeckte Dynamiken zu erkennen und neue Lösungswege zu finden.
+  * **ayni teambuilding (Escape Game & Reflexion):** In Kooperation mit **Room Escape Basel** machen wir Teamdynamiken spielerisch erlebbar und analysieren sie professionell.
 
-  * **Tri-Varga-Balance:** Wir nutzen die ayurvedische Weisheit der drei Lebensziele, um Erfolg, Freude und Sinnhaftigkeit in Einklang zu bringen und deine Resilienz zu stärken.
-
-
-  ## Wo ayni coaching & leadership dich unterstützt:
+  * **Individuelle Prozessbegleitung:** Einzelsitzungen für Schlüsselpersonen (z. B. zur Klärung der inneren Balance mit dem Tri-Varga Modell).
 
 
-  * **Innere Ausrichtung:** Werte, Ziele und Visionen klären – und aus ihnen heraus handeln.
-
-  * **Selbstführung & Resilienz:** Mit Präsenz durch komplexe Situationen navigieren, ohne sich selbst zu verlieren.
-
-  * **Kommunikation & Wirkung:** Souverän auftreten, klar kommunizieren und integer bleiben.
-
-  * **Entscheidungsfindung:** Handlungssicherheit gewinnen durch die Verbindung von Kopf, Herz und Intuition.
+  ## Wo ayni corporate & teams dich unterstützt:
 
 
-  [cta title="Raum für Entwicklung öffnen" description="Für Fokus und Entscheidungskraft" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  * **Organisationskultur & Mindshift:** Begleitung bei Veränderungsprozessen, um den Wandel aktiv, positiv und wertschätzend für alle Beteiligten zu gestalten.
+
+  * **Employee Wellbeing & Mentale Gesundheit:** Förderung von Resilienz und Lebensfreude durch Seminare zur Stressprävention aus ayurvedischer und systemischer Sicht.
+
+  * **Teamdynamik & Kooperation:** Stärkung von Vertrauen und klarer Kommunikation – insbesondere in Phasen der Neuausrichtung oder nach Konflikten.
+
+  * **Gesunde Führung:** Unterstützung von Führungskräften darin, Verantwortung zu tragen, ohne die eigene Energie (oder die des Teams) zu erschöpfen.
+
+
+  \[cta title="Raum für Entwicklung öffnen" description="Für Fokus und Entscheidungskraft" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   ## Für wen?
@@ -97,17 +97,16 @@ block1: >-
 
 
   **Verantwortungsträger im Fokus – Raum für Entwicklung.** Meine Arbeit hat einen besonderen Schwerpunkt in der Begleitung von Menschen in (oder auf dem Weg in) verantwortungsvolle Rollen. Doch ayni ist ein offener Raum: Ich unterstütze Menschen, die an einem Wendepunkt stehen, Klarheit über ihre Ziele gewinnen möchten oder neue Wege für ihre persönliche und berufliche Integrität suchen.
-boxHeadline: Ziele der Begleitung
+boxHeadline: Ziele der Zusammenarbeit
 boxContent: >-
-  Im Coaching arbeiten wir gemeinsam an drei zentralen Säulen, die deine wirken
-  nachhaltig stärken: 
+  In unserer Zusammenarbeit konzentrieren wir uns auf drei wesentliche Säulen
 
 
-  * **Stärkung der inneren Führung:** Authentisch und mit innerer Stärke führen.
+  * **Offene Kommunikation:** Teamprozesse transparenter und effektiver gestalten.
 
-  * **Entwicklung von Handlungssicherheit:** Herausforderungen selbstbestimmt begegnen.
+  * **Resilienz & Gesundheit:** Stressfaktoren reduzieren und Freude am Arbeitsplatz fördern.
 
-  * **Nachhaltige Lebensbalance:** Verantwortung tragen, ohne die eigene Energie zu erschöpfen.
+  * **Kreative Lösungskompetenz:** Herausforderungen gemeinsam mit frischem Blick meistern.
 block2: >-
   > *Gib dir zurück, damit du andere – und dich selbst – führen kannst*
 
