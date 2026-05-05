@@ -91,26 +91,17 @@ description: >-
 
 
   Deine Silvia Ferlito
-
-
-
-
-  ## **Angebot**
-
-
-  Meine Arbeit gliedert sich in drei Bereiche, die unterschiedliche Lebenssituationen begleiten.
-
-
-  1. **ayni therapy & women’s health**
-
-  2. Begleitung bei körperlichen und zyklischen Themen – für mehr Regulation, Stabilität und Verbindung zum eigenen Körper.→ [Mehr erfahren](<>)
-
-  3. **ayni coaching & leadership**Begleitung in Veränderungs- und Entscheidungsprozessen – für Klarheit, Selbstführung und innere Stabilität.→ [Mehr erfahren](<>)
-
-  4. **ayni corporate & teams**Begleitung von Teams und Organisationen in Zusammenarbeit, Kommunikation und gesunder Entwicklung.→ [Mehr erfahren](<>)
 offers:
   - title: ayni therapy & women’s health
     description: Begleitung bei körperlichen und zyklischen Themen – für mehr
       Regulation, Stabilität und Verbindung zum eigenen Körper.
-    link: ayni-therapy-women’s-health
+    link: angebot/ayni-therapy-women’s-health
+  - title: ayni coaching & leadership
+    description: Begleitung von Teams und Organisationen in Zusammenarbeit,
+      Kommunikation und gesunder Entwicklung.
+    link: angebot/ayni-coaching-leadership
+  - title: ayni corporate & teams
+    description: Begleitung von Teams und Organisationen in Zusammenarbeit,
+      Kommunikation und gesunder Entwicklung.
+    link: angebot/ayni-corporate-teams
 ---
