@@ -22,24 +22,13 @@ description: >-
   Gemeinsam schaffen wir den Raum, um körperliche Prozesse und mentale Dynamiken besser zu verstehen und nachhaltig in deinen Alltag zu integrieren.
 
 
-  [cta title="Termin anfragen" description="Für Raum, Klarheit und Regulation" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  \[cta title="Termin anfragen" description="Für Raum, Klarheit und Regulation" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   oder schreibe mir über das [Kontaktformular](#contact-form).
 
 
-  ## **Angebot**
 
-
-  Meine Arbeit gliedert sich in drei Bereiche, die unterschiedliche Lebenssituationen begleiten.
-
-
-  1. **ayni therapy & women’s health**
-     Begleitung bei körperlichen und zyklischen Themen – für mehr Regulation, Stabilität und Verbindung zum eigenen Körper.→ [Mehr erfahren](<>)
-  2. **ayni coaching & leadership**
-     Begleitung in Veränderungs- und Entscheidungsprozessen – für Klarheit, Selbstführung und innere Stabilität.→ [Mehr erfahren](<>)
-  3. **ayni corporate & teams**
-     Begleitung von Teams und Organisationen in Zusammenarbeit, Kommunikation und gesunder Entwicklung.→ [Mehr erfahren](<>)
 
   ![Portrait Silvia Ferlito](/images/portrait-wall.png "Portrait Silvia Ferlito")
 
@@ -75,7 +64,7 @@ description: >-
   Ob persönlich, als Führungskraft oder im Team, entdecke, wie du Klarheit gewinnst, innere Balance stärkst und bewusste Veränderung gestaltest. Vereinbare dein erstes Gespräch, ich freue mich, dich kennenzulernen.
 
 
-  [cta title="Jetzt Kennenlerngespräch vereinbaren" description="Für Verbindung, Wachstum und Entwicklung" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  \[cta title="Jetzt Kennenlerngespräch vereinbaren" description="Für Verbindung, Wachstum und Entwicklung" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   ## **Warum ayni?**
@@ -95,14 +84,33 @@ description: >-
   Du erhältst regelmässig Impulse für mehr Balance, Lebensfreude und inneres Wachstum
 
 
-  📨 [Jetzt anmelden]()
+  📨 [Jetzt anmelden](<>)
 
 
-  [cta title="Jetzt zum Newsletter anmelden" description="Für News, Insights und Impulse rund um Ayurveda" href="https://d20a6f56.sibforms.com/serve/MUIFAFJWTDAqFnb3TaHJD_nHVWXlVO-bQSxg2g0FG9Ca6pOFdFgtsycARkvzYqko_s1SQIJL4pZtJFS4snC_wkasbRP1-r8tziHEexVc79dXB2h1PPoS1otMGuvNtf4DInkxp8NSNLTG2kyu3PsxIlIjVCyX9ATs4oGWf_GUlfzutPJwTyx4bUFmUJcl-NTMzhOwhENFXHJp8CV0" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
-
-
+  \[cta title="Jetzt zum Newsletter anmelden" description="Für News, Insights und Impulse rund um Ayurveda" href="https://d20a6f56.sibforms.com/serve/MUIFAFJWTDAqFnb3TaHJD_nHVWXlVO-bQSxg2g0FG9Ca6pOFdFgtsycARkvzYqko_s1SQIJL4pZtJFS4snC_wkasbRP1-r8tziHEexVc79dXB2h1PPoS1otMGuvNtf4DInkxp8NSNLTG2kyu3PsxIlIjVCyX9ATs4oGWf_GUlfzutPJwTyx4bUFmUJcl-NTMzhOwhENFXHJp8CV0" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   Deine Silvia Ferlito
-offers: []
+
+
+
+
+  ## **Angebot**
+
+
+  Meine Arbeit gliedert sich in drei Bereiche, die unterschiedliche Lebenssituationen begleiten.
+
+
+  1. **ayni therapy & women’s health**
+
+  2. Begleitung bei körperlichen und zyklischen Themen – für mehr Regulation, Stabilität und Verbindung zum eigenen Körper.→ [Mehr erfahren](<>)
+
+  3. **ayni coaching & leadership**Begleitung in Veränderungs- und Entscheidungsprozessen – für Klarheit, Selbstführung und innere Stabilität.→ [Mehr erfahren](<>)
+
+  4. **ayni corporate & teams**Begleitung von Teams und Organisationen in Zusammenarbeit, Kommunikation und gesunder Entwicklung.→ [Mehr erfahren](<>)
+offers:
+  - title: ayni therapy & women’s health
+    description: Begleitung bei körperlichen und zyklischen Themen – für mehr
+      Regulation, Stabilität und Verbindung zum eigenen Körper.
+    link: ayni-therapy-women’s-health
 ---
