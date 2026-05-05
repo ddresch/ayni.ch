@@ -95,7 +95,7 @@ offers:
   - title: ayni therapy & women’s health
     description: Begleitung bei körperlichen und zyklischen Themen – für mehr
       Regulation, Stabilität und Verbindung zum eigenen Körper.
-    link: angebot/ayni-therapy-women’s-health
+    link: /angebot/ayni-therapy-women’s-health
   - title: ayni coaching & leadership
     description: Begleitung von Teams und Organisationen in Zusammenarbeit,
       Kommunikation und gesunder Entwicklung.
