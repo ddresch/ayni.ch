@@ -70,7 +70,7 @@ block1: >-
 
   * **Impuls-Seminare & Workshops:** Wissenstransfer zu Themen wie mentale Gesundheit, typgerechte Ernährung oder Achtsamkeit im Berufsalltag.
 
-  * **ayni teambuilding (Escape Game & Reflexion):** In Kooperation mit **[Room Escape](https://www.roomescape.ch/team-event/) Basel** machen wir Teamdynamiken spielerisch erlebbar und analysieren sie professionell.
+  * **ayni teambuilding (Escape Game & Reflexion):** In Kooperation mit **[Room Escape Basel](https://www.roomescape.ch/team-event/)** machen wir Teamdynamiken spielerisch erlebbar und analysieren sie professionell.
 
   * **Individuelle Prozessbegleitung:** Einzelsitzungen für Schlüsselpersonen (z. B. zur Klärung der inneren Balance mit dem Tri-Varga Modell).
 
@@ -137,7 +137,7 @@ block2: >-
      Hier liegt der Fokus auf der mentalen Gesundheit, der Resilienz und dem Schaffen einer wertschätzenden Unternehmenskultur. Wir stärken das Fundament, auf dem deine Mitarbeitenden gesund wachsen können.
      → [[Mehr zu Corporate Wellbeing](https://www.ayni.ch/informationen/corporate-wellbeing)] 
   2. **Teamentwicklung erlebbar machen**
-     In Kooperation mit **[Room Escape Basel](https://www.roomescape.ch/team-event/)** und der **[Escape Bar Basel](https://www.escape-bar)** biete ich ein spezielles Format an: Wir nutzen das gemeinsame Lösen von Rätseln als Spiegel für die Teamdynamik. So wird Zusammenarbeit direkt spürbar und veränderbar.
+     In Kooperation mit **[Room Escape Basel](https://www.roomescape.ch/team-event/)** und der **[Escape Bar Basel](https://www.escape-bar.ch/)** biete ich ein spezielles Format an: Wir nutzen das gemeinsame Lösen von Rätseln als Spiegel für die Teamdynamik. So wird Zusammenarbeit direkt spürbar und veränderbar.
      → [[Mehr erfahren zu Teambuilding & Room Escape](https://www.ayni.ch/informationen/teambuilding)]
 
   ## Dauer & Investition
