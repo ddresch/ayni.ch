@@ -70,7 +70,7 @@ block1: >-
 
   * **Impuls-Seminare & Workshops:** Wissenstransfer zu Themen wie mentale Gesundheit, typgerechte Ernährung oder Achtsamkeit im Berufsalltag.
 
-  * **ayni teambuilding (Escape Game & Reflexion):** In Kooperation mit **Room Escape Basel** machen wir Teamdynamiken spielerisch erlebbar und analysieren sie professionell.
+  * **ayni teambuilding (Escape Game & Reflexion):** In Kooperation mit **[Room Escape](https://www.roomescape.ch/team-event/) Basel** machen wir Teamdynamiken spielerisch erlebbar und analysieren sie professionell.
 
   * **Individuelle Prozessbegleitung:** Einzelsitzungen für Schlüsselpersonen (z. B. zur Klärung der inneren Balance mit dem Tri-Varga Modell).
 
@@ -93,10 +93,14 @@ block1: >-
   ## Für wen?
 
 
-  **Menschen, die Klarheit suchen und ihre Wirkung bewusst gestalten möchten.** Ich begleite dich, wenn du merkst, dass deine Energie in der täglichen Verantwortung verloren geht und du zurück zu mehr innerer Stabilität und Entschlossenheit finden möchtest. Ob bei beruflicher Erschöpfung, komplexen Entscheidungsprozessen oder dem Wunsch nach einer authentischen Neuausrichtung – gemeinsam finden wir Wege, deine Ressourcen nachhaltig zu stärken und deinen Fokus zu schärfen.
+  Dieses Angebot richtet sich an Unternehmen, HR-Verantwortliche und Teams, die:
 
 
-  **Verantwortungsträger im Fokus – Raum für Entwicklung.** Meine Arbeit hat einen besonderen Schwerpunkt in der Begleitung von Menschen in (oder auf dem Weg in) verantwortungsvolle Rollen. Doch ayni ist ein offener Raum: Ich unterstütze Menschen, die an einem Wendepunkt stehen, Klarheit über ihre Ziele gewinnen möchten oder neue Wege für ihre persönliche und berufliche Integrität suchen.
+  * einen **Kulturwandel** oder Mindshift positiv gestalten möchten.
+
+  * die **Resilienz** und Freude ihrer Mitarbeitenden nachhaltig stärken wollen.
+
+  * das **Vertrauen** und den Zusammenhalt in Phasen der Veränderung vertiefen möchten.
 boxHeadline: Ziele der Zusammenarbeit
 boxContent: >-
   In unserer Zusammenarbeit konzentrieren wir uns auf drei wesentliche Säulen
@@ -131,10 +135,10 @@ block2: >-
 
   1. **Corporate Wellbeing & Kultur**
      Hier liegt der Fokus auf der mentalen Gesundheit, der Resilienz und dem Schaffen einer wertschätzenden Unternehmenskultur. Wir stärken das Fundament, auf dem deine Mitarbeitenden gesund wachsen können.
-     → \[Mehr zu Corporate Wellbeing] 
+     → [[Mehr zu Corporate Wellbeing](https://www.ayni.ch/informationen/corporate-wellbeing)] 
   2. **Teamentwicklung erlebbar machen**
-     In Kooperation mit **Room Escape Basel** biete ich ein spezielles Format an: Wir nutzen das gemeinsame Lösen von Rätseln als Spiegel für die Teamdynamik. So wird Zusammenarbeit direkt spürbar und veränderbar.
-     → \[Mehr erfahren zu Teambuilding & Room Escape]
+     In Kooperation mit **[Room Escape Basel](https://www.roomescape.ch/team-event/)** und der **[Escape Bar Basel](https://www.escape-bar)** biete ich ein spezielles Format an: Wir nutzen das gemeinsame Lösen von Rätseln als Spiegel für die Teamdynamik. So wird Zusammenarbeit direkt spürbar und veränderbar.
+     → [[Mehr erfahren zu Teambuilding & Room Escape](https://www.ayni.ch/informationen/teambuilding)]
 
   ## Dauer & Investition
 
