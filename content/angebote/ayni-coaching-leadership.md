@@ -53,7 +53,7 @@ block1: >-
 
   * **Integrales Coaching & Beratung:** Wir ordnen Gedanken, lösen Blockaden und nutzen systemische Ansätze für neue Perspektiven.
 
-  * **Leadership-Expertise:** Wir nutzen Tools wie das *Leadership Circle Profile (360°)*, um blinde Flecken zu erkennen und deinen authentischen Führungsstil zu entfalten.
+  * **Leadership-Expertise:** Wir nutzen Tools wie das *Leadership Circle Profile™ (360° Assessment)*, um blinde Flecken zu erkennen und deinen authentischen Führungsstil zu entfalten.
 
   * **Ayurvedische Weisheit:** Wir integrieren Prinzipien der inneren Balance (Tri-Varga), um Stress zu reduzieren und deine Lebensqualität nachhaltig zu sichern.
 
@@ -121,9 +121,6 @@ block2: >-
   [cta title="Innere Führung stärken" description="Für Souveränes Handeln und innere Stabilität" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
-   
-
-
   ## Der gemeinsame Weg
 
 
@@ -132,7 +129,7 @@ block2: >-
 
   1. **Klären & Ausrichten:** Im ersten Gespräch (ca. 90 Min.) schaffen wir Ordnung. Wir definieren deine aktuellen Herausforderungen, identifizieren blinde Flecken und legen fest, wohin deine Reise gehen soll. 
 
-  2. **Vertiefen & Erkennen:** In den Folgesitzungen gehen wir unter die Oberfläche. Wir nutzen systemische Fragen, Achtsamkeit oder Tools wie das *Leadership Circle Profile*, um Muster zu verstehen und neue Handlungsspielräume zu öffnen.
+  2. **Vertiefen & Erkennen:** In den Folgesitzungen gehen wir unter die Oberfläche. Wir nutzen systemische Fragen, Achtsamkeit oder Tools wie das *Leadership Circle Profile™*, um Muster zu verstehen und neue Handlungsspielräume zu öffnen.
 
   3. **Integrieren & Umsetzen:** Wir erarbeiten konkrete Strategien für deinen Alltag. Du lernst, deine neuen Erkenntnisse direkt in deine Führungsrolle oder dein persönliches Projekt zu übertragen.
 
