@@ -120,30 +120,28 @@ block2: >-
   ***Weil dein Körper spürt, was deine Seele noch nicht sagen kann.***
 
 
-
-
   Es geht nicht um schnelle Lösungen, sondern um einen achtsamen Weg. Wir fördern deine Selbstwahrnehmung, damit du mit mehr Gelassenheit auf Herausforderungen reagieren kannst und lernst, deine Energie wieder in Fluss zu bringen.
 
 
   Ich freue mich darauf, dich ein Stück auf deinem Weg zu begleiten.
 
 
-  [cta title="Zeit für Dich buchen" description="Für neue Energie und innere Ruhe" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  \[cta title="Zeit für Dich buchen" description="Für neue Energie und innere Ruhe" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   ## Der gemeinsame Weg
 
 
-  ### **Vom Ankommen zur aktiven Genesung.**
+  ### **Vom Ankommen zur neuen Kraft.**
 
 
-  *  **Ankommen & Verstehen:** Wir starten mit einem ersten Gespräch und einer Befunderhebung, um deine individuellen Bedürfnisse und Wünsche zu besprechen.
+  * **Ankommen & Verstehen:** Im ersten Gespräch schaffen wir den Raum für deine aktuelle Situation. Wir hören hin: Was braucht dein Körper, was dein Geist?
 
-  * **Individuelle Begleitung:** Basierend auf deinem Anliegen stellen wir ein passendes Programm zusammen, das Körperarbeit, Ernährung und Beratung kombiniert.
+  * **Individuelle Impulse:** Gemeinsam entwickeln wir deinen Weg. Wir kombinieren Körperarbeit, Ernährung und Beratung zu einem Ansatz, der sich organisch in dein Leben integriert.
 
-  * **Regelmässige Sitzungen:** Wir arbeiten in deinem Tempo zusammen, um deine Fortschritte achtsam zu begleiten.
+  * **Prozess & Vertiefung:** In regelmässigen Sitzungen stärken wir deine Selbstregulation. Wir arbeiten in deinem Tempo an der Verbindung zu deinen inneren Ressourcen.
 
-  * **Abschluss & Reflexion:** Gemeinsam blicken wir auf deine Entwicklung und schauen, was du für deinen weiteren Weg brauchst.
+  * **Transfer & Weitblick:** Wir reflektieren deine Entwicklung und festigen die Werkzeuge, mit denen du dein Gleichgewicht auch im Alltag nachhaltig bewahrst.
 
 
   ## Dauer & Investition
