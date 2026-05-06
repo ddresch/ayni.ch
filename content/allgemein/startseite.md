@@ -16,7 +16,7 @@ description: >-
   Deine Praxis in Basel für Ayurveda Therapie, psychologische Beratung und Coaching. 
 
 
-  In Phasen von Veränderung oder hoher Belastung verlieren wir oft den Bezug zu unseren eigenen Ressourcen. Bei *ayni* unterstütze ich dich dabei, diesen Kontakt wiederherzustellen. Ich verbinde die fundierte Körperarbeit des Ayurveda mit moderner psychologischer Beratung zu einem integrativen Ansatz, der genau dort ansetzt, wo du gerade stehst – ob bei körperlichen Beschwerden, mentaler Erschöpfung oder beruflichen Umbrüchen.
+  In Phasen von Veränderung oder hoher Belastung verlieren wir oft den Bezug zu unseren eigenen Ressourcen. Bei **ayni** unterstütze ich dich dabei, diesen Kontakt wiederherzustellen. Ich verbinde die fundierte Körperarbeit des Ayurveda mit moderner psychologischer Beratung zu einem integrativen Ansatz, der genau dort ansetzt, wo du gerade stehst – ob bei körperlichen Beschwerden, mentaler Erschöpfung oder beruflichen Umbrüchen.
 
 
   Gemeinsam schaffen wir den Raum, um körperliche Prozesse und mentale Dynamiken besser zu verstehen und nachhaltig in deinen Alltag zu integrieren.
@@ -26,8 +26,6 @@ description: >-
 
 
   oder schreibe mir über das [Kontaktformular](#contact-form).
-
-
 
 
   ![Portrait Silvia Ferlito](/images/portrait-wall.png "Portrait Silvia Ferlito")
