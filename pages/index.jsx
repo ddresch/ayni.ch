@@ -45,7 +45,7 @@ export default function LandingPage({frontmatter, markdown}) {
                   {parseShortcodes(frontmatter.description)}
                 </Markdown>
                 <div className='spacer-md'></div>
-                <Headline line1="Mein Angebot umfasst" line2="" />
+                <Headline line1="Mein Angebot" line2="" />
                 <ul>
                     {frontmatter.offers.map((item, index) => (
                         <li key={index}>
@@ -54,7 +54,11 @@ export default function LandingPage({frontmatter, markdown}) {
                             <Link href={item.link} className='more-link'>mehr erfahren</Link>
                         </li>
                     ))}
-                </ul>
+                </ul>                
+                <div className='spacer-md'></div>
+                <Markdown rehypePlugins={[rehypeRaw]} skipHtml={false}>
+                  {parseShortcodes(frontmatter.description2)}
+                </Markdown>
                 <div className='spacer-md'></div>
             </div>
 
