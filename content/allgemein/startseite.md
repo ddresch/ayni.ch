@@ -22,7 +22,7 @@ description: >-
   Gemeinsam schaffen wir den Raum, um körperliche Prozesse und mentale Dynamiken besser zu verstehen und nachhaltig in deinen Alltag zu integrieren.
 
 
-  \[cta title="Termin anfragen" description="Für Raum, Klarheit und Regulation" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  [cta title="Termin anfragen" description="Für Raum, Klarheit und Regulation" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   oder schreibe mir über das [Kontaktformular](#contact-form).
@@ -85,7 +85,7 @@ description: >-
   📨 [Jetzt anmelden](<>)
 
 
-  \[cta title="Jetzt zum Newsletter anmelden" description="Für News, Insights und Impulse rund um Ayurveda" href="https://d20a6f56.sibforms.com/serve/MUIFAFJWTDAqFnb3TaHJD_nHVWXlVO-bQSxg2g0FG9Ca6pOFdFgtsycARkvzYqko_s1SQIJL4pZtJFS4snC_wkasbRP1-r8tziHEexVc79dXB2h1PPoS1otMGuvNtf4DInkxp8NSNLTG2kyu3PsxIlIjVCyX9ATs4oGWf_GUlfzutPJwTyx4bUFmUJcl-NTMzhOwhENFXHJp8CV0" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  [cta title="Jetzt zum Newsletter anmelden" description="Für News, Insights und Impulse rund um Ayurveda" href="https://d20a6f56.sibforms.com/serve/MUIFAFJWTDAqFnb3TaHJD_nHVWXlVO-bQSxg2g0FG9Ca6pOFdFgtsycARkvzYqko_s1SQIJL4pZtJFS4snC_wkasbRP1-r8tziHEexVc79dXB2h1PPoS1otMGuvNtf4DInkxp8NSNLTG2kyu3PsxIlIjVCyX9ATs4oGWf_GUlfzutPJwTyx4bUFmUJcl-NTMzhOwhENFXHJp8CV0" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   Deine Silvia Ferlito
