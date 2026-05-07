@@ -2,6 +2,7 @@ import * as React from 'react'
 import Head from 'next/head'
 import fs from 'fs'
 import matter from 'gray-matter'
+import rehypeRaw from 'rehype-raw'
 import yaml from 'js-yaml'
 import Markdown from 'react-markdown'
 import Link from 'next/link'
@@ -10,6 +11,7 @@ import ContactForm from '../components/ContactForm'
 import { ContentContainer } from '../components/ContentContainer'
 import { Headline } from '../components/Headline'
 import Layout from '../components/Layout'
+import {parseShortcodes} from '../lib/parseShortcodes'
 
 export default function LandingPage({frontmatter, markdown}) {
     React.useEffect(() => {
@@ -39,8 +41,8 @@ export default function LandingPage({frontmatter, markdown}) {
                     line2={frontmatter.subtitle}
                     sublevel={false}
                 />
-                <Markdown>
-                    {frontmatter.description}
+                <Markdown rehypePlugins={[rehypeRaw]} skipHtml={false}>
+                  {parseShortcodes(frontmatter.description)}
                 </Markdown>
                 <div className='spacer-md'></div>
                 <Headline line1="Mein Angebot umfasst" line2="" />
