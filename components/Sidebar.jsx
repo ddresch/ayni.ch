@@ -111,11 +111,9 @@ export const Sidebar = ({ sideBar, toggleSidebar = () => {} }) => {
                             <NavLink url="" label="Willkommen" />
                             <NavLink url="ueber-mich" label="Über mich" />
                             <SubNav label="Angebot">
-                                <NavLink url="angebot/wellbeing" label="ayni - wellbeing" />                                
-                                <NavLink url="angebot/coaching" label="ayni - coaching" />
-                                <NavLink url="angebot/teambuilding" label="ayni - teambuilding" />
-                                <NavLink url="angebot/leadership" label="ayni - leadership" />
-                                <NavLink url="angebot/corporate" label="ayni - corporate" />                                
+                                <NavLink url="angebot/ayni-therapy-women%E2%80%99s-health" label="ayni - therapy" />                                
+                                <NavLink url="angebot/ayni-coaching-leadership" label="ayni - coaching" />
+                                <NavLink url="angebot/ayni-corporate-teams" label="ayni - teams" />                         
                             </SubNav>
                             <SubNav label="Aktuelles">
                                 <NavLink url="aktuelles" label="ayni - wisdom" />
