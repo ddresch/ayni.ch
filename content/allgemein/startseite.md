@@ -62,7 +62,7 @@ description: >-
   Ob persönlich, als Führungskraft oder im Team, entdecke, wie du Klarheit gewinnst, innere Balance stärkst und bewusste Veränderung gestaltest. Vereinbare dein erstes Gespräch, ich freue mich, dich kennenzulernen.
 
 
-  \[cta title="Jetzt Kennenlerngespräch vereinbaren" description="Für Verbindung, Wachstum und Entwicklung" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  [cta title="Jetzt Kennenlerngespräch vereinbaren" description="Für Verbindung, Wachstum und Entwicklung" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   # Warum ayni?
