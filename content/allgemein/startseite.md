@@ -1,4 +1,5 @@
 ---
+publishedAt: 2023-02-01T14:00:32.566Z
 title: Silvia Ferlito
 subtitle: ayurveda, beratung & coaching
 seoTitle: Praxis für Komplementärtherapie, Ayurveda, Beratung und Coaching in Basel!
@@ -8,7 +9,6 @@ seoDescription: Praxis für Komplementärtherapie, Ayurveda Ernährungs- und
 seoKeywords: Ayurveda, Komplementärtherapie, Basel, Region Basel, Wellness,
   Gesundheit, Ernährung, Mentaltraining, Resilienz, Coaching, Beratung,
   Leadership, Balance, Wellbeing
-publishedAt: 2023-02-01T14:00:32.566Z
 description: >-
   **Klarheit finden. Regulation stärken.**
 
@@ -29,8 +29,20 @@ description: >-
 
 
   ![Portrait Silvia Ferlito](/images/portrait-wall.png "Portrait Silvia Ferlito")
-
-
+offers:
+  - title: ayni therapy & women’s health
+    description: Begleitung bei körperlichen und zyklischen Themen – für mehr
+      Regulation, Stabilität und Verbindung zum eigenen Körper.
+    link: /angebot/ayni-therapy-women’s-health
+  - title: ayni coaching & leadership
+    description: Begleitung in Veränderungs- und Entscheidungsprozessen – für
+      Klarheit, Selbstführung und innere Stabilität.
+    link: /angebot/ayni-coaching-leadership
+  - title: ayni corporate & teams
+    description: Begleitung von Teams und Organisationen in Zusammenarbeit,
+      Kommunikation und gesunder Entwicklung.
+    link: /angebot/ayni-corporate-teams
+description2: >-
   # Was bedeutet ayni?
 
 
@@ -62,7 +74,7 @@ description: >-
   Ob persönlich, als Führungskraft oder im Team, entdecke, wie du Klarheit gewinnst, innere Balance stärkst und bewusste Veränderung gestaltest. Vereinbare dein erstes Gespräch, ich freue mich, dich kennenzulernen.
 
 
-  [cta title="Jetzt Kennenlerngespräch vereinbaren" description="Für Verbindung, Wachstum und Entwicklung" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  [cta title="Kennenlerngespräch vereinbaren" description="Für Verbindung, Wachstum und Entwicklung" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   # Warum ayni?
@@ -82,24 +94,8 @@ description: >-
   Du erhältst regelmässig Impulse für mehr Balance, Lebensfreude und inneres Wachstum
 
 
-  📨 [Jetzt anmelden](<>)
-
-
-  [cta title="Jetzt zum Newsletter anmelden" description="Für News, Insights und Impulse rund um Ayurveda" href="https://d20a6f56.sibforms.com/serve/MUIFAFJWTDAqFnb3TaHJD_nHVWXlVO-bQSxg2g0FG9Ca6pOFdFgtsycARkvzYqko_s1SQIJL4pZtJFS4snC_wkasbRP1-r8tziHEexVc79dXB2h1PPoS1otMGuvNtf4DInkxp8NSNLTG2kyu3PsxIlIjVCyX9ATs4oGWf_GUlfzutPJwTyx4bUFmUJcl-NTMzhOwhENFXHJp8CV0" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  [cta title="Zum Newsletter anmelden" description="Für News, Insights und Impulse rund um Ayurveda" href="https://d20a6f56.sibforms.com/serve/MUIFAFJWTDAqFnb3TaHJD_nHVWXlVO-bQSxg2g0FG9Ca6pOFdFgtsycARkvzYqko_s1SQIJL4pZtJFS4snC_wkasbRP1-r8tziHEexVc79dXB2h1PPoS1otMGuvNtf4DInkxp8NSNLTG2kyu3PsxIlIjVCyX9ATs4oGWf_GUlfzutPJwTyx4bUFmUJcl-NTMzhOwhENFXHJp8CV0" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   Deine Silvia Ferlito
-offers:
-  - title: ayni therapy & women’s health
-    description: Begleitung bei körperlichen und zyklischen Themen – für mehr
-      Regulation, Stabilität und Verbindung zum eigenen Körper.
-    link: /angebot/ayni-therapy-women’s-health
-  - title: ayni coaching & leadership
-    description: Begleitung in Veränderungs- und Entscheidungsprozessen – für
-      Klarheit, Selbstführung und innere Stabilität.
-    link: /angebot/ayni-coaching-leadership
-  - title: ayni corporate & teams
-    description: Begleitung von Teams und Organisationen in Zusammenarbeit,
-      Kommunikation und gesunder Entwicklung.
-    link: /angebot/ayni-corporate-teams
 ---
