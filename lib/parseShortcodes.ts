@@ -1,10 +1,10 @@
 export function parseShortcodes(markdown: string): string {
   // return empty string for null/undefined, convert other non-strings to string
-  if (input == null) return '';
-  if (typeof input !== 'string') {
+  if (markdown == null) return '';
+  if (typeof markdown !== 'string') {
     // optional: log a warning to help find missing data during dev
-    console.warn('parseShortcodes expected a string but got', typeof input, input);
-    input = String(input);
+    console.warn('parseShortcodes expected a string but got', typeof markdown, markdown);
+    markdown = String(markdown);
   }
   return markdown.replace(
     /\[cta\s+(.*?)\]/g,
