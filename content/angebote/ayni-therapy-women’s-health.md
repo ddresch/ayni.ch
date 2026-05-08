@@ -13,10 +13,10 @@ seoKeywords: ayurveda therapie basel, frauenheilkunde basel, ganzheitliche
   basel
 publishedAt: 2026-04-30T12:00:00.000+02:00
 block1: >-
-  ## Raum für Verbindung
+  ### Raum für Verbindung
 
 
-  ### Körperliche Regulation & Spezialisierte Frauenheilkunde
+  **Körperliche Regulation & Spezialisierte Frauenheilkunde**
 
 
   Ich begleite dich, wenn du dich in einer Phase von Belastung, Veränderung oder Neuorientierung befindest – sei es durch körperliche Beschwerden, mentale Erschöpfung oder den Wunsch, wieder mehr bei dir selbst anzukommen.
@@ -111,7 +111,7 @@ boxContent: >-
 
   * **Ausbau der Genesungskompetenz**: Du entwickelst das Wissen und die Zuversicht, aktiv zu deinem Wohlbefinden beizutragen und souverän mit gesundheitlichen Herausforderungen umzugehen
 block2: >-
-  > Gib dir selbst zurück, damit du anderen geben kannst.
+  Gib dir selbst zurück, damit du anderen geben kannst.
 
 
   ***Weil dein Körper spürt, was deine Seele noch nicht sagen kann.***
@@ -157,10 +157,10 @@ block2: >-
   **Kostenerstattung durch Krankenkassen**
 
 
-  Ein Teil der Kosten wird in der Regel über die **Zusatzversicherung** übernommen. Mehr Infos in den FAQs. Bitte informiere dich vorab bei deiner Versicherung. 
+  Ein Teil der Kosten wird in der Regel über die **Zusatzversicherung** übernommen. Mehr Infos in den FAQs. Bitte erkundige dich vorab bei deiner Versicherung, wie du persönlich unterstützt wirst. Das **EMR** ([Erfahrungsmedizinisches Register](https://emr.ch)) oder die **EGK** [Therapeutensuche](https://emr.ch/partner/egk) dient als Orientierungshilfe.
 
 
-  Ich bin beim EMR anerkannt mit folgenden Methoden:
+  Ich bin beim **EMR** und bei der **EGK** anerkannt mit folgenden Methoden ([Therapeuten Profil](https://emr.ch/therapeut/silvia.ferlito)):
 
 
   1.     **Ayurveda-Therapie** (Methode Nr. 4041, Branchenzertifikat OdA KT)
@@ -169,5 +169,8 @@ block2: >-
   2.    **Ayurveda-Ernährung und -Massage** (Methode Nr. 57)
 
 
-  *Hinweis: Reine Coachings, Wellnessbehandlungen und Online-Konsultationen sind nicht über die Zusatzversicherung gedeckt.*
+  ![EMR und EGK Logo](/images/vs-emr_egk.svg "EMR und EGK Logo")
+
+
+  **Hinweis**: Reine Coachings, Wellnessbehandlungen und Online-Konsultationen sind nicht über die Zusatzversicherung gedeckt.
 ---
