@@ -13,7 +13,7 @@ seoKeywords: ayurveda therapie basel, frauenheilkunde basel, ganzheitliche
   basel
 publishedAt: 2026-04-30T12:00:00.000+02:00
 block1: >-
-  ### Raum für Verbindung
+  ## Raum für Verbindung
 
 
   ### Körperliche Regulation & Spezialisierte Frauenheilkunde
@@ -25,7 +25,7 @@ block1: >-
   Mit einer Kombination aus ayurvedischer Ernährung, körperzentrierter Arbeit, ausgleichenden Behandlungen und Massagen, Meditation und achtsamer Begleitung unterstütze ich dich dabei, deine Energie wieder in Fluss zu bringen und ein harmonisches Gleichgewicht zwischen Körper, Geist und Seele zu finden. Gemeinsam entwickeln wir individuelle Lösungsansätze, die dir helfen, die Herausforderungen des Lebens zu meistern.
 
 
-  [cta title="Unverbindlich anfragen" description="Für dein körperliches Gleichgewicht" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  \[cta title="Unverbindlich anfragen" description="Für dein körperliches Gleichgewicht" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   > Wahre Veränderung beginnt in uns selbst.
@@ -85,7 +85,7 @@ block1: >-
   * **Ernährung & Lebensführung:** Bewusste Ernährung und nachhaltige Gewohnheiten als Basis für deine Gesundheit und Vitalität.
 
 
-  [cta title="Erstgespräch vereinbaren" description="Für Raum für dich und dein Thema" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]  
+  \[cta title="Erstgespräch vereinbaren" description="Für Raum für dich und dein Thema" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]  
 
 
   ## Für wen?
