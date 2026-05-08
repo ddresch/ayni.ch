@@ -111,7 +111,7 @@ boxContent: >-
 
   * **Ausbau der Genesungskompetenz**: Du entwickelst das Wissen und die Zuversicht, aktiv zu deinem Wohlbefinden beizutragen und souverän mit gesundheitlichen Herausforderungen umzugehen
 block2: >-
-  Gib dir selbst zurück, damit du anderen geben kannst.
+  > Gib dir selbst zurück, damit du anderen geben kannst.
 
 
   ***Weil dein Körper spürt, was deine Seele noch nicht sagen kann.***
