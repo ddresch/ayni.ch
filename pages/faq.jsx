@@ -41,11 +41,11 @@ export default function Page({ frontmatter, markdown}) {
                   )
                 )}
               </div>
-            ))}            
-        </div>                
-        <Markdown>
-          {frontmatter.description2}
-        </Markdown>
+           ))}    
+          <Markdown>
+            {frontmatter.description2}
+          </Markdown>
+        </div>                        
       <div className='spacer-top'></div>
     </Layout>
   </>)
