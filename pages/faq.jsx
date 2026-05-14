@@ -26,11 +26,11 @@ export default function Page({ frontmatter, markdown}) {
             <Markdown>
                 {frontmatter.description1}
             </Markdown>
-            {frontmatter.faqs.map((item, index) => (
+            {(frontmatter.faqs || []).map((item, index) => (
               <div key={'faq' + index}>
                 <div className='spacer-md'></div>
                 <h2>{item.title}</h2>
-                <Markdown>{item.description1}</Markdown>
+                <Markdown>{item.description}</Markdown>
                 {item.link && (
                   item.link.startsWith('http') ? (
                     <a href={item.link} target="_blank" rel="noopener noreferrer">
@@ -52,7 +52,7 @@ export default function Page({ frontmatter, markdown}) {
 }
 
 export async function getStaticProps() {
-  const fileContent = matter(fs.readFileSync(`./content/allgemein/testimonials.md`, 'utf8'), {
+  const fileContent = matter(fs.readFileSync(`./content/allgemein/faqs.md`, 'utf8'), {
     engines: {yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA })}
   })
   let frontmatter = fileContent.data
