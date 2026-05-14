@@ -52,7 +52,7 @@ export default function Page({ frontmatter, markdown}) {
 }
 
 export async function getStaticProps() {
-  const fileContent = matter(fs.readFileSync(`./content/allgemein/faqs.md`, 'utf8'), {
+  const fileContent = matter(fs.readFileSync(`./content/allgemein/faq.md`, 'utf8'), {
     engines: {yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA })}
   })
   let frontmatter = fileContent.data
