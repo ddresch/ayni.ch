@@ -109,6 +109,50 @@ collections:
             fields:
               - {label: Titel, name: title, widget: string}
               - {label: Beschreibung, name: description, widget: markdown}
+      - label: "Impressum"
+        name: "impressum"
+        file: "content/allgemein/impressum.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string"}
+          - { label: "Subtitle", name: "subtitle", widget: "string"}
+          - { label: "SEO Title", name: "seoTitle", widget: "string"}
+          - { label: "SEO Description", name: "seoDescription", widget: "string"}
+          - { label: "SEO Keywords", name: "seoKeywords", widget: "string"}
+          - { label: "Block 1", name: "description", widget: "markdown"}
+          - { label: "Box Headline", name: "boxHeadline", widget: "string"}
+          - { label: "Box Subheadline", name: "boxSubheadline", widget: "string"}
+          - { label: "Box Content", name: "boxContent", widget: "markdown"}
+      - label: "Datenschutz"
+        name: "datenschuzt"
+        file: "content/allgemein/datenschutz.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string"}
+          - { label: "Subtitle", name: "subtitle", widget: "string"}
+          - { label: "SEO Title", name: "seoTitle", widget: "string"}
+          - { label: "SEO Description", name: "seoDescription", widget: "string"}
+          - { label: "SEO Keywords", name: "seoKeywords", widget: "string"}
+          - { label: "Block 1", name: "description", widget: "markdown"}
+          - { label: "Box Headline", name: "boxHeadline", widget: "string"}
+          - { label: "Box Subheadline", name: "boxSubheadline", widget: "string"}
+          - { label: "Box Content", name: "boxContent", widget: "markdown"}
+      - label: "FAQ"
+        name: "faq"
+        file: "content/allgemein/faq.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string"}
+          - { label: "Subtitle", name: "subtitle", widget: "string"}
+          - { label: "SEO Title", name: "seoTitle", widget: "string"}
+          - { label: "SEO Description", name: "seoDescription", widget: "string"}
+          - { label: "SEO Keywords", name: "seoKeywords", widget: "string"}
+          - { label: "Block 1", name: "description", widget: "markdown"}
+          - label: FAQ
+            name: faqs
+            widget: list
+            fields:
+              - {label: Titel, name: title, widget: string}
+              - {label: Beschreibung, name: description, widget: string}
+              - {label: Link, name: link, widget: string}
+          - { label: "Block 2", name: "description2", widget: "markdown"}
 
       
   
