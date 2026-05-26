@@ -63,6 +63,6 @@ faqs:
       ZSR-Nummer wurde im System nicht richtig zugeordnet. Melde dich in diesem
       Fall einfach bei mir – wir gehen die Rechnung gemeinsam durch und ich
       unterstütze dich bei der Klärung mit deiner Kasse.
-description2: "## [EMR / EGK Profil](https://emr.ch/de/therapeut/silvia.ferlito)"
+description2: "**[EMR / EGK Profil](https://emr.ch/de/therapeut/silvia.ferlito)**"
 description: Dies ist ein Einleitungstext.
 ---
