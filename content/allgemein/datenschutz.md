@@ -15,14 +15,11 @@ description: >-
   Verantwortlich für die Datenbearbeitungen auf dieser Website und Ansprechpartnerin für deine Datenschutzanliegen ist:
 
 
-  Praxis ayni
+  Praxis ayni\
 
+  Silvia Ferlito\
 
-  Silvia Ferlito
-
-
-  Nonnenweg 51
-
+  Nonnenweg 51\
 
   4055 Basel
 
