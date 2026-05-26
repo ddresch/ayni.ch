@@ -29,9 +29,9 @@ faqs:
       wie EMR und EGK mit den Methoden Ayurveda-Ernährung und -Massage, sowie
       Branchenzertifikat OdA KT - Methode Ayurveda Therapie registriert. Da aber
       jeder Versicherungsvertrag individuell ist, empfehle ich dir, vor dem
-      ersten Termin kurz bei deiner Kasse nachzufragen, ob „Ayurveda-Therapie“,
-      „Ayurvedische Massage“ oder "Ayurvedische Ernährungsberatung" in deinem
-      Modell enthalten ist.
+      ersten Termin kurz bei deiner Kasse nachzufragen, ob „Ayurveda Therapie“,
+      „Ayurveda Massage“ oder "Ayurveda Ernährungsberatung" in deinem Modell
+      enthalten ist.
     link: https://emr.ch/de/therapeut/silvia.ferlito
   - title: Wie viel Geld bekomme ich zurückerstattet?
     description: Das hängt ganz von deinem gewählten Modell ab. Die meisten
