@@ -120,7 +120,7 @@ description: >-
   * Google reCAPTCHA
 
 
-  Google verwendet Technologien wie Cookies, Webspeicher im Browser und Zählpixel, die eine Analyse der Benutzung der Online-Buchung durch dich ermöglichen. Die dadurch erzeugten Informationen über deine Benutzung der Online-Buchung können an einen Server von Google in den USA oder in weitere Länder übermittelt und dort gespeichert werden. Informationen über die Standorte der Rechenzentren von Google findest du hier.
+  Google verwendet Technologien wie Cookies, Webspeicher im Browser und Zählpixel, die eine Analyse der Benutzung der Online-Buchung durch dich ermöglichen. Die dadurch erzeugten Informationen über deine Benutzung der Online-Buchung können an einen Server von Google in den USA oder in weitere Länder übermittelt und dort gespeichert werden. Informationen über die Standorte der Rechenzentren von Google findest du [hier](https://datacenters.google/locations/).
 
 
   #### 4.1. Google Analytics
