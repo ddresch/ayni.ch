@@ -27,7 +27,7 @@ description: >-
   Schweiz
 
 
-  Telefon: +41 79 618 47 14
+  Telefon: +41 79 618 47 14\
 
   E-Mail: silvia@ayni.ch
 
