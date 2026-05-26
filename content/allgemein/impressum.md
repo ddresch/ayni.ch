@@ -7,27 +7,25 @@ seoDescription: Rechtliche Hinweise, Impressum und Kontakt für ayni.ch. Erfahre
 seoKeywords: Impressum ayni.ch, Silvia Ferlito Kontakt, ayni Ayurveda Impressum,
   Rechtliche Hinweise ayni, Kontakt Silvia Ferlito Basel, Impressum Schweiz
   Ayurveda, Komplementärtherapie Basel Impressum
-description: >-
+description: |-
   ### Kontaktadresse:
 
+  Silvia Ferlito\
+  Praxis ayni – ayurveda, beratung & coaching\
+  Nonnenweg 51\
+  4055 Base
 
-  Silvia FerlitoPraxis ayni – ayurveda, beratung & coachingNonnenweg 514055 BaselSchweiz
-
+  Schweiz
 
   ### **E-Mail:**
 
-
   silvia@ayni.ch
-
 
   ### **Telefon:**
 
-
   +41 79 618 47 14
 
-
   ### **Unternehmens-Identifikationsnummer (UID):**
-
 
   CHE-488.270.546
 boxHeadline: Rechtliche Hinweise
