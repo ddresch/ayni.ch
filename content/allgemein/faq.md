@@ -26,11 +26,13 @@ description1: >-
 faqs:
   - title: Übernimmt meine Zusatzversicherung die Kosten für die Therapie?
     description: Ja, in den meisten Fällen schon. Ich bin bei den wichtigen Stellen
-      wie EMR und EGK registriert. Da aber jeder Versicherungsvertrag
-      individuell ist, empfehle ich dir, vor dem ersten Termin kurz bei deiner
-      Kasse nachzufragen, ob „Ayurveda-Therapie“ oder „Therapeutische Massage“
-      in deinem Paket enthalten ist.
-    link: ""
+      wie EMR und EGK mit den Methoden Ayurveda-Ernährung und -Massage, sowie
+      Branchenzertifikat OdA KT - Methode Ayurveda Therapie registriert. Da aber
+      jeder Versicherungsvertrag individuell ist, empfehle ich dir, vor dem
+      ersten Termin kurz bei deiner Kasse nachzufragen, ob „Ayurveda-Therapie“,
+      „Ayurvedische Massage“ oder "Ayurvedische Ernährungsberatung" in deinem
+      Modell enthalten ist.
+    link: https://emr.ch/de/therapeut/silvia.ferlito
   - title: Wie viel Geld bekomme ich zurückerstattet?
     description: Das hängt ganz von deinem gewählten Modell ab. Die meisten
       Versicherungen übernehmen zwischen 70 % und 90 % des Rechnungsbetrags.
