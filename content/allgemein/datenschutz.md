@@ -72,7 +72,7 @@ description: >-
   ### 3. Nutzung der Online-Buchung
 
 
-  Für die Vereinbarung von Terminen nutzen wir den externen Dienst HealthAdvisor. Wenn Sie eine Terminbuchung vornehmen, werden die von Ihnen eingegebenen Daten direkt von HealthAdvisor verarbeitet. Die Bearbeitung erfolgt zum Zweck der Terminverwaltung und Durchführung Ihrer Anfrage. 
+  Für die Vereinbarung von Terminen nutzen wir den externen Dienst HealthAdvisor. Wenn du eine Terminbuchung vornimmst, werden die von dir eingegebenen Daten direkt von HealthAdvisor verarbeitet. Die Bearbeitung erfolgt zum Zweck der Terminverwaltung und Durchführung Ihrer Anfrage. 
 
 
   Es gelten die Datenschutzbestimmungen von HealthAdvisor, die im Buchungsprozess einsehbar sind.
@@ -81,7 +81,7 @@ description: >-
   ### 4. Cookies
 
 
-  Unsere Website verwendet nur technisch notwendige Cookies, die für den Betrieb der Website erforderlich sind. Im Rahmen der Online-Terminbuchung können durch den externen Dienstleister HealthAdvisor weitere technisch erforderliche Cookies gesetzt werden. Informationen hierzu finden Sie in den Datenschutzbestimmungen von HealthAdvisor, die im Buchungsprozess einsehbar sind.
+  Unsere Website verwendet nur technisch notwendige Cookies, die für den Betrieb der Website erforderlich sind. Im Rahmen der Online-Terminbuchung können durch den externen Dienstleister HealthAdvisor weitere technisch erforderliche Cookies gesetzt werden. Informationen hierzu findest du in den Datenschutzbestimmungen von HealthAdvisor, die im Buchungsprozess einsehbar sind.
 
 
   ### 5. Newsletter
