@@ -141,6 +141,9 @@ block2: >-
   * **Transfer & Weitblick:** Wir reflektieren deine Entwicklung und festigen die Werkzeuge, mit denen du dein Gleichgewicht auch im Alltag nachhaltig bewahrst.
 
 
+  Ich arbeite gerne Hand in Hand mit Fachpersonen (Ärzten, Psychologen), um eine ganzheitliche Begleitung auf allen Ebenen sicherzustellen
+
+
   ## Dauer & Investition
 
 
