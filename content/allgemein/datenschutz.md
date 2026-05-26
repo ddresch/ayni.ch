@@ -74,13 +74,13 @@ description: >-
   Für die Vereinbarung von Terminen nutzen wir den externen Dienst HealthAdvisor. Wenn Sie eine Terminbuchung vornehmen, werden die von Ihnen eingegebenen Daten direkt von HealthAdvisor verarbeitet. Die Bearbeitung erfolgt zum Zweck der Terminverwaltung und Durchführung Ihrer Anfrage. 
 
 
-  Es gelten die Datenschutzbestimmungen von HealthAdvisor, die dir im Buchungsprozess angezeigt werden.
+  Es gelten die Datenschutzbestimmungen von HealthAdvisor, die im Buchungsprozess einsehbar sind.
 
 
   ### 4. Cookies
 
 
-  Unsere Website verwendet nur technisch notwendige Cookies. Im Rahmen der Online-Terminbuchung können durch den externen Dienstleister HealthAdvisor weitere technisch erforderliche Cookies gesetzt werden. Informationen hierzu finden Sie in den Datenschutzbestimmungen von HealthAdvisor, die dir im Buchungsprozess angezeigt werden.
+  Unsere Website verwendet nur technisch notwendige Cookies, die für den Betrieb der Website erforderlich sind. Im Rahmen der Online-Terminbuchung können durch den externen Dienstleister HealthAdvisor weitere technisch erforderliche Cookies gesetzt werden. Informationen hierzu finden Sie in den Datenschutzbestimmungen von HealthAdvisor, die im Buchungsprozess einsehbar sind.
 
 
   ### 5. Newsletter
@@ -89,7 +89,7 @@ description: >-
   Wenn du dich für unseren Newsletter anmeldest, verarbeiten wir die von dir angegebenen Daten (insbesondere deine E-Mail-Adresse), um dir regelmässig Informationen zu unseren Angeboten, Veranstaltungen und Neuigkeiten zuzusenden.
 
 
-  Der Versand des Newsletters erfolgt über den Dienstleister Brevo (ehemals Sendinblue). Zu diesem Zweck werden die von dir eingegebenen Daten an Brevo übermittelt und dort verarbeitet. Brevo handelt dabei als Auftragsbearbeiter in unserem Auftrag. 
+  Der Versand des Newsletters erfolgt über den Dienstleister Brevo (ehemals Sendinblue). Zu diesem Zweck werden die von dir eingegebenen Daten an Brevo übermittelt und dort verarbeitet. Brevo handelt dabei als [Auftragsbearbeiter in unserem Auftrag](https://www.brevo.com/de/company/datenschutz-uebersicht/). 
 
 
   Die Anmeldung zu unserem Newsletter erfolgt im Double-Opt-In-Verfahren. Das bedeutet, dass du nach der Anmeldung eine E-Mail erhältst, in der du deine Anmeldung bestätigen musst. Dadurch wird sichergestellt, dass sich niemand mit einer fremden E-Mail-Adresse anmelden kann.
@@ -98,7 +98,7 @@ description: >-
   Du kannst den Newsletter jederzeit über den Abmeldelink in jeder Newsletter-E-Mail oder durch Mitteilung an uns abbestellen.
 
 
-  Weitere Informationen zur Datenbearbeitung durch Brevo findest du in der Datenschutzerklärung von Brevo.
+  Weitere Informationen zur Datenbearbeitung durch Brevo findest du in der [Datenschutzerklärung](https://www.brevo.com/de/company/gdpr/) von Brevo.
 
 
   ### 6. Rechte betroffener Personen
