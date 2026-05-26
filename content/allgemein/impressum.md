@@ -30,8 +30,8 @@ description: >-
 
 
   CHE-488.270.546
-boxHeadline: Weitere rechtliche Hinweise
-boxSubheadline: wichtiges zu inhalt und urheberrecht
+boxHeadline: Rechtliche Hinweise
+boxSubheadline: inhalt und urheberrecht
 boxContent: >-
   ### Vertretungsberechtigte Person:
 
@@ -39,10 +39,7 @@ boxContent: >-
   Silvia Ferlito, Inhaberin
 
 
-  ### Wichtiger Hinweis zu den Angeboten (Disclaimer):
-
-
-  Komplementärtherapie und Eigenverantwortung
+  ### Disclaimer:
 
 
   Als Komplementärtherapeutin begleite und unterstütze ich dich fundiert bei der ganzheitlichen Gesundheitsförderung, der Prävention und der Genesung. Die Behandlungen und Coachings aktivieren deine Selbstregulation und stärken deine Eigenwahrnehmung. Sie ersetzen bei akuten Beschwerden oder schweren Erkrankungen jedoch keine medizinisch notwendige ärztliche Abklärung oder Behandlung, können diese aber optimal und begleitend unterstützen.
