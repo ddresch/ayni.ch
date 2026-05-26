@@ -32,7 +32,7 @@ faqs:
       ersten Termin kurz bei deiner Kasse nachzufragen, ob „Ayurveda Therapie“,
       „Ayurveda Massage“ oder "Ayurveda Ernährungsberatung" in deinem Modell
       enthalten ist.
-    link: https://emr.ch/de/therapeut/silvia.ferlito
+    link: ""
   - title: Wie viel Geld bekomme ich zurückerstattet?
     description: Das hängt ganz von deinem gewählten Modell ab. Die meisten
       Versicherungen übernehmen zwischen 70 % und 90 % des Rechnungsbetrags.
