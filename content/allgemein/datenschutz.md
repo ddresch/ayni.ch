@@ -99,7 +99,7 @@ description: >-
   Du kannst den Newsletter jederzeit über den Abmeldelink in jeder Newsletter-E-Mail oder durch Mitteilung an uns abbestellen.
 
 
-  Weitere Informationen zur Datenbearbeitung durch Brevo findest du in der [Datenschutzerklärung](https://www.brevo.com/de/company/gdpr/) von Brevo.
+  Weitere Informationen zur Datenbearbeitung durch Brevo findest du in der [Datenschutzerklärung](https://www.brevo.com/de/company/datenschutz-uebersicht/) von Brevo und den [DSGVO](https://www.brevo.com/de/company/gdpr/) Richtlinien.
 
 
   ### 6. Rechte betroffener Personen
