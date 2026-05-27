@@ -1,7 +1,8 @@
 ---
 title: ayni therapy & women’s health
 subtitle: individuell, ganzheitlich & stärkend
-seoTitle: ayni Therapy Basel – Ayurvedische Frauenheilkunde & ganzheitliche Therapie
+seoTitle: Therapie Basel | ayni – ayurvedische Frauenheilkunde & ganzheitliche
+  Komplementärtherapie
 seoDescription: "Ganzheitliche Therapie in Basel: Ayurveda, Frauenheilkunde,
   Stressbewältigung & Körperarbeit. Finde zurück zu Balance, Energie und innerer
   Stärke."
