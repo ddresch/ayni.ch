@@ -1,7 +1,7 @@
 ---
 title: leadership circle profile™
 subtitle: eine 360°-sicht auf das eigene wirken.
-seoTitle: Leadership Circle Profile™ in Basel
+seoTitle: Leadership Circle Profile™ in Basel | ayni - Leadership Development
 seoDescription: Entdecke das Leadership Circle Profile™ (LCP) bei ayni in Basel,
   die führende 360 Grad Führungsstil Analyse. Das LCP bietet eine umfassende
   Beurteilung Ihrer Führungskompetenzen und inneren Überzeugungen. Es integriert
