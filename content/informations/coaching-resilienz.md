@@ -53,3 +53,5 @@ Dabei berücksichtigen wir auch den ayurvedischen Lebensrhythmus: Deine täglich
 *Ich freue mich darauf, dich ein Stück auf diesem Weg zu begleiten.*
 
 [cta title="Jetzt Termin vereinbaren" description="Für Deine innere Kraft" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+
+##### *Bildnachweis: Unsplash by Kaja Kadlecova*
