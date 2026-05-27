@@ -1,7 +1,7 @@
 ---
 title: ayni coaching & leadership
 subtitle: klar, zielgerichtet, souverän
-seoTitle: ayni Coaching & Leadership – Klarheit, innere Führung & souveräne Entwicklung
+seoTitle: Coaching & Leadership | ayni – Klarheit, innere Führung & souveräne Entwicklung
 seoDescription: Integrales Coaching, Leadership-Entwicklung und psychologische
   Beratung für mehr Klarheit, Selbstführung und Resilienz. Stärke deine innere
   Führung und gestalte deinen Weg souverän.
