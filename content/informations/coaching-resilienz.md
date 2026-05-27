@@ -1,7 +1,7 @@
 ---
 title: coaching & resilienz
 subtitle: ganzheitliche potentialentfaltung
-seoTitle: Coaching und Psychologische Beratung in Basel
+seoTitle: Coaching und Psychologische Beratung in Basel | ayni - Coaching und Resilienz
 seoDescription: "Entdecken Sie den integralen Coaching Ansatz bei ayni in Basel.
   Wir fokussieren uns auf Lösungen und nutzen einen ressourcenorientierten
   Ansatz, um Sie in allen Ebenen des menschlichen Seins zu unterstützen: Körper,
