@@ -1,7 +1,8 @@
 ---
 title: corporate wellbeing
 subtitle: den bedürfnissen der mitarbeiter rechnung tragen
-seoTitle: Corporate Wellbeing in Basel
+seoTitle: Corporate Wellbeing in Basel | ayni - ganzheitliches betriebliches
+  Gesundheitsmanagement
 seoDescription: Erfahren mehr über Corporate Wellbeing in Basel
 seoKeywords: Ayurveda, Doshas, Vata, Pitta, Kapha, Gunas, Tamas, Rajas, Sattva,
   Lebensphilosophie, Gesundheit
