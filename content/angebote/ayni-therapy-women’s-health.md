@@ -160,13 +160,13 @@ block2: >-
   **Kostenerstattung durch Krankenkassen**
 
 
-  Ein Teil der Kosten wird in der Regel über die **Zusatzversicherung** übernommen. Mehr Infos in den FAQs. Bitte erkundige dich vorab bei deiner Versicherung, wie du persönlich unterstützt wirst. Das **EMR** ([Erfahrungsmedizinisches Register](https://emr.ch)) oder die **EGK** [Therapeutensuche](https://emr.ch/partner/egk) dient als Orientierungshilfe.
+  Ein Teil der Kosten wird in der Regel über die **Zusatzversicherung** übernommen. Mehr Infos in den [FAQs](https://www.ayni.ch/faq). Bitte erkundige dich vorab bei deiner Versicherung, wie du persönlich unterstützt wirst. Das **EMR** ([Erfahrungsmedizinisches Register](https://emr.ch)) oder die **EGK** [Therapeutensuche](https://emr.ch/partner/egk) dient als Orientierungshilfe.
 
 
   Ich bin beim **EMR** und bei der **EGK** anerkannt mit folgenden Methoden ([Therapeuten Profil](https://emr.ch/therapeut/silvia.ferlito)):
 
 
-  1.     **Ayurveda-Therapie** (Methode Nr. 4041, Branchenzertifikat OdA KT)
+  1.     **Ayurveda-Therapie** (Methode Nr. 4041)
 
 
   2.    **Ayurveda-Ernährung und -Massage** (Methode Nr. 57)
