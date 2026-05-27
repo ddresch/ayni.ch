@@ -1,7 +1,7 @@
 ---
 title: ayurveda
 subtitle: das wissen vom leben
-seoTitle: Ayurveda Praxis in Basel
+seoTitle: Ayurveda Praxis in Basel | ayni - Ayurveda Wissen
 seoDescription: Erfahre mehr über Ayurveda, das Wissen vom Leben, bei ayni in
   Basel. Entdecken Sie die Grundlagen der 3 Doshas - Vata, Pitta, Kapha - und
   die Gunas für mentale Balance. Ziel des Ayurveda ist Svastha, das Verweilen im
