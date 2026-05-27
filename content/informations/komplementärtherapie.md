@@ -1,7 +1,7 @@
 ---
 title: komplementärtherapie
 subtitle: das was von innen wirkt
-seoTitle: Ayurveda Praxis in Basel
+seoTitle: Komplementärtherapie | ayni - Ayurveda Therapie
 seoDescription: Erfahre mehr über Ayurveda, das Wissen vom Leben, bei ayni in
   Basel. Entdecken Sie die Grundlagen der 3 Doshas - Vata, Pitta, Kapha - und
   die Gunas für mentale Balance. Ziel des Ayurveda ist Svastha, das Verweilen im
