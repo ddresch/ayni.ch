@@ -1,7 +1,7 @@
 ---
 title: Impressum
 subtitle: wer hinter ayni steckt
-seoTitle: Impressum | ayni – Ayurveda, Beratung & Coaching
+seoTitle: Impressum | ayni – Ayurveda, Beratung & Coaching in Basel
 seoDescription: Rechtliche Hinweise, Impressum und Kontakt für ayni.ch. Erfahre
   mehr über Silvia Ferlito – Komplementärtherapie, Ayurveda & Coaching in Basel.
 seoKeywords: Impressum ayni.ch, Silvia Ferlito Kontakt, ayni Ayurveda Impressum,
