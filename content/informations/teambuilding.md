@@ -1,7 +1,7 @@
 ---
 title: teambuilding & teamentwicklung
 subtitle: gemeinsam erleben, bewusst zusammenarbeiten
-seoTitle: Teambuilding & Teamentwicklung Basel | Coaching im Escape Room
+seoTitle: Teambuilding & Teamentwicklung Basel | ayni - Coaching im Escape Room
 seoDescription: Verbinde Teambuilding in Basel mit professioneller
   Teamentwicklung. Im Escape Room decken wir Potenziale auf & stärken die
   Kommunikation. Jetzt Coaching-Format anfragen!
