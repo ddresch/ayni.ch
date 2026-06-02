@@ -58,6 +58,9 @@ block1: >-
   * **Ayurvedische Weisheit:** Wir integrieren Prinzipien der inneren Balance (Tri-Varga), um Stress zu reduzieren und deine Lebensqualität nachhaltig zu sichern.
 
 
+  Mehr zu [Coaching, Resilienz](https://www.ayni.ch/informationen/coaching-resilienz) und [Leadership Circle Profile™](https://www.ayni.ch/informationen/leadership-circle-profile)
+
+
   ## Was dich erwartet
 
 
@@ -85,7 +88,7 @@ block1: >-
   * **Entscheidungsfindung:** Handlungssicherheit gewinnen durch die Verbindung von Kopf, Herz und Intuition.
 
 
-  [cta title="Raum für Entwicklung öffnen" description="Für Fokus und Entscheidungskraft" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  \[cta title="Raum für Entwicklung öffnen" description="Für Fokus und Entscheidungskraft" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   ## Für wen?
