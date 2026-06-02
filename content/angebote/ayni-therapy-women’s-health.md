@@ -57,6 +57,9 @@ block1: >-
   * **Prozessbegleitung**: Psychologische Beratung, Achtsamkeit
 
 
+  Mehr zu [Ayurveda](https://www.ayni.ch/informationen/ayurveda) und [Komplementärtherapie](https://www.ayni.ch/informationen/komplementärtherapie).
+
+
   ## Was dich erwartet
 
 
