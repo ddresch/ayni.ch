@@ -24,7 +24,7 @@ block1: >-
   Dabei verbinde ich integrales Coaching, systemische Leadership-Entwicklung und psychologische Beratung zu einem zielgerichteten Ansatz. Gemeinsam entwickeln wir individuelle Strategien, die dir helfen, Herausforderungen wirksam zu meistern und deinen Weg mit neuer Entschlossenheit zu gehen.
 
 
-  \[cta title="Kennenlerngespräch vereinbaren" description="Für neue Impulse und klare Sicht" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  [cta title="Kennenlerngespräch vereinbaren" description="Für neue Impulse und klare Sicht" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   > *Wer sein Ziel kennt, findet den Weg*
