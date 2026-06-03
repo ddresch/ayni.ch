@@ -16,10 +16,23 @@ description: >-
   Deine Praxis in Basel für Ayurveda Therapie, psychologische Beratung und Coaching. 
 
 
-  In Phasen von Veränderung oder hoher Belastung verlieren wir oft den Bezug zu unseren eigenen Ressourcen. Bei ***ayni*** unterstütze ich dich dabei, diesen Kontakt wiederherzustellen. Ich verbinde die fundierte Körperarbeit des Ayurveda mit moderner psychologischer Beratung zu einem integrativen Ansatz, der genau dort ansetzt, wo du gerade stehst – ob bei körperlichen Beschwerden, mentaler Erschöpfung oder beruflichen Umbrüchen.
+  In Phasen von Veränderung oder hoher Belastung verlieren wir oft den Bezug zu unseren eigenen Ressourcen. 
 
 
-  Gemeinsam schaffen wir den Raum, um körperliche Prozesse und mentale Dynamiken besser zu verstehen und nachhaltig in deinen Alltag zu integrieren.
+  Gemeinsam schaffen wir den Raum, um hinzuhören, was es jetzt am meisten braucht, um wieder in die eigene Kraft zu kommen.
+
+
+  **Wo darf wieder mehr Stabilität und Klarheit entstehen?**
+
+
+  * **Im Körper & im Alltag:** Den eigenen Rhythmus wiederfinden, Belastungen reduzieren und körperliche oder zyklische Themen sanft regulieren.
+
+  * **In der eigenen Führung & Rolle:** Veränderungen aktiv gestalten, klare Entscheidungen treffen und mentale Erschöpfung hinter sich lassen.
+
+  * **Im Team & im Unternehmen:** Zusammenarbeit stärken, Kommunikation verbessern und eine gesunde, resiliente Organisationskultur entwickeln.
+
+
+  Bei ***ayni*** unterstütze ich dich dabei, diesen Kontakt wiederherzustellen. Ich verbinde die fundierte Körperarbeit des Ayurveda mit moderner psychologischer Beratung zu einem integrativen Ansatz, der genau dort ansetzt, wo du gerade stehst – ob bei körperlichen Beschwerden, mentaler Erschöpfung oder beruflichen Umbrüchen.
 
 
   [cta title="Termin anfragen" description="Für Raum, Klarheit und Regulation" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
@@ -43,15 +56,32 @@ offers:
       Kommunikation und gesunder Entwicklung.
     link: /angebot/ayni-corporate-teams
 description2: >-
+  ## Warum ayni?
+
+
+  * **Individuell und ganzheitlich:** Mein integrativer Ansatz berücksichtigt deine persönlichen Bedürfnisse und legt den Fokus auf Körper, Geist und Seele.
+
+  * **Nachhaltige Veränderung:** Wir entwickeln gemeinsam Lösungen, die dir helfen, dich langfristig weiterzuentwickeln.
+
+  * **Erfahrung und Expertise:** Als erfahrene Prozessbegleiterin, Coach und Ayurveda-Therapeutin unterstütze ich dich kompetent in allen Lebensbereichen.
+
+
+  **Bereit für den nächsten Schritt?** 
+
+
+  Ob persönlich, als Führungskraft oder im Team, entdecke, wie du Klarheit gewinnst, innere Balance stärkst und bewusste Veränderung gestaltest. Vereinbare dein erstes Gespräch, ich freue mich, dich kennenzulernen.
+
+
+  [cta title="Kennenlerngespräch vereinbaren" description="Für Verbindung, Wachstum und Entwicklung" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+
+
   ## Was bedeutet ayni?
 
 
   Das Wort ayni kommt aus den Anden und bedeutet auf Quechua *Schenken*. Damit wird die gegenseitige Hilfe der Mitglieder einer Gemeinschaft beschrieben. Ayni bezeichnet somit die Gegenseitigkeit und Wechselbeziehung zwischen dem Innen und Aussen, dem Nehmen und Geben.
 
 
-  **Ayni bedeutet Wechselbeziehung.**
-
-  Dieser Gedanke begleitet mich seit vielen Jahren: Gesundheit entsteht im Miteinander – zwischen Körper und Geist, zwischen Mensch und Umfeld.
+  **Ayni bedeutet Wechselbeziehung.**Dieser Gedanke begleitet mich seit vielen Jahren: Gesundheit entsteht im Miteinander – zwischen Körper und Geist, zwischen Mensch und Umfeld.
 
 
   In meiner Arbeit verbinde ich Ayurveda, Komplementärtherapie und Coaching, um Räume zu schaffen, in denen Entwicklung in ihrem eigenen Tempo möglich wird. 
@@ -69,22 +99,6 @@ description2: >-
   Diese beiden Konzepte vereine ich in meiner Arbeit. Mein Leitsatz dient dem Gleichgewicht zwischen Mensch, Natur und Universum sowie dem Einklang zwischen Körper, Geist und Seele. Denn nur, wenn wir uns selbst wieder in Balance bringen, können wir auch unsere volle Kraft entfalten.
 
 
-  **Bereit für den nächsten Schritt?**
-
-  Ob persönlich, als Führungskraft oder im Team, entdecke, wie du Klarheit gewinnst, innere Balance stärkst und bewusste Veränderung gestaltest. Vereinbare dein erstes Gespräch, ich freue mich, dich kennenzulernen.
-
-
-  [cta title="Kennenlerngespräch vereinbaren" description="Für Verbindung, Wachstum und Entwicklung" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
-
-
-  ## Warum ayni?
-
-
-  * **Individuell und ganzheitlich:** Mein integrativer Ansatz berücksichtigt deine persönlichen Bedürfnisse und legt den Fokus auf Körper, Geist und Seele.
-
-  * **Nachhaltige Veränderung:** Wir entwickeln gemeinsam Lösungen, die dir helfen, dich langfristig weiterzuentwickeln.
-
-  * **Erfahrung und Expertise:** Als erfahrene Prozessbegleiterin, Coach und Ayurveda-Therapeutin unterstütze ich dich kompetent in allen Lebensbereichen.
 
 
   **Bleib in Verbindung.**
