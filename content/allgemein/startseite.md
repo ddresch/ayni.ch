@@ -45,18 +45,15 @@ description: >-
 offers:
   - title: ayni therapy & women’s health
     description: "Begleitung bei körperlichen und zyklischen Themen – für mehr
-      Regulation, Stabilität und Verbindung zum eigenen Körper. Ziel:
-      Regulation, Stabilität, Gesundheit"
+      Regulation, Stabilität und Verbindung zum eigenen Körper. "
     link: /angebot/ayni-therapy-women’s-health
   - title: ayni coaching & leadership
     description: "Begleitung in Veränderungs- und Entscheidungsprozessen – für
-      Klarheit, Selbstführung und innere Stabilität. Ziel: Selbstführung,
-      Orientierung, Entwicklung"
+      Klarheit, Selbstführung und innere Stabilität. "
     link: /angebot/ayni-coaching-leadership
   - title: ayni corporate & teams
     description: "Begleitung von Teams und Organisationen in Zusammenarbeit,
-      Kommunikation und gesunder Entwicklung. Ziel: Zusammenarbeit, Kultur,
-      Struktur"
+      Kommunikation und gesunder Entwicklung. "
     link: /angebot/ayni-corporate-teams
 description2: >-
   ## Warum ayni?
