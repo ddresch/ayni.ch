@@ -10,16 +10,16 @@ seoKeywords: Ayurveda, Komplementärtherapie, Basel, Region Basel, Wellness,
   Gesundheit, Ernährung, Mentaltraining, Resilienz, Coaching, Beratung,
   Leadership, Balance, Wellbeing
 description: >-
-  **Klarheit finden. Regulation stärken.**
+  **Regulation stärken. Klarheit finden. Selbstführung entwickeln.**
 
 
-  Deine Praxis in Basel für Ayurveda Therapie, psychologische Beratung und Coaching. 
+  Deine Praxis in Basel für Ayurveda Therapie, psychologische Beratung und Coaching – mit Fokus auf Stressregulation, körperliche Stabilität und Selbstführung im Alltag und Beruf.
 
 
   In Phasen von Veränderung oder hoher Belastung verlieren wir oft den Bezug zu unseren eigenen Ressourcen. 
 
 
-  Gemeinsam schaffen wir den Raum, um hinzuhören, was es jetzt am meisten braucht, um wieder in die eigene Kraft zu kommen.
+  Gemeinsam schaffen wir den Raum, um hinzuhören, was es jetzt am meisten braucht, um wieder in die eigene Kraft zu kommen. Dabei geht es nicht nur um Entlastung, sondern um die Entwicklung von innerer Stabilität und die Stärkung deiner inneren Klarheit und Selbstführung.
 
 
   **Wo darf wieder mehr Stabilität und Klarheit entstehen?**
@@ -44,16 +44,19 @@ description: >-
   ![Portrait Silvia Ferlito](/images/portrait-wall.png "Portrait Silvia Ferlito")
 offers:
   - title: ayni therapy & women’s health
-    description: Begleitung bei körperlichen und zyklischen Themen – für mehr
-      Regulation, Stabilität und Verbindung zum eigenen Körper.
+    description: "Begleitung bei körperlichen und zyklischen Themen – für mehr
+      Regulation, Stabilität und Verbindung zum eigenen Körper. Ziel:
+      Regulation, Stabilität, Gesundheit"
     link: /angebot/ayni-therapy-women’s-health
   - title: ayni coaching & leadership
-    description: Begleitung in Veränderungs- und Entscheidungsprozessen – für
-      Klarheit, Selbstführung und innere Stabilität.
+    description: "Begleitung in Veränderungs- und Entscheidungsprozessen – für
+      Klarheit, Selbstführung und innere Stabilität. Ziel: Selbstführung,
+      Orientierung, Entwicklung"
     link: /angebot/ayni-coaching-leadership
   - title: ayni corporate & teams
-    description: Begleitung von Teams und Organisationen in Zusammenarbeit,
-      Kommunikation und gesunder Entwicklung.
+    description: "Begleitung von Teams und Organisationen in Zusammenarbeit,
+      Kommunikation und gesunder Entwicklung. Ziel: Zusammenarbeit, Kultur,
+      Struktur"
     link: /angebot/ayni-corporate-teams
 description2: >-
   ## Warum ayni?
