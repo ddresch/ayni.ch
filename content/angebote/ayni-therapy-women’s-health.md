@@ -14,7 +14,7 @@ seoKeywords: ayurveda therapie basel, frauenheilkunde basel, ganzheitliche
   basel
 publishedAt: 2026-04-30T12:00:00.000+02:00
 block1: >-
-  ## Raum für Verbindung
+  ## Raum für Regeneration
 
 
   ### Körperliche Regulation & Spezialisierte Frauenheilkunde
@@ -89,7 +89,7 @@ block1: >-
   * **Ernährung & Lebensführung:** Bewusste Ernährung und nachhaltige Gewohnheiten als Basis für deine Gesundheit und Vitalität.
 
 
-  [cta title="Erstgespräch vereinbaren" description="Für Raum für dich und dein Thema" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]  
+  \[cta title="Erstgespräch vereinbaren" description="Für Raum für dich und dein Thema" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]  
 
 
   ## Für wen?
