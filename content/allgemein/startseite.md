@@ -13,26 +13,28 @@ description: >-
   **Regulation stärken. Klarheit finden. Selbstführung entwickeln.**
 
 
-  Deine Praxis in Basel für Ayurveda Therapie, psychologische Beratung und Coaching – mit Fokus auf Stressregulation, körperliche Stabilität und Selbstführung im Alltag und Beruf.
+  In Basel begleite ich dich mit Ayurveda-Therapie, psychologischer Beratung und Coaching.
 
 
-  In Phasen von Veränderung oder hoher Belastung verlieren wir oft den Bezug zu unseren eigenen Ressourcen. 
+  Gerade in Phasen von Veränderung oder hoher Belastung verlieren wir oft den Zugang zu unseren eigenen Ressourcen.
 
 
-  Gemeinsam schaffen wir den Raum, um hinzuhören, was es jetzt am meisten braucht, um wieder in die eigene Kraft zu kommen. Dabei geht es nicht nur um Entlastung, sondern um die Entwicklung von innerer Stabilität und die Stärkung deiner inneren Klarheit und Selbstführung.
+  Ich unterstütze dich dabei, wieder Zugang zu deinen eigenen Ressourcen und deiner inneren Orientierung zu finden, damit sich Schritt für Schritt mehr Stabilität im Körper, im Denken und im Alltag entwickeln kann.
 
 
-  **Wo darf wieder mehr Stabilität und Klarheit entstehen?**
+  Diese Arbeit kann sich auf unterschiedlichen Ebenen zeigen:
 
 
-  * **Im Körper & im Alltag:** Den eigenen Rhythmus wiederfinden, Belastungen reduzieren und körperliche oder zyklische Themen sanft regulieren.
-
-  * **In der eigenen Führung & Rolle:** Veränderungen aktiv gestalten, klare Entscheidungen treffen und mentale Erschöpfung hinter sich lassen.
-
-  * **Im Team & im Unternehmen:** Zusammenarbeit stärken, Kommunikation verbessern und eine gesunde, resiliente Organisationskultur entwickeln.
+  Im Körper und im Alltag geht es darum, den eigenen Rhythmus wiederzufinden, Belastung zu reduzieren und das Nervensystem zu entlasten.
 
 
-  Bei ***ayni*** unterstütze ich dich dabei, diesen Kontakt wiederherzustellen. Ich verbinde die fundierte Körperarbeit des Ayurveda mit moderner psychologischer Beratung zu einem integrativen Ansatz, der genau dort ansetzt, wo du gerade stehst – ob bei körperlichen Beschwerden, mentaler Erschöpfung oder beruflichen Umbrüchen.
+  In der eigenen Führung und Rolle zeigt sich dies oft dann, wenn Entscheidungen anstehen, Veränderungen Kraft kosten oder Orientierung fehlt.
+
+
+  Im beruflichen Kontext und in Teams zeigt es sich, wenn Zusammenarbeit, Kommunikation oder Strukturen unter Druck geraten.
+
+
+  Mein Ansatz verbindet Körperarbeit aus dem Ayurveda mit psychologischer Beratung und Coaching. So entsteht ein integrativer Raum für Veränderung – dort, wo du gerade stehst.
 
 
   [cta title="Termin anfragen" description="Für Raum, Klarheit und Regulation" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
