@@ -23,7 +23,7 @@ description: >-
   Der Körper wird schneller angespannt, Gedanken kreisen, und Entscheidungen kosten mehr Kraft.
 
 
-  Ich unterstütze dich dabei, wieder mehr innere Orientierung und Stabilität zu finden – im Körper, im Denken und im Alltag.
+  Ich unterstütze dich dabei, wieder mehr innere Orientierung und Stabilität zu finden, im Körper, im Denken und im Alltag.
 
 
   Dafür verbinde ich Ayurveda, psychologische Beratung und Coaching zu einem integrativen Ansatz. So entsteht ein Raum für Veränderung, der dich dort abholt, wo du gerade stehst.
