@@ -13,28 +13,20 @@ description: >-
   **Regulation stärken. Klarheit finden. Selbstführung entwickeln.**
 
 
-  In Basel begleite ich dich mit Ayurveda-Therapie, psychologischer Beratung und Coaching.
+  In Basel begleite ich dich in Phasen von Veränderung, Belastung oder Neuorientierung – mit Ayurveda-Therapie, psychologischer Beratung und Coaching.
 
 
-  Gerade in Phasen von Veränderung oder hoher Belastung verlieren wir oft den Zugang zu unseren eigenen Ressourcen.
+  Manchmal merkt man nicht sofort, was genau nicht mehr stimmt. \
+
+  Nur, dass alles anstrengender geworden ist als vorher.
+
+  Der Körper wird schneller angespannt, Gedanken kreisen, und Entscheidungen kosten mehr Kraft.
 
 
-  Ich unterstütze dich dabei, wieder Zugang zu deinen eigenen Ressourcen und deiner inneren Orientierung zu finden, damit sich Schritt für Schritt mehr Stabilität im Körper, im Denken und im Alltag entwickeln kann.
+  Ich unterstütze dich dabei, wieder mehr innere Orientierung und Stabilität zu finden – im Körper, im Denken und im Alltag.
 
 
-  Diese Arbeit kann sich auf unterschiedlichen Ebenen zeigen:
-
-
-  Im Körper und im Alltag geht es darum, den eigenen Rhythmus wiederzufinden, Belastung zu reduzieren und das Nervensystem zu entlasten.
-
-
-  In der eigenen Führung und Rolle zeigt sich dies oft dann, wenn Entscheidungen anstehen, Veränderungen Kraft kosten oder Orientierung fehlt.
-
-
-  Im beruflichen Kontext und in Teams zeigt es sich, wenn Zusammenarbeit, Kommunikation oder Strukturen unter Druck geraten.
-
-
-  Mein Ansatz verbindet Körperarbeit aus dem Ayurveda mit psychologischer Beratung und Coaching. So entsteht ein integrativer Raum für Veränderung – dort, wo du gerade stehst.
+  Dafür verbinde ich Ayurveda, psychologische Beratung und Coaching zu einem integrativen Ansatz. So entsteht ein Raum für Veränderung, der dich dort abholt, wo du gerade stehst.
 
 
   [cta title="Termin anfragen" description="Für Raum, Klarheit und Regulation" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
