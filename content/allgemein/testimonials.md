@@ -90,14 +90,15 @@ testimonial:
       Es hat grosse Freude gemacht, mit Silvia zu arbeiten. Ich empfehle sie sehr gern als Health und Wellbeing Coach weiter.
   - title: Ursina, 35, Schweiz
     description: >-
-      Seit Jahren kämpfe ich mit ständiger Ermüdung und Depressionen.
+      Eine Ayurveda Behandlung in der Praxis ayni kann ich nur weiterempfehlen,
+      alleine wegen Silvias offener und herzlicher Art! Silvia empfängt ihre
+      Kunden mit einer Tasse frischem Tee in ihrem schönen Haus, das helle
+      Beratungszimmer ist freundlich eingerichtet, so fühlt man sich sofort
+      wohl. Das kompetente Beratungsgespräch war angenehm und umfassend und
+      Silvia ist auf all meine Fragen eingegangen. Sie hat mir auch viele
+      anregende Gesundheits- und Ernährungstipps mitgegeben, das fand ich sehr
+      wertvoll.
 
 
-      Mein Körper war zwar erschöpft, aber mein System fand einfach keinen Weg in die echte, erholsame Ruhe. 
-
-
-      Die Begleitung bei Silvia war für mich ein Wendepunkt: Sie hat mir gezeigt, wie ich innerlich einen Gang runterschalten kann und wie meine Ernährung mich endlich wieder nährt und mir Kraft schenkt, statt nur Kalorien zu liefern.
-
-
-      Besonders Silvias Massagen sind für mich eine tragende Säule auf meinem Weg, sie arbeitet mit einer Energie und Intuition, die man nicht beschreiben, sondern erleben muss. Silvia hat eine ganz besondere Gabe, Menschen wieder mit ihrer eigenen Kraft zu verbinden. Ich Danke Dir von Herzen!
+      Die Ayurveda Massage war wundervoll wohltuend, angenehm und entspannend. Silvia ging auf meine individuellen Bedürfnisse ein und passte den Druck ihrer Griffe an, was ich sehr schätze. (Die geheizte Massage-Liege sorgt dafür, dass einem immer warm ist.) Ich fühlte mich bei ihr in kompetenten Händen gut aufgehoben und konnte einfach geniessen.
 ---
