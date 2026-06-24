@@ -112,12 +112,11 @@ boxContent: >-
   die deine Gesundheit nachhaltig stärken: 
 
 
-  * **Förderung der Selbstwahrnehmung:** Du lernst, die Signale deines Körpers und deine Emotionen feiner wahrzunehmen und wieder eine tiefere Verbindung zu dir selbst aufzubauen. \
-    *Das bedeutet zum Beispiel, rechtzeitig zu spüren, wann eine Pause nötig ist, bevor der Kopfschmerz kommt, oder zu erkennen, welches Essen dir in diesem Moment wirklich guttut.*
-  * **Stärkung der Selbstregulation:** Wir aktivieren deine körpereigenen Kräfte, damit du flexibler auf Belastungen reagieren und mit mehr Gelassenheit zurück in dein Gleichgewicht findest.\
-    *Das bedeutet zum Beispiel, wie dein Nervensystem nach einem stressigen Tag wieder in die Ruhe findet oder wie sich dein Zyklus und deine Verdauung von selbst regulieren.*
-  * **Ausbau der Genesungskompetenz**: Du entwickelst das Wissen und die Zuversicht, aktiv zu deinem Wohlbefinden beizutragen und souverän mit gesundheitlichen Herausforderungen umzugehen. \
-    *Das bedeutet zum Beispiel, genau zu wissen, welche kleinen Rituale, Kräuter oder Atemübungen dir bei einem akuten Erschöpfungstief oder bei Schlafproblemen sofort helfen*
+  * **Förderung der Selbstwahrnehmung:** Du lernst, die Signale deines Körpers und deine Emotionen feiner wahrzunehmen und wieder eine tiefere Verbindung zu dir selbst aufzubauen. ***Das bedeutet zum Beispiel**, rechtzeitig zu spüren, wann eine Pause nötig ist, bevor der Kopfschmerz kommt, oder zu erkennen, welches Essen dir in diesem Moment wirklich guttut.*
+
+  * **Stärkung der Selbstregulation:** Wir aktivieren deine körpereigenen Kräfte, damit du flexibler auf Belastungen reagieren und mit mehr Gelassenheit zurück in dein Gleichgewicht findest.* **Das bedeutet zum Beispiel**, wie dein Nervensystem nach einem stressigen Tag wieder in die Ruhe findet oder wie sich dein Zyklus und deine Verdauung von selbst regulieren.*
+
+  * **Ausbau der Genesungskompetenz**: Du entwickelst das Wissen und die Zuversicht, aktiv zu deinem Wohlbefinden beizutragen und souverän mit gesundheitlichen Herausforderungen umzugehen.** *Das bedeutet zum Beispiel****, genau zu wissen, welche kleinen Rituale, Kräuter oder Atemübungen dir bei einem akuten Erschöpfungstief oder bei Schlafproblemen sofort helfen*
 block2: >-
   > Gib dir selbst zurück, damit du anderen geben kannst.
 
@@ -168,7 +167,7 @@ block2: >-
   **Kostenerstattung durch Krankenkassen**
 
 
-  Ein Teil der Kosten wird in der Regel über die **Zusatzversicherung** übernommen. Mehr Infos in den [FAQs](https://www.ayni.ch/faq). Bitte erkundige dich vorab bei deiner Versicherung, wie du persönlich unterstützt wirst. Das **EMR** ([Erfahrungsmedizinisches Register](https://emr.ch)) oder die **EGK** [Therapeutensuche](https://emr.ch/partner/egk) dient als Orientierungshilfe.
+  Ein Teil der Kosten wird in der Regel über die **Zusatzversicherung** übernommen. Mehr Infos in den [FAQs](https://www.ayni.ch/faq). Bitte erkundige dich vorab bei deiner Versicherung, wie du persönlich unterstützt wirst. Das **EMR** ([Erfahrungsmedizinisches Register](https://emr.ch)) oder die **EGK** [Therapeutensuche](https://emr.ch/partner/egk) dient als Orientierungshilfe.
 
 
   Ich bin beim **EMR** und bei der **EGK** anerkannt mit folgenden Methoden ([Therapeuten Profil](https://emr.ch/therapeut/silvia.ferlito)):
