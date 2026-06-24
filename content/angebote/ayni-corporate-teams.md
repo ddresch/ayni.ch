@@ -121,10 +121,10 @@ block2: >-
   Es geht nicht um kurzfristige Effekte, sondern um eine gesunde Entwicklung. Wir fördern die gemeinsame Reflexion, damit ihr als Team mit mehr Klarheit auf Herausforderungen reagieren könnt und lernt, eure Potenziale wieder synergetisch in Fluss zu bringen.
 
 
-   Ich freue mich darauf, euch ein Stück auf eurem Weg zu begleiten.
+  Ich freue mich darauf, euch ein Stück auf eurem Weg zu begleiten.
 
 
-  [cta title="Umetzung gestalten" description="Für nachhaltige Wirkung im Team" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  \[cta title="Umetzung gestalten" description="Für nachhaltige Wirkung im Team" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   ## Zwei Wege für Dein Team
