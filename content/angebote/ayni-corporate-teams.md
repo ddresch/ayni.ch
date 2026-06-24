@@ -152,10 +152,8 @@ block2: >-
   * **Investition:** Nach Bedarf und Vereinbarung. Die Abrechnung erfolgt je nach Leistung und Aufwand.
 
 
-
-
   ## Zufriedene Teams
 
 
-  ![Spitex](/images/kunden_spitex_logo_hell.png "Logo Spitex Basel")
+  ![Spitex](/images/kunden_spitex_logo_hell.webp "Logo Spitex Basel")
 ---
