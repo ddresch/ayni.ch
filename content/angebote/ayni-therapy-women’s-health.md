@@ -20,7 +20,10 @@ block1: >-
   ### Körperliche Regulation & Spezialisierte Frauenheilkunde
 
 
-  Ich begleite dich, wenn du dich in einer Phase von Belastung, Veränderung oder Neuorientierung befindest – sei es durch körperliche Beschwerden, mentale Erschöpfung oder den Wunsch, wieder mehr bei dir selbst anzukommen.
+  Mein Fokus liegt auf der natürlichen Regulierung des Nervensystems, der Stärkung des Immunsystems und der spezialisierten Frauenheilkunde für ein stabiles hormonelles Gleichgewicht. Im Ayurveda betrachten wir den Körper und seine Rhythmen als feine Indikatoren für unsere innere Balance.
+
+
+  Wenn du bei Stress, PMS, Wechseljahresbeschwerden, Verdauungsproblemen oder Phasen der Erschöpfung nach Wegen suchst, um ganzheitlich und eigenverantwortlich zurück in deine Balance zu finden, bietet dieser Raum den passenden Rahmen
 
 
   Mit einer Kombination aus ayurvedischer Ernährung, körperzentrierter Arbeit, ausgleichenden Behandlungen und Massagen, Meditation und achtsamer Begleitung unterstütze ich dich dabei, deine Energie wieder in Fluss zu bringen und ein harmonisches Gleichgewicht zwischen Körper, Geist und Seele zu finden. Gemeinsam entwickeln wir individuelle Lösungsansätze, die dir helfen, die Herausforderungen des Lebens zu meistern.
@@ -52,7 +55,7 @@ block1: >-
 
   * **Körperzentrierte Arbeit:** Ayurvedische Massagen und Behandlungen, um Blockaden zu lösen und das Nervensystem zu regulieren.
 
-  * **Ayurvedische Ernährung:** Individuelle Konzepte, die deine Verdauung und dein hormonelles Gleichgewicht stützen.
+  * **Ayurvedische Ernährung:** Individuelle Konzepte, die deine Verdauung stützen und dein hormonelles Gleichgewicht (z.B. bei PMS und Zyklusbeschwerden) sanft regulieren.
 
   * **Prozessbegleitung**: Psychologische Beratung, Achtsamkeit
 
@@ -80,7 +83,7 @@ block1: >-
   ## Wo ayni therapy & women’s health dich unterstützt:
 
 
-  * **Frauengesundheit & Zyklus:** Begleitung bei Menstruationsbeschwerden, hormonellen Ungleichgewichten, Kinderwunsch oder den Wechseljahren.
+  * **Frauengesundheit & Zyklus:** Gezielte Begleitung bei PMS, Menstruationsbeschwerden, hormonellen Ungleichgewichten, Kinderwunsch oder in den Wechseljahren.
 
   * **Körperliche Beschwerden:** Linderung bei Verdauungsproblemen, Verspannungen und psychosomatischen Schmerzen.
 
@@ -89,7 +92,7 @@ block1: >-
   * **Ernährung & Lebensführung:** Bewusste Ernährung und nachhaltige Gewohnheiten als Basis für deine Gesundheit und Vitalität.
 
 
-  [cta title="Erstgespräch vereinbaren" description="Für Raum für dich und dein Thema" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]  
+  \[cta title="Erstgespräch vereinbaren" description="Für Raum für dich und dein Thema" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]  
 
 
   ## Für wen?
