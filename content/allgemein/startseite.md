@@ -16,14 +16,13 @@ description: >-
   In Basel begleite ich dich in Phasen von Veränderung, Belastung oder Neuorientierung – mit Ayurveda-Therapie, psychologischer Beratung und Coaching.
 
 
-  Manchmal merkt man nicht sofort, was genau nicht mehr stimmt. \
-
-  Nur, dass alles anstrengender geworden ist als vorher.
-
-  Der Körper wird schneller angespannt, Gedanken kreisen, und Entscheidungen kosten mehr Kraft.
+  > Manchmal merkt man nicht sofort, was genau nicht mehr stimmt. Nur, dass alles anstrengender geworden ist als vorher.
 
 
-  Ich unterstütze dich dabei, wieder mehr innere Orientierung und Stabilität zu finden, im Körper, im Denken und im Alltag.
+  Der Körper reagiert schneller mit Anspannung, die Hormone bringen Unruhe (wie bei Cortisol unter Stress und bei PMS oder Erschöpfung). Gedanken kreisen, und Entscheidungen kosten mehr Kraft - typische Warnsignale für einen beginnenden Burnout im anspruchsvollen Berufsalltag.
+
+
+  Ich unterstütze dich dabei, wieder mehr innere Orientierung, hormonelle Balance und Stabilität zu finden, im Körper, im Denken und im Alltag.
 
 
   Dafür verbinde ich Ayurveda, psychologische Beratung und Coaching zu einem integrativen Ansatz. So entsteht ein Raum für Veränderung, der dich dort abholt, wo du gerade stehst.
@@ -38,16 +37,17 @@ description: >-
   ![Portrait Silvia Ferlito](/images/portrait-wall.png "Portrait Silvia Ferlito")
 offers:
   - title: ayni therapy & women’s health
-    description: "Begleitung bei körperlichen und zyklischen Themen – für mehr
+    description: "Begleitung bei körperlichen Beschwerden und hormonellen
+      Ungleichgewichten (u.a. bei PMS und Zyklusbeschwerden) – für mehr
       Regulation, Stabilität und Verbindung zum eigenen Körper. "
     link: /angebot/ayni-therapy-women’s-health
   - title: ayni coaching & leadership
-    description: "Begleitung in Veränderungs- und Entscheidungsprozessen – für
-      Klarheit, Selbstführung und innere Stabilität. "
+    description: "Begleitung in Veränderungs- und Entscheidungsprozessen, sowie bei
+      Burnout – für Klarheit, Selbstführung und innere Stabilität. "
     link: /angebot/ayni-coaching-leadership
   - title: ayni corporate & teams
-    description: "Begleitung von Teams und Organisationen in Zusammenarbeit,
-      Kommunikation und gesunder Entwicklung. "
+    description: "Begleitung von Teams und Organisationen - für Zusammenarbeit,
+      Kommunikation, Wachstum und gesunde Entwicklung. "
     link: /angebot/ayni-corporate-teams
 description2: >-
   ## Warum ayni?
