@@ -105,18 +105,19 @@ block1: >-
 
   **Frauen im Fokus – Raum für alle.**
 
-  Meine Arbeit hat einen besonderen Schwerpunkt in der Begleitung von Frauen durch alle Lebensphasen. Doch **ayni** ist ein offener Raum: Auch Männer, Kinder und Familien finden hier individuelle Unterstützung in Phasen, die besondere Begleitung brauchen – zum Beispiel bei ADHS-Themen, Stress oder tiefen Erschöpfungszuständen.
+  Meine Arbeit hat einen besonderen Schwerpunkt in der Begleitung von Frauen durch alle Lebensphasen. Doch **ayni** ist ein offener Raum: Auch Männer, Kinder und Familien finden hier individuelle Unterstützung in Phasen, die besondere Begleitung brauchen – zum Beispiel bei ADHS-Themen, Stress oder tiefen Erschöpfungszuständen.
 boxHeadline: Ziele der Begleitung
 boxContent: >-
   In der Komplementärtherapie arbeiten wir gemeinsam an drei zentralen Säulen,
   die deine Gesundheit nachhaltig stärken: 
 
 
-  * **Förderung der Selbstwahrnehmung:** Du lernst, die Signale deines Körpers und deine Emotionen feiner wahrzunehmen und wieder eine tiefere Verbindung zu dir selbst aufzubauen.
-
-  * **Stärkung der Selbstregulation:** Wir aktivieren deine körpereigenen Kräfte, damit du flexibler auf Belastungen reagieren und mit mehr Gelassenheit zurück in dein Gleichgewicht findest.
-
-  * **Ausbau der Genesungskompetenz**: Du entwickelst das Wissen und die Zuversicht, aktiv zu deinem Wohlbefinden beizutragen und souverän mit gesundheitlichen Herausforderungen umzugehen
+  * **Förderung der Selbstwahrnehmung:** Du lernst, die Signale deines Körpers und deine Emotionen feiner wahrzunehmen und wieder eine tiefere Verbindung zu dir selbst aufzubauen. \
+    *Das bedeutet zum Beispiel, rechtzeitig zu spüren, wann eine Pause nötig ist, bevor der Kopfschmerz kommt, oder zu erkennen, welches Essen dir in diesem Moment wirklich guttut.*
+  * **Stärkung der Selbstregulation:** Wir aktivieren deine körpereigenen Kräfte, damit du flexibler auf Belastungen reagieren und mit mehr Gelassenheit zurück in dein Gleichgewicht findest.\
+    *Das bedeutet zum Beispiel, wie dein Nervensystem nach einem stressigen Tag wieder in die Ruhe findet oder wie sich dein Zyklus und deine Verdauung von selbst regulieren.*
+  * **Ausbau der Genesungskompetenz**: Du entwickelst das Wissen und die Zuversicht, aktiv zu deinem Wohlbefinden beizutragen und souverän mit gesundheitlichen Herausforderungen umzugehen. \
+    *Das bedeutet zum Beispiel, genau zu wissen, welche kleinen Rituale, Kräuter oder Atemübungen dir bei einem akuten Erschöpfungstief oder bei Schlafproblemen sofort helfen*
 block2: >-
   > Gib dir selbst zurück, damit du anderen geben kannst.
 
