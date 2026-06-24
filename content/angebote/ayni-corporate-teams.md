@@ -124,7 +124,7 @@ block2: >-
   Ich freue mich darauf, euch ein Stück auf eurem Weg zu begleiten.
 
 
-  \[cta title="Umetzung gestalten" description="Für nachhaltige Wirkung im Team" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
+  [cta title="Umetzung gestalten" description="Für nachhaltige Wirkung im Team" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
 
 
   ## Zwei Wege für Dein Team
@@ -164,7 +164,7 @@ block2: >-
   ![Novartis](/images/kunden_novartis_logo.webp "Logo Novartis Basel")
 
 
-  ![Sekundarschule Waldenburg](/images/kunden_spitex_logo_hell.webp "Logo Sekundarschule Waldenburg")
+  ![Sekundarschule Waldenburg](/images/kunden_sekundarschule_waldenburg.webp "Logo Sekundarschule Waldenburg")
 
 
   ![Spitex](/images/kunden_spitex_logo_hell.webp "Logo Spitex Basel")
