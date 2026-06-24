@@ -156,4 +156,13 @@ block2: >-
 
 
   ![Spitex](/images/kunden_spitex_logo_hell.webp "Logo Spitex Basel")
+
+
+  ![Novartis](/images/kunden_novartis_logo.webp "Logo Novartis Basel")
+
+
+  ![Lonza](/images/kunden_lonza_group-logo.webp "Logo Lonza Basel")
+
+
+  ![]()
 ---
