@@ -158,13 +158,11 @@ And consciousness is shaped by how we live, how we think, and the state from whi
 
 In yogic philosophy, this quality is called ***sattva***.
 
-And in today’s world, it may be the most important leadership capability we are missing.
+**And in today’s world, it may be the most important leadership capability we are missing.**
 
  \_\_\_\_\_\_\_\__
 
 This article series is the foundation of a broader framework I am developing around leadership states of consciousness, drawing from Ayurvedic and yogic psychology, which I am currently expanding into a longer-form book.
-
-
 
 ![]()
 
