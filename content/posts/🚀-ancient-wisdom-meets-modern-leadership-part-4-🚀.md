@@ -28,7 +28,7 @@ Increasingly, it becomes clear that lifestyle, food, behaviour, speech, attentio
 
 In yogic philosophy, *sattva* represents clarity, harmony, balance, truth, compassion, and higher awareness.
 
-A sattvic leader is not weak or passive. Quite the opposite.
+> A sattvic leader is not weak or passive. Quite the opposite.
 
 They are calm under pressure, ethical when it is inconvenient, clear without aggression, powerful without domination, decisive without cruelty, and confident without ego.
 
@@ -47,16 +47,16 @@ Modern leadership development often focuses on external skills:
 
 These are useful. But they are not the source of leadership quality.
 
-Techniques do not create leadership. They amplify the consciousness they come from.
+> Techniques do not create leadership. They amplify the consciousness they come from.
 
 An unconscious leader with advanced tools does not become more effective, they often become more dangerous.
 
 This leads to a more fundamental question: **What state is the leader operating from?**
 
-* Fear creates controlling leadership.
-* Ego creates performative leadership.
-* Emptiness creates extractive leadership.
-* Clarity creates service.
+* **Fear** creates **controlling** leadership.
+* **Ego** creates **performative** leadership.
+* **Emptiness** creates **extractive** leadership.
+* **Clarity** creates **service**.
 
 ## 3. The Corporate Culture of Rajas and Tamas
 
@@ -68,6 +68,8 @@ But when unbalanced, it creates burnout, emotional volatility, ego-driven decisi
 
 **Tamasic** leadership, on the other hand, is marked by emotional numbness, avoidance, dishonesty, apathy, and lack of empathy. Here, leadership becomes disengaged and transactional.
 
+> Modern organizations unintentionally reward the very qualities that lead to dysfunction.
+
 In many environments, these two states combine, speed without awareness and action without clarity.
 
 The result is a culture where burnout is normalized, fear replaces trust, politics replace truth, and human beings are reduced to resources.
@@ -78,11 +80,14 @@ Some of the most destructive leadership environments still appear successful on 
 
 One often overlooked truth is that consciousness is embodied.
 
-What we consume, physically, mentally, and emotionally, shapes how we perceive reality.
+> What we consume, physically, mentally, and emotionally, shapes how we perceive reality.
 
 Ancient traditions understood this clearly.
 
-Overstimulation clouds judgment. Excess dulls awareness. Constant sensory input fragments attention. Aggressive environments shape thought patterns.
+* **Overstimulation** **clouds** judgment. 
+* **Excess dulls** awareness. 
+* Constant **sensory input fragments** attention. 
+* **Aggressive environments shape** thought patterns.
 
 A sattvic lifestyle therefore emphasizes balance, moderation, clarity in speech, emotional discipline, silence and reflection, conscious relationships, and inner responsibility.
 
@@ -107,7 +112,7 @@ They are less driven by insecurity, image maintenance, domination, or emotional 
 
 This changes not just individual decisions, but entire organizational cultures.
 
-Healthy leadership produces healthy systems.
+> Healthy leadership produces healthy systems.
 
 ## 6. The Difference Between “Nice” and Sattvic
 
@@ -121,7 +126,7 @@ Not with hatred. Not with ego. Not with psychological aggression.
 
 But with clarity and calm authority.
 
-True strength is not loud. It is stable.
+> True strength is not loud. It is stable.
 
 ## 7. The Future Needs Conscious Leadership
 
@@ -137,10 +142,10 @@ But the deeper question remains:
 
 Because organizations ultimately reflect the inner state of their leadership.
 
-* A restless leader creates restlessness.
-* A fearful leader creates silence.
-* An ego-driven leader creates politics.
-* But a grounded leader creates clarity.
+* A **restless** leader creates **restlessness**.
+* A **fearful** leader creates **silence**.
+* An **ego-driven** leader creates **politics**.
+* But a **grounded** leader creates **clarity**.
 
 ## Conclusion
 
@@ -155,6 +160,8 @@ What made them different was not simply strategy or intelligence.
 It was consciousness.
 
 And consciousness is shaped by how we live, how we think, and the state from which we lead.
+
+> Sattva, a state of pure calm, peace and inner consciousness.
 
 In yogic philosophy, this quality is called ***sattva***.
 
