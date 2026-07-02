@@ -26,7 +26,7 @@ Increasingly, it becomes clear that lifestyle, food, behaviour, speech, attentio
 
 ## 1. What Is a Sattvic Leader?
 
-In yogic philosophy, *sattva* represents clarity, harmony, balance, truth, compassion, and higher awareness.
+In yogic philosophy, ***sattva*** represents clarity, harmony, balance, truth, compassion, and higher awareness.
 
 > A sattvic leader is not weak or passive. Quite the opposite.
 
