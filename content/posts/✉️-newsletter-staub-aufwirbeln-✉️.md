@@ -1,12 +1,12 @@
 ---
 title: "✉️ Newsletter: Staub aufwirbeln ✉️"
-publishedAt: 2025-07-01T14:00:00.000+02:00
+publishedAt: 2026-07-01T14:00:00.000+02:00
 ---
 ![Ein Loch in der Wand](/images/26_7_newsletter_sommer_2.png "Ein Loch in der Wand")
 
-## **Warum wir manchmal erst den Staub aufwirbeln müssen** 
+# **Warum wir manchmal erst den Staub aufwirbeln müssen** 
 
-### ***Vom Freilegen, Stabilisieren und Neu-Denken***
+## ***Vom Freilegen, Stabilisieren und Neu-Denken***
 
 Unsere Baustelle ist gerade der ehrlichste Spiegel meiner Arbeit mit Gesundheit.
 
