@@ -28,7 +28,7 @@ Das überhitzte Dachgeschoss (dein Kopf)?
 
 Oder eher das dunkle Kellerabteil (deine Verdauung)?
 
-Melde dich in meinem [Newsletter](https://d20a6f56.sibforms.com/v2/serve/MUIFAFJWTDAqFnb3TaHJD_nHVWXlVO-bQSxg2g0FG9Ca6pOFdFgtsycARkvzYqko_s1SQIJL4pZtJFS4snC_wkasbRP1-r8tziHEexVc79dXB2h1PPoS1otMGuvNtf4DInkxp8NSNLTG2kyu3PsxIlIjVCyX9ATs4oGWf_GUlfzutPJwTyx4bUFmUJcl-NTMzhOwhENFXHJp8CV0) an und finde heraus wie dein Fundament gestärkt werden kann.
+Die ganze Geschichte hinter Haus, Praxis und dieser neuen Idee teile ich im aktuellen Newsletter. Melde dich in meinem [Newsletter](https://d20a6f56.sibforms.com/v2/serve/MUIFAFJWTDAqFnb3TaHJD_nHVWXlVO-bQSxg2g0FG9Ca6pOFdFgtsycARkvzYqko_s1SQIJL4pZtJFS4snC_wkasbRP1-r8tziHEexVc79dXB2h1PPoS1otMGuvNtf4DInkxp8NSNLTG2kyu3PsxIlIjVCyX9ATs4oGWf_GUlfzutPJwTyx4bUFmUJcl-NTMzhOwhENFXHJp8CV0) an und finde heraus wie dein Fundament gestärkt werden kann.
 
 ✨ Wenn du dich angesprochen fühlst oder Fragen hast, lade ich dich herzlich zu einem [kostenfreien Kennenlerngespräch](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) ein. 
 
@@ -42,4 +42,4 @@ Willkommen bei ayni - Praxis für Ayurveda KomplementärTherapie, Beratung & Coa
 
 ![]()
 
-Photo by[ Aaron Blanco Tejedor](https://unsplash.com/de/fotos/malerei-des-menschen-VBe9zj-JHBs) on Unsplash
+Photo by [Lujia Zhang](https://unsplash.com/photos/photo-of-brown-wall-qye8p4clpo0) on Unsplash
