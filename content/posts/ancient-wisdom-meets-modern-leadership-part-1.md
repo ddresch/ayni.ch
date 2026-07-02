@@ -6,7 +6,7 @@ publishedAt: 2025-03-06T10:00:00.000Z
 
 # A 360 Degree View on the Self
 
-## *Unlocking Leadership Potential Through Ayurveda & **Leadership Circle Profile**™ (LCP)*
+## *Unlocking Leadership Potential Through Ayurveda & Leadership Circle Profile™ (LCP)*
 
 In today’s dynamic world, effective leadership requires a deep understanding of both **inner consciousness and external impact**. The **Leadership Circle Profile**™ offers a powerful framework to measure leadership effectiveness, while **Ayurveda**, the ancient science of life, provides profound insights into personal balance, purpose, and well-being. When combined, these two systems create a **transformational leadership model** that integrates modern science with timeless wisdom. 
 
