@@ -1,6 +1,6 @@
 ---
 title: "✉️ Newsletter: Gesundheit als Bauplan ✉️"
-publishedAt: 2025-04-20T14:00:00.000+02:00
+publishedAt: 2026-04-20T14:00:00.000+02:00
 ---
 ![Ein Loch in der Wand](/images/26_4_newsletter_frühling.webp "Ein Loch in der Wand")
 
