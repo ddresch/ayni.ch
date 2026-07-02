@@ -4,9 +4,9 @@ publishedAt: 2026-04-20T14:00:00.000+02:00
 ---
 ![Ein Loch in der Wand](/images/26_4_newsletter_frühling.webp "Ein Loch in der Wand")
 
-## Warum ich gerade Wände einreisse
+# Warum ich gerade Wände einreisse
 
-### *und was das mit deiner Gesundheit zu tun hat*
+## *und was das mit deiner Gesundheit zu tun hat*
 
 Ich stecke gerade mitten in einer Haussanierung – zwischen Staub, Bauplänen und vielen neuen Erkenntnissen.
 
