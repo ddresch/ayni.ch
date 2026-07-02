@@ -4,9 +4,9 @@ publishedAt: 2025-06-03T12:00:00.000Z
 ---
 ![Frau im Massagestuhl am See](/images/5_2_1_sommer_selfmassage.png "Frau im Massagestuhl am See")
 
-# **Urlaub**
+# Urlaub
 
-## ***Wohltat und Herausforderung***
+## *Wohltat und Herausforderung*
 
 Denn der gewohnte Tagesablauf verabschiedet sich meist schneller als gedacht – ob gewollt oder nicht. 
 
