@@ -18,7 +18,7 @@ block1: >-
   ### Mentale Klarheit & Souveräne Prozessbegleitung
 
 
-  Ich begleite dich dabei, deine innere Führung zu stärken, Klarheit über deine Werte zu gewinnen und dein Handeln wieder in Einklang mit deinem Wesenskern zu bringen. In einer Welt, die sich immer schneller dreht, schaffen wir gemeinsam den Raum, um innezuhalten, die Perspektive zu wechseln und aus einer inneren Stabilität heraus souverän zu agieren.
+  Im Coaching für Führungskräfte und Menschen in verantwortungsvollen Rollen begleite ich dich dabei, deine innere Führung zu stärken, Klarheit über deine Werte zu gewinnen und dein Handeln wieder in Einklang mit deinem Wesenskern zu bringen. In einer Welt, die sich immer schneller dreht, schaffen wir gemeinsam den Raum, um innezuhalten, die Perspektive zu wechseln und aus innerer Stabilität heraus souverän zu agieren.
 
 
   Dabei verbinde ich integrales Coaching, systemische Leadership-Entwicklung und psychologische Beratung zu einem zielgerichteten Ansatz. Gemeinsam entwickeln wir individuelle Strategien, die dir helfen, Herausforderungen wirksam zu meistern und deinen Weg mit neuer Entschlossenheit zu gehen.
