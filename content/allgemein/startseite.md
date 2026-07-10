@@ -75,7 +75,7 @@ description2: >-
   Das Wort ayni kommt aus den Anden und bedeutet auf Quechua *Schenken*. Damit wird die gegenseitige Hilfe der Mitglieder einer Gemeinschaft beschrieben. Ayni bezeichnet somit die Gegenseitigkeit und Wechselbeziehung zwischen dem Innen und Aussen, dem Nehmen und Geben.
 
 
-  **Ayni bedeutet Wechselbeziehung.**Dieser Gedanke begleitet mich seit vielen Jahren: Gesundheit entsteht im Miteinander – zwischen Körper und Geist, zwischen Mensch und Umfeld.
+  **Ayni bedeutet Wechselbeziehung.** Dieser Gedanke begleitet mich seit vielen Jahren: Gesundheit entsteht im Miteinander – zwischen Körper und Geist, zwischen Mensch und Umfeld.
 
 
   In meiner Arbeit verbinde ich Ayurveda, Komplementärtherapie und Coaching, um Räume zu schaffen, in denen Entwicklung in ihrem eigenen Tempo möglich wird. 
@@ -91,8 +91,6 @@ description2: >-
 
 
   Diese beiden Konzepte vereine ich in meiner Arbeit. Mein Leitsatz dient dem Gleichgewicht zwischen Mensch, Natur und Universum sowie dem Einklang zwischen Körper, Geist und Seele. Denn nur, wenn wir uns selbst wieder in Balance bringen, können wir auch unsere volle Kraft entfalten.
-
-
 
 
   **Bleib in Verbindung.**
