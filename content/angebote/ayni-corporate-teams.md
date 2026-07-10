@@ -1,6 +1,6 @@
 ---
 title: ayni corporate & teams
-subtitle: umfassend, pragmatisch & nachhaltig
+subtitle: ganzheitlich, klar & nachhaltig
 seoTitle: Corporate & Teams | ayni – Unternehmenskultur, Teamentwicklung &
   Employee Wellbeing in Basel
 seoDescription: "Ganzheitliche Teamentwicklung & Corporate Wellbeing: Wir
