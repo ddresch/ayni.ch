@@ -28,4 +28,6 @@ Viel Tamas macht den Geist faul, langsam. Das kann bis hin zur Depression führe
 
 Möchtest du mehr erfahren wie du mit Ernährung, Bewegung und Körperarbeit deinen Geist ausgleichen kannst? Melde dich gerne bei mir.
 
+Mehr über meinen Ansatz erfährst du auf der Seite zur [Ayurveda-Therapie](https://www.ayni.ch/angebot/ayni-therapy-women’s-health).
+
 [Photo by Zulmaury Saavedra on Unsplash](https://unsplash.com/photos/woman-wearing-red-knit-top-SEdFmri-K6E)
