@@ -22,7 +22,13 @@ description: >-
   Der Körper reagiert manchmal schneller als der Verstand: mit Anspannung, innerer Unruhe oder Erschöpfung. Gedanken kreisen, Entscheidungen kosten mehr Kraft und auch hormonelle Veränderungen können das Wohlbefinden beeinflussen. Solche Signale können darauf hinweisen, dass Körper und Nervensystem mehr Regulation brauchen.
 
 
-  Ich unterstütze dich dabei, wieder mehr Orientierung, Stabilität und Vertrauen in deinen Körper zu entwickeln – und deinen Körper auch in Zeiten hormoneller Veränderungen bewusster wahrzunehmen und zu unterstützen.
+  Ich unterstütze dich dabei, wieder mehr Orientierung, Stabilität und Vertrauen in deinen Körper zu entwickeln – und deinen Körper auch in Zeiten hormoneller Veränderungen bewusster wahrzunehmen.
+
+
+  ## Ayurveda-Therapie, Beratung und Coaching für ganzheitliche Gesundheit
+
+
+  Körper und Gespräch gehören für mich zusammen. Veränderungen entstehen nachhaltiger, wenn körperliche Wahrnehmung, emotionale Prozesse und bewusstes Handeln miteinander verbunden werden.
 
 
   Dafür verbinde ich Ayurveda, psychologische Beratung und Coaching zu einem integrativen Ansatz. So entsteht ein Raum für Veränderung, der dich dort abholt, wo du gerade stehst.
