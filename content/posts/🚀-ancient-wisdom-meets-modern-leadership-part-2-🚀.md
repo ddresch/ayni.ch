@@ -52,7 +52,9 @@ Moreover, we have a responsibility to spread hope. A kind word, an act of encour
 
 Hope is not just a word, it is a force. It is what allows us to dream, to endure, and to believe in better days ahead. In a world that often feels heavy, hope is our anchor, our driving force, and our ultimate survival tool. By integrating Ayurvedic wisdom into our lives, through balancing the doshas and nurturing hope, we can create a state of harmony that sustains both our individual well-being and collective growth. Let us grasp it, nurture it, and pass it on, for in hope lies the strength of humanity.
 
-If you’re ready to experience the power of balance and hope in your own life, feel free to connect. Reach out to [gruezi@ayni.ch](mailto:gruezi@ayni.ch). As a Complementary Therapist and Coach at ayni, I help individuals reconnect with their inner strength and navigate life’s challenges with greater resilience.
+If you’re ready to experience the power of balance and hope in your own life, feel free to connect. As a Complementary Therapist and Coach at ayni, I help individuals reconnect with their inner strength and navigate life’s challenges with greater resilience.
+
+Discover how [ayni coaching & leadership](https://www.ayni.ch/angebot/ayni-coaching-leadership) supports individuals and leaders in developing self-awareness, resilience and sustainable growth.
 
 \---
 
