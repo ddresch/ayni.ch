@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: FAQ - Kosten
 subtitle: Alles rund um deine Abrechnung
 seoTitle: "Krankenkasse & Abrechnung: FAQ & Checkliste | Praxis ayni"
 seoDescription: "Abrechnung ohne Fragezeichen: Finde schnelle Antworten zu
