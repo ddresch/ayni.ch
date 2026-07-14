@@ -20,13 +20,13 @@ block1: >-
   ### Körperliche Regulation & Spezialisierte Frauenheilkunde
 
 
-  Mein Fokus liegt auf der natürlichen Regulierung des Nervensystems, der Stärkung des Immunsystems und der spezialisierten Frauenheilkunde für ein stabiles hormonelles Gleichgewicht. Im Ayurveda betrachten wir den Körper und seine Rhythmen als feine Indikatoren für unsere innere Balance.
+  Mein Fokus liegt auf der Unterstützung der natürlichen Selbstregulation des Nervensystems, der Stärkung deiner körperlichen Ressourcen und der Begleitung bei hormonellen Veränderungen. Im Ayurveda betrachten wir den Körper und seine Rhythmen als feine Indikatoren für das innere Gleichgewicht.
 
 
-  Wenn du bei Stress, PMS, Wechseljahresbeschwerden, Verdauungsproblemen oder Phasen der Erschöpfung nach Wegen suchst, um ganzheitlich und eigenverantwortlich zurück in deine Balance zu finden, bietet dieser Raum den passenden Rahmen
+  Wenn du bei Stress, PMS, Wechseljahresbeschwerden, Verdauungsproblemen oder Phasen der Erschöpfung nach Wegen suchst, deinen Körper besser zu verstehen und deine Gesundheit aktiv zu unterstützen, bietet dieser Raum den passenden Rahmen.
 
 
-  Mit einer Kombination aus ayurvedischer Ernährung, körperzentrierter Arbeit, ausgleichenden Behandlungen und Massagen, Meditation und achtsamer Begleitung unterstütze ich dich dabei, deine Energie wieder in Fluss zu bringen und ein harmonisches Gleichgewicht zwischen Körper, Geist und Seele zu finden. Gemeinsam entwickeln wir individuelle Lösungsansätze, die dir helfen, die Herausforderungen des Lebens zu meistern.
+  Mit einer Kombination aus ayurvedischer Ernährung, körperzentrierter Arbeit, ayurvedischen Behandlungen, Meditation und achtsamer Begleitung unterstütze ich dich dabei, deine Körperwahrnehmung zu stärken und einen bewussteren Umgang mit deinen eigenen Ressourcen zu entwickeln. Gemeinsam betrachten wir deine individuelle Situation und entwickeln passende Wege für deinen persönlichen Prozess.
 
 
   [cta title="Unverbindlich anfragen" description="Für dein körperliches Gleichgewicht" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]
@@ -44,20 +44,20 @@ block1: >-
   ### Den Körper als Kompass nutzen
 
 
-  Wahre Veränderung beginnt dort, wo du dir selbst wieder nah bist. In der Begleitung verbinde ich die Weisheit des Ayurveda mit der Komplementärtherapie (KT).
+  Wahre Veränderung beginnt dort, wo du dir selbst wieder näher bist. In meiner Begleitung verbinde ich die Weisheit des Ayurveda mit der Komplementärtherapie (KT).
 
 
-  Wir arbeiten nicht nur an Symptomen, sondern stärken deine **Genesungskompetenz**. 
+  Wir arbeiten nicht nur an Symptomen, sondern stärken deine **Genesungskompetenz** – also deine Fähigkeit, die Signale deines Körpers wahrzunehmen, Zusammenhänge zu verstehen und deine Gesundheit aktiv mitzugestalten.
 
 
-  Dabei kombinieren wir:
+  Dabei verbinde ich:
 
 
-  * **Körperzentrierte Arbeit:** Ayurvedische Massagen und Behandlungen, um Blockaden zu lösen und das Nervensystem zu regulieren.
+  * **Körperzentrierte Arbeit:** Ayurvedische Massagen und Behandlungen unterstützen die Körperwahrnehmung, Entspannung und die Regulation des Nervensystems.
 
-  * **Ayurvedische Ernährung:** Individuelle Konzepte, die deine Verdauung stützen und dein hormonelles Gleichgewicht (z.B. bei PMS und Zyklusbeschwerden) sanft regulieren.
+  * **Ayurvedische Ernährung und Lebensführung:** Individuelle Empfehlungen unterstützen Verdauung, Energie und den bewussten Umgang mit den eigenen Rhythmen – zum Beispiel bei PMS und Zyklusbeschwerden.
 
-  * **Prozessbegleitung**: Psychologische Beratung, Achtsamkeit
+  * **Psychologische Beratung & Prozessbegleitung**: Achtsamkeit, Reflexion und persönliche Entwicklung begleiten dich dabei, innere Zusammenhänge besser zu verstehen.
 
 
   Mehr zu [Ayurveda](https://www.ayni.ch/informationen/ayurveda) und [Komplementärtherapie](https://www.ayni.ch/informationen/komplementärtherapie).
@@ -69,27 +69,27 @@ block1: >-
   Meine Begleitung ist so individuell wie dein Anliegen. In den Sitzungen nutzen wir verschiedene therapeutische Werkzeuge, um dich ganzheitlich zu unterstützen:
 
 
-  * **Ganzheitliche Befunderhebung:** Zu Beginn bestimmen wir deine ayurvedische Konstitution (Doshas), um Ungleichgewichte auf körperlicher, geistiger und emotionaler Ebene zu erkennen.
+  * **Ganzheitliche Befunderhebung:** Zu Beginn betrachten wir deine individuelle Situation und ayurvedische Konstitution (Doshas), um Zusammenhänge auf körperlicher, geistiger und emotionaler Ebene wahrzunehmen.
 
-  * **Körperzentrierte Therapie:** Ayurvedische Behandlungen und Massagen zur Vitalitätssteigerung, Schmerzlinderung und gezielten Beruhigung des Nervensystems.
+  * **Körperzentrierte Therapie:** Ayurvedische Behandlungen und Massagen unterstützen die Körperwahrnehmung, fördern Entspannung und begleiten den Prozess der Selbstregulation.
 
-  * **Stressbewältigung & Selbstregulation:** Wir entwickeln Strategien für deinen Alltag und stärken deine Resilienz durch Achtsamkeit, Meditation und Atemtechniken.
+  * **Stressbewältigung & Selbstregulation:** Wir entwickeln Strategien für deinen Alltag und stärken deine Resilienz durch Achtsamkeit, Meditation und Atemtechniken. 
 
-  * **Innere Stärke & Ressourcen:** Wir aktivieren deine vorhandenen Stärken und lösen hinderliche Glaubensmuster auf.
+  * **Innere Stärke & Ressourcen:** Wir arbeiten mit deinen vorhandenen Ressourcen und fördern Klarheit, Selbstwahrnehmung und neue Handlungsmöglichkeiten. 
 
-  * **Trauer- & Prozessarbeit:** Ich biete dir einen geschützten Raum für emotionale Prozesse und die Wiederherstellung deines inneren Gleichgewichts nach Verlusten oder Umbrüchen.
+  * **Trauer- & Prozessarbeit:** Ich biete dir einen geschützten Raum für emotionale Prozesse und die Begleitung in Zeiten von Verlust, Veränderung oder Umbruch.
 
 
   ## Wo ayni therapy & women’s health dich unterstützt:
 
 
-  * **Frauengesundheit & Zyklus:** Gezielte Begleitung bei PMS, Menstruationsbeschwerden, hormonellen Ungleichgewichten, Kinderwunsch oder in den Wechseljahren.
+  * **Frauengesundheit & Zyklus:** Gezielte Begleitung bei PMS, Menstruationsbeschwerden, hormonelle Veränderungen, Kinderwunsch oder in den Wechseljahren.
 
-  * **Körperliche Beschwerden:** Linderung bei Verdauungsproblemen, Verspannungen und psychosomatischen Schmerzen.
+  * **Körperliche Beschwerden:** Unterstützung bei Verdauungsproblemen, Verspannungen und psychosomatischen Zusammenhängen.
 
-  * **Mentale Balance:** Hilfe bei Stress, Ängsten, innerer Unruhe und Erschöpfungszuständen.
+  * **Mentale Balance:** Begleitung bei Stress, Ängsten, innerer Unruhe und Erschöpfungszuständen.
 
-  * **Ernährung & Lebensführung:** Bewusste Ernährung und nachhaltige Gewohnheiten als Basis für deine Gesundheit und Vitalität.
+  * **Ernährung & Lebensführung:** Individuelle Impulse für bewusste Ernährung und individuelle Lebensgewohnheiten als Grundlage für mehr Wohlbefinden, Energie und einen achtsamen Umgang mit dem eigenen Körper. 
 
 
   [cta title="Erstgespräch vereinbaren" description="Für Raum für dich und dein Thema" href="https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468" boxlink="true" gaEvent="AW-17188148066/DVKKCKb6_pgbEOKm-YNA"]  
@@ -100,23 +100,23 @@ block1: >-
 
   **Menschen, die viel geben und sich selbst wieder Raum schenken möchten.**
 
-  Ich begleite dich, wenn du merkst, dass deine Energie im Alltag verloren geht und du zurück zu mehr Leichtigkeit und innerer Kraft finden möchtest. Ob bei stressbedingter Erschöpfung, hormonellen Schwankungen oder psychosomatischen Beschwerden – gemeinsam finden wir Wege, deine Balance nachhaltig zu stärken.
+  Ich begleite dich, wenn du spürst, dass dein Alltag viel Energie fordert und du wieder mehr Verbindung zu deinem Körper, innere Stabilität und eigene Ressourcen entwickeln möchtest. Ob bei stressbedingter Erschöpfung, hormonellen Schwankungen oder psychosomatischen Beschwerden – gemeinsam finden wir Wege, deine Balance nachhaltig zu stärken.
 
 
   **Frauen im Fokus – Raum für alle.**
 
-  Meine Arbeit hat einen besonderen Schwerpunkt in der Begleitung von Frauen durch alle Lebensphasen. Doch **ayni** ist ein offener Raum: Auch Männer, Kinder und Familien finden hier individuelle Unterstützung in Phasen, die besondere Begleitung brauchen – zum Beispiel bei ADHS-Themen, Stress oder tiefen Erschöpfungszuständen.
+  Frauen stehen bei diesem Angebot im besonderen Fokus. Gleichzeitig ist ayni ein offener Raum: Auch Menschen ausserhalb dieses Schwerpunktes finden individuelle Begleitung bei Themen wie ADHS, Stress, Erschöpfung oder körperlichem Wohlbefinden.
 boxHeadline: Ziele der Begleitung
 boxContent: >-
   In der Komplementärtherapie arbeiten wir gemeinsam an drei zentralen Säulen,
   die deine Gesundheit nachhaltig stärken: 
 
 
-  * **Förderung der Selbstwahrnehmung:** Du lernst, die Signale deines Körpers und deine Emotionen feiner wahrzunehmen und wieder eine tiefere Verbindung zu dir selbst aufzubauen. ***Das bedeutet zum Beispiel**, rechtzeitig zu spüren, wann eine Pause nötig ist, bevor der Kopfschmerz kommt, oder zu erkennen, welches Essen dir in diesem Moment wirklich guttut.*
+  * **Förderung der Selbstwahrnehmung:** Du lernst, die Signale deines Körpers und deine Emotionen feiner wahrzunehmen und wieder eine tiefere Verbindung zu dir selbst aufzubauen. **\*Das bedeutet zum Beispiel**, rechtzeitig zu spüren, wann eine Pause nötig ist, bevor der Kopfschmerz kommt, oder zu erkennen, welches Essen dir in diesem Moment wirklich guttut.*
 
-  * **Stärkung der Selbstregulation:** Wir aktivieren deine körpereigenen Kräfte, damit du flexibler auf Belastungen reagieren und mit mehr Gelassenheit zurück in dein Gleichgewicht findest. ***Das bedeutet zum Beispiel**, wie dein Nervensystem nach einem stressigen Tag wieder in die Ruhe findet oder wie sich dein Zyklus und deine Verdauung von selbst regulieren.*
+  * **Stärkung der Selbstregulation:** Wir aktivieren deine körpereigenen Kräfte, damit du flexibler auf Belastungen reagieren und mit mehr Gelassenheit zurück in dein Gleichgewicht findest. **\*Das bedeutet zum Beispiel**, wie dein Nervensystem nach einem stressigen Tag wieder in die Ruhe findet oder wie sich dein Zyklus und deine Verdauung von selbst regulieren.*
 
-  * **Ausbau der Genesungskompetenz**: Du entwickelst das Wissen und die Zuversicht, aktiv zu deinem Wohlbefinden beizutragen und souverän mit gesundheitlichen Herausforderungen umzugehen. ***Das bedeutet zum Beispiel**, genau zu wissen, welche kleinen Rituale, Kräuter oder Atemübungen dir bei einem akuten Erschöpfungstief oder bei Schlafproblemen sofort helfen.*
+  * **Ausbau der Genesungskompetenz**: Du entwickelst das Wissen und die Zuversicht, aktiv zu deinem Wohlbefinden beizutragen und souverän mit gesundheitlichen Herausforderungen umzugehen. **\*Das bedeutet zum Beispiel**, genau zu wissen, welche kleinen Rituale, Kräuter oder Atemübungen dir bei einem akuten Erschöpfungstief oder bei Schlafproblemen helfen.*
 block2: >-
   > Gib dir selbst zurück, damit du anderen geben kannst.
 
@@ -145,7 +145,7 @@ block2: >-
 
   * **Prozess & Vertiefung:** In regelmässigen Sitzungen stärken wir deine Selbstregulation. Wir arbeiten in deinem Tempo an der Verbindung zu deinen inneren Ressourcen.
 
-  * **Transfer & Weitblick:** Wir reflektieren deine Entwicklung und festigen die Werkzeuge, mit denen du dein Gleichgewicht auch im Alltag nachhaltig bewahrst.
+  * **Integration & Alltag:** Wir reflektieren deine Entwicklung und festigen die Werkzeuge, mit denen du dein Gleichgewicht auch im Alltag nachhaltig bewahrst.
 
 
   Ich arbeite gerne Hand in Hand mit Fachpersonen (Ärzten, Psychologen), um eine ganzheitliche Begleitung auf allen Ebenen sicherzustellen
