@@ -35,4 +35,6 @@ Die oben beschriebenen Bioenergien sind in jedem Individuum in unterschiedlicher
 
 Welches Ungleichgewicht spürst du gerade?
 
+Wenn du deine persönliche Konstitution und mögliche Ungleichgewichte besser verstehen möchtest, erfährst du hier mehr über [Ayurveda-Therapie](https://www.ayni.ch/angebot/ayni-therapy-women’s-health) bei ayni.
+
 [Photo by Patrick Fore on Unsplash](https://unsplash.com/photos/shallow-focus-photo-of-balance-stones-JBghIzjbuLs)
