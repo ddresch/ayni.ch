@@ -1,7 +1,7 @@
 ---
 publishedAt: 2023-02-01T14:00:32.566Z
 title: Silvia Ferlito
-subtitle: ayurveda, beratung & coaching
+subtitle: ayurveda therapie, psychologische beratung & coaching
 seoTitle: Praxis für Komplementärtherapie, Ayurveda, Beratung und Coaching in Basel!
 seoDescription: Praxis für Komplementärtherapie, Ayurveda Ernährungs- und
   Massagetherapie, Beratung und Coaching. Ich biete individuelle Lösungen für
@@ -13,16 +13,16 @@ description: >-
   **Regulation stärken. Klarheit finden. Selbstführung entwickeln.**
 
 
-  In Basel begleite ich dich in Phasen von Veränderung, Belastung oder Neuorientierung – mit Ayurveda-Therapie, psychologischer Beratung und Coaching.
+  In Basel begleite ich dich in Phasen von Veränderung, Belastung oder Neuorientierung – mit Ayurveda-Therapie, psychologischer Beratung und Coaching. Dabei unterstütze ich dich, wieder mehr Verbindung zu deinem Körper aufzubauen, innere Klarheit zu finden und deinen Alltag bewusster zu gestalten.
 
 
   > Manchmal merkt man nicht sofort, was genau nicht mehr stimmt. Nur, dass alles anstrengender geworden ist als vorher.
 
 
-  Der Körper reagiert schneller mit Anspannung, die Hormone bringen Unruhe (wie bei Cortisol unter Stress und bei PMS oder Erschöpfung). Gedanken kreisen, und Entscheidungen kosten mehr Kraft - typische Warnsignale für einen beginnenden Burnout im anspruchsvollen Berufsalltag.
+  Der Körper reagiert manchmal schneller als der Verstand: mit Anspannung, innerer Unruhe oder Erschöpfung. Gedanken kreisen, Entscheidungen kosten mehr Kraft und auch hormonelle Veränderungen können das Wohlbefinden beeinflussen. Solche Signale können darauf hinweisen, dass Körper und Nervensystem mehr Regulation brauchen.
 
 
-  Ich unterstütze dich dabei, wieder mehr innere Orientierung, hormonelle Balance und Stabilität zu finden, im Körper, im Denken und im Alltag.
+  Ich unterstütze dich dabei, wieder mehr Orientierung, Stabilität und Vertrauen in deinen Körper zu entwickeln – und deinen Körper auch in Zeiten hormoneller Veränderungen bewusster wahrzunehmen und zu unterstützen.
 
 
   Dafür verbinde ich Ayurveda, psychologische Beratung und Coaching zu einem integrativen Ansatz. So entsteht ein Raum für Veränderung, der dich dort abholt, wo du gerade stehst.
@@ -38,8 +38,8 @@ description: >-
 offers:
   - title: ayni therapy & women’s health
     description: "Begleitung bei körperlichen Beschwerden und hormonellen
-      Ungleichgewichten (u.a. bei PMS und Zyklusbeschwerden) – für mehr
-      Regulation, Stabilität und Verbindung zum eigenen Körper. "
+      Veränderungen wie PMS und Zyklusbeschwerden oder den Wechseljahren – für
+      mehr Regulation, Stabilität und Verbindung zum eigenen Körper. "
     link: /angebot/ayni-therapy-women’s-health
   - title: ayni coaching & leadership
     description: "Begleitung in Veränderungs- und Entscheidungsprozessen, sowie bei
@@ -53,11 +53,14 @@ description2: >-
   ## Warum ayni?
 
 
-  * **Individuell und ganzheitlich:** Mein integrativer Ansatz berücksichtigt deine persönlichen Bedürfnisse und legt den Fokus auf Körper, Geist und Seele.
+  **Körper und Gespräch gehören für mich zusammen.**
 
-  * **Nachhaltige Veränderung:** Wir entwickeln gemeinsam Lösungen, die dir helfen, dich langfristig weiterzuentwickeln.
 
-  * **Erfahrung und Expertise:** Als erfahrene Prozessbegleiterin, Coach und Ayurveda-Therapeutin unterstütze ich dich kompetent in allen Lebensbereichen.
+  * **Körper, Emotionen und Denken verbinden:** Veränderungen entstehen, wenn wir nicht nur verstehen, sondern auch wahrnehmen, was im Körper geschieht.
+
+  * **Ayurveda als Grundlage, ergänzt durch Beratung und Coaching:** Die Weisheit des Ayurveda, kombiniert mit Komplementärtherapie, psychologischer Beratung und Coaching, eröffnet einen Raum, in dem körperliche Wahrnehmung, innere Prozesse und persönliche Entwicklung zusammenkommen.
+
+  * **Bewusstes Handeln und Selbstführung entwickeln:** Gemeinsam schaffen wir Orientierung und neue Perspektiven, damit Veränderung im Alltag verankert werden kann.
 
 
   **Bereit für den nächsten Schritt?** 
@@ -72,25 +75,25 @@ description2: >-
   ## Was bedeutet ayni?
 
 
-  Das Wort ayni kommt aus den Anden und bedeutet auf Quechua *Schenken*. Damit wird die gegenseitige Hilfe der Mitglieder einer Gemeinschaft beschrieben. Ayni bezeichnet somit die Gegenseitigkeit und Wechselbeziehung zwischen dem Innen und Aussen, dem Nehmen und Geben.
+  Das Wort ayni kommt aus den Anden und bedeutet auf *Quechua* gelebtes Miteinander. Damit wird die Unterstützung innerhalb einer Gemeinschaft beschrieben. Ayni steht für die Verbundenheit und den Austausch zwischen Innen und Aussen, zwischen Nehmen und Geben.
 
 
-  **Ayni bedeutet Wechselbeziehung.** Dieser Gedanke begleitet mich seit vielen Jahren: Gesundheit entsteht im Miteinander – zwischen Körper und Geist, zwischen Mensch und Umfeld.
+  Ayni steht für **Verbundenheit**. Dieser Gedanke begleitet mich seit vielen Jahren: Gesundheit entsteht im Miteinander – zwischen Körper und Geist, zwischen Mensch und Umfeld.
 
 
-  In meiner Arbeit verbinde ich Ayurveda, Komplementärtherapie und Coaching, um Räume zu schaffen, in denen Entwicklung in ihrem eigenen Tempo möglich wird. 
+  In meiner Arbeit verbinde ich Ayurveda, Komplementärtherapie und Coaching, um Räume zu schaffen, in denen Veränderung und Entwicklung im eigenen Tempo möglich werden.
 
 
-  > Gib Dir zurück damit Du anderen geben kannst.
+  > Gib Dir zurück, damit Du anderen geben kannst.
 
 
-  Durch dieses universelle Gesetz von Gleichgewicht im Universum, dem ständigen Austausch zwischen Mensch, Natur und Universum – auch auf energetischer Ebene – ist das eine im Anderen vorhanden.
+  Durch den ständigen Austausch zwischen Mensch, Natur und Umfeld entsteht ein Gleichgewicht, in dem alles miteinander verbunden ist.
 
 
-  So verhält es sich auch im Ayurveda: Das Universum als Makrokosmos und der Mensch als Mikrokosmos widerspiegeln sich in einem direkten Zusammenhang und stehen in ständiger Wechselbeziehung zueinander.
+  Auch im Ayurveda findet sich dieser Gedanke wieder: Der Mensch als Mikrokosmos steht in Beziehung zu seiner Umwelt und den natürlichen Rhythmen des Lebens.
 
 
-  Diese beiden Konzepte vereine ich in meiner Arbeit. Mein Leitsatz dient dem Gleichgewicht zwischen Mensch, Natur und Universum sowie dem Einklang zwischen Körper, Geist und Seele. Denn nur, wenn wir uns selbst wieder in Balance bringen, können wir auch unsere volle Kraft entfalten.
+  Diese beiden Konzepte vereine ich in meiner Arbeit. Mein Leitsatz steht für das Gleichgewicht zwischen Mensch, Natur und dem eigenen inneren Erleben sowie für den Einklang von Körper, Geist und Seele. Denn wenn wir wieder mehr mit uns selbst verbunden sind, können wir unsere Ressourcen bewusster entfalten.
 
 
   **Bleib in Verbindung.**
