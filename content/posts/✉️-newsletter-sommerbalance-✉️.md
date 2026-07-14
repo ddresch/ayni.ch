@@ -26,10 +26,10 @@ In meinem neuen Artikel auf der Seite der KomplementärTherapie Schweiz zeige ic
 
 Denn wahre Stärke entsteht genau dort, wo Körper und Geist im Einklang sind - und genau das möchte ich mit dir teilen. Vielleicht kann Ayurveda Therapie dich genau dahin begleiten, zu mehr Ruhe, Klarheit und innerer Zufriedenheit. 
 
-✨ Du möchtest erfahren, wie Ayurveda auch dich auf deinem Weg zu mehr Balance begleiten kann? Dann schau gern in meinen [Artikel](https://www.komplementär-therapie.ch/ayurveda-therapie-und-die-kunst-der-balance/) auf der Seite der KomplementärTherapie Schweiz.
+✨ Du möchtest erfahren, wie Ayurveda auch dich auf deinem Weg zu mehr Balance begleiten kann? Dann schau gern in meinen [Artikel](https://www.komplementär-therapie.ch/ayurveda-therapie-und-die-kunst-der-balance/) auf der Seite der Komplementärtherapie Schweiz.
 
 [](https://lnkd.in/gYQw9KEU)
-Und wenn du spürst, dass es für dich Zeit ist, neue Wege zu gehen, bin ich gern an deiner Seite. Hier kannst du ein [kostenfreies Erstgespräch](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) buchen
+Und wenn du spürst, dass es für dich Zeit ist, neue Wege zu gehen, bin ich gern an deiner Seite. Hier kannst du ein [kostenfreies Erstgespräch](https://app.healthadvisor.ch/bookings/ea78fca9028a430ea120ea2c10420468) buchen für [Ayurveda Therapie](https://www.ayni.ch/angebot/ayni-therapy-women’s-health).
 
 \- - -
 
