@@ -10,6 +10,15 @@ seoKeywords: Ayurveda, Doshas, Vata, Pitta, Kapha, Gunas, Tamas, Rajas, Sattva,
   Lebensphilosophie, Gesundheit
 publishedAt: 2023-02-01T14:00:32.566Z
 testimonial:
+  - title: Astrid, 62, Deutschland
+    description: >-
+      AYNI - Verbundenheit, welch ein wunderbar passender Name für die Praxis
+      von Silvia Ferlito! 
+
+
+      Erschöpft und unverbunden kam ich - genährt und mit leichtem Schritt verließ ich nach einer ayurvedischen Massage die Praxis. Mir begegnete ein großes Wissen über Ayurveda, ein Verständnis über das Zusammenwirken von Körper - Seele - Geist, eine feine Klarheit, der ich mich gut anvertrauen konnte und ein mitfühlendes Herz.
+
+      ...wenn dann noch der individuell abgestimmte Kräutertee im einladenden Praxisraum das Gespräch begleitet, ist das ein Stück "Himmel auf Erden".
   - description: >-
       Seit Jahren kämpfe ich mit ständiger Ermüdung und Depressionen.
 
