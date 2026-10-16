@@ -10,9 +10,9 @@ seoKeywords: Datenschutzerklärung ayni.ch, Datenschutz Ayurveda Basel, Silvia
   Basel Schweigepflicht, Google Analytics Cookies Schweiz
 description: >-
   Der Schutz deiner persönlichen Daten ist mir wichtig. In dieser
-  Datenschutzerklärung erfährst du, welche Personendaten ich im Rahmen meiner
-  Website ayni.ch und meiner Praxistätigkeit bearbeite, zu welchen Zwecken dies
-  geschieht und welche Rechte du hast.
+  Datenschutzerklärung erfährst du, welche Personendaten wir im Rahmen meiner
+  Website ayni.ch und unserer Praxistätigkeit bearbeiten, zu welchen Zwecken
+  dies geschieht und welche Rechte du hast.
 
 
   ### 1. Verantwortliche Person
@@ -44,7 +44,7 @@ description: >-
   #### 2.1. Webhosting und Server-Logfiles
 
 
-  Beim Aufrufen meiner Website werden durch den Hosting-Anbieter möglicherweise automatisch technische Informationen erfasst und in sogenannten Server-Logfiles gespeichert. Dazu können insbesondere folgende Angaben gehören:
+  Beim Aufrufen unserer Website werden durch den Hosting-Anbieter möglicherweise automatisch technische Informationen erfasst und in sogenannten Server-Logfiles gespeichert. Dazu können insbesondere folgende Angaben gehören:
 
 
   * Browsertyp und Browserversion
@@ -90,7 +90,7 @@ description: >-
   ### 4. Cookies
 
 
-  Meine Website verwendet nach aktuellem Kenntnisstand nur technisch notwendige Cookies, die für den Betrieb der Website erforderlich sind. Im Rahmen der Online-Terminbuchung können durch den externen Dienstleister HealthAdvisor weitere technisch erforderliche Cookies gesetzt werden. 
+  Unsere Website verwendet nach aktuellem Kenntnisstand nur technisch notwendige Cookies, die für den Betrieb der Website erforderlich sind. Im Rahmen der Online-Terminbuchung können durch den externen Dienstleister HealthAdvisor weitere technisch erforderliche Cookies gesetzt werden. 
 
 
   Informationen hierzu findest du in den Datenschutzbestimmungen von HealthAdvisor, die im Buchungsprozess einsehbar sind.
@@ -123,7 +123,7 @@ description: >-
   ### 7. Änderungen dieser Datenschutzerklärung
 
 
-  Ich kann diese Datenschutzerklärung anpassen, wenn sich die Website, die eingesetzten Dienste oder die rechtlichen Anforderungen ändern. Es gilt die jeweils auf dieser Website veröffentlichte Fassung.
+  Wir können diese Datenschutzerklärung anpassen, wenn sich die Website, die eingesetzten Dienste oder die rechtlichen Anforderungen ändern. Es gilt die jeweils auf dieser Website veröffentlichte Fassung.
 
 
   ##### Stand Oktober 2026
